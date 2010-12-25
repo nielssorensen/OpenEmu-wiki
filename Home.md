@@ -1,0 +1,1 @@
+Welcome to the OpenEmu wiki!
