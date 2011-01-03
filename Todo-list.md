@@ -17,3 +17,4 @@ Revamp UI as per Mucx's mockups. Some issues solved along the way:
 * TAS front end, to work on any emulator
 * Global cheat system
 * Mouse/Lightgun support (already mostly there)
+* Rewind support in API and front-end (Nestopia supports this already)
