@@ -18,3 +18,5 @@ Revamp UI as per Mucx's mockups. Some issues solved along the way:
 * Global cheat system
 * Mouse/Lightgun support (already mostly there)
 * Rewind support in API and front-end (Nestopia supports this already)
+* Some more cores:
+    * ScummVM
