@@ -2,7 +2,7 @@
 
 ### Priority
 * Archive.VG API inclusion
-* Implement Screen Flow UI
+* Implement Screen Flow UI - https://github.com/mattball/MBCoverFlowView ? 
 * Cores Preference pane.
 * Fix UI for pop out window title bar not working
 * Fix Filters in preferences
