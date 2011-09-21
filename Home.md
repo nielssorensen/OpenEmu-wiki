@@ -7,11 +7,13 @@
 * Fix UI for pop out window title bar not working
 * Fix Filters in preferences
 
+### Eventually
+* Remove spurious linker and compiler warnings
+* Remove ivars since we are now 64 bit clean
+
 ### Organization
 * Put UI Mockups on Github.
-* Remove spurious linker and compiler warnings
 * Organize code, remove unecessary files
-* Remove ivars since we are now 64 bit clean
 * Agreed upon code guidelines?
 
 ## Emulators To Do List
