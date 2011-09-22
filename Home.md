@@ -32,6 +32,8 @@
     * enable/disable items
     * Manage "Last Played" menu
 * Move About Window / Plugin Loading / HID Support away from OEGameDocument, remove OEGameDocument
+** (Anton) Are we sure we want to remove OEGameDocument? The document handling framework allows us to do all sorts of nice Mac App things for free, including recent documents for free, etc. I think its foolish to throw that out. Plus, you could integrate with "Versions" for save states, etc etc.
+
 * Fix OESearchFieldCell (it loses it's text attributes when pressing enter-key)
 * Localization of console names/images (e.g. NES<->Famicom)
 * Remember state of collections item (collapsed/expanded)
