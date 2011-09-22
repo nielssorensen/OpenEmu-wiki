@@ -4,7 +4,7 @@
 * Archive.VG API inclusion
     * Get releases and tosec from Archive.VG response
     * Add fetched info to database (in OEDBGame gameWithArchiveDictionary:inDatabase:)
-    * Add support for session dependant api stuff
+    * Add support for session dependent api stuff
 * Implement Screen Flow UI - https://github.com/mattball/MBCoverFlowView ? 
 * Cores Preference pane.
     * Decide if we want it
@@ -13,7 +13,7 @@
 * Fix Filters in preferences
 * Fix OEMenu
     * Highlight menu item even if mouse was not released
-    * Add menu separator
+    * Add menu separator        **Done.**
     * Correct sizing if menu has only 1 item
     * Move selection by Arrow-Keys
 * Fix GridView
@@ -47,7 +47,7 @@
 * Remove ivars since we are now 64 bit clean
 
 ### Organization
-* Put UI Mockups on Github.
+* Put UI Mockups on Github.        **Done.**
 * Organize code, remove unecessary files
 * Replace copyright headers
 * Agreed upon code guidelines?
