@@ -5,7 +5,7 @@
     * Get releases and tosec from Archive.VG response
     * Add fetched info to database (in OEDBGame gameWithArchiveDictionary:inDatabase:)
     * Add support for session dependent api stuff
-* Implement Screen Flow UI - https://github.com/mattball/MBCoverFlowView ? 
+* (done) Implement Screen Flow UI - https://github.com/mattball/MBCoverFlowView ? 
 * Cores Preference pane
     * Decide if we want it
     * Add stuff to OECorePlugin (like -(NSView*)coreSettingsView; or something)
@@ -41,6 +41,14 @@
 * Remember state of collections item (collapsed/expanded)
 * Add functionality to Preferences -> Library Folder Change/Reset Buttons
 * Available Libraries (adding OELibraryPlugin or using OESystemPlugin? or just hardcoded)
+
+* Setup Assistant: 
+* * Welcome to OpenEmu, get you started
+* * Download cores
+* * Set up your preferences, and bind controller info
+* * Import some roms!
+
+* Maybe setup assistant is video game themed, like you are building a character from an old RPG? I dunno. Just a lame idea. Blinky in a tux with an eye piece ? Who knows!
 
 ### Eventually
 * Remove spurious linker and compiler warnings
