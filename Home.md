@@ -15,7 +15,7 @@
     * Highlight menu item even if mouse was not released
     * Add menu separator        **Done.**
     * Correct sizing if menu has only 1 item        **Done.**
-    * Move selection by Arrow-Keys **cyco working on it**
+    * Move selection by Arrow-Keys **Done**
 * Fix GridView
     * Shadow on top (when scrolling reaches end)
     * Multiple selection
