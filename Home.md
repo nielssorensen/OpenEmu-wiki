@@ -14,7 +14,7 @@
 * Fix OEMenu
     * Highlight menu item even if mouse was not released
     * Add menu separator        **Done.**
-    * Correct sizing if menu has only 1 item
+    * Correct sizing if menu has only 1 item        **Done.**
     * Move selection by Arrow-Keys
 * Fix GridView
     * Shadow on top (when scrolling reaches end)
@@ -39,7 +39,7 @@
 * Fix OESearchFieldCell (it loses it's text attributes when pressing enter-key)
 * Localization of console names/images (e.g. NES<->Famicom)
 * Remember state of collections item (collapsed/expanded)
-* Add functionality to Preferences -> Library Change/Reset Buttons
+* Add functionality to Preferences -> Library Folder Change/Reset Buttons
 * Available Libraries (adding OELibraryPlugin or using OESystemPlugin? or just hardcoded)
 
 ### Eventually
