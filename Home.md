@@ -33,7 +33,8 @@
     * Manage "Last Played" menu
 * Move About Window / Plugin Loading / HID Support away from OEGameDocument, remove OEGameDocument
 
-* * _Are we sure we want to remove OEGameDocument? The document handling framework allows us to do all sorts of nice Mac App things for free, including recent documents, etc. I think its foolish to throw that out. Plus, you could integrate with "Versions" for save states, etc etc. -vade_
+    * * _Are we sure we want to remove OEGameDocument? The document handling framework allows us to do all sorts of nice Mac App things for free, including recent documents, etc. I think its foolish to throw that out. Plus, you could integrate with "Versions" for save states, etc etc. -vade_
+    * * _You're right, NSDocument has some nice features. We should stick to it but still move the stuff mentioned somewhere more appropriate. cyco_
 
 * Fix OESearchFieldCell (it loses it's text attributes when pressing enter-key)
 * Localization of console names/images (e.g. NES<->Famicom)
@@ -48,6 +49,7 @@
 ### Organization
 * Put UI Mockups on Github.
 * Organize code, remove unecessary files
+* Replace copyright headers
 * Agreed upon code guidelines?
 
 ## Emulators To Do List
