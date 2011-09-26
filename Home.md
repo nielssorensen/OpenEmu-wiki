@@ -10,7 +10,7 @@
     * Decide if we want it
     * Add stuff to OECorePlugin (like -(NSView*)coreSettingsView; or something)
 * Fix UI for pop out window title bar not working
-* Fix Filters in preferences
+* (done) Fix Filters in preferences
 * Fix OEMenu
     * Highlight menu item even if mouse was not released
     * Add menu separator        **Done.**
