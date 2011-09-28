@@ -17,11 +17,13 @@
     * Correct sizing if menu has only 1 item        **Done.**
     * Move selection by Arrow-Keys **Done**
 * Fix GridView
-    * Shadow on top (when scrolling reaches end)
+    * Shadow on top (when scrolling reaches end)        **Done.**
     * Multiple selection
     * Move selection by Arrow-Keys
     * Add drag and drop
-    * Center title and ratings on items
+    * Center title and ratings on items        **Done.**
+    * Fix memory usage
+    * Fix resize crash
 * HUD controls bar
     * Create save games menu
     * Make "Save Current Game" work 
