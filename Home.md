@@ -29,7 +29,7 @@
     * Make "Save Current Game" work 
     * "Done" Button
     * Add "stop fullscreen" button state
-    * Set audio volume (individually for each game)
+    * Set audio volume (individually for each game)        **Done.**
 * MainMenu
     * enable/disable items
     * Manage "Last Played" menu
@@ -39,10 +39,10 @@
     * * _You're right, NSDocument has some nice features. We should stick to it but still move the stuff mentioned somewhere more appropriate. cyco_
 
 * Fix OESearchFieldCell (it loses it's text attributes when pressing enter-key)
-* Localization of console names/images (e.g. NES<->Famicom)
+* Localization of console names/images (e.g. NES<->Famicom)        **Done.**
 * Remember state of collections item (collapsed/expanded)
 * Add functionality to Preferences -> Library Folder Change/Reset Buttons
-* Available Libraries (adding OELibraryPlugin or using OESystemPlugin? or just hardcoded)
+* Available Libraries (using OESystemPlugin)
 
 * Setup Assistant: 
 * * Welcome to OpenEmu, get you started
