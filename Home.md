@@ -3,6 +3,7 @@
 ### Priority
 * Archive.VG API inclusion
     * Get releases and tosec from Archive.VG response
+    * * Rename rome with tosec name
     * Add fetched info to database (in OEDBGame gameWithArchiveDictionary:inDatabase:)
     * Add support for session dependent api stuff
 * <strike>Implement Screen Flow UI - https://github.com/mattball/MBCoverFlowView ? </strike>
@@ -26,11 +27,12 @@
     * Fix memory usage
     * Fix resize crash
 * HUD controls bar
-    * Create save games menu
-    * Make "Save Current Game" work 
+    * <strike>Create save games menu</strike>
+    * <strike>Make "Save Current Game" work</strike>
     * "Done" Button
     * Add "stop fullscreen" button state
     * <strike>Set audio volume (individually for each game)</strike>
+    * Show / hide with mouse movement
 * MainMenu
     * enable/disable items
     * Manage "Last Played" menu
