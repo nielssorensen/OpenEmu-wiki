@@ -1,4 +1,4 @@
-Herein lies some conventions used throughout the OpenEmu codebase.
+Herein lies some conventions used throughout the OpenEmu codebase.  
 This list is by no means exhaustive and quite prototypal as of yet.
 
 ## Whitespace
