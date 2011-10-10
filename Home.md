@@ -5,17 +5,18 @@
     * Get releases and tosec from Archive.VG response
     * Add fetched info to database (in OEDBGame gameWithArchiveDictionary:inDatabase:)
     * Add support for session dependent api stuff
-* (done) Implement Screen Flow UI - https://github.com/mattball/MBCoverFlowView ? 
+* <strike>Implement Screen Flow UI - https://github.com/mattball/MBCoverFlowView ? </strike>
 * Cores Preference pane
     * Decide if we want it
     * Add stuff to OECorePlugin (like -(NSView*)coreSettingsView; or something)
 * Fix UI for pop out window title bar not working
-* (done) Fix Filters in preferences
+* <strike>Fix Filters in preferences</strike>
 * Fix OEMenu
     * Highlight menu item even if mouse was not released
     * <strike>Add menu separator</strike>
     * <strike>Correct sizing if menu has only 1 item</strike>
     * <strike>Move selection by Arrow-Keys</strike>
+    * Add blinking + delay when an item is clicked
 * Fix GridView
     * <strike>Shadow on top (when scrolling reaches end)</strike>
     * Multiple selection
