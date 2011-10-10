@@ -29,10 +29,10 @@
 * HUD controls bar
     * <strike>Create save games menu</strike>
     * <strike>Make "Save Current Game" work</strike>
-    * "Done" Button
+    * <strike>"Done" Button</strike>
     * Add "stop fullscreen" button state
     * <strike>Set audio volume (individually for each game)</strike>
-    * Show / hide with mouse movement
+    * <strike>Show / hide with mouse movement</strike>
 * MainMenu
     * enable/disable items
     * Manage "Last Played" menu
@@ -45,7 +45,7 @@
 * <strike>Localization of console names/images (e.g. NES<->Famicom)</strike>
 * Remember state of collections item (collapsed/expanded)
 * Add functionality to Preferences -> Library Folder Change/Reset Buttons
-* Available Libraries (using OESystemPlugin)
+* Available Libraries (using OESystemPlugin)                    **in progress**
 
 * Setup Assistant: 
 * * Welcome to OpenEmu, get you started
