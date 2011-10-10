@@ -41,7 +41,7 @@
     * * _Are we sure we want to remove OEGameDocument? The document handling framework allows us to do all sorts of nice Mac App things for free, including recent documents, etc. I think its foolish to throw that out. Plus, you could integrate with "Versions" for save states, etc etc. -vade_
     * * _You're right, NSDocument has some nice features. We should stick to it but still move the stuff mentioned somewhere more appropriate. cyco_
 
-* Fix OESearchFieldCell (it loses it's text attributes when pressing enter-key)
+* Fix OESearchFieldCell (it loses its text attributes when pressing enter-key)
 * <strike>Localization of console names/images (e.g. NES<->Famicom)</strike>
 * Remember state of collections item (collapsed/expanded)
 * Add functionality to Preferences -> Library Folder Change/Reset Buttons
