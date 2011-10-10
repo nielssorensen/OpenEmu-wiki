@@ -13,15 +13,15 @@
 * (done) Fix Filters in preferences
 * Fix OEMenu
     * Highlight menu item even if mouse was not released
-    * Add menu separator        **Done.**
-    * Correct sizing if menu has only 1 item        **Done.**
-    * Move selection by Arrow-Keys **Done**
+    * <strike>Add menu separator</strike>
+    * <strike>Correct sizing if menu has only 1 item</strike>
+    * <strike>Move selection by Arrow-Keys</strike>
 * Fix GridView
-    * Shadow on top (when scrolling reaches end)        **Done.**
+    * <strike>Shadow on top (when scrolling reaches end)</strike>
     * Multiple selection
     * Move selection by Arrow-Keys
     * Add drag and drop
-    * Center title and ratings on items        **Done.**
+    * <strike>Center title and ratings on items</strike>
     * Fix memory usage
     * Fix resize crash
 * HUD controls bar
@@ -29,7 +29,7 @@
     * Make "Save Current Game" work 
     * "Done" Button
     * Add "stop fullscreen" button state
-    * Set audio volume (individually for each game)        **Done.**
+    * <strike>Set audio volume (individually for each game)</strike>
 * MainMenu
     * enable/disable items
     * Manage "Last Played" menu
@@ -39,7 +39,7 @@
     * * _You're right, NSDocument has some nice features. We should stick to it but still move the stuff mentioned somewhere more appropriate. cyco_
 
 * Fix OESearchFieldCell (it loses it's text attributes when pressing enter-key)
-* Localization of console names/images (e.g. NES<->Famicom)        **Done.**
+* <strike>Localization of console names/images (e.g. NES<->Famicom)</strike>
 * Remember state of collections item (collapsed/expanded)
 * Add functionality to Preferences -> Library Folder Change/Reset Buttons
 * Available Libraries (using OESystemPlugin)
@@ -57,7 +57,7 @@
 * Remove ivars since we are now 64 bit clean
 
 ### Organization
-* Put UI Mockups on Github.        **Done.**
+* <strike>Put UI Mockups on Github.</strike>
 * Organize code, remove unecessary files
 * Replace copyright headers
 * Agreed upon code guidelines?
