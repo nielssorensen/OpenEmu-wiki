@@ -5,7 +5,7 @@
     * <strike>Get releases and tosec from Archive.VG response</strike>
     * * Rename rome with tosec name
     * Add fetched info to database (in OEDBGame gameWithArchiveDictionary:inDatabase:)
-    * <strike>Add support for session dependent api stuff</strike> _ does not make it into version 1.0 _
+    * <strike>Add support for session dependent api stuff</strike> _does not make it into version 1.0_
 * <strike>Implement Screen Flow UI - https://github.com/mattball/MBCoverFlowView ? </strike>
 * Cores Preference pane
     * Decide if we want it
