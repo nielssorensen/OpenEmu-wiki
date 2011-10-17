@@ -45,7 +45,7 @@
 * <strike>Localization of console names/images (e.g. NES<->Famicom)</strike>
 * Remember state of collections item (collapsed/expanded)
 * Add functionality to Preferences -> Library Folder Change/Reset Buttons
-* Available Libraries (using OESystemPlugin)                    **in progress**
+* <strike>Available Libraries (using OESystemPlugin)</strike>
 
 * Setup Assistant: 
 * * Welcome to OpenEmu, get you started
