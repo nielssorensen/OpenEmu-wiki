@@ -1,7 +1,7 @@
 ## New UI To Do List
 
 ### Priority
-* Archive.VG API inclusion
+* <strike>Archive.VG API inclusion</strike>
     * Get releases and tosec from Archive.VG response
     * * Rename rome with tosec name
     * Add fetched info to database (in OEDBGame gameWithArchiveDictionary:inDatabase:)
