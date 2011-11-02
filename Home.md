@@ -34,7 +34,7 @@
     * <strike>Set audio volume (individually for each game)</strike>
     * <strike>Show / hide with mouse movement</strike>
 * MainMenu
-    * enable/disable items
+    * <strike>enable/disable items</strike>
     * Manage "Last Played" menu
 * <strike>Move About Window / Plugin Loading / HID Support away from OEGameDocument</strike>
 * Rewrite OEDocument for new architecture
@@ -46,12 +46,14 @@
 * <strike>Available Libraries (using OESystemPlugin)</strike>
 
 * Setup Assistant: 
-* * Welcome to OpenEmu, get you started
-* * Download cores
-* * Set up your preferences, and bind controller info
-* * Import some roms!
-
-* Maybe setup assistant is video game themed, like you are building a character from an old RPG? I dunno. Just a lame idea. Blinky in a tux with an eye piece ? Who knows!
+    * Intro Video
+    * Welcome to OpenEmu
+    * Core Installation
+    * Game Scanner
+    * * Additional Sources
+    * Game Pad Setup
+    * * Button Detection
+    * Let's Go
 
 ### Eventually
 * Remove spurious linker and compiler warnings
