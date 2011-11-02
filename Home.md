@@ -7,9 +7,9 @@
     * Add fetched info to database (in OEDBGame gameWithArchiveDictionary:inDatabase:)
     * <strike>Add support for session dependent api stuff</strike> _does not make it into version 1.0_
 * <strike>Implement Screen Flow UI - https://github.com/mattball/MBCoverFlowView ? </strike>
-* Cores Preference pane
-    * Decide if we want it
-    * Add stuff to OECorePlugin (like -(NSView*)coreSettingsView; or something)
+* Cores Preference pane ** no core details for now **
+    * We want it!
+    * Waiting for new designs
 * Fix UI for pop out window title bar
 * <strike>Fix Filters in preferences</strike>
 * Fix OEMenu
