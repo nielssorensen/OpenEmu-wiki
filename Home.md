@@ -31,6 +31,7 @@
     * <strike>Center title and ratings on items</strike>
     * Fix memory usage
     * Fix resize crash
+    * truncate collection name in view if collection is empty
 * HUD controls bar
     * <strike>Create save games menu</strike>
     * <strike>Make "Save Current Game" work</strike>
