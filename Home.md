@@ -8,7 +8,6 @@
     * <strike>Add support for session dependent api stuff</strike> _does not make it into version 1.0_
 * <strike>Implement Screen Flow UI - https://github.com/mattball/MBCoverFlowView ? </strike>
 * Cores Preference pane _no core details for now_
-    * We want it!
     * <strike>Waiting for new designs</strike>
     * Install Cores after download
 * give Game Window pop out a hud look
@@ -43,6 +42,8 @@
 * MainMenu
     * <strike>enable/disable items</strike>
     * Manage "Last Played" menu
+* Input Preferences
+    * Rethink grouping of buttons
 * <strike>Move About Window / Plugin Loading / HID Support away from OEGameDocument</strike>
 * <strike>Rewrite OEDocument for new architecture</strike>
 
@@ -51,6 +52,7 @@
 * Remember state of collections item (collapsed/expanded)
 * Add functionality to Preferences -> Library Folder Change/Reset Buttons
 * <strike>Available Libraries (using OESystemPlugin)</strike>
+* rewrite main library split view and correctly remember/restore last sidebar width
 
 * Setup Assistant: 
     * Intro Video
