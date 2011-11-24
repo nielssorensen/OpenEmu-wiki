@@ -1,4 +1,4 @@
-## New UI To Do List
+### New UI To Do List
 
 ### Priority
 * Archive.VG API inclusion
@@ -7,9 +7,6 @@
     * Add fetched info to database (in OEDBGame gameWithArchiveDictionary:inDatabase:)
     * <strike>Add support for session dependent api stuff</strike> _does not make it into version 1.0_
 * <strike>Implement Screen Flow UI - https://github.com/mattball/MBCoverFlowView ? </strike>
-* Cores Preference pane _no core details for now_
-    * <strike>Waiting for new designs</strike>
-    * Install Cores after download
 * give Game Window pop out a hud look
 * <strike>Fix Filters in preferences</strike>
 * Fix OEMenu
@@ -39,14 +36,19 @@
     * <strike>Set audio volume (individually for each game)</strike>
     * <strike>Show / hide with mouse movement</strike>
     * Fix bug where play/pause button is in incorrect state after saving a game
+    * keep from fading out while a menu is open
 * MainMenu
     * <strike>enable/disable items</strike>
     * Manage "Last Played" menu
 * Input Preferences
     * Rethink grouping of buttons
+* Cores Preference pane _no core details for now_
+    * <strike>Waiting for new designs</strike>
+    * Install Cores after download
+
+* General Stuff
 * <strike>Move About Window / Plugin Loading / HID Support away from OEGameDocument</strike>
 * <strike>Rewrite OEDocument for new architecture</strike>
-
 * Fix OESearchFieldCell (it loses its text attributes when pressing enter-key)
 * <strike>Localization of console names/images (e.g. NES<->Famicom)</strike>
 * Remember state of collections item (collapsed/expanded)
