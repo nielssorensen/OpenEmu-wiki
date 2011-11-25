@@ -6,9 +6,6 @@
     * * Rename roms with tosec name
     * Add fetched info to database (in OEDBGame gameWithArchiveDictionary:inDatabase:)
     * <strike>Add support for session dependent api stuff</strike> _does not make it into version 1.0_
-* <strike>Implement Screen Flow UI - https://github.com/mattball/MBCoverFlowView ? </strike>
-* give Game Window pop out a hud look
-* <strike>Fix Filters in preferences</strike>
 * Fix OEMenu
     * Highlight menu item even if mouse was not released
     * <strike>Add menu separator</strike>
@@ -28,6 +25,7 @@
     * Fix memory usage
     * Fix resize crash
     * truncate collection name in view if collection is empty
+    * context menu
 * HUD controls bar
     * <strike>Create save games menu</strike>
     * <strike>Make "Save Current Game" work</strike>
@@ -46,7 +44,11 @@
     * <strike>Waiting for new designs</strike>
     * Install Cores after download
 
-* General Stuff
+* ### General Stuff
+* <strike>Implement Screen Flow UI - https://github.com/mattball/MBCoverFlowView ? </strike>
+* give Game Window pop out a hud look
+* flip text shadow of blue hud button
+* <strike>Fix Filters in preferences</strike>
 * <strike>Move About Window / Plugin Loading / HID Support away from OEGameDocument</strike>
 * <strike>Rewrite OEDocument for new architecture</strike>
 * Fix OESearchFieldCell (it loses its text attributes when pressing enter-key)
