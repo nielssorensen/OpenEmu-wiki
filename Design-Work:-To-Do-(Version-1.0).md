@@ -12,7 +12,7 @@
 ## Publishing
 
 * Improved icon: More realistic looking Atari controller that sits well in the dock (consider other options?)
-* .DMG background
+* .DMG background (depends on delivery method... may not need this?).
 
 ## Marketing
 
