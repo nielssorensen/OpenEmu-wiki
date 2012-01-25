@@ -22,7 +22,7 @@ int (^blk1)(int) =
 
 * Use 4 spaces instead of tabs
 ```objective-c
-@implementation SomeClass
+@interface SomeClass
 {
     int ivar;
 }
@@ -44,10 +44,18 @@ int (^blk1)(int) =
 
 Here you can see a sample class:
 ```objective-c
-@implementation SomeClass
+#import "someheader.h"
+
+@interface SomeClass
 {
     int ivar;
 }
+
+- (void)method;
+
+@end
+
+@implementation SomeClass
 
 - (void)method
 {
