@@ -9,6 +9,11 @@ This list is by no means exhaustive and quite prototypal as of yet.
 }
 ```
 
+* Pointer declaration
+```objective-c
+NSString* myString;
+```
+
 * Block argument list and types on their own line
 int (^blk1)(int) =
 ^ int (int v)
