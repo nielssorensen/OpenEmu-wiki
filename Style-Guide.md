@@ -11,7 +11,7 @@ This list is by no means exhaustive and quite prototypal as of yet.
 
 * Pointer declaration
 ```objective-c
-NSString* myString;
+NSString *myString;
 ```
 
 * Block argument list and types on their own line
