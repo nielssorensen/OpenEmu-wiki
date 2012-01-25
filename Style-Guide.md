@@ -35,6 +35,11 @@ int (^blk1)(int) =
 @end
 ```
 
+## Objective-C 2.0
+
+* avoid 'dot-syntax'
+
+
 ## Code sample
 
 Here you can see a sample class:
