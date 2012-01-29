@@ -217,9 +217,9 @@ So, I would like us to set these box art ratios for default artwork in OE and al
 54 -	<strike>UX interaction of the blue circle / ring indicator: I like this interaction, how it helps guide people to map/re-map buttons etc. What we do need to change, or add is the ability to
 	cancel this blue ring effect and 'return to normal' (unfocus it so to speak). That means, when a button map field is highlighted.. I want to click anywhere outside of it to remove the blue 	ring effect and go back to normal.</strike>Also, I have noticed that sometimes, when changing to a different system and back, the field highlighted can get stuck (always focused) and on a rare 	occasion I have had the darkened controller graphic and blue ring always appear with no way to turn it off, even after closing the Pref window. I think it should cancel, unfocus when 	you switch away from it, either by changing to a different system, or changing the tab or even closing the pref window..
 
-55 -	This one is more of a general question for you guys: we can highlight the fields and change button maps (blue circle thing etc).. I wonder if we shouldn't also allow people to
+55 -	<strike>This one is more of a general question for you guys: we can highlight the fields and change button maps (blue circle thing etc).. I wonder if we shouldn't also allow people to
 	click the buttons they see on the controller illustration to highlight the field below? Just an idea.. one to think about, lets talk about it before anyone implements that. Some
-	interaction things to consider with that idea.
+	interaction things to consider with that idea.</strike>  Testing this. Mucx creates some masks.
 
 56 -	In IRC recently, there was an issue where the start and select button map fields were labelled the wrong way around. Cyco has since added a fix for that.
 	I thought ti would also be good to note here, that the order of these fields loosely follows the order of buttons on the controller front starting from the left.. going to the right.
