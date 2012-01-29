@@ -1,4 +1,3 @@
-
 #NEW UI BUILD (25TH JAN 2012)
 
 ##GENERAL / MAIN UI
@@ -31,7 +30,7 @@
 8 -	We will need to determine wether we can introduce the creation of additional user created smart collections. This is the final 	component that is missing from my mockups. We will need to provide the ability to create and edit a smart collection in a similar 	manner to iTunes smart playlist creation (example of smart playlist creation in iTunes, in the image below. I would say we don't have to do 
 	this for 1.0, but we should consider it, if time allows..
 
-9 -	In the sidebar, in the Preferences > Controls, the blank slate and even through box art sizes in Grid View and CoverFlow.. I want OpenEmu to use names, icons and
+9 -	<strike>In the sidebar, in the Preferences > Controls, the blank slate and even through box art sizes in Grid View and CoverFlow.. I want OpenEmu to use names, icons and
 	box art that users recognise and are used in their country / region. For example, I have produced a 16px sidebar icon for the NES console as it appears for Western countries..
 	Of course, for the Asian region, the NES was called Famicom and the hardware looked a lot different, so, here we would use a relevant icon and name for our asian users..
 	The NES example used in the sidebar, also applies to the Preference > Controls section, where we again use an icon and label to define these systems..
@@ -39,7 +38,7 @@
 	than those in Europe, but even the Asian SNES controller looks exactly the same as European one.. but the Nintendo logo is different (it says Super Famicom
 	instead of Super Nintendo.. all these SNESS controller variants have artwork ready for OE).
 	So, what I am saying is, we need to keep this in mind, and put in place some of this if it isn't already there ready? I can maybe define this in a separate document at some point
-	what icons, labels and controllers we need to use per region country. Box art related region issues I cover a little later under GRID VIEW in this document.
+	what icons, labels and controllers we need to use per region country. Box art related region issues I cover a little later under GRID VIEW in this document.</strike>
 	
 ###BLANK SLATE
 
