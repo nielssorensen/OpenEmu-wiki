@@ -83,7 +83,7 @@ outer glow (as defined by photoshop, but try to visually match the style in code
 18 -	This is just a heads up, I wasn't too keen on the press state of the header bar columns as demonstrated in the image below. It seemed too 'pressed in', so the
 	graphical resource file that this uses has been updated on Dropbox (see the image file called: list_column_header_bar.png)..
 
-19 -	Be careful with the column gridlines, the last most column shouldn't have a gridline on its far right side (this applies to the list portion of coverflow as well)..
+19 -	<strike>Be careful with the column gridlines, the last most column shouldn't have a gridline on its far right side (this applies to the list portion of coverflow as well)..</strike>
 
 20 -	There is an alignment issue with items in list view. The image below best explains it, but the list of games should be left aligned to the column header name (careful some
 	fields are right aligned such as the Play Count column.. so refer to the mockups!). The red line in the image below demonstrates the alignment issue..
@@ -236,7 +236,7 @@ So, I would like us to set these box art ratios for default artwork in OE and al
 
 ###Cores Section
 
-59 -	There is a divider line appearing on the far right (near the far edge of the window in the image below), that shouldn't be there..
+59 -	<strike>There is a divider line appearing on the far right (near the far edge of the window in the image below), that shouldn't be there..</strike>
 
 60 -	<strike>Not sure the list column headers here need to be clickable or sortable? (Core, System, Version column header bars) If you want to have this sortable, then they will need a sort arrow 	like we have in list view (image below is a quick mockup to explain what this is - see the Core column header?.. follow it to the right.. thats the sorting arrow)..</strike>
 
