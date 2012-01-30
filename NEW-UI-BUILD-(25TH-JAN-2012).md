@@ -13,8 +13,8 @@
 	as part of the grid view slider (elements: 'grid_slider_small.png' ..and.. 'grid_slider_large.png') and they are correct on 	DropBox. So, just need to double check what is going on in the code etc to see what the issue is. Are we are using the correct files? 
 	(using the small one when it should be large? maybe)..	</strike>
 
-4 -	The drop down triangle next to headings / sections in the sidebar (Consoles & Collections shown below), needs a 1px, -90 degree, drop shadow to match that of the text 
-	heading next to it. Shown below is the drop down triangle in question, see how it doesn't have a 1px shadow like the text to the right?..
+4 -	<strike>The drop down triangle next to headings / sections in the sidebar (Consoles & Collections shown below), needs a 1px, -90 degree, drop shadow to match that of the text 
+	heading next to it. Shown below is the drop down triangle in question, see how it doesn't have a 1px shadow like the text to the right?..</strike>
 
 5 -	This is more of a request than a visual issue, but, when the app launches on first run, can we make sure that the Collections section is expanded. 
 	Also can OE remember the users choice here / window state when quiting the app as well? Don't forget we will need to add some more default smart collections to that list 
