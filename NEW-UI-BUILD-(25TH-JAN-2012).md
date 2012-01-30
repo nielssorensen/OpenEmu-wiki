@@ -67,10 +67,10 @@ outer glow (as defined by photoshop, but try to visually match the style in code
 13 -	I don't see this as an issue yet, so this is more of a need to know, but the gap between the left hand text and the icon and
 	'Core Provided By..' text as indicated by the red lines in the image below.. can we make sure this gap is no less than 20-25px..
 
-14 -	We need a little more space between the project link and the circle arrow glyph. (space in the diagram below as demonstrated by the red lines). An 8px gap should do it..
+14 -	<strike>We need a little more space between the project link and the circle arrow glyph. (space in the diagram below as demonstrated by the red lines). An 8px gap should do it..</strike>
 
-15 -	The little circled arrow glyph, as seen in the image above.. if you can move it down by 1px for all core projects. 
-	Sort of want to vertically & visually align it by eye with a lowercase letter.
+15 -	<strike>The little circled arrow glyph, as seen in the image above.. if you can move it down by 1px for all core projects. 
+	Sort of want to vertically & visually align it by eye with a lowercase letter.</strike> <i>David needs to have a look at this again</i> - chris
 
 16 -	Final one for the blank slate is to do with the line spacing of the text. The diagram below perhaps shows this best. The mockup is shown on the left hand side, and
 	the live version is shown on the right. The red lines show the baseline where I would like to have each line of text. You will see the live version (right side) is a little out.
