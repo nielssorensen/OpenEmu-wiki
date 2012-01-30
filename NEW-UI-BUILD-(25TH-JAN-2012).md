@@ -170,7 +170,6 @@ So, I would like us to set these box art ratios for default artwork in OE and al
 	For example, I launch and play Mario 2, then go to quit it by pressing the red power off button, the game quits and fades out, but, the hud bar doesn't fade out.. what I am
 	left with is seeing my games in grid view and the hud bar floating over the top of it. What should happen is, as soon as I hit that power off button on the hud bar, the hud bar is
 	no longer active or responding to my mouse inputs.. and the game and the hud bar fade out in unison back to the main ui.</strike>
-<i>this only happens when launching a game by double-clicking a file in finder, or using file menu -> launch game (cmd + o), right?</i> - chris
 
 ###Popout Gameplay Window
 
