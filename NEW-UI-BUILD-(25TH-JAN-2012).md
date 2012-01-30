@@ -8,10 +8,10 @@
 
 2 -	Search bar default and input text: double check the shadow text direction on all states. The shadow text should be at a 90 	degree angle. Shown below is the live version on the left, and the original psd mockup on the right..
 
-3 -	The grid view slider glyph on the right hand side (large one) looks blurry and is displaying incorrectly. I remember, that I made
+3 -	<strike>he grid view slider glyph on the right hand side (large one) looks blurry and is displaying incorrectly. I remember, that I made
 	a mistake with this graphical element in a previous build. I double checked the latest graphical resources for the two squares used
 	as part of the grid view slider (elements: 'grid_slider_small.png' ..and.. 'grid_slider_large.png') and they are correct on 	DropBox. So, just need to double check what is going on in the code etc to see what the issue is. Are we are using the correct files? 
-	(using the small one when it should be large? maybe)..	
+	(using the small one when it should be large? maybe)..	</strike>
 
 4 -	The drop down triangle next to headings / sections in the sidebar (Consoles & Collections shown below), needs a 1px, -90 degree, drop shadow to match that of the text 
 	heading next to it. Shown below is the drop down triangle in question, see how it doesn't have a 1px shadow like the text to the right?..
