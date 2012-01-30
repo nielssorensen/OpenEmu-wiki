@@ -53,13 +53,13 @@
 
 <strike>Inactive (this is already in place essentially?).
 RGB text color: #dbdbdb
-text shadow: 90 degrees, #000000
+text shadow: 90 degrees, #000000</strike>
 
-Rollover
+<strike>Rollover
 RGB text color: #ffffff
-text shadow: 90 degrees, #000000
+text shadow: 90 degrees, #000000</strike>
 
-Press
+<strike>Press
 RGB text color: #ffffff
 text shadow: 90 degrees, #000000
 outer glow (as defined by photoshop, but try to visually match the style in code): colour #ffffff, 40% opacity, spread of 5px.</strike>
