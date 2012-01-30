@@ -166,10 +166,10 @@ So, I would like us to set these box art ratios for default artwork in OE and al
 40 -	When I go fullscreen, the dark toolbar at the bottom goes with it (bar with the view options, search field, grid size slider etc). The fullscreen button via the gameplay HUD bar
 	(in image below) should only show me the game window in fullscreen and nothing else..
 
-41 -	When I quit, via the 'power off' looking button far right of the gameplay hud bar, the gameplay window fades out back to the main ui, but, annoyingly the hud bar will still remain.
+41 -	<strike>When I quit, via the 'power off' looking button far right of the gameplay hud bar, the gameplay window fades out back to the main ui, but, annoyingly the hud bar will still remain.
 	For example, I launch and play Mario 2, then go to quit it by pressing the red power off button, the game quits and fades out, but, the hud bar doesn't fade out.. what I am
 	left with is seeing my games in grid view and the hud bar floating over the top of it. What should happen is, as soon as I hit that power off button on the hud bar, the hud bar is
-	no longer active or responding to my mouse inputs.. and the game and the hud bar fade out in unison back to the main ui.
+	no longer active or responding to my mouse inputs.. and the game and the hud bar fade out in unison back to the main ui.</strike>
 <i>this only happens when launching a game by double-clicking a file in finder, or using file menu -> launch game (cmd + o), right?</i> - chris
 
 ###Popout Gameplay Window
