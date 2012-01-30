@@ -45,7 +45,7 @@
 10 -	<strike>Make sure the heading (i.e. NeoGeo Pocket) and the text below are aligned as indicated by the red line. This applies to ALL blank slates not just NeoGeo of course. 
 	This text is basically visually left-aligned with the dashed line box above..</strike>
 
-11 -	Make sure this body-text (see red arrow) has an RGB text colour of #dbdbdb (just double checking this)..
+11 -	<strike>Make sure this body-text (see red arrow) has an RGB text colour of #dbdbdb (just double checking this)..</strike>
 
 12 -	This is my fault, I neglected to demonstrate some interaction on the 'Core Provided By..' links. The text itself needs inactive, hover and press states to compliment the glyph.
 	The interaction is in place for the little glyph circled arrow at the right of each project link , but we need to put in place the text style to match (thistext would be 'Nestopia'
