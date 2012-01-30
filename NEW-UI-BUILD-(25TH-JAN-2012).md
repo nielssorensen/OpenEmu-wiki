@@ -47,7 +47,7 @@
 
 11 -	<strike>Make sure this body-text (see red arrow) has an RGB text colour of #dbdbdb (just double checking this)..</strike>
 
-12 -	This is my fault, I neglected to demonstrate some interaction on the 'Core Provided By..' links. The text itself needs inactive, hover and press states to compliment the glyph.
+12 -	<strike>This is my fault, I neglected to demonstrate some interaction on the 'Core Provided By..' links. The text itself needs inactive, hover and press states to compliment the glyph.
 	The interaction is in place for the little glyph circled arrow at the right of each project link , but we need to put in place the text style to match (thistext would be 'Nestopia'
 	in the proceeding examples below)..
 
@@ -62,7 +62,7 @@ text shadow: 90 degrees, #000000
 Press
 RGB text color: #ffffff
 text shadow: 90 degrees, #000000
-outer glow (as defined by photoshop, but try to visually match the style in code): colour #ffffff, 40% opacity, spread of 5px.
+outer glow (as defined by photoshop, but try to visually match the style in code): colour #ffffff, 40% opacity, spread of 5px.</strike>
 
 13 -	I don't see this as an issue yet, so this is more of a need to know, but the gap between the left hand text and the icon and
 	'Core Provided By..' text as indicated by the red lines in the image below.. can we make sure this gap is no less than 20-25px..
