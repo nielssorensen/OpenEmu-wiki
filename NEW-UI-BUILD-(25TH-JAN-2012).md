@@ -42,8 +42,8 @@
 	
 ###BLANK SLATE
 
-10 -	Make sure the heading (i.e. NeoGeo Pocket) and the text below are aligned as indicated by the red line. This applies to ALL blank slates not just NeoGeo of course. 
-	This text is basically visually left-aligned with the dashed line box above..
+10 -	<strike>Make sure the heading (i.e. NeoGeo Pocket) and the text below are aligned as indicated by the red line. This applies to ALL blank slates not just NeoGeo of course. 
+	This text is basically visually left-aligned with the dashed line box above..</strike>
 
 11 -	Make sure this body-text (see red arrow) has an RGB text colour of #dbdbdb (just double checking this)..
 
