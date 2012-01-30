@@ -237,7 +237,7 @@ So, I would like us to set these box art ratios for default artwork in OE and al
 
 59 -	There is a divider line appearing on the far right (near the far edge of the window in the image below), that shouldn't be there..
 
-60 -	Not sure the list column headers here need to be clickable or sortable? (Core, System, Version column header bars) If you want to have this sortable, then they will need a sort arrow 	like we have in list view (image below is a quick mockup to explain what this is - see the Core column header?.. follow it to the right.. thats the sorting arrow)..
+60 -	<strike>Not sure the list column headers here need to be clickable or sortable? (Core, System, Version column header bars) If you want to have this sortable, then they will need a sort arrow 	like we have in list view (image below is a quick mockup to explain what this is - see the Core column header?.. follow it to the right.. thats the sorting arrow)..</strike>
 
 61 -	Final item for the Cores section / tab is to double check the font weight and colour. 
 	The Core column in this list should be bold with a rgb text colour of: #e4e4e4
