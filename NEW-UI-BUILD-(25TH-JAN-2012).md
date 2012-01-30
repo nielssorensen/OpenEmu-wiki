@@ -226,11 +226,12 @@ So, I would like us to set these box art ratios for default artwork in OE and al
 	Of course, as mentioned this is loosely how I did it, sometimes things like a shoulder button are squeezed in randomly, but for most controllers select comes before start based
 	on this loose 'rule'. Don't go insane and change all the buttons based on this rule at the moment.. just start and select from what I have seen.
 
-57 -	For the various button map fields which have a key or gamepad button mapped to it already (image left), if I click the field to focus it, the field goes blank (image right). 
-	This shouldn't happen as we are hiding information from the user..
+57 -	<strike>For the various button map fields which have a key or gamepad button mapped to it already (image left), if I click the field to focus it, the field goes blank (image right). 
+	This shouldn't happen as we are hiding information from the user..</strike>
 
-58 -	For the Sega Master System, there is a physical button on the console which is used for some games (insane I know), this button field should be labelled 'Console Pause'
-	it is currently labelled wrong as the image below shows (change 'Start' as shown below to 'Console Pause')..
+58 -	<strike>For the Sega Master System, there is a physical button on the console which is used for some games (insane I know), this button field should be labelled 'Console Pause'
+	it is currently labelled wrong as the image below shows (change 'Start' as shown below to 'Console Pause')..</strike>
+	<i>I believe David was looking at Game Gear, which currently uses the SMS controller. Sega Master System itself has the 'Console Pause' label</i> - chris
 
 ###Cores Section
 
