@@ -49,9 +49,9 @@
 
 12 -	<strike>This is my fault, I neglected to demonstrate some interaction on the 'Core Provided By..' links. The text itself needs inactive, hover and press states to compliment the glyph.
 	The interaction is in place for the little glyph circled arrow at the right of each project link , but we need to put in place the text style to match (thistext would be 'Nestopia'
-	in the proceeding examples below)..
+	in the proceeding examples below)..</strike>
 
-Inactive (this is already in place essentially?).
+<strike>Inactive (this is already in place essentially?).
 RGB text color: #dbdbdb
 text shadow: 90 degrees, #000000
 
