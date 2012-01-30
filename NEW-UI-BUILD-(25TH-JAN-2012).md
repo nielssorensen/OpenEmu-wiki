@@ -190,7 +190,7 @@ So, I would like us to set these box art ratios for default artwork in OE and al
 
 46 -	<strike>This is one of those crazy designer tweaks. In the image below, looking at the green lines, it shows the distance between content and the bottom edge of a window. Can we 	double check the gap or space here is always 22px **in Library, Gameplay & Controls** (in Controls it is the gap between the recessed panel and the window edge).. </strike>
 
-47 -	Also the distance from the top of the tool bar and content should also be a 22px gap like like the image below (excluding the Controls section). This also applies for the 	spacing either side of a divider. In the example below, a 22px gap from the 'Change' button to the divider should be in place, and as demonstrated a 22px gap from 	the divider and the content below it 'Organisation Methods' header. This is just using one section as an example. This rule should be applied to all content excluding the 	Cores section..
+47 -	<strike>Also the distance from the top of the tool bar and content should also be a 22px gap like like the image below (excluding the Controls section). This also applies for the 	spacing either side of a divider. In the example below, a 22px gap from the 'Change' button to the divider should be in place, and as demonstrated a 22px gap from 	the divider and the content below it 'Organisation Methods' header. This is just using one section as an example. This rule should be applied to all content excluding the 	Cores section..</strike>
 
 ###Library Section
 
@@ -208,7 +208,7 @@ So, I would like us to set these box art ratios for default artwork in OE and al
 
 ###Controls Section
 
-52 -	First, just make sure the gap between the recessed box and the window edge is 22px (as discussed in 'General Comments / Tweaks' previously)..
+52 -	<strike>First, just make sure the gap between the recessed box and the window edge is 22px (as discussed in 'General Comments / Tweaks' previously)..</strike>
 
 53 -	Next is the popover buttons to select which system, which player and which input type. What I would like to do is use the inactive button state when the popover is active / visible.
 	As you see from the image below, this is to select and sort between available consoles and behind the black popover, we see a pressed state button.. would prefer the inactive state
