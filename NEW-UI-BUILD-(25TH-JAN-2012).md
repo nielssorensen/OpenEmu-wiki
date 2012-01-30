@@ -194,11 +194,11 @@ So, I would like us to set these box art ratios for default artwork in OE and al
 
 ###Library Section
 
-48 -	Everything here is fine.. just obviously refer to the content spacing issues described in the last two points in 'General Comments / Tweaks' above. (images with the green lines)
+48 -	<strike>Everything here is fine.. just obviously refer to the content spacing issues described in the last two points in 'General Comments / Tweaks' above. (images with the green lines)</strike>
 
 ###Gameplay Section
 
-49 -	First, refer to the content spacing issues described in the last two points in 'General Comments / Tweaks' above. (images with the green lines)
+49 -	<strike>First, refer to the content spacing issues described in the last two points in 'General Comments / Tweaks' above. (images with the green lines)</strike>
 
 50 -	For these kind of popover buttons (image below), when the popover is active, and the user is selecting content in the popover, (filter modes in this example),
 	can we use the inactive state for the popover button behind, rather than staying on the pressed state as shown in the image below?..
