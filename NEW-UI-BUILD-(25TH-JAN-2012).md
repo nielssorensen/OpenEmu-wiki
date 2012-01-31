@@ -85,8 +85,8 @@ outer glow (as defined by photoshop, but try to visually match the style in code
 
 19 -	<strike>Be careful with the column gridlines, the last most column shouldn't have a gridline on its far right side (this applies to the list portion of coverflow as well)..</strike>
 
-20 -	There is an alignment issue with items in list view. The image below best explains it, but the list of games should be left aligned to the column header name (careful some
-	fields are right aligned such as the Play Count column.. so refer to the mockups!). The red line in the image below demonstrates the alignment issue..
+20 -	<strike>There is an alignment issue with items in list view. The image below best explains it, but the list of games should be left aligned to the column header name (careful some
+	fields are right aligned such as the Play Count column.. so refer to the mockups!). The red line in the image below demonstrates the alignment issue..</strike>
 
 21 -	We should also define as a group what columns we need to have. My mockups have columns for: Name (game Name), Rating, No. of Save Games and Play Count.
 	The live version has additional columns for: 'System' and 'Last Played' date. (I'd like to format that field better e.g. 20th Feb 2012 if possible).
