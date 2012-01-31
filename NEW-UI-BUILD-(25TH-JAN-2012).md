@@ -6,9 +6,9 @@
 	problem but it seems to have a few errant white pixels in the corners. This started appearing in more recent builds (after the 	summer roughly), as it looked fine before. I know that this dark grey/black bar and its gradient are done in the code so, there 	might be something going on with how OSX is displaying it in later Lion builds? Screenshot below is a blow-up of the bottom 
 	left corner showing you the white pixels (see also corresponding right corner)..
 
-2 -	Search bar default and input text: double check the shadow text direction on all states. The shadow text should be at a 90 	degree angle. Shown below is the live version on the left, and the original psd mockup on the right..
+2 -	<strike>Search bar default and input text: double check the shadow text direction on all states. The shadow text should be at a 90 	degree angle. Shown below is the live version on the left, and the original psd mockup on the right..</strike>
 
-3 -	<strike>he grid view slider glyph on the right hand side (large one) looks blurry and is displaying incorrectly. I remember, that I made
+3 -	<strike>the grid view slider glyph on the right hand side (large one) looks blurry and is displaying incorrectly. I remember, that I made
 	a mistake with this graphical element in a previous build. I double checked the latest graphical resources for the two squares used
 	as part of the grid view slider (elements: 'grid_slider_small.png' ..and.. 'grid_slider_large.png') and they are correct on 	DropBox. So, just need to double check what is going on in the code etc to see what the issue is. Are we are using the correct files? 
 	(using the small one when it should be large? maybe)..	</strike>
