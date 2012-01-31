@@ -244,6 +244,6 @@ So, I would like us to set these box art ratios for default artwork in OE and al
 	All other columns should be normal font weight with an rgb colour of: #dbdbdb
 	For uninstalled cores (greyed out looking ones), the same font weight rules apply, but the text colour **across all columns** (excluding the Install button of course), is: #707070
 
-62 -	Double check the install core buttons text. (image below of inactive state for reference).
+62 -	<strike>Double check the install core buttons text. (image below of inactive state for reference).
 	The inactive button text colour should be: #e4e4e4 ..with 1px shadow text at 90 degrees, #00000 colour at 40% opacity
-	Pressed state text colour should be: #bdbcbc ..with 1px shadow text at 90 degrees, #00000 colour at 40% opacity
+	Pressed state text colour should be: #bdbcbc ..with 1px shadow text at 90 degrees, #00000 colour at 40% opacity</strike>
