@@ -239,10 +239,10 @@ So, I would like us to set these box art ratios for default artwork in OE and al
 
 60 -	<strike>Not sure the list column headers here need to be clickable or sortable? (Core, System, Version column header bars) If you want to have this sortable, then they will need a sort arrow 	like we have in list view (image below is a quick mockup to explain what this is - see the Core column header?.. follow it to the right.. thats the sorting arrow)..</strike>
 
-61 -	Final item for the Cores section / tab is to double check the font weight and colour. 
+61 -	<strike>Final item for the Cores section / tab is to double check the font weight and colour. 
 	The Core column in this list should be bold with a rgb text colour of: #e4e4e4
 	All other columns should be normal font weight with an rgb colour of: #dbdbdb
-	For uninstalled cores (greyed out looking ones), the same font weight rules apply, but the text colour **across all columns** (excluding the Install button of course), is: #707070
+	For uninstalled cores (greyed out looking ones), the same font weight rules apply, but the text colour **across all columns** (excluding the Install button of course), is: #707070</strike>
 
 62 -	<strike>Double check the install core buttons text. (image below of inactive state for reference).
 	The inactive button text colour should be: #e4e4e4 ..with 1px shadow text at 90 degrees, #00000 colour at 40% opacity
