@@ -200,8 +200,8 @@ So, I would like us to set these box art ratios for default artwork in OE and al
 
 49 -	<strike>First, refer to the content spacing issues described in the last two points in 'General Comments / Tweaks' above. (images with the green lines)</strike>
 
-50 -	For these kind of popover buttons (image below), when the popover is active, and the user is selecting content in the popover, (filter modes in this example),
-	can we use the inactive state for the popover button behind, rather than staying on the pressed state as shown in the image below?..
+50 -	<strike>For these kind of popover buttons (image below), when the popover is active, and the user is selecting content in the popover, (filter modes in this example),
+	can we use the inactive state for the popover button behind, rather than staying on the pressed state as shown in the image below?..</strike>
 
 51 -	The Filter effects graphic is not in place yet, I'll need some help in producing a graphic image for each one so it changes based on the one selected in the popover.
 	For now, I see there is a default image file for each filter effect in the graphic resources of the app. 
@@ -210,9 +210,9 @@ So, I would like us to set these box art ratios for default artwork in OE and al
 
 52 -	<strike>First, just make sure the gap between the recessed box and the window edge is 22px (as discussed in 'General Comments / Tweaks' previously)..</strike>
 
-53 -	Next is the popover buttons to select which system, which player and which input type. What I would like to do is use the inactive button state when the popover is active / visible.
+53 -	<strike>Next is the popover buttons to select which system, which player and which input type. What I would like to do is use the inactive button state when the popover is active / visible.
 	As you see from the image below, this is to select and sort between available consoles and behind the black popover, we see a pressed state button.. would prefer the inactive state
-	for this. This also applies to player selection popover and input popovers and their button..
+	for this. This also applies to player selection popover and input popovers and their button..</strike>
 
 54 -	<strike>UX interaction of the blue circle / ring indicator: I like this interaction, how it helps guide people to map/re-map buttons etc. What we do need to change, or add is the ability to
 	cancel this blue ring effect and 'return to normal' (unfocus it so to speak). That means, when a button map field is highlighted.. I want to click anywhere outside of it to remove the blue 	ring effect and go back to normal.</strike>Also, I have noticed that sometimes, when changing to a different system and back, the field highlighted can get stuck (always focused) and on a rare 	occasion I have had the darkened controller graphic and blue ring always appear with no way to turn it off, even after closing the Pref window. I think it should cancel, unfocus when 	you switch away from it, either by changing to a different system, or changing the tab or even closing the pref window..
