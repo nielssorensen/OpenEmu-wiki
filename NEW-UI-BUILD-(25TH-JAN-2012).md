@@ -80,8 +80,8 @@ outer glow (as defined by photoshop, but try to visually match the style in code
 
 17 -	Biggest one, as chris (cyco) has mentioned is List View stops drawing the alternate background after a few items
 
-18 -	This is just a heads up, I wasn't too keen on the press state of the header bar columns as demonstrated in the image below. It seemed too 'pressed in', so the
-	graphical resource file that this uses has been updated on Dropbox (see the image file called: list_column_header_bar.png)..
+18 -	<strike>This is just a heads up, I wasn't too keen on the press state of the header bar columns as demonstrated in the image below. It seemed too 'pressed in', so the
+	graphical resource file that this uses has been updated on Dropbox (see the image file called: list_column_header_bar.png)..</strike>
 
 19 -	<strike>Be careful with the column gridlines, the last most column shouldn't have a gridline on its far right side (this applies to the list portion of coverflow as well)..</strike>
 
