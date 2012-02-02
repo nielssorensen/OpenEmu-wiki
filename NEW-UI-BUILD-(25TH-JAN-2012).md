@@ -2,9 +2,9 @@
 
 ##GENERAL / MAIN UI
 
-1 -	Noticed a weird display area with the bottom left and right corners of the UI. I don't know if there is some weird anti-aliasing
+1 -	<strike>Noticed a weird display area with the bottom left and right corners of the UI. I don't know if there is some weird anti-aliasing
 	problem but it seems to have a few errant white pixels in the corners. This started appearing in more recent builds (after the 	summer roughly), as it looked fine before. I know that this dark grey/black bar and its gradient are done in the code so, there 	might be something going on with how OSX is displaying it in later Lion builds? Screenshot below is a blow-up of the bottom 
-	left corner showing you the white pixels (see also corresponding right corner)..
+	left corner showing you the white pixels (see also corresponding right corner)..</strike>
 
 2 -	<strike>Search bar default and input text: double check the shadow text direction on all states. The shadow text should be at a 90 	degree angle. Shown below is the live version on the left, and the original psd mockup on the right..</strike>
 
