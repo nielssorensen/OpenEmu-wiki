@@ -34,6 +34,7 @@ int (^blk1)(int) =
 @implementation SomeClass
 @end
 ```
+* Use YES and NO
 
 ## Objective-C 2.0
 
