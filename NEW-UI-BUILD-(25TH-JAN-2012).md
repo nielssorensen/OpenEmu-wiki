@@ -184,9 +184,9 @@ So, I would like us to set these box art ratios for default artwork in OE and al
 
 ###General Comments / Tweaks
 
-45 -	Random overly fussy one to start, but I notice that the first time I open preferences from a new build, the window does a weird flickery /  flash thing. This also happens sometimes
+45 -	<strike>Random overly fussy one to start, but I notice that the first time I open preferences from a new build, the window does a weird flickery /  flash thing. This also happens sometimes
 	after I quit, relaunch the app and open the preferences sometimes too. I assume what is happening is, we are loading all of the bits and pieces it needs at the same time the 
-	window is opening, so this flicker is the split second as the window draws itself on screen?
+	window is opening, so this flicker is the split second as the window draws itself on screen?</strike>
 
 46 -	<strike>This is one of those crazy designer tweaks. In the image below, looking at the green lines, it shows the distance between content and the bottom edge of a window. Can we 	double check the gap or space here is always 22px **in Library, Gameplay & Controls** (in Controls it is the gap between the recessed panel and the window edge).. </strike>
 
