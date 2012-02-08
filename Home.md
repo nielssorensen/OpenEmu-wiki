@@ -59,14 +59,14 @@
 * rewrite main library split view and correctly remember/restore last sidebar width
 
 * Setup Assistant: 
-    * Intro Video
-    * Welcome to OpenEmu
-    * Core Installation
-    * Game Scanner
+    * <strike>Intro Video</strike>
+    * <strike>Welcome to OpenEmu</strike>
+    * <strike>Core Installation</strike>
+    * <strike>Game Scanner</strike>
     * * Additional Sources
-    * Game Pad Setup
-    * * Button Detection
-    * Let's Go
+    * <strike>Game Pad Setup</strike>
+    * * <strike>Button Detection</strike>
+    * <strike>Let's Go</strike>
 
 ### Eventually
 * Remove spurious linker and compiler warnings
