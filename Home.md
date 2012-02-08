@@ -63,9 +63,9 @@
     * <strike>Welcome to OpenEmu</strike>
     * <strike>Core Installation</strike>
     * <strike>Game Scanner</strike>
-    * * Additional Sources
+    *    * Additional Sources
     * <strike>Game Pad Setup</strike>
-    * * <strike>Button Detection</strike>
+    *    * <strike>Button Detection</strike>
     * <strike>Let's Go</strike>
 
 ### Eventually
