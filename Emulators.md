@@ -13,7 +13,7 @@ Created by sinamas. Currently using version ?. [[Project homepage.|http://source
 Created by Charles MacDonald (originally) and forked by Eke-EKe. Currently using Genesis Plus GX version 1.5.0. [[Project homepage.|http://code.google.com/p/genplus-gx/]]
 
 # Mednafen
-http://mednafen.sourceforge.net/
+[[Project homepage.|http://mednafen.sourceforge.net/]]
 
 # Mupen64Plus
 Created by Richard Goedeken (richard42). Currently using version 2.0 hg. [[Project homepage.|https://bitbucket.org/richard42/]]
