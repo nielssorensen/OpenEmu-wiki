@@ -6,6 +6,9 @@ Created by byuu. Currently using version 0.85. [[Project homepage.|http://byuu.o
 # CrabEmu
 Created by ljsebald (BlueCrab). Currently using version 0.19. [[Project homepage.|http://sourceforge.net/projects/crabemu/]]
 
+# FCEU (mm)
+Created by cah4e3 (originally) and forked by twinaphex. Currently using FCEUNext (FCEUmm) version 1.0 git. [[Project homepage.|https://github.com/twinaphex/fceu-next]]
+
 # Gambatte
 Created by sinamas. Currently using version ?. [[Project homepage.|http://sourceforge.net/projects/gambatte/]]
 
