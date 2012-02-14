@@ -6,6 +6,8 @@
     * * Rename roms with tosec name
     * Add fetched info to database (in OEDBGame gameWithArchiveDictionary:inDatabase:)
     * <strike>Add support for session dependent api stuff</strike> _does not make it into version 1.0_
+* Library
+    * Allow for deletion/removal of Games from the library.
 * Fix OEMenu
     * Highlight menu item even if mouse was not released
     * <strike>Add menu separator</strike>
