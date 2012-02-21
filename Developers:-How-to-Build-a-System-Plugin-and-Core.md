@@ -1,5 +1,4 @@
 # System Plugins
-***
 
 ## Overview
 System Plugins describe a core system and contain:
