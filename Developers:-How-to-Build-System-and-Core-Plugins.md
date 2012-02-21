@@ -14,7 +14,7 @@ These settings are stored in property list (.plist) files.
 ![System Plugins](http://i.imgur.com/vISr5.png)
 
 ### Structure of a System Plugin
-Once compiled, system plugins take on the Product Name of the core they were built for if a target is set in the OpenEmu project and will be stored in ~/Library/Application Support/OpenEmu/Systems/
+Once compiled, system plugins take on the Product Name of the core they were built for if a target is set in the OpenEmu project. They are stored in ~/Library/Application Support/OpenEmu/Systems/
 
 For example: Genesis.oesystemplugin, NES.oesystemplugin, SuperNES.oesystemplugin, etc.
 
