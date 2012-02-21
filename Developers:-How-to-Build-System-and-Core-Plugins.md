@@ -22,6 +22,8 @@ These settings are stored in property list (.plist) files.
 ### How to build a System Plugin
 OpenEmu includes plugins for [several systems](https://github.com/OpenEmu/OpenEmu/wiki/Emulators). In this example, we will create a new system plugin for the TurboGrafx-16/PC Engine.
 
+
+
 ### How to use a System Plugin
 ...
 
