@@ -2,7 +2,6 @@
 
 ### Overview
 System Plugins describe a core system and contain:
-
 * SystemController and SystemResponder classes
 * Plugin name and system identifier
 * Supported rom types (file suffixes)
@@ -10,6 +9,8 @@ System Plugins describe a core system and contain:
 * Controller preference layouts, graphics and icons.
 
 These settings are stored in property list (.plist) files.
+
+![System Plugins](http://i.imgur.com/vISr5.png)
 
 ### Structure of a System Plugin
 ...
