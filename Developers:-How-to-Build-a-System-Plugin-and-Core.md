@@ -1,6 +1,6 @@
-# System Plugins
+## System Plugins
 
-## Overview
+### Overview
 System Plugins describe a core system and contain:
 
 * SystemController and SystemResponder classes
@@ -11,17 +11,17 @@ System Plugins describe a core system and contain:
 
 These settings are stored in property list (.plist) files.
 
-## Structure of a System Plugin
+### Structure of a System Plugin
 ...
 .oesystemplugin
 1(classes)
 2(supporting files, plists)
 
-## How to build a System Plugin
+### How to build a System Plugin
 ...
 
-How to use a System Plugin
+### How to use a System Plugin
 ...
 
 
-# System Cores
+## System Cores
