@@ -2,6 +2,7 @@
 
 ### Overview
 System Plugins describe a core system and contain:
+
 * SystemController and SystemResponder classes
 * Plugin name and system identifier
 * Supported rom types (file suffixes)
