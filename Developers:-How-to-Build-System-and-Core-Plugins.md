@@ -26,4 +26,16 @@ These settings are stored in property list (.plist) files.
 ...
 
 
-## System Cores
+## Core Plugins
+
+### Overview
+...
+
+### Structure of a Core Plugin
+...
+
+### How to build a Core Plugin
+porting...
+
+### How to use a Core Plugin
+...
