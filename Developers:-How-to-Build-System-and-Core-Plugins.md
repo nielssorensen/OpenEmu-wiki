@@ -29,6 +29,7 @@ These settings are stored in property list (.plist) files.
 ## Core Plugins
 
 ### Overview
+Core Plugins implement systems and contain:
 ...
 
 ### Structure of a Core Plugin
