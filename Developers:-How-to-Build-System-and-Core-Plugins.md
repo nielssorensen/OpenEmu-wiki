@@ -1,5 +1,5 @@
 ## Getting Started
-You will need the [latest Xcode](https://developer.apple.com/xcode/) (4.2 or greater) running on OS X 10.7
+You will need the [latest Xcode](https://developer.apple.com/xcode/) (4.2 or greater) running on OS X 10.7 to build OpenEmu.
 
 ## System Plugins
 
