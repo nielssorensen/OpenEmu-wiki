@@ -10,6 +10,8 @@ OpenEmu can be described as three layers:
 2. The **System Plugin** describes a system and provides an interface for cores to plug into.
 3. The **Core Plugin** is the implementation of the emulator which then ties into a system plugin.
 
+## System Plugins
+
 ### Overview
 System Plugins describe a core system and contain:
 
