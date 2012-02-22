@@ -43,8 +43,19 @@ Our first step will be adding a new Target to the OpenEmu project. Choose the Bu
 
 ![Add Target](http://i.imgur.com/MZDnp.png) ![Bundle](http://i.imgur.com/DIhbR.png)
 
-Once created, you will then have to add some custom OE-related values to the info plist. These will include, OEArchiveIDs, OEControlListKey, OEFileSuffixes, Principal Class, OESystemIcon, OESystemPluginName and OESystemIdentifier.
+A folder with the Product Name you chose will be generated with some files. This should be moved into the System Plugins group.
 
+Once created, you will then have to add some custom OE-related values to the info plist. These will include, OEArchiveIDs, OEControlListKey, OEFileSuffixes, Principal Class, OESystemIcon, OESystemPluginName and OESystemIdentifier. Since all system plugins follow the same structure, **please view a plist of another plugin for guidance on what values to fill in.**
+
+Once finished, you will have an info plist that looks like this:
+
+![Info](http://i.imgur.com/6q0fe.png)
+
+Next go to the Build Phases tab for your new system plugin and add OpenEmuSystem for Target Dependencies and OpenEmuSystem.framework under Link Binary With Libraries.
+
+![Build Phases](http://i.imgur.com/FV0iI.png)
+
+While some files will be auto-generated, there 
 Since all plugins follow the same structure, we can duplicate a set from another system and then edit accordingly.
 
     NSString *OEPCEButtonNameTable[] =
