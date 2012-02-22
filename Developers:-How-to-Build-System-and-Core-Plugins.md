@@ -55,8 +55,10 @@ Next go to the Build Phases tab for your new system plugin and add OpenEmuSystem
 
 ![Build Phases](http://i.imgur.com/FV0iI.png)
 
-While some files will be auto-generated, there 
-Since all plugins follow the same structure, we can duplicate a set from another system and then edit accordingly.
+While some files will be auto-generated, SystemController and SystemResponder classes still need to be created.
+These classes are similar in all systems so we can duplicate a set from another system and then edit accordingly.
+
+Starting with the SystemResponder class:
 
     NSString *OEPCEButtonNameTable[] =
     {
