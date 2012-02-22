@@ -19,13 +19,13 @@
     * rethink positioning
 * Fix GridView
     * <strike>Shadow on top (when scrolling reaches end)</strike>
-    * Multiple selection
+    * <strike>Multiple selection</strike>
     * <strike>Move selection by Arrow-Keys</strike>
     * Scroll when selection reaches end and arrow key is pressed
-    * Add drag and drop
+    * <strike>Add drag and drop</strik>
     * <strike>Center title and ratings on items</strike>
     * Fix memory usage
-    * Fix resize crash
+    * <strike>Fix resize crash</strick>
     * truncate collection name in view if collection is empty
     * context menu
 * HUD controls bar
