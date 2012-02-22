@@ -55,6 +55,14 @@ Next go to the Build Phases tab for your new system plugin and add OpenEmuSystem
 
 ![Build Phases](http://i.imgur.com/FV0iI.png)
 
+In the Build Settings tab under Packaging, change the Wrapper Extension to **oesystemplugin**
+
+![Build Settings](http://i.imgur.com/ZZwJn.png)
+
+Finally, edit the Build SystemPlugins target. Under the Build Phases tab, add the new system plugin for Target Dependencies and Copy Files. This will tell the scheme to build the new **.oesystemplugin** when you compile OpenEmu.
+
+![Build SystemPlugins](http://i.imgur.com/HqnWO.png)
+
 While some files will be auto-generated, SystemController and SystemResponder classes still need to be created.
 These classes are similar in all systems so we can duplicate a set from another system and then edit accordingly.
 
