@@ -41,7 +41,7 @@ OpenEmu includes plugins for [several systems](https://github.com/OpenEmu/OpenEm
 
 Our first step will be adding a new Target to the OpenEmu project. Choose the Bundle template under Framework & Library for Mac OS X and then give it a Product Name.
 
-![Add Target](http://i.imgur.com/MZDnp.png) ![Bundle](http://i.imgur.com/CS5lj.png)
+![Add Target](http://i.imgur.com/MZDnp.png) ![Bundle](http://i.imgur.com/DIhbR.png)
 
 Once created, you will then have to add some custom OE-related values to the info plist. These will include, OEArchiveIDs, OEControlListKey, OEFileSuffixes, Principal Class, OESystemIcon, OESystemPluginName and OESystemIdentifier.
 
