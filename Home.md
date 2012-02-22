@@ -22,7 +22,7 @@
     * <strike>Multiple selection</strike>
     * <strike>Move selection by Arrow-Keys</strike>
     * Scroll when selection reaches end and arrow key is pressed
-    * <strike>Add drag and drop</strik>
+    * Add drag and drop &mdash; drag game to collection
     * <strike>Center title and ratings on items</strike>
     * Fix memory usage
     * <strike>Fix resize crash</strick>
