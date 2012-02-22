@@ -1,7 +1,14 @@
 ## Getting Started
 You will need the [latest Xcode](https://developer.apple.com/xcode/) (4.2 or greater) running on OS X 10.7 to build OpenEmu.
 
-## System Plugins
+## About OpenEmu
+The goal of OpenEmu is to be system agnostic so that plugins can be created to add support for new systems.
+
+OpenEmu can be described as three layers:
+
+1. The **Application** handles audio and video output to the OS and input from HID devices. 
+2. The **System Plugin** describes a system and provides an interface for cores to plug into.
+3. The **Core Plugin** is the implementation of the emulator which then ties into a system plugin.
 
 ### Overview
 System Plugins describe a core system and contain:
@@ -55,7 +62,7 @@ Core Plugins implement systems and contain:
 ...
 
 ### Structure of a Core Plugin
-...
+oecoreplugin, SystemResponderClient.h, GameCore.h, GameCore.mm ...
 
 ### How to build a Core Plugin
 porting...
