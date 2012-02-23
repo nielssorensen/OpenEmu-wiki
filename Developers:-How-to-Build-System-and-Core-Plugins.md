@@ -135,6 +135,7 @@ For our TurboGrafx-16/PC Engine example:
 	@end
 
 ...
+
     /* OEPCESystemResponder.h */
 	#import <Cocoa/Cocoa.h>
 	#import <OpenEmuSystem/OpenEmuSystem.h>
