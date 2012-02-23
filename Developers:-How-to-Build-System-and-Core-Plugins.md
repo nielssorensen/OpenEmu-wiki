@@ -45,9 +45,9 @@ Our first step will be adding a new Target to the OpenEmu project. Choose the Bu
 
 A folder with the Product Name you chose will be generated with some files. This should be moved into the System Plugins group.
 
-Once created, you will then have to add some custom OE-related values to the info plist. These will include, OEArchiveIDs, OEControlListKey, OEFileSuffixes, Principal Class, OESystemIcon, OESystemPluginName and OESystemIdentifier. Since all system plugins follow the same structure, **please view a plist of another plugin for guidance on what values to fill in.**
+Once created, you will then have to add some custom OE-related values to the [Product Name]-Info.plist. These will include, OEArchiveIDs, OEControlListKey, OEFileSuffixes, Principal Class, OESystemIcon, OESystemPluginName and OESystemIdentifier. Since all system plugins follow the same structure, **please view a plist of another plugin for guidance on what values to fill in.**
 
-Once finished, you will have an info plist that looks like this:
+Once finished, you will have a [Product Name]-Info.plist that looks like this:
 
 ![Info](http://i.imgur.com/6q0fe.png)
 
