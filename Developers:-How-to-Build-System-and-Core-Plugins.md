@@ -63,8 +63,24 @@ Finally, edit the Build SystemPlugins target. Under the Build Phases tab, add th
 
 ![Build SystemPlugins](http://i.imgur.com/HqnWO.png)
 
-While some files will be auto-generated, SystemController and SystemResponder classes still need to be created.
+While some files will be auto-generated, SystemController and SystemResponder classes and headers still need to be created.
 These classes are similar in all systems so we can duplicate a set from another system and then edit accordingly.
+
+**The following 5 class and header files must be created for a new system plugin:**
+
+* OE[SystemName]SystemController.m and .h
+* OE[SystemName]SystemResponder.m and .h
+* OE[SystemName]SystemResponderClient.h
+
+For example:
+
+    /* OEPCESystemController.h */
+    #import <Cocoa/Cocoa.h>
+    #import <OpenEmuSystem/OpenEmuSystem.h>
+
+    @interface OEPCEController : OESystemController
+
+    @end
 
 Starting with the SystemResponder class:
 
