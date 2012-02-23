@@ -80,6 +80,12 @@ Starting with the SystemResponder class:
         @"OEPCEButtonSelect"
     };
 
+...
+
+Our end result with be a new system plugin in the UI and controller in the Preferences.
+
+![Controller](http://i.imgur.com/twGED.png) ![Controller](http://i.imgur.com/WYIJv.png)
+
 ### How to use a System Plugin
 ...
 
