@@ -66,13 +66,15 @@ Finally, edit the Build SystemPlugins target. Under the Build Phases tab, add th
 While some files will be auto-generated, SystemController and SystemResponder classes and headers still need to be created.
 These classes are similar in all systems so we can duplicate a set from another system and then edit accordingly.
 
-**The following 5 class and header files must be created for a new system plugin:**
+**The following 5 class and header files must be created for a new system plugin:
 
 * OE[SystemName]SystemController.m and .h
 * OE[SystemName]SystemResponder.m and .h
 * OE[SystemName]SystemResponderClient.h
 
-For our TurboGrafx-16/PC Engine example:
+For our TurboGrafx-16/PC Engine example:**
+
+SystemController header:
 
     /* OEPCESystemController.h */
     #import <Cocoa/Cocoa.h>
@@ -82,7 +84,7 @@ For our TurboGrafx-16/PC Engine example:
 
     @end
 
-...
+SystemController class:
 
     /* OEPCESystemController.m */
 	#import "OEPCESystemController.h"
@@ -134,7 +136,7 @@ For our TurboGrafx-16/PC Engine example:
 
 	@end
 
-...
+SystemResponder header:
 
     /* OEPCESystemResponder.h */
 	#import <Cocoa/Cocoa.h>
@@ -150,19 +152,49 @@ For our TurboGrafx-16/PC Engine example:
 
 	@end
 
-Starting with the SystemResponder class:
+SystemResponder class:
 
-    NSString *OEPCEButtonNameTable[] =
-    {
-        @"OEPCEButton1",
-        @"OEPCEButton2",
-        @"OEPCEButtonUp",
-        @"OEPCEButtonDown",
-        @"OEPCEButtonLeft",
-        @"OEPCEButtonRight",
-        @"OEPCEButtonRun",
-        @"OEPCEButtonSelect"
-    };
+    /* OEPCESystemResponder.m */
+	#import "OEPCESystemResponder.h"
+	#import "OEPCESystemResponderClient.h"
+
+	NSString *OEPCEButtonNameTable[] =
+	{
+    	@"OEPCEButton1[@]",
+    	@"OEPCEButton2[@]",
+    	@"OEPCEButtonUp[@]",
+    	@"OEPCEButtonDown[@]",
+    	@"OEPCEButtonLeft[@]",
+    	@"OEPCEButtonRight[@]",
+    	@"OEPCEButtonRun[@]",
+    	@"OEPCEButtonSelect[@]"
+	};
+
+	@implementation OEPCESystemResponder
+	@dynamic client;
+
+	+ (Protocol *)gameSystemResponderClientProtocol;
+	{
+    	return @protocol(OEPCESystemResponderClient);
+	}
+
+	- (OEEmulatorKey)emulatorKeyForKeyIndex:(NSUInteger)index player:(NSUInteger)thePlayer
+	{
+    	return OEMakeEmulatorKey(0, index);
+	}
+
+	- (void)pressEmulatorKey:(OEEmulatorKey)aKey
+	{
+    	[[self client] didPushPCEButton:(OEPCEButton)aKey.key];
+	}
+
+	- (void)releaseEmulatorKey:(OEEmulatorKey)aKey
+	{
+    	[[self client] didReleasePCEButton:(OEPCEButton)aKey.key];
+	}
+
+	@end
+
 
 ...
 
