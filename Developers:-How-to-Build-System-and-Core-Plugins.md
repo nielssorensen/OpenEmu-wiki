@@ -66,15 +66,15 @@ Finally, edit the Build SystemPlugins target. Under the Build Phases tab, add th
 While some files will be auto-generated, SystemController and SystemResponder classes and headers still need to be created.
 These classes are similar in all systems so we can duplicate a set from another system and then edit accordingly.
 
-**The following 5 class and header files must be created for a new system plugin:
+**The following 5 class and header files must be created for a new system plugin:**
 
 * OE[SystemName]SystemController.m and .h
 * OE[SystemName]SystemResponder.m and .h
 * OE[SystemName]SystemResponderClient.h
 
-For our TurboGrafx-16/PC Engine example:**
+For our TurboGrafx-16/PC Engine example:
 
-SystemController header:
+SystemController header
 
     /* OEPCESystemController.h */
     #import <Cocoa/Cocoa.h>
@@ -84,7 +84,7 @@ SystemController header:
 
     @end
 
-SystemController class:
+SystemController class
 
     /* OEPCESystemController.m */
 	#import "OEPCESystemController.h"
@@ -136,7 +136,7 @@ SystemController class:
 
 	@end
 
-SystemResponder header:
+SystemResponder header
 
     /* OEPCESystemResponder.h */
 	#import <Cocoa/Cocoa.h>
@@ -152,7 +152,7 @@ SystemResponder header:
 
 	@end
 
-SystemResponder class:
+SystemResponder class
 
     /* OEPCESystemResponder.m */
 	#import "OEPCESystemResponder.h"
@@ -195,6 +195,32 @@ SystemResponder class:
 
 	@end
 
+SystemResponderClient header
+
+    /* OEPCESystemResponderClient.h */
+	#import <Foundation/Foundation.h>
+
+	@protocol OESystemResponderClient;
+
+	typedef enum _OEPCEButton
+	{
+    	OEPCEButton1,
+    	OEPCEButton2,
+    	OEPCEButtonUp,
+    	OEPCEButtonDown,
+    	OEPCEButtonLeft,
+    	OEPCEButtonRight,
+    	OEPCEButtonRun,
+    	OEPCEButtonSelect,
+    	OEPCEButtonCount,
+	} OEPCEButton;
+
+	@protocol OEPCESystemResponderClient <OESystemResponderClient, NSObject>
+
+	- (void)didPushPCEButton:(OEPCEButton)button;
+	- (void)didReleasePCEButton:(OEPCEButton)button;
+
+	@end
 
 ...
 
