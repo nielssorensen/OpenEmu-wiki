@@ -72,7 +72,7 @@ These classes are similar in all systems so we can duplicate a set from another 
 * OE[SystemName]SystemResponder.m and .h
 * OE[SystemName]SystemResponderClient.h
 
-For example:
+For our TurboGrafx-16/PC Engine example:
 
     /* OEPCESystemController.h */
     #import <Cocoa/Cocoa.h>
@@ -81,6 +81,55 @@ For example:
     @interface OEPCEController : OESystemController
 
     @end
+
+	#import "OEPCESystemController.h"
+	#import "OEPCESystemResponder.h"
+	#import "OEPCESystemResponderClient.h"
+
+	@implementation OEPCESystemController
+
+	- (NSUInteger)numberOfPlayers;
+	{
+    	return 1;
+	}
+
+	- (Class)responderClass;
+	{
+    	return [OEPCESystemResponder class];
+	}
+
+	- (NSArray *)genericSettingNames;
+	{
+    	return [super genericSettingNames];
+	}
+
+	- (NSArray *)genericControlNames;
+	{
+    	return [NSArray arrayWithObjects:OEPCEButtonNameTable count:OEPCEButtonCount];
+	}
+
+	- (NSDictionary *)defaultControls
+	{
+    	NSDictionary *controls = [NSDictionary dictionaryWithObjectsAndKeys:
+                              	[NSNumber numberWithUnsignedInt:kHIDUsage_KeyboardUpArrow]   , @"OEPCEButtonUp[1]"    ,
+                              	[NSNumber numberWithUnsignedInt:kHIDUsage_KeyboardDownArrow] , @"OEPCEButtonDown[1]"  ,
+                              	[NSNumber numberWithUnsignedInt:kHIDUsage_KeyboardLeftArrow] , @"OEPCEButtonLeft[1]"  ,
+                              	[NSNumber numberWithUnsignedInt:kHIDUsage_KeyboardRightArrow], @"OEPCEButtonRight[1]" ,
+                              	[NSNumber numberWithUnsignedInt:kHIDUsage_KeyboardA]         , @"OEPCEButton1[1]"     ,
+                              	[NSNumber numberWithUnsignedInt:kHIDUsage_KeyboardS]         , @"OEPCEButton2[1]"     ,
+                              	[NSNumber numberWithUnsignedInt:kHIDUsage_KeyboardSpacebar]  , @"OEPCEButtonRun[1]" ,
+                              	[NSNumber numberWithUnsignedInt:kHIDUsage_KeyboardEscape]    , @"OEPCEButtonSelect[1]",
+                              	nil];
+		return controls;
+	}
+
+	- (NSUInteger)playerNumberInKey:(NSString *)keyName getKeyIndex:(NSUInteger *)idx{
+		if(idx!=NULL) *idx = [[self genericControlNames] indexOfObject:keyName];
+	
+		return 1;
+	}
+
+	@end
 
 Starting with the SystemResponder class:
 
