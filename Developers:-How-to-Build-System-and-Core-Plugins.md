@@ -224,6 +224,7 @@ SystemResponderClient header
 
 Supporting Files:
 ...
+
 ![Supporting Files](http://i.imgur.com/9BOzd.png)
 
 Our end result with be a new system plugin in the UI and controller in the Preferences.
