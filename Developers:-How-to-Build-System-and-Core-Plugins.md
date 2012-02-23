@@ -134,6 +134,21 @@ For our TurboGrafx-16/PC Engine example:
 
 	@end
 
+...
+    /* OEPCESystemResponder.h */
+	#import <Cocoa/Cocoa.h>
+	#import <OpenEmuSystem/OpenEmuSystem.h>
+
+	@protocol OEPCESystemResponderClient;
+
+	extern NSString *OEPCEButtonNameTable[];
+
+	@interface OEPCESystemResponder : OEBasicSystemResponder
+
+	@property(nonatomic, weak) id<OEPCESystemResponderClient> client;
+
+	@end
+
 Starting with the SystemResponder class:
 
     NSString *OEPCEButtonNameTable[] =
