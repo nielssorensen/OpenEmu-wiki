@@ -82,6 +82,7 @@ For our TurboGrafx-16/PC Engine example:
 
     @end
 
+    /* OEPCESystemController.m */
 	#import "OEPCESystemController.h"
 	#import "OEPCESystemResponder.h"
 	#import "OEPCESystemResponderClient.h"
