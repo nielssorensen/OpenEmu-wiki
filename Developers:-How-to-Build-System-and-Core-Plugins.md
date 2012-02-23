@@ -84,7 +84,7 @@ Starting with the SystemResponder class:
 
 Our end result with be a new system plugin in the UI and controller in the Preferences.
 
-![Controller](http://i.imgur.com/XPTUS.png) ![Controller](http://i.imgur.com/nseV4.png)
+![Controller](http://i.imgur.com/XPTUS.png) &nbsp; ![Controller](http://i.imgur.com/nseV4.png)
 
 ### How to use a System Plugin
 ...
