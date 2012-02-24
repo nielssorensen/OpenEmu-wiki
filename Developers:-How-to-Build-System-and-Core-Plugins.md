@@ -1,7 +1,7 @@
 ## Getting Started
 You will need the [latest Xcode](https://developer.apple.com/xcode/) (4.2 or greater) running on OS X 10.7 to build OpenEmu.
 
-Enable the debug preferences pane in OpenEmu with: defaults write com.openemu.OpenEmu debug 1
+Enable the debug preferences pane in OpenEmu with: `defaults write com.openemu.OpenEmu debug 1`
 
 ## About OpenEmu
 The goal of OpenEmu is to be system agnostic so that plugins can be created to add support for new systems.
