@@ -4,7 +4,7 @@ You will need the [latest Xcode](https://developer.apple.com/xcode/) (4.2 or gre
 Enable the debug preferences pane in OpenEmu with: `defaults write com.openemu.OpenEmu debug 1`
 
 ## About OpenEmu
-The goal of OpenEmu is to be system agnostic so that plugins can be created to add support for new systems.
+The goal of OpenEmu is to be system agnostic so that plugins can be created to add support for new systems. One should be able to write a new plugin using only OpenEmuBase.framework and OpenEmuSystem.framework
 
 OpenEmu can be described as three layers:
 
