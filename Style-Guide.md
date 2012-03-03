@@ -67,7 +67,7 @@ someFunction(...)
 NSStringFromClass(...)
 ```
 
-* Class ivars and properties should be aligned
+* Instance variables and properties should be aligned
 ```objective-c
 @interface SomeClass
 {
