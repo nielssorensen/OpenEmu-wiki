@@ -57,19 +57,12 @@ dispatch_async(^{
 ```objective-c
 @interface SomeClass
 {
-    int       someValue;
     BOOL      shouldCloseFile;
     NSString *description;
 }
 
-@property(strong) IBOutlet OELibraryController *libraryController;
-
 @property(nonatomic, strong) NSViewController  *currentContentController;
-@property(nonatomic, strong) NSViewController  *defaultContentController;
 @property                    BOOL               allowWindowResizing;
-
-@property(copy) NSArray *deviceHandlers;
-@property(copy) NSArray *coreList;
 
 @end
 ```
