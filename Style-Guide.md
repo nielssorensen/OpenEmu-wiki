@@ -112,7 +112,7 @@ NSDictionary *someArray = [NSDictionary dictionaryWithObjectsAndKeys:
 - (void)OE_privateMethod:(BOOL)value;
 ```
 
-* Use YES and NO
+* Use `YES` and `NO`
 
 ## Ordering
 
@@ -136,7 +136,7 @@ NSDictionary *someArray = [NSDictionary dictionaryWithObjectsAndKeys:
 
 ## Miscellaneous
 
-* Perfer `MAX` and `MIN` macros over if statements. for example: 
+* Perfer `MAX` and `MIN` macros over `if` statements, for example: 
 ```objective-c
 value = MAX(someCalculations, someValue);
 ```
@@ -151,17 +151,40 @@ if(value < someValue) value = someValue;
 ## Code sample
 
 Here you can see a sample class:
+
+**`SomeClass.h`**
 ```objective-c
 #import "someheader.h"
 
 @interface SomeClass
 {
-    int ivar;
+@private
+    int  someValue;
+    BOOL shouldCloseFile;
+
+@protected
+    NSString *description;
 }
+
++ (id)sharedSomeClass;
 
 - (void)method;
 
+@property(strong) IBOutlet OELibraryController *libraryController;
+
+@property(nonatomic, strong) NSViewController  *currentContentController;
+@property(nonatomic, strong) NSViewController  *defaultContentController;
+@property                    BOOL               allowWindowResizing;
+
+@property(copy) NSArray *deviceHandlers;
+@property(copy) NSArray *coreList;
+
 @end
+```
+
+**`SomeClass.m`**
+```objective-c
+#import "SomeClass.h"
 
 @interface SomeClass ()
 
@@ -170,6 +193,42 @@ Here you can see a sample class:
 @end
 
 @implementation SomeClass
+
+@synthesize libraryController;
+@synthesize currentContentController, defaultContentController;
+@synthesize allowWindowResizing;
+
++ (void)initialize
+{
+	if(self == [SomeClass class])
+	{
+		// do things
+	}
+}
+
+- (id)init
+{
+	if((self = [super init]))
+	{
+		// do things
+	}
+	return self;
+}
+
+- (void)dealloc
+{
+	// do things
+}
+
++ (id)sharedSomeClass
+{
+    static SomeClass       *sharedSomeClass = nil;
+    static dispatch_once_t  onceToken;
+    dispatch_once(&onceToken, ^{
+        sharedSomeClass = [[SomeClass alloc] init];
+    });
+    return sharedSomeClass;
+}
 
 - (void)OE_privateMethod
 {
@@ -200,6 +259,31 @@ Here you can see a sample class:
     {
         // do things
     };
+}
+
+- (void)delegateMethod
+{
+	// do things
+}
+
+- (void)setDeviceHandlers:(NSArray *)value
+{
+	// do things
+}
+
+- (NSArray *)deviceHandlers
+{
+	// do things
+}
+
+- (void)setCoreList:(NSArray *)value
+{
+	// do things
+}
+
+- (NSArray *)coreList
+{
+	// do things
 }
 
 @end
