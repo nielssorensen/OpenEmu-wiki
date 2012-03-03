@@ -125,13 +125,13 @@ NSDictionary *someArray = [NSDictionary dictionaryWithObjectsAndKeys:
 
 * Implementation classes should follow this general ordering guideline:
     1. `@synthesize`
-	2. `+initialize`
-	3. `-init`
-	4. `-dealloc`
-	5. Class Methods (`+someMethod`)
-	6. Instance Methods (`-someMethod`)
-	7. Delegate Implementation
-	6. Setters / Getters
+    2. `+initialize`
+    3. `-init`
+    4. `-dealloc`
+    5. Class Methods (`+someMethod`)
+    6. Instance Methods (`-someMethod`)
+    7. Delegate Implementation
+    6. Setters / Getters
 
 * Order methods by tasks
 
@@ -207,19 +207,19 @@ Here you can see a sample class:
 
 + (void)initialize
 {
-	if(self == [SomeClass class])
-	{
-		// do things
-	}
+    if(self == [SomeClass class])
+    {
+        // do things
+    }
 }
 
 - (id)init
 {
-	if((self = [super init]))
-	{
-		// do things
-	}
-	return self;
+    if((self = [super init]))
+    {
+        // do things
+    }
+    return self;
 }
 
 - (void)dealloc
@@ -255,12 +255,12 @@ Here you can see a sample class:
     while(value < 10)
     {
     }
-    
+
     void (^blk)(void) =
     ^{
         // do things
     };
-    
+
     int (^blk1)(int) =
     ^ int (int v)
     {
@@ -270,27 +270,27 @@ Here you can see a sample class:
 
 - (void)delegateMethod
 {
-	// do things
+    // do things
 }
 
 - (void)setDeviceHandlers:(NSArray *)value
 {
-	// do things
+    // do things
 }
 
 - (NSArray *)deviceHandlers
 {
-	// do things
+    // do things
 }
 
 - (void)setCoreList:(NSArray *)value
 {
-	// do things
+    // do things
 }
 
 - (NSArray *)coreList
 {
-	// do things
+    // do things
 }
 
 @end
