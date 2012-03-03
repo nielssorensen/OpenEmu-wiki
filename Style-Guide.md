@@ -23,9 +23,9 @@ int (^blk1)(int) =
 };
 
 [someDictionary enumerateKeysAndObjectsUsingBlock:
-^ (id key, id obj, BOOL *stop)
-{
-}];
+ ^ (id key, id obj, BOOL *stop)
+ {
+ }];
 ```
 
 * Caret and curly brace on previous line when there is no block parameters
