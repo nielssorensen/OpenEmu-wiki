@@ -35,6 +35,16 @@ dispatch_async(^{
 });
 ```
 
+* Space between caret and block's return parameter list (when no return data-type is specified)
+```objective-c
+^ (id key, id obj, BOOL *stop)
+```
+
+* Space between caret and block's return data-type and space between block's return data-type and parameter list
+```objective-c
+^ int (id key, id obj, BOOL *stop)
+```
+
 * Use 4 spaces instead of tabs
 ```objective-c
 @interface SomeClass
@@ -64,7 +74,7 @@ dispatch_async(^{
 @end
 ```
 
-* `NSArray` and `NSSet` variadic list, put each vlaue on its own line
+* For `NSArray` and `NSSet` variadic list, place each value on its own line
 ```objective-c
 NSArray *someArray = [NSArray arrayWithObjects:
                       @"value1",
@@ -77,7 +87,7 @@ NSSet *someSet = [NSSet setWithObjects:
                   nil];
 ```
 
-* `NSDictionary` put each value and key pair on the same line
+* For `NSDictionary` place each value and key pair on the same line
 ```objective-c
 NSDictionary *someArray = [NSDictionary dictionaryWithObjectsAndKeys:
                            @"value1", @"key1",
