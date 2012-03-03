@@ -3,28 +3,28 @@
 ### Priority
 * Archive.VG API inclusion
     * <strike>Get releases and tosec from Archive.VG response</strike>
-    * * Rename roms with tosec name
+    * * Rename rom files with tosec name
     * Add fetched info to database (in OEDBGame gameWithArchiveDictionary:inDatabase:)
     * <strike>Add support for session dependent api stuff</strike> _does not make it into version 1.0_
 * Library
     * Allow for deletion/removal of Games from the library.
 * Fix OEMenu
-    * Highlight menu item even if mouse was not released
+    * <strike>Highlight menu item even if mouse was not released</strike>
     * <strike>Add menu separator</strike>
     * <strike>Correct sizing if menu has only 1 item</strike>
     * <strike>Move selection by Arrow-Keys</strike>
     * <strike>Add blinking + delay when an item is clicked</strike>
     * make scrollable
-    * allow max size
-    * rethink positioning
+    * <strike>allow max size</strike>
+    * <strike>rethink positioning</strike>
 * Fix GridView
     * <strike>Shadow on top (when scrolling reaches end)</strike>
     * <strike>Multiple selection</strike>
     * <strike>Move selection by Arrow-Keys</strike>
-    * Scroll when selection reaches end and arrow key is pressed
+    * <strike>Scroll when selection reaches end and arrow key is pressed</strike>
     * Add drag and drop &mdash; drag game to collection
     * <strike>Center title and ratings on items</strike>
-    * Fix memory usage
+    * <strike>Fix memory usage</strike>
     * <strike>Fix resize crash</strick>
     * truncate collection name in view if collection is empty
     * context menu
@@ -36,12 +36,12 @@
     * <strike>Set audio volume (individually for each game)</strike>
     * <strike>Show / hide with mouse movement</strike>
     * Fix bug where play/pause button is in incorrect state after saving a game
-    * keep from fading out while a menu is open
+    * <strike>keep from fading out while a menu is open</strike>
 * MainMenu
     * <strike>enable/disable items</strike>
     * Manage "Last Played" menu
 * Input Preferences
-    * Rethink grouping of buttons
+    * <strike>Rethink grouping of buttons</strike>
 * Cores Preference pane _no core details for now_
     * <strike>Waiting for new designs</strike>
     * Install Cores after download
@@ -53,7 +53,7 @@
 * <strike>Fix Filters in preferences</strike>
 * <strike>Move About Window / Plugin Loading / HID Support away from OEGameDocument</strike>
 * <strike>Rewrite OEDocument for new architecture</strike>
-* Fix OESearchFieldCell (it loses its text attributes when pressing enter-key)
+* Fix OESearchFieldCell (loses text attributes after enter-key was pressed)
 * <strike>Localization of console names/images (e.g. NES<->Famicom)</strike>
 * Remember state of collections item (collapsed/expanded)
 * Add functionality to Preferences -> Library Folder Change/Reset Buttons
@@ -71,13 +71,13 @@
     * <strike>Let's Go</strike>
 
 ### Eventually
-* Remove spurious linker and compiler warnings
+* <strike>Remove spurious linker and compiler warnings</strike>
 * Remove ivars since we are now 64 bit clean
 
 ### Organization
 * <strike>Put UI Mockups on Github.</strike>
 * Organize code, remove unecessary files
 * Replace copyright headers
-* Agreed upon code guidelines?
+* <strike>Agreed upon code guidelines?</strike> [Style Guide](https://github.com/OpenEmu/OpenEmu/wiki/Style-Guide)
 
 ## Emulators To Do List
