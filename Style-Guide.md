@@ -53,6 +53,20 @@ dispatch_async(^{
 }
 ```
 
+* No spaces between selection and iteration keywords and opening parentheses
+```objective-c
+if(...)
+switch(...)
+while(...)
+for(...)
+```
+
+* No spaces between function name and opening parentheses
+```objective-c
+someFunction(...)
+NSStringFromClass(...)
+```
+
 * Class ivars and properties should be aligned
 ```objective-c
 @interface SomeClass
