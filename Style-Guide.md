@@ -224,7 +224,7 @@ Here you can see a sample class:
 
 - (void)dealloc
 {
-	// do things
+    // do things
 }
 
 + (id)sharedSomeClass
