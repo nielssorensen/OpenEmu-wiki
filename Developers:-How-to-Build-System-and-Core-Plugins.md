@@ -5,6 +5,10 @@ Clone the [OpenEmu repo](https://github.com/OpenEmu/OpenEmu) on GitHub. Use the 
 
 Enable the debug preferences pane in OpenEmu with: `defaults write com.openemu.OpenEmu debug 1`
 
+When compiling, choose the **"Build All"** scheme and build for **Release** ("Build for Profiling" is pre-configured for Release).
+
+![Build All](http://i.imgur.com/9UpdH.png)
+
 ## About OpenEmu
 The goal of OpenEmu is to be system agnostic so that plugins can be created to add support for new systems. One should be able to write a new plugin using only OpenEmuBase.framework and OpenEmuSystem.framework
 
