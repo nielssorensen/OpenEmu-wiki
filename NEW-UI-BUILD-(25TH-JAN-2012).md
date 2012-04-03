@@ -126,14 +126,4 @@ So, I would like us to set these box art ratios for default artwork in OE and al
 51 -	The Filter effects graphic is not in place yet, I'll need some help in producing a graphic image for each one so it changes based on the one selected in the popover.
 	For now, I see there is a default image file for each filter effect in the graphic resources of the app. 
 
-###Controls Section
-
-54 -	Also, I have noticed that sometimes, when changing to a different system and back, the field highlighted can get stuck (always focused) and on a rare 	occasion I have had the darkened controller graphic and blue ring always appear with no way to turn it off, even after closing the Pref window. I think it should cancel, unfocus when 	you switch away from it, either by changing to a different system, or changing the tab or even closing the pref window..
-
-56 -	In IRC recently, there was an issue where the start and select button map fields were labelled the wrong way around. Cyco has since added a fix for that.
-	I thought ti would also be good to note here, that the order of these fields loosely follows the order of buttons on the controller front starting from the left.. going to the right.
-	Of course, as mentioned this is loosely how I did it, sometimes things like a shoulder button are squeezed in randomly, but for most controllers select comes before start based
-	on this loose 'rule'. Don't go insane and change all the buttons based on this rule at the moment.. just start and select from what I have seen.
-
-###Cores Section
 
