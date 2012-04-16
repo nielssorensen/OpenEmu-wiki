@@ -4,6 +4,7 @@ This list is by no means exhaustive and quite prototypal as of yet.
 
 ## Whitespace
 * Braces on their own line
+
 ```objective-c
 - (void)method
 {
@@ -11,11 +12,13 @@ This list is by no means exhaustive and quite prototypal as of yet.
 ```
 
 * Pointer declaration
+
 ```objective-c
 NSString *myString;
 ```
 
 * Block argument list and types on their own line
+
 ```objective-c
 int (^blk1)(int) =
 ^ int (int v)
@@ -29,6 +32,7 @@ int (^blk1)(int) =
 ```
 
 * Caret and curly brace on previous line when there is no block parameters
+
 ```objective-c
 dispatch_async(^{
     // My code
@@ -36,16 +40,19 @@ dispatch_async(^{
 ```
 
 * Space between caret and block's return parameter list (when no return data-type is specified)
+
 ```objective-c
 ^ (id key, id obj, BOOL *stop)
 ```
 
 * Space between caret and block's return data-type and space between block's return data-type and parameter list
+
 ```objective-c
 ^ int (id key, id obj, BOOL *stop)
 ```
 
 * Use 4 spaces instead of tabs
+
 ```objective-c
 @interface SomeClass
 {
@@ -54,6 +61,7 @@ dispatch_async(^{
 ```
 
 * No spaces between selection and iteration keywords and opening parentheses
+
 ```objective-c
 if(...)
 switch(...)
@@ -62,12 +70,14 @@ for(...)
 ```
 
 * No spaces between function name and opening parentheses
+
 ```objective-c
 someFunction(...)
 NSStringFromClass(...)
 ```
 
 * Instance variables and properties should be aligned
+
 ```objective-c
 @interface SomeClass
 {
@@ -82,6 +92,7 @@ NSStringFromClass(...)
 ```
 
 * For `NSArray` and `NSSet` variadic list, place each value on its own line
+
 ```objective-c
 NSArray *someArray = [NSArray arrayWithObjects:
                       @"value1",
@@ -95,6 +106,7 @@ NSSet *someSet = [NSSet setWithObjects:
 ```
 
 * For `NSDictionary` place each value and key pair on the same line
+
 ```objective-c
 NSDictionary *someArray = [NSDictionary dictionaryWithObjectsAndKeys:
                            @"value1", @"key1",
@@ -104,17 +116,20 @@ NSDictionary *someArray = [NSDictionary dictionaryWithObjectsAndKeys:
 
 ## Naming conventions
 * Class names are CamelCased
+
 ```objective-c
 @implementation SomeClass
 ```
 
 * Private categories described by empty category, implementation methods placed within main `@implementation` block
+
 ```objective-c
 @interface SomeClass()
 @end
 ```
 
 * Private methods prefixed with **OE_**
+
 ```objective-c
 - (void)OE_privateMethod:(BOOL)value;
 ```
@@ -144,10 +159,13 @@ NSDictionary *someArray = [NSDictionary dictionaryWithObjectsAndKeys:
 ## Miscellaneous
 
 * Perfer `MAX` and `MIN` macros over `if` statements, for example: 
+
 ```objective-c
 value = MAX(someCalculations, someValue);
 ```
+
 instead of 
+
 ```objective-c
 value = someCalculations;
 if(value < someValue) value = someValue;
@@ -160,6 +178,7 @@ if(value < someValue) value = someValue;
 Here you can see a sample class:
 
 **`SomeClass.h`**
+
 ```objective-c
 #import "someheader.h"
 
@@ -190,6 +209,7 @@ Here you can see a sample class:
 ```
 
 **`SomeClass.m`**
+
 ```objective-c
 #import "SomeClass.h"
 
