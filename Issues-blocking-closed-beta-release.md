@@ -5,3 +5,5 @@
 5. Update server with latest built cores.
 6. Fix broken popout window.
 7. Any last setup assistant issues?
+8. How about some good kick pants? 
+<div class="thumbnail"><a href="https://skitch.com/jedivulcan/8hscd/kickpants"><img src="https://img.skitch.com/20120525-cdc8m2w3immtj823tp24hh43mp.preview.jpg" alt="kickpants" /></a>
