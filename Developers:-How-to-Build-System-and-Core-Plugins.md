@@ -3,7 +3,7 @@ You will need the [latest Xcode](https://developer.apple.com/xcode/) (4.3.2 or g
 
 Clone the [OpenEmu repo](https://github.com/OpenEmu/OpenEmu) on GitHub. Use the [Mac for GitHub](http://mac.github.com/) app if you're new to Git or don't want to use the command line.
 
-Enable the debug preferences pane in OpenEmu with: `defaults write com.openemu.OpenEmu debug 1`
+Enable the debug preferences pane in OpenEmu with: `defaults write org.openemu.OpenEmu debug 1`
 
 When compiling, choose the **"Build All"** scheme and build for **Release** ("Build for Profiling" is pre-configured for Release).
 
