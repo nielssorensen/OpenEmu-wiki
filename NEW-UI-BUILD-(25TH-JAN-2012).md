@@ -63,11 +63,11 @@
 32 -	<strike>Manually adding artwork (i.e. drag n' drop onto a game from my desktop), works, but the image disappears when I change to a different console or collection in the sidebar
 	and is also lost or disappears after I quit the app and relaunch.</strike>
 
-33 -	<strike>Grid view allows a user to change the artwork via drag n drop. Chris (cyco) came up with an initial animation fro this, and I have since tweaked it and refined it.
-	(see this in Dropbox > Notes > Adding Artwork > Animated Mockup for various videos of this)
-</strike>
-34 -	A selected game is indicated with a blue 'ring' around the box art perimeter (image below). In a previous build we had a nice quick little fade in / fade out transition with this selector.
-	Its not really an issue, but I do miss it.. one of those small requests that would remove a common action users do and make it look less 'clunky'..
+33 -	<strike>Grid view allows a user to change the artwork via drag n drop. Chris (cyco) came up with an initial animation fro this, and I have since tweaked it and refined it.</strike>
+	<strike>(see this in Dropbox > Notes > Adding Artwork > Animated Mockup for various videos of this)</strike>
+
+34 -	<strike>A selected game is indicated with a blue 'ring' around the box art perimeter (image below). In a previous build we had a nice quick little fade in / fade out transition with this selector.
+	Its not really an issue, but I do miss it.. one of those small requests that would remove a common action users do and make it look less 'clunky'..</strike>
 
 
 35 -	I would like to start setting ratios for some of the default box art per-system or console. Let me explain: Looking at NES games as the starting point..
