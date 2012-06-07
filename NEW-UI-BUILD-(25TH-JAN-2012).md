@@ -8,10 +8,10 @@
 
 6 -	We should start adding tooltips to a lot of buttons and other pieces. Particularly for unique custom stuff OE does like the gameplay hud bar.
 
-7 -	We need to add in a feature at some point where you can cntrl+click on game, be it grid, list or the list portion of overflow and get additional options.
+7 -	<strike>We need to add in a feature at some point where you can cntrl+click on game, be it grid, list or the list portion of overflow and get additional options.
 	(see this in Dropbox > Notes > Adding Artwork and the workflow image shows the options here and highlights adding artwork via this popover), the image
 	below shows some of the suggested options we can do for this, but these are only a suggestion and we should determine as a group what options we
-	make available here at some point before release..
+	make available here at some point before release..</strike>
 
 8 -	We will need to determine wether we can introduce the creation of additional user created smart collections. This is the final 	component that is missing from my mockups. We will need to provide the ability to create and edit a smart collection in a similar 	manner to iTunes smart playlist creation (example of smart playlist creation in iTunes, in the image below. I would say we don't have to do 
 	this for 1.0, but we should consider it, if time allows..
@@ -26,7 +26,7 @@
 
 ###LIST VIEW
 
-17 -	Biggest one, as chris (cyco) has mentioned is List View stops drawing the alternate background after a few items
+17 -	<strike>Biggest one, as chris (cyco) has mentioned is List View stops drawing the alternate background after a few items</strike>
 
 21 -	We should also define as a group what columns we need to have. My mockups have columns for: Name (game Name), Rating, No. of Save Games and Play Count.
 	The live version has additional columns for: 'System' and 'Last Played' date. (I'd like to format that field better e.g. 20th Feb 2012 if possible).
@@ -48,24 +48,24 @@
 	
 27 -	The image below left is our default cover artwork in coverflow currently. Is it at all possible to use the default artwork as used in grid view for this (rough mockup image to the right)..
 
-28 -	At times, the game title in CoverFlow view changes to a big white bar / box. Very odd..
+28 -	<strike>At times, the game title in CoverFlow view changes to a big white bar / box. Very odd..</strike>
 
 29 -	This is more of a question, but, is it possible to add a custom scrollbar to this coverflow view? I know we are using either a hacked coverflow using Apples hidden API's or
 	some open source stuff to do this? ..but, a scrollbar would be consistent with how Apple does this in Tunes (and make scrolling through covers useful / easier).
 
 ###GRID VIEW
 
-30 -	Chris (cyco) has mentioned this, but Grid view sometimes crashes when quickly scrolling and sometimes when resizing the thumbnails.
+30 -	<strike>Chris (cyco) has mentioned this, but Grid view sometimes crashes when quickly scrolling and sometimes when resizing the thumbnails</strike>.
 
-31 -	Archive.vg API: Adding a game should use the api database (I know we have had weird issues with it), this includes cleaning up the rom file name we use by default by using
-	the game name Archive has for it and pulling in the cover art from Archive's database.
+31 -	<strike>Archive.vg API: Adding a game should use the api database (I know we have had weird issues with it), this includes cleaning up the rom file name we use by default by using
+	the game name Archive has for it and pulling in the cover art from Archive's database.</strike>
 
-32 -	Manually adding artwork (i.e. drag n' drop onto a game from my desktop), works, but the image disappears when I change to a different console or collection in the sidebar
-	and is also lost or disappears after I quit the app and relaunch.
+32 -	<strike>Manually adding artwork (i.e. drag n' drop onto a game from my desktop), works, but the image disappears when I change to a different console or collection in the sidebar
+	and is also lost or disappears after I quit the app and relaunch.</strike>
 
-33 -	Grid view allows a user to change the artwork via drag n drop. Chris (cyco) came up with an initial animation fro this, and I have since tweaked it and refined it.
+33 -	<strike>Grid view allows a user to change the artwork via drag n drop. Chris (cyco) came up with an initial animation fro this, and I have since tweaked it and refined it.
 	(see this in Dropbox > Notes > Adding Artwork > Animated Mockup for various videos of this)
-
+</strike>
 34 -	A selected game is indicated with a blue 'ring' around the box art perimeter (image below). In a previous build we had a nice quick little fade in / fade out transition with this selector.
 	Its not really an issue, but I do miss it.. one of those small requests that would remove a common action users do and make it look less 'clunky'..
 
@@ -103,15 +103,15 @@ So, I would like us to set these box art ratios for default artwork in OE and al
 
 ###In Window Gameplay
 
-40 -	When I go fullscreen, the dark toolbar at the bottom goes with it (bar with the view options, search field, grid size slider etc). The fullscreen button via the gameplay HUD bar
-	(in image below) should only show me the game window in fullscreen and nothing else..
+40 -	<strike>When I go fullscreen, the dark toolbar at the bottom goes with it (bar with the view options, search field, grid size slider etc). The fullscreen button via the gameplay HUD bar
+	(in image below) should only show me the game window in fullscreen and nothing else..</strike>
 
 ###Popout Gameplay Window
 
-42 -	As mentioned by chris, it would be nice to get the 'window frame' or the look of the pop out gameplay window looking like that of the mockup (resource are sliced, there and ready
-	to go.. check DropBox).. 
+42 -	<strike>As mentioned by chris, it would be nice to get the 'window frame' or the look of the pop out gameplay window looking like that of the mockup (resource are sliced, there and ready
+	to go.. check DropBox).. </strike>
 
-43 -	The gameplay hud bar is missing from this pop out window in the latest live build I am using.
+43 -	<strike>The gameplay hud bar is missing from this pop out window in the latest live build I am using.</strike>
 
 44 -	We also don't need to add a fullscreen button on the top right of this window (as the image below depicts), this button is available in the gameplay hud bar..
 
