@@ -10,6 +10,7 @@
 * MainMenu
     * Manage "Last Played" menu
 * Cores Preference pane _no core details for now_
+    * Decide how to handle the "Update Bundles" function in the menu. Currently it only seems to work if the Cores tab is open in Preferences.
     * Install Cores after download
     * Fix buttons in table view
     * Fix sparkle errors!
