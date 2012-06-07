@@ -4,19 +4,19 @@
 * Archive.VG API inclusion
     * * Rename rom files with tosec name from archive.vg response
 * Library
-    * Allow for deletion/removal of Games from the library.
+    * <strike>Allow for deletion/removal of Games from the library.</strike>
 * HUD controls bar
-    * Add "stop fullscreen" button state
+    * <strike>Add "stop fullscreen" button state</strike>
 * MainMenu
     * Manage "Last Played" menu
 * Cores Preference pane _no core details for now_
     * Decide how to handle the "Update Bundles" function in the menu. Currently it only seems to work if the Cores tab is open in Preferences.
     * Install Cores after download
-    * Fix buttons in table view
+    * <strike>Fix buttons in table view</strike>
     * Fix sparkle errors!
 
 * ### General Stuff
-* give Game Window pop out a hud look
+* <strike>give Game Window pop out a hud look</strike>
 * flip text shadow of blue hud button
 * Fix OESearchFieldCell (loses text attributes after enter-key was pressed)
 * Remember state of collections item (collapsed/expanded)
