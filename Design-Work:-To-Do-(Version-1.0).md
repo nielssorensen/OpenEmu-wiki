@@ -6,6 +6,8 @@
 * GameGear controller illustration
 * Arcade controller illustration
 
+* Filter previews
+
 * Debug preferences icon
 ### View Mode
 
