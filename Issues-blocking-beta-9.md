@@ -1,5 +1,5 @@
 ### Grid view
-Background dispatch queues were removed to fix the crashing but as a result we're back to slow/delayed scrolling. For the next beta test, we should at least fix the current upper left corner artifacts, library spillover and the occasional empty view when switching libraries.
+Background dispatch queues were removed to fix the crashing but as a result we're back to slow/delayed scrolling. For the next beta test, we should at least fix the current upper left corner artifacts, library spillover and the occasional empty view when switching libraries. It may also be worth exploring alternatives like [MUPhotoView](https://github.com/blakeseely/muphotoview).
 
 ![Spillover](http://f.cl.ly/items/3J3Q0h301a0S0N202g2f/Screen%20Shot%202012-10-02%20at%206.02.37%20PM.png)
 
