@@ -1,5 +1,5 @@
 ## Getting Started
-You will need the [latest Xcode](https://developer.apple.com/xcode/) (4.3.2 or greater) running on OS X 10.7 to build OpenEmu.
+You will need the [latest Xcode](https://developer.apple.com/xcode/) (4.5.1 or greater) running on OS X 10.7 to build OpenEmu.
 
 Clone the [OpenEmu repo](https://github.com/OpenEmu/OpenEmu) on GitHub. Use the [Mac for GitHub](http://mac.github.com/) app if you're new to Git or don't want to use the command line.
 
