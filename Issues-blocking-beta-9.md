@@ -13,8 +13,8 @@ Since we ought to have this for 1.0, it will be helpful to have implemented for 
 ### Setup assistant
 We will want to implement gamepad setup as per [Issue #136](https://github.com/OpenEmu/OpenEmu/issues/136)
 
-### Video hitching
-Video code requires some optimization after the addition of the aspect ratio lookup. Currently some hitching/stuttering does occur.
+### <s>Video hitching</s>
+<s>Video code requires some optimization after the addition of the aspect ratio lookup. Currently some hitching/stuttering does occur.</s> Fixed in https://github.com/OpenEmu/OpenEmu/commit/98d0adc8a1ad20df38d422b884e9464bf545b5d2
 
 ### Unimplemented features
 Context menu - 'Get Game Info From Archive.vg'
