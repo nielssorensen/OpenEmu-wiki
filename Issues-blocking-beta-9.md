@@ -5,8 +5,8 @@ Background dispatch queues were removed to fix the crashing but as a result we'r
 
 ![Empty](http://f.cl.ly/items/1E0n2U340E0U1e171W1F/Screen%20Shot%202012-09-27%20at%205.40.16%20PM.png)
 
-### Import scanning indicator
-Since we ought to have this for 1.0, it will be helpful to have implemented for the next test to expose any issues that may come up.
+### <s>Import scanning indicator</s>
+<s>Since we ought to have this for 1.0, it will be helpful to have implemented for the next test to expose any issues that may come up.</s> Added in https://github.com/OpenEmu/OpenEmu/commit/0ab557a435a5d67c88a068e982472ef00924d69c
 
 ![Importer](http://f.cl.ly/items/3V3y0q3I2Y0U1E0m1J0l/Screen%20Shot%202012-09-27%20at%209.39.23%20PM.png) &nbsp; ![Scanner](http://f.cl.ly/items/2u0o0A0i1i3K3u1p080C/Screen%20Shot%202012-09-27%20at%209.44.23%20PM.png)
 
