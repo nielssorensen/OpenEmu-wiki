@@ -136,6 +136,12 @@ NSDictionary *someArray = [NSDictionary dictionaryWithObjectsAndKeys:
 
 * Use `YES` and `NO`
 
+* GCD queues should be named **org.openemu.<#className#>.<#queueName#>**
+
+```objective-c
+importQueue = dispatch_queue_create("org.openemu.OEROMImporter.import", DISPATCH_QUEUE_SERIAL);
+```
+
 ## Ordering
 
 * Implementation classes should follow this general ordering guideline:
