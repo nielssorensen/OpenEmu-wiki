@@ -8,7 +8,7 @@ Mac OS X 10.7 or greater
 
 1. If you've run OpenEmu before, please remove folders in ~/Library/Application Support/OpenEmu and /Library/Application Support/OpenEmu as well as plists related to OpenEmu in ~/Library/Preferences.
 2. Copy the App to your Applications folder.
-3. Launch OpenEmu, and let the setup assistant run, optionally importing roms.
+3. Launch OpenEmu, and let the setup assistant run, optionally importing roms. Note that OpenEmu copies ROM files to its internal library folder in ~/Library/Application Support/OpenEmu/ by default.
 
 # Game Controllers
 
@@ -28,7 +28,7 @@ OpenEmu now automatically maps controls for the following recognized devices in 
 
 # Known Issues
 
-Please be aware that currently OpenEmu does not support compressed ROM files, and that not all imported ROMs may have artwork associated with them on archive.vg. An internet connection is required to download artwork and game metadata.
+Please be aware that currently OpenEmu does not support compressed ROM files, and that not all imported ROMs may have artwork associated with them on archive.vg. An internet connection is required to download emulator cores, artwork and game metadata.
 
 # Other major known issues in this release:
 
