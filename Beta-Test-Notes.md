@@ -32,6 +32,7 @@ Please be aware that currently OpenEmu does not support compressed ROM files, an
 
 # Other major known issues in this release:
 
+* Graphics - Framerate slowdown on the 9600M GT - seems to only be an issue with this GPU (issue 316).
 * Input - multiple controllers/players. When using multiple controllers, there is currently no way to switch which controller belongs to which player (issue 334).
 * ROMs with the .bin extension are not supported. If they are for Sega Genesis/Mega Drive, simply rename to .smd or .gen. (issue 139).
 * Compressed ROMs are not currently supported (issue 103).
