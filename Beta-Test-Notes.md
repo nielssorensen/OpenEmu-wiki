@@ -12,7 +12,9 @@ Mac OS X 10.7
 
 # Game Controllers
 
-Any generic HID compliant USB or Bluetooth game controller should work with OpenEmu out of the box. OpenEmu now automatically maps controls for the following recognized devices in our database:
+Any generic HID compliant USB or Bluetooth game controller should work with OpenEmu out of the box.
+
+OpenEmu now automatically maps controls for the following recognized devices in our database:
 * Xbox 360 and 3rd party controllers (driver required)
 * PlayStation 3
 * Logitech series (Dual Action, Rumblepad 2, Gamepad F310/F510/F710)
