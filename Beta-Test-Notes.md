@@ -12,7 +12,17 @@ Mac OS X 10.7
 
 # Game Controllers
 
-Any generic HID compliant USB or Bluetooth game controller should work with OpenEmu out of the box. Wii Remote and Wii Classic Controllers, wired XBox 360 controllers, and Playstation 3 controllers are natively supported. Be sure to pair your wireless controllers (and unpair them from other devices) before using with OpenEmu. Wii Remotes can be paired by holding buttons 1 and 2 simultaneously while in the Controls preferences. If using the XBox 360 controller, please install the latest driver for 10.7 found at http://tattiebogle.net/index.php/ProjectRoot/Xbox360Controller/OsxDriver.
+Any generic HID compliant USB or Bluetooth game controller should work with OpenEmu out of the box. OpenEmu now automatically maps controls for the following recognized devices in our database:
+* Xbox 360 and 3rd party controllers (driver required)
+* PlayStation 3
+* Logitech series (Dual Action, Rumblepad 2, Gamepad F310/F510/F710)
+* Gravis GamePad Pro
+* RetroUSB SNES RetroPort and RetroPad
+* Sega Saturn USB
+* PS3 Neo Geo Pad USB
+* Retrode (SNES)
+
+**If using an Xbox 360 compatible controller, please install the latest driver found at http://tattiebogle.net/index.php/ProjectRoot/Xbox360Controller/OsxDriver.**
 
 # Known Issues
 
