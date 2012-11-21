@@ -20,13 +20,9 @@ Please be aware that currently OpenEmu does not support compressed ROM files, an
 
 # Other major known issues in this release:
 
-* Setup Assistant: Game Pad setup does not properly set preferences for the Game Cores (issue 136).
+* Input - multiple controllers/players. When using multiple controllers, there is currently no way to switch which controller belongs to which player (issue 334).
 * ROMs with the .bin extension are not supported. If they are for Sega Genesis/Mega Drive, simply rename to .smd or .gen. (issue 139).
-* If you have opted in to the Setup Assistant's automatic ROM importing, there is currently no indication that game importing is happening in the background. Similarly, when dragging many ROMs into the Library, there is no indication of background importing (issue 137).
 * Compressed ROMs are not currently supported (issue 103).
-* You may have to remap your controls from time to time. This can be caused by reconnecting controllers, waking up from sleep or rebooting (issue 118).
-* "Organize Game Library" preference is currently non-functional (issue 138).
-* On some ATI cards, QTZ based filters have inverted colors (issue 142).
 * Discontinued the Quartz Composer plugins originally included in earlier betas. Please know that currently they are discontinued to focus on the main app. We hope to return to their development in the future. In the meantime, we hope that the inclusion of Syphon is sufficient.
 
 # Reporting Bugs
