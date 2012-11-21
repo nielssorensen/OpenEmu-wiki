@@ -16,7 +16,7 @@ Any generic HID compliant USB or Bluetooth game controller should work with Open
 
 # Known Issues
 
-Please be aware that currently OpenEmu does not support compressed ROM files, and that not all imported ROMs may have artwork associated with them on archive.vg. An internet connection is required to download artwork and game metadata. Additionally, game library organization (found in preferences) is currently non-functioning. 
+Please be aware that currently OpenEmu does not support compressed ROM files, and that not all imported ROMs may have artwork associated with them on archive.vg. An internet connection is required to download artwork and game metadata.
 
 # Other major known issues in this release:
 
