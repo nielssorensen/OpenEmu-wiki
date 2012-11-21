@@ -7,7 +7,7 @@ Mac OS X 10.7 or greater
 # Setup
 
 1. If you've run OpenEmu before, please remove folders in ~/Library/Application Support/OpenEmu and /Library/Application Support/OpenEmu as well as plists related to OpenEmu in ~/Library/Preferences.
-2. Copy the App to your Applications folder.
+2. Copy the App to your Applications folder. Note that removing ~/Library/Application Support/OpenEmu removes all ROM files that were automatically copied by OpenEmu when importing ROMs, so make a backup in case you don’t have those ROM files stored somewhere else.
 3. Launch OpenEmu, and let the setup assistant run, optionally importing roms. Note that OpenEmu copies ROM files to its internal library folder in ~/Library/Application Support/OpenEmu/ by default.
 
 # Game Controllers
