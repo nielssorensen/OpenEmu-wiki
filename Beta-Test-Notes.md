@@ -10,6 +10,8 @@ Mac OS X 10.7 or greater
 2. Copy the App to your Applications folder.
 3. Launch OpenEmu, and let the setup assistant run, optionally importing roms. Note that OpenEmu copies ROM files to its internal library folder in ~/Library/Application Support/OpenEmu/ by default.
 
+**Additionally you can run this Apple Script to automate the process https://raw.github.com/OpenEmu/OpenEmu/master/Scripts/OpenEmuWiper.applescript (save page as and run)**
+
 # Game Controllers
 
 Any generic HID compliant USB or Bluetooth game controller should work with OpenEmu out of the box.
