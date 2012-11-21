@@ -1,4 +1,4 @@
-## Welcome to the OpenEmu 1.0 Beta 8
+## Welcome to the OpenEmu 1.0 Beta 9
 
 # Requirements:
 
@@ -8,7 +8,7 @@ Mac OS X 10.7
 
 1. If you've run OpenEmu before, please remove folders in ~/Library/Application Support/OpenEmu and /Library/Application Support/OpenEmu as well as plists related to OpenEmu in ~/Library/Preferences.
 2. Copy the App to your Applications folder.
-3. Launch OpenEmu, and let the setup assistant run, optionally importing roms and setting up your gamepad.
+3. Launch OpenEmu, and let the setup assistant run, optionally importing roms.
 
 # Game Controllers
 
