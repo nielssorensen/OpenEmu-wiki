@@ -7,6 +7,7 @@
 * Commodore 64 (http://viceteam.org/)
 * Nintendo 64 (https://bitbucket.org/richard42/mupen64plus-core/)
 * Sega Dreamcast (?)
+* PSP (https://github.com/hrydgard/ppsspp)
 
 Other 8-bit systems:
 * Amstrad CPC
