@@ -5,7 +5,7 @@
 * Atari 7800 (https://home.comcast.net/~gscottstanton/)
 * Atari Jaguar (http://icculus.org/virtualjaguar/)
 * Commodore 64 (http://viceteam.org/)
-* Nintendo 64 (https://bitbucket.org/richard42/mupen64plus-core/)
+* <s>Nintendo 64 (https://bitbucket.org/richard42/mupen64plus-core/)</s>
 * Sega Dreamcast (?)
 * PSP (https://github.com/hrydgard/ppsspp)
 
