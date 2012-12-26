@@ -48,9 +48,10 @@ Once Xcode has finished compiling the application, it should launch OpenEmu. (if
 
 ###Step 8
 
-You will most likely want to use OpenEmu again after quitting the application or quitting Xcode in Step 7. XCode has compiled and placed the application in a rather unusual place. From the desktop, hold down the 'alt' key on your keyboard and click on the 'Go' item in the menubar. With the alt key still held down, click on the  item labelled 'Library'. This will open up your user Library folder. From here, navigate through the following folder hierarchy:
+You will most likely want to use OpenEmu again after quitting the application or quitting Xcode in Step 7. XCode has compiled OpenEmu, and placed a link to it in the Products folder in the XCode Project. Make sure you are on the Project Navigator tab (underneath the Run button, you should see a Folder icon, make sure it is selected). Reveal the files in the OpenEmu Project by clicking the disclosure triangle on the OpenEmu Project, and then press the disclosure triangle for the "Products" folder. You can then control click on OpenEmu.app, and "Show in Finder".
 
-Library > Developer > Xcode > DerivedData > OpenEmu-eshbhsb... (or something similar) > Build > Products > Debug > OpenEmu.app
+![OpenEmu Product location](http://i.imgur.com/2oKbN.png)
+
 
 ![OpenEmu.app Inside The 'Debug' Folder](http://f.cl.ly/items/2z0W3B1P1O2i0w142f0I/8.png)
 
