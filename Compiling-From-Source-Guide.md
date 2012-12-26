@@ -4,11 +4,9 @@ Using the guide below, we will try and walk you through the steps required to do
 
 ###Step 1
 
-Download and install the latest copy of XCode from the Mac App Store: <https://itunes.apple.com/gb/app/xcode/id497799835?mt=12>... 
+Download and install the latest copy of XCode from the Mac App Store: <https://itunes.apple.com/gb/app/xcode/id497799835?mt=12> This is free software provided by Apple. It is a hefty download weighing in at 1.5GB at time of writing. So download it, grab a coffee and see you for step 2 once the download is complete!... 
 
 ![XCode Is Available Via The Mac App Store](http://f.cl.ly/items/0Q3u3G2N351Z120t0823/0.jpg)
-
-This is free software provided by Apple. It is a hefty download weighing in at 1.5GB at time of writing. So download it, grab a coffee and see you for step 2 once the download is complete!
 
 ###Step 2
 
@@ -22,11 +20,9 @@ Once the ZIP repository has finished downloading, the .zip file should automatic
 
 ###Step 4
 
-Open the folder called 'OpenEmu-master' and browse through the files until you find the XCode project file called 'OpenEmu.xcworkspace'...
+Open the folder called 'OpenEmu-master' and browse through the files until you find the XCode project file called 'OpenEmu.xcworkspace'. Double click this file and it should launch Xcode....
 
 ![OpenEmu-master Folder](http://f.cl.ly/items/202V3S0R1c1o0x0s1V3z/3.png)
-
-Double click this file and it should launch Xcode.
 
 ###Step 5
 
@@ -46,11 +42,9 @@ With the correct scheme selected in Step 5, you are now ready to build and compi
 
 ###Step 7
 
-Once Xcode has finished compiling the application, it should launch OpenEmu. (if not you can find the application and launch it manually by going to Step 8 below)...
+Once Xcode has finished compiling the application, it should launch OpenEmu. (if not you can find the application and launch it manually by going to Step 8 below) From here, you can begin playing your favorite games and using the application as normal (assuming that the source code you downloaded is in a usable state!)....
 
 ![OpenEmu: All Fresh & New](http://f.cl.ly/items/220f2f270x270B3r1I3p/7.png)
-
-From here, you can begin playing your favorite games and using the application as normal (assuming that the source code you downloaded is in a usable state!).
 
 ###Step 8
 
