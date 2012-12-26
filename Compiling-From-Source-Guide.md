@@ -6,7 +6,7 @@ Using the guide below, we will try and walk you through the steps required to do
 
 Download and install the latest copy of XCode from the Mac App Store: <https://itunes.apple.com/gb/app/xcode/id497799835?mt=12>... 
 
-![XCode Is Available Via The Mac App Store](http://cl.ly/image/283l3Y201r1C)
+![XCode Is Available Via The Mac App Store](http://f.cl.ly/items/0Q3u3G2N351Z120t0823/0.jpg)
 
 This is free software provided by Apple. It is a hefty download weighing in at 1.5GB at time of writing. So download it, grab a coffee and see you for step 2 once the download is complete!
 
