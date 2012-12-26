@@ -1,6 +1,6 @@
 Using the guide below, we will try and walk you through the steps required to download and compile the OpenEmu application from source. You will need a Macintosh computer running OSX 10.7 or 10.8. We recommend updating to the latest version and ensuring all software is up to date...
 
-{{insert some mention or insutructions if you have compiled or installed the app before?}}
+If you have used earlier OpenEmu versions (Version 1.0b7, please see "Cleanup Earlier Versions" at the bottom before compiling OpenEmu)
 
 ###Step 1
 
@@ -56,3 +56,17 @@ You will most likely want to use OpenEmu again after quitting the application or
 ![OpenEmu.app Inside The 'Debug' Folder](http://f.cl.ly/items/2z0W3B1P1O2i0w142f0I/8.png)
 
 You can of course launch the application directly from this folder, or, feel free to move it over to your applciations folder so it is easier to find and launch next time!.
+
+### Cleaning Up Previous Versions
+
+If you have installed or used earlier versions of OpenEmu, some things have changed that require manual cleanup to ensure proper functionality of OpenEmu 1.0.
+
+### A) Remove older cores.
+
+Navigate to your /Library/Application Support/OpenEmu folder and delete it.
+
+### B) Remove older preferences
+
+Navigate to you home folder, library: ~/Library/Preferences/ and remove the org.openemu.openemu preferences file there, and any files labeled OpenEmu.
+
+### C) Procede to Step 1 to compile OpenEmu.
