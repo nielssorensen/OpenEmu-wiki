@@ -1,11 +1,10 @@
-
 Using the guide below, we will try and walk you through the steps required to download and compile the OpenEmu application from source. You will need a Macintosh computer running OSX 10.8 or above. We recommend updating to the latest version and ensuring all software is up to date...
 
 {{insert some mention or insutructions if you have compiled or installed the app before?}}
 
 ###Step 1
 
-Download and install the latest copy of XCode from the Mac App Store... 
+Download and install the latest copy of XCode from the Mac App Store: <https://itunes.apple.com/gb/app/xcode/id497799835?mt=12>... 
 
 ![XCode Is Available Via The Mac App Store](http://cl.ly/image/283l3Y201r1C)
 
