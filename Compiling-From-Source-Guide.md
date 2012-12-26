@@ -14,7 +14,7 @@ This is free software provided by Apple. It is a hefty download weighing in at 1
 
 With Xcode downloaded and installed on your computer, we now need to go and grab the source code for OpenEmu. To get this, please go to the following page: <https://github.com/OpenEmu/OpenEmu> and downlaod the latest .zip repository. You will see a button labelled 'ZIP' with a little cloud like icon next to it. Click that, and your download will begin...
 
-![Download The ZIP Repository](http://cl.ly/image/1L2U3H1u2x02)
+![Download The ZIP Repository](http://f.cl.ly/items/1T443P381a2U2r2G2L13/1.png)
 
 ###Step 3
 
@@ -24,7 +24,7 @@ Once the ZIP repository has finished downloading, the .zip file should automatic
 
 Open the folder called 'OpenEmu-master' and browse through the files until you find the XCode project file called 'OpenEmu.xcworkspace'...
 
-![OpenEmu-master Folder](http://cl.ly/image/1h2z0J0i061t)
+![OpenEmu-master Folder](http://f.cl.ly/items/202V3S0R1c1o0x0s1V3z/3.png)
 
 Double click this file and it should launch Xcode.
 
@@ -32,23 +32,23 @@ Double click this file and it should launch Xcode.
 
 With Xcode open, you will see a lot of files and 'cores' that make up the OpenEmu application in the left sidebar. At the top of the application you will see a lot of buttons. You need to click on the funky looking long bar and select the correct 'Scheme'...
 
-![The Scheme Bar](http://cl.ly/image/3n2P0g2C1i1v)
+![The Scheme Bar](http://f.cl.ly/items/1O0f2P1m0u1P2w450d0W/4.png)
 
 Click on the left-most portion of this bar, and be sure to scroll through the popover and select 'Build All' > 'My Mac 64 Bit' {{insert some note here about that?}}...
 
-![Selecting The Correct Scheme](http://cl.ly/image/2n1a0q2B1w3w)
+![Selecting The Correct Scheme](http://f.cl.ly/items/0y400G2o3B0q30311Q0J/5.png)
 
 ###Step 6
 
 With the correct scheme selected in Step 5, you are now ready to build and compile the application. To do so, click on the 'Run' button top left of Xcode (it looks like a Play button). This will begin compiling the application. This process should take around 5 minutes or so to complete...
 
-![OpenEmu Compiling - Status](http://cl.ly/image/0T1s0Y2J2X1j)
+![OpenEmu Compiling - Status](http://f.cl.ly/items/1g060b2B3t2N2b2U0W02/6.png)
 
 ###Step 7
 
 Once Xcode has finished compiling the application, it should launch OpenEmu. (if not you can find the application and launch it manually by going to Step 8 below)...
 
-![OpenEmu: All Fresh & New](http://cl.ly/image/2w1f1S3K1W3V)
+![OpenEmu: All Fresh & New](http://f.cl.ly/items/220f2f270x270B3r1I3p/7.png)
 
 From here, you can begin playing your favorite games and using the application as normal (assuming that the source code you downloaded is in a usable state!).
 
@@ -58,6 +58,6 @@ You will most likely want to use OpenEmu again after quitting the application or
 
 Library > Developer > Xcode > DerivedData > OpenEmu-eshbhsb... (or something similar) > Build > Products > Debug > OpenEmu.app
 
-![OpenEmu.app Inside The 'Debug' Folder](http://cl.ly/image/0l0m3c2l3U0d)
+![OpenEmu.app Inside The 'Debug' Folder](http://f.cl.ly/items/2z0W3B1P1O2i0w142f0I/8.png)
 
 You can of course launch the application directly from this folder, or, feel free to move it over to your applciations folder so it is easier to find and launch next time!.
