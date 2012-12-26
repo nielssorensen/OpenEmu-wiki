@@ -1,3 +1,7 @@
+### How to Compile OpenEmu from Source
+
+To compile OpenEmu, please make sure you run Mac OS X 10.7 or 10.8, with XCode 4.5 installed. For detailed compilation guide, please see: [Compiling OpenEmu](https://github.com/OpenEmu/OpenEmu/wiki/Compiling-From-Source-Guide)
+
 ### New UI To Do List
 
 ### Priority
