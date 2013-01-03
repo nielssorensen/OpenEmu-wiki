@@ -8,6 +8,8 @@
 **Compatability:** 100% of known games work<br>
 **Project Website:** http://vba.ngemu.com<br>
 
+***
+
 **Nintendo (NES)**<br>
 
 **FCEU**<br>
