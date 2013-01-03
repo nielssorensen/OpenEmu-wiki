@@ -16,13 +16,13 @@
 
 **Core:** FCEU<br>
 **Status:** Stable and working, this is our default NES core<br>
-**Compatability:** n/a<br>
+**Compatability:** xxx<br>
 **Website:** http://www.fceux.com/web/home.html<br>
 
 **Core:** Nestopia<br>
 **Status:** Stable and working<br>
-**Compatability:** n/a<br>
-**Website:** n/a<br>
+**Compatability:** xxx<br>
+**Website:** xxx<br>
 
 
 ***
