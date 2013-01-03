@@ -7,6 +7,10 @@
 **Status:** Stable and working, this is our default NES core<br>
 **Project Website:** http://www.fceux.com/web/home.html<br>
 
+**Nestopia**<br>
+**Status:** Stable and working<br>
+**Project Website:** n/a<br>
+
 # Post OpenEmu 1.0
 
 **Console**<br>
