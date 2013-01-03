@@ -1,4 +1,5 @@
-# For OpenEmu 1.0
+<br>
+# For OpenEmu 1.0 
 
 **Nintendo (NES)**<br>
 
