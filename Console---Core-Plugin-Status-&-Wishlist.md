@@ -1,14 +1,23 @@
 <br>
 # For OpenEmu 1.0 
 
+**GameBoy Advance**<br>
+
+**Visual Boy Advance**<br>
+**Status:** Stable and working<br>
+**Compatability:** 100% of known games work<br>
+**Project Website:** http://vba.ngemu.com<br>
+
 **Nintendo (NES)**<br>
 
 **FCEU**<br>
 **Status:** Stable and working, this is our default NES core<br>
+**Compatability:** n/a<br>
 **Project Website:** http://www.fceux.com/web/home.html<br>
 
 **Nestopia**<br>
 **Status:** Stable and working<br>
+**Compatability:** n/a<br>
 **Project Website:** n/a<br>
 
 # Post OpenEmu 1.0
@@ -17,6 +26,7 @@
 
 **Project Name**<br>
 **Status:** xxx<br>
+**Compatability:** n/a<br>
 **Project:** xxx<br>
 
 
