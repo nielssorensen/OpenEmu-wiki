@@ -1,17 +1,17 @@
-
 # For OpenEmu 1.0
 
-## Nintendo (NES)
-* FCEU
-Status: Stable and working, this is our default NES core
-Project Website: http://www.fceux.com/web/home.html
+# Nintendo (NES)
+
+**FCEU**
+**Status:** Stable and working, this is our default NES core
+**Project Website:** http://www.fceux.com/web/home.html
 
 # Post OpenEmu 1.0
 
-## Console
-* Project Name
-Status: xxx
-Project: xxx
+# Console
+**Project Name**
+**Status:** xxx
+**Project:** xxx
 
 
 # Old Stuff To Sort...
