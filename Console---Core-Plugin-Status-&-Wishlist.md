@@ -1,6 +1,6 @@
 # For OpenEmu 1.0
 
-# Nintendo (NES)
+**Nintendo (NES)**<br>
 
 **FCEU**<br>
 **Status:** Stable and working, this is our default NES core<br>
@@ -8,7 +8,7 @@
 
 # Post OpenEmu 1.0
 
-# Console
+**Console**<br>
 
 **Project Name**<br>
 **Status:** xxx<br>
