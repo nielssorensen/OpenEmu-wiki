@@ -42,7 +42,7 @@
 **Project:** xxx<br>
 
 
-# Old Stuff To Sort...
+# Old Stuff To Sort & Then Delete...
 
 * 3DO (Freedo, 4DO, 3DOplay)
 * Amiga CD32 (http://fengestad.no/wp/fs-uae)
