@@ -22,6 +22,16 @@
 **Compatability:** n/a<br>
 **Project Website:** n/a<br>
 
+***
+
+**Sega Genesis / Megadrive**<br>
+
+**Genesis Plus**<br>
+**Status:** xxx<br>
+**Compatability:** xxx<br>
+**Project Website:** xxx<br>
+
+
 # Post OpenEmu 1.0
 
 **Console**<br>
