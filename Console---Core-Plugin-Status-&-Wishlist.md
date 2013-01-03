@@ -36,7 +36,7 @@
 **Website:** xxx<br>
 
 
-# Post OpenEmu 1.0
+# Future Releases (Post-1.0 Release)
 
 **Console**<br>
 
