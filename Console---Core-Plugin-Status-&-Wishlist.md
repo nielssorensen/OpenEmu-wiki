@@ -3,7 +3,7 @@
 
 **GameBoy Advance**<br>
 
-**Visual Boy Advance**<br>
+****Visual Boy Advance****<br>
 **Status:** Stable and working<br>
 **Compatability:** 100% of known games work<br>
 **Project Website:** http://vba.ngemu.com<br>
