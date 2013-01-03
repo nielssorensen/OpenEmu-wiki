@@ -3,7 +3,7 @@
 
 **GameBoy Advance**<br>
 
-****Visual Boy Advance****<br>
+**Core:** Visual Boy Advance<br>
 **Status:** Stable and working<br>
 **Compatability:** 100% of known games work<br>
 **Website:** http://vba.ngemu.com<br>
@@ -14,12 +14,12 @@
 
 **Nintendo (NES)**<br>
 
-**FCEU**<br>
+**Core:** FCEU<br>
 **Status:** Stable and working, this is our default NES core<br>
 **Compatability:** n/a<br>
 **Website:** http://www.fceux.com/web/home.html<br>
 
-**Nestopia**<br>
+**Core:** Nestopia<br>
 **Status:** Stable and working<br>
 **Compatability:** n/a<br>
 **Website:** n/a<br>
@@ -30,7 +30,7 @@
 
 **Sega Genesis / Megadrive**<br>
 
-**Genesis Plus**<br>
+**Core:** GenesisPlus<br>
 **Status:** xxx<br>
 **Compatability:** xxx<br>
 **Website:** xxx<br>
