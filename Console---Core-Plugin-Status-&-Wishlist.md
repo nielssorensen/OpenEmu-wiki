@@ -1,3 +1,21 @@
+
+# For OpenEmu 1.0
+
+## Nintendo (NES)
+* FCEU
+Status: Stable and working, this is our default NES core
+Project Website: http://www.fceux.com/web/home.html
+
+# Post OpenEmu 1.0
+
+## Console
+* Project Name
+Status: xxx
+Project: xxx
+
+
+# Old Stuff To Sort...
+
 * 3DO (Freedo, 4DO, 3DOplay)
 * Amiga CD32 (http://fengestad.no/wp/fs-uae)
 * <s>Atari 2600 (http://stella.sourceforge.net/ or http://www.whimsey.com/z26/)</s>
