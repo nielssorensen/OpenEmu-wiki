@@ -8,7 +8,9 @@
 **Compatability:** 100% of known games work<br>
 **Project Website:** http://vba.ngemu.com<br>
 
+
 ***
+
 
 **Nintendo (NES)**<br>
 
@@ -22,7 +24,9 @@
 **Compatability:** n/a<br>
 **Project Website:** n/a<br>
 
+
 ***
+
 
 **Sega Genesis / Megadrive**<br>
 
