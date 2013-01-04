@@ -37,9 +37,9 @@
 **NeoGeo Pocket**<br>
 
 **Core:** NeoPop<br>
-**Status:** ???<br>
-**Compatability:** ???<br>
-**Website:** ???<br>
+**Status:** Stable and working<br>
+**Compatability:** 100% of known games work<br>
+**Website:** http://www.nih.at/NeoPop-SDL/<br>
 
 
 ***
