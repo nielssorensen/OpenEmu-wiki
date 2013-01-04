@@ -1,7 +1,7 @@
 <br>
 # For OpenEmu 1.0 
 
-**GameBoy**<br>
+**Game Boy**<br>
 
 **Core:** Gambatte<br>
 **Status:** Stable and working<br>
@@ -12,7 +12,7 @@
 ***
 
 
-**GameBoy Advance**<br>
+**Game Boy Advance**<br>
 
 **Core:** Visual Boy Advance<br>
 **Status:** Stable and working<br>
@@ -27,7 +27,7 @@
 
 **Core:** CrabEmu<br>
 **Status:** Stable and working<br>
-**Compatability:** ???<br>
+**Compatability:** 100% of known games work<br>
 **Website:** http://sourceforge.net/projects/crabemu/?source=navbar<br>
 
 
@@ -49,13 +49,13 @@
 
 **Core:** FCEU<br>
 **Status:** Stable and working, this is our default NES core<br>
-**Compatability:** ???<br>
+**Compatability:** 100% of known games work<br>
 **Website:** http://www.fceux.com/web/home.html<br>
 
 **Core:** Nestopia<br>
 **Status:** Stable and working<br>
-**Compatability:** ???<br>
-**Website:** ???<br>
+**Compatability:** 100% of known games work<br>
+**Website:** http://nestopia.sourceforge.net/<br>
 
 
 ***
@@ -65,8 +65,8 @@
 
 **Core:** GenesisPlus<br>
 **Status:** Stable and working<br>
-**Compatability:** ???<br>
-**Website:** ???<br>
+**Compatability:** 100% of known games work<br>
+**Website:** http://code.google.com/p/genplus-gx/<br>
 
 
 ***
@@ -76,7 +76,7 @@
 
 **Core:** CrabEmu<br>
 **Status:** Stable and working<br>
-**Compatability:** ???<br>
+**Compatability:** 100% of known games work<br>
 **Website:** http://sourceforge.net/projects/crabemu/?source=navbar<br>
 
 
@@ -87,12 +87,12 @@
 
 **Core:** SNES9x<br>
 **Status:** Stable and working. This our our default Super Nintendo core.<br>
-**Compatability:** ???<br>
+**Compatability:** Very High<br>
 **Website:** http://www.snes9x.com<br>
 
 **Core:** BSNES<br>
 **Status:** Stable and working.<br>
-**Compatability:** ???<br>
+**Compatability:** 100% of known games work<br>
 **Website:** http://byuu.org/bsnes/<br>
 
 
