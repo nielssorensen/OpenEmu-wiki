@@ -1,7 +1,7 @@
 ## Getting Started
 You will need the [latest Xcode](https://developer.apple.com/xcode/) (4.5.1 or greater) to build OpenEmu.
 
-Clone the [OpenEmu repo](https://github.com/OpenEmu/OpenEmu) on GitHub. Use the [Mac for GitHub](http://mac.github.com/) app if you're new to Git or don't want to use the command line.
+Clone the [OpenEmu repo](https://github.com/OpenEmu/OpenEmu) on GitHub. Use the [GitHub for Mac](http://mac.github.com/) app if you're new to Git or don't want to use the command line.
 
 Enable the debug preferences pane in OpenEmu with: `defaults write org.openemu.OpenEmu debug 1`
 
