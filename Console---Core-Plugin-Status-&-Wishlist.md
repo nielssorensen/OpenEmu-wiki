@@ -1,12 +1,34 @@
 <br>
 # For OpenEmu 1.0 
 
+**GameBoy**<br>
+
+**Core:** Gambatte<br>
+**Status:** Stable and working<br>
+**Compatability:** 100% of known games work<br>
+**Website:** http://sourceforge.net/projects/gambatte/<br>
+
+
+***
+
+
 **GameBoy Advance**<br>
 
 **Core:** Visual Boy Advance<br>
 **Status:** Stable and working<br>
 **Compatability:** 100% of known games work<br>
 **Website:** http://vba.ngemu.com<br>
+
+
+***
+
+
+**Game Gear**<br>
+
+**Core:** CrabEmu<br>
+**Status:** Stable and working<br>
+**Compatability:** ???<br>
+**Website:** http://sourceforge.net/projects/crabemu/?source=navbar<br>
 
 
 ***
@@ -31,9 +53,36 @@
 **Sega Genesis / Megadrive**<br>
 
 **Core:** GenesisPlus<br>
-**Status:** xxx<br>
-**Compatability:** xxx<br>
-**Website:** xxx<br>
+**Status:** Stable and working<br>
+**Compatability:** ???<br>
+**Website:** ???<br>
+
+
+***
+
+
+**Sega Master System**<br>
+
+**Core:** CrabEmu<br>
+**Status:** Stable and working<br>
+**Compatability:** ???<br>
+**Website:** http://sourceforge.net/projects/crabemu/?source=navbar<br>
+
+
+***
+
+
+**Super Nintendo (SNES)**<br>
+
+**Core:** SNES9x<br>
+**Status:** Stable and working. This our our default Super Nintendo core.<br>
+**Compatability:** ???<br>
+**Website:** http://www.snes9x.com<br>
+
+**Core:** BSNES<br>
+**Status:** Stable and working.<br>
+**Compatability:** ???<br>
+**Website:** http://byuu.org/bsnes/<br>
 
 
 # Future Releases (Post-1.0 Release)
