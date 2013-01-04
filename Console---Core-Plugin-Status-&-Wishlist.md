@@ -34,17 +34,28 @@
 ***
 
 
+**NeoGeo Pocket**<br>
+
+**Core:** NeoPop<br>
+**Status:** ???<br>
+**Compatability:** ???<br>
+**Website:** ???<br>
+
+
+***
+
+
 **Nintendo (NES)**<br>
 
 **Core:** FCEU<br>
 **Status:** Stable and working, this is our default NES core<br>
-**Compatability:** xxx<br>
+**Compatability:** ???<br>
 **Website:** http://www.fceux.com/web/home.html<br>
 
 **Core:** Nestopia<br>
 **Status:** Stable and working<br>
-**Compatability:** xxx<br>
-**Website:** xxx<br>
+**Compatability:** ???<br>
+**Website:** ???<br>
 
 
 ***
