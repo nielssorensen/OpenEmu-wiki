@@ -12,7 +12,7 @@
 * Sega Master System
 * Super Nintendo (SNES)
 
-### System By System Details<br>
+### System By System Core Details<br>
 
 **Game Boy**<br>
 
@@ -110,6 +110,13 @@
 
 
 # Future Releases (Post-1.0 Release)
+
+### Systems List<br>
+
+* Console or System Name 1
+* Console or System Name 2
+
+### System By System Core Details<br>
 
 **Console**<br>
 
