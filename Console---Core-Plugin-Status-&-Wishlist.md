@@ -111,6 +111,8 @@
 
 # Future Releases (Post-1.0 Release)
 
+Note: the following systems will be rolled out steadily after the initial 1.0 release (in no specific order). Some of these cores will also require the addition of specific interface processes (e.g. BIOS installation) before they can be readied for the public. 
+
 ### Systems List<br>
 
 * Console or System Name 1
