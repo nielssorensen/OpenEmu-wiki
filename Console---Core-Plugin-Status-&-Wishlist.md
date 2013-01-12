@@ -1,7 +1,20 @@
 <br>
 # For OpenEmu 1.0 
 
-### Game Boy<br>
+### Systems List<br>
+
+* Game Boy (+ Game Boy Color)
+* Game Boy Advance
+* Game Gear
+* NeoGeo Pocket
+* Nintendo (NES) / Famicom
+* Sega Genesis / Megadrive
+* Sega Master System
+* Super Nintendo (SNES)
+
+### System By System Details<br>
+
+**Game Boy**<br>
 
 **Core:** Gambatte<br>
 **Status:** Stable and working<br>
