@@ -1,7 +1,7 @@
 <br>
 # For OpenEmu 1.0 
 
-### **Game Boy**<br>
+### Game Boy<br>
 
 **Core:** Gambatte<br>
 **Status:** Stable and working<br>
