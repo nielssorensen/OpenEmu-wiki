@@ -22,8 +22,6 @@
 **Website:** http://sourceforge.net/projects/gambatte/<br>
 
 
-***
-
 
 **Game Boy Advance**<br>
 
@@ -32,8 +30,6 @@
 **Compatability:** 100% of known games work<br>
 **Website:** http://vba.ngemu.com<br>
 
-
-***
 
 
 **Game Gear**<br>
@@ -44,8 +40,6 @@
 **Website:** http://sourceforge.net/projects/crabemu/?source=navbar<br>
 
 
-***
-
 
 **NeoGeo Pocket**<br>
 
@@ -54,8 +48,6 @@
 **Compatability:** 100% of known games work<br>
 **Website:** http://www.nih.at/NeoPop-SDL/<br>
 
-
-***
 
 
 **Nintendo (NES)**<br>
@@ -71,8 +63,6 @@
 **Website:** http://nestopia.sourceforge.net/<br>
 
 
-***
-
 
 **Sega Genesis / Megadrive**<br>
 
@@ -82,8 +72,6 @@
 **Website:** http://code.google.com/p/genplus-gx/<br>
 
 
-***
-
 
 **Sega Master System**<br>
 
@@ -92,8 +80,6 @@
 **Compatability:** 100% of known games work<br>
 **Website:** http://sourceforge.net/projects/crabemu/?source=navbar<br>
 
-
-***
 
 
 **Super Nintendo (SNES)**<br>
