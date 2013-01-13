@@ -10,7 +10,7 @@ Download and install the latest copy of XCode from the Mac App Store: <https://i
 
 ###Step 2
 
-With Xcode downloaded and installed on your computer, we now need to go and grab the source code for OpenEmu. To get this, please go to the following page: <https://github.com/OpenEmu/OpenEmu> and downlaod the latest .zip repository. You will see a button labelled 'ZIP' with a little cloud like icon next to it. Click that, and your download will begin...
+With Xcode downloaded and installed on your computer, we now need to go and grab the source code for OpenEmu. To get this, please go to the following page: <https://github.com/OpenEmu/OpenEmu> and download the latest .zip repository. You will see a button labelled 'ZIP' with a little cloud like icon next to it. Click that, and your download will begin...
 
 ![Download The ZIP Repository](http://f.cl.ly/items/1T443P381a2U2r2G2L13/1.png)
 
@@ -55,7 +55,7 @@ You will most likely want to use OpenEmu again after quitting the application or
 
 ![OpenEmu.app Inside The 'Debug' Folder](http://f.cl.ly/items/2z0W3B1P1O2i0w142f0I/8.png)
 
-You can of course launch the application directly from this folder, or, feel free to move it over to your applciations folder so it is easier to find and launch next time!.
+You can of course launch the application directly from this folder, or, feel free to move it over to your applications folder so it is easier to find and launch next time!.
 
 ### Cleaning Up Previous Versions
 
