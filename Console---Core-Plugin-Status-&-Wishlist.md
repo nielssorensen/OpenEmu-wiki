@@ -126,6 +126,7 @@ Clobber, update this stuff? not sure what the ones with strike-throughs mean exa
 * Atari Jaguar (http://icculus.org/virtualjaguar/)
 * Commodore 64 (http://viceteam.org/)
 * <s>Nintendo 64 (https://bitbucket.org/richard42/mupen64plus-core/)</s>
+* Sega CD (?)
 * Sega Dreamcast (?)
 * PSP (https://github.com/hrydgard/ppsspp)
 
