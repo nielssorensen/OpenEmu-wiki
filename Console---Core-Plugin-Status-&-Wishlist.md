@@ -143,7 +143,7 @@ Note: the following systems will be rolled out steadily after the initial 1.0 re
 
 **Core:** Mednafen<br>
 **Status:** Stable and working.<br>
-**Compatability:** Very High<br>
+**Compatability:** High<br>
 **Website:** http://mednafen.sourceforge.net/<br>
 
 
