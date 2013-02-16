@@ -101,22 +101,88 @@ Note: the following systems will be rolled out steadily after the initial 1.0 re
 
 ### Systems List<br>
 
-* Console or System Name 1
-* Console or System Name 2
+* Nintendo 64
+* TurboGrafx-16/PC Engine
+* Nintendo DS
+* Playstation
+* Virtual Boy
+* PC-FX
+* WonderSwan
+* Atari Lynx
 
 ### System By System Core Details<br>
 
-**Console**<br>
+**Nintendo 64**<br>
 
-**Project Name**<br>
-**Status:** xxx<br>
-**Compatability:** n/a<br>
-**Website:** xxx<br>
+**Core:** Mupen64Plus<br>
+**Status:** Stable and working.<br>
+**Compatability:** http://code.google.com/p/mupen64plus/wiki/GameCompatibility<br>
+**Website:** http://code.google.com/p/mupen64plus/<br>
 
+
+
+**TurboGrafx-16/PC Engine**<br>
+
+**Core:** Mednafen<br>
+**Status:** Stable and working.<br>
+**Compatability:** Very High<br>
+**Website:** http://mednafen.sourceforge.net/<br>
+
+
+
+**Nintendo DS**<br>
+
+**Core:** DeSmuME<br>
+**Status:** Stable and working.<br>
+**Compatability:** High<br>
+**Website:** http://desmume.org/<br>
+
+
+
+**Playstation**<br>
+
+**Core:** Mednafen<br>
+**Status:** Stable and working.<br>
+**Compatability:** Very High<br>
+**Website:** http://mednafen.sourceforge.net/<br>
+
+
+
+**Virtual Boy**<br>
+
+**Core:** Mednafen<br>
+**Status:** Stable and working.<br>
+**Compatability:** 100% of known games work<br>
+**Website:** http://mednafen.sourceforge.net/<br>
+
+
+
+**PC-FX**<br>
+
+**Core:** Mednafen<br>
+**Status:** Stable and working.<br>
+**Compatability:** Very High<br>
+**Website:** http://mednafen.sourceforge.net/<br>
+
+
+
+**WonderSwan**<br>
+
+**Core:** Mednafen<br>
+**Status:** Stable and working.<br>
+**Compatability:** Very High<br>
+**Website:** http://mednafen.sourceforge.net/<br>
+
+
+
+**Atari Lynx**<br>
+
+**Core:** Mednafen<br>
+**Status:** Stable and working.<br>
+**Compatability:** Very High<br>
+**Website:** http://mednafen.sourceforge.net/<br>
 
 # Wish List
-
-Clobber, update this stuff? not sure what the ones with strike-throughs mean exactly?
 
 * 3DO (Freedo, 4DO, 3DOplay)
 * Amiga CD32 (http://fengestad.no/wp/fs-uae)
@@ -125,7 +191,6 @@ Clobber, update this stuff? not sure what the ones with strike-throughs mean exa
 * Atari 7800 (https://home.comcast.net/~gscottstanton/)
 * Atari Jaguar (http://icculus.org/virtualjaguar/)
 * Commodore 64 (http://viceteam.org/)
-* <s>Nintendo 64 (https://bitbucket.org/richard42/mupen64plus-core/)</s>
 * Sega CD (?)
 * Sega Dreamcast (?)
 * PSP (https://github.com/hrydgard/ppsspp)
