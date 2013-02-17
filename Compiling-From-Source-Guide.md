@@ -36,19 +36,19 @@ Click on the left-most portion of this bar, and be sure to scroll through the po
 
 ###Step 6
 
-With the correct scheme selected in Step 5, you are now ready to build and compile the application. To do so, click on the 'Run' button top left of Xcode (it looks like a Play button). This will begin compiling the application. This process should take around 5 minutes or so to complete...
+With the correct scheme selected in Step 5, you are now ready to build and compile the application. To do so, either press ⇧⌘I or click on 'Product' > 'Build For' > 'Profiling' in the menu bar up top. This makes sure that you get a release build that makes use of all those optimizations.
 
-![OpenEmu Compiling - Status](http://f.cl.ly/items/1g060b2B3t2N2b2U0W02/6.png)
+![Build for profiling](http://f.cl.ly/items/1Z3G1G3X3E332Q0f0Q3T/profiling.png)
 
 ###Step 7
 
-Once Xcode has finished compiling the application, it should launch OpenEmu. (if not you can find the application and launch it manually by going to Step 8 below) From here, you can begin playing your favorite games and using the application as normal (assuming that the source code you downloaded is in a usable state!)....
+This will begin compiling the application. This process should take around 5 minutes or so to complete...
 
-![OpenEmu: All Fresh & New](http://f.cl.ly/items/220f2f270x270B3r1I3p/7.png)
+![OpenEmu Compiling - Status](http://f.cl.ly/items/1g060b2B3t2N2b2U0W02/6.png)
 
 ###Step 8
 
-You will most likely want to use OpenEmu again after quitting the application or quitting Xcode in Step 7. XCode has compiled OpenEmu, and placed a link to it in the Products folder in the XCode Project. Make sure you are on the Project Navigator tab (underneath the Run button, you should see a Folder icon, make sure it is selected). Reveal the files in the OpenEmu Project by clicking the disclosure triangle on the OpenEmu Project, and then press the disclosure triangle for the "Products" folder. You can then control click on OpenEmu.app, and "Show in Finder".
+XCode has compiled OpenEmu, and placed a link to it in the Products folder in the XCode Project. Make sure you are on the Project Navigator tab (underneath the Run button, you should see a Folder icon, make sure it is selected). Reveal the files in the OpenEmu Project by clicking the disclosure triangle on the OpenEmu Project, and then press the disclosure triangle for the "Products" folder. You can then control click on OpenEmu.app, and "Show in Finder".
 
 ![OpenEmu Product location](http://i.imgur.com/2oKbN.png)
 
@@ -56,6 +56,12 @@ You will most likely want to use OpenEmu again after quitting the application or
 ![OpenEmu.app Inside The 'Debug' Folder](http://f.cl.ly/items/2z0W3B1P1O2i0w142f0I/8.png)
 
 You can of course launch the application directly from this folder, or, feel free to move it over to your applications folder so it is easier to find and launch next time!.
+
+###Step 9
+
+From here, you can begin playing your favorite games and using the application as normal (assuming that the source code you downloaded is in a usable state!)....
+
+![OpenEmu: All Fresh & New](http://f.cl.ly/items/220f2f270x270B3r1I3p/7.png)
 
 ### Cleaning Up Previous Versions
 
