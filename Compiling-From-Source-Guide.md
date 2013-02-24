@@ -63,7 +63,7 @@ If you have installed or used earlier versions of OpenEmu, some things have chan
 
 ### A) Remove older cores.
 
-Navigate to your ~/Library/Application Support/OpenEmu folder and delete it.
+Navigate to ~/Library/Application Support/OpenEmu and delete the "Cores" folder.
 
 ### B) Remove older preferences
 
