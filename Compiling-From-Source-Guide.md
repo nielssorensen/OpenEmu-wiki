@@ -48,12 +48,13 @@ This will begin compiling the application. This process should take around 5 min
 
 ###Step 8
 
-XCode has compiled OpenEmu, and placed a link to it in the Products folder in the XCode Project. Make sure you are on the Project Navigator tab (underneath the Run button, you should see a Folder icon, make sure it is selected). Reveal the files in the OpenEmu Project by clicking the disclosure triangle on the OpenEmu Project, and then press the disclosure triangle for the "Products" folder. You can then control click on OpenEmu.app, and "Show in Finder".
+XCode has compiled OpenEmu. Simply search for OpenEmu.app in Finder, right-click on it and select 'Open Enclosing Folder'.
 
-![OpenEmu Product location](http://i.imgur.com/2oKbN.png)
+![Select 'Open Enclosing Folder'](http://f.cl.ly/items/30291R3k3h071q0x0G0q/Image%202013.03.04%2000:39:28.png)
 
+This should show you the application inside the 'Release' folder.
 
-![OpenEmu.app Inside The 'Debug' Folder](http://f.cl.ly/items/2z0W3B1P1O2i0w142f0I/8.png)
+![OpenEmu.app Inside The 'Release' Folder](http://f.cl.ly/items/2g180t0J0y150V0w1L1k/Image%202013.03.04%2000:30:22.png)
 
 You can of course launch the application directly from this folder, or, feel free to move it over to your applications folder so it is easier to find and launch next time!.
 
@@ -69,7 +70,7 @@ If you have installed or used earlier versions of OpenEmu, some things have chan
 
 ### A) Remove older cores.
 
-Navigate to your /Library/Application Support/OpenEmu folder and delete it.
+Navigate to your ~/Library/Application Support/OpenEmu folder and delete it.
 
 ### B) Remove older preferences
 
