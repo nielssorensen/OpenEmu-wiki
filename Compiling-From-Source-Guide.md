@@ -74,6 +74,6 @@ Navigate to your ~/Library/Application Support/OpenEmu folder and delete it.
 
 ### B) Remove older preferences
 
-Navigate to you home folder, library: ~/Library/Preferences/ and remove the org.openemu.OpenEmu.plist preferences file there, and any files labeled OpenEmu.
+Navigate to you home folder, library: ~/Library/Preferences/ and remove the com.openemu.OpenEmu.plist preferences file there, and any files labeled OpenEmu.
 
 ### C) Procede to Step 1 to compile OpenEmu.
