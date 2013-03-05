@@ -70,10 +70,10 @@ If you have installed or used earlier versions of OpenEmu, some things have chan
 
 ### A) Remove older cores.
 
-Navigate to your ~/Library/Application Support/OpenEmu folder and delete it.
+Navigate to your `~/Library/Application Support/OpenEmu` folder and delete it.
 
 ### B) Remove older preferences
 
-Navigate to you home folder, library: ~/Library/Preferences/ and remove the com.openemu.OpenEmu.plist preferences file there, and any files labeled OpenEmu.
+Navigate to you home folder, library: `~/Library/Preferences/` and remove the `com.openemu.OpenEmu.plist` preferences file there, and any files labeled OpenEmu.
 
 ### C) Procede to Step 1 to compile OpenEmu.
