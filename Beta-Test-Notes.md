@@ -31,7 +31,7 @@ OpenEmu now automatically maps controls for the following recognized devices in 
 
 **If using an Xbox 360 compatible controller, please install the latest driver found at http://tattiebogle.net/index.php/ProjectRoot/Xbox360Controller/OsxDriver.**
 
-**If using a Wiimote or Wii U Pro controller, please go to the Controller preferences, select "Add a Wiimote" from the Input box and following the pairing directions.**
+**If using a Wiimote or Wii U Pro controller, please go to the Controller preferences, select "Add a Wiimote" from the Input box and follow the pairing directions.**
 
 Additionally, you can use [Joypad Connect](http://getjoypad.com/legacy/) to connect your iPhone as a controller.
 
