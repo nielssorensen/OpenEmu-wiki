@@ -31,6 +31,8 @@ OpenEmu now automatically maps controls for the following recognized devices in 
 
 **If using an Xbox 360 compatible controller, please install the latest driver found at http://tattiebogle.net/index.php/ProjectRoot/Xbox360Controller/OsxDriver.**
 
+**If using a Wiimote or Wii U Pro controller, please go to the Controller preferences, select "Add a Wiimote" from the Input box and following the pairing directions**
+
 # Known Issues
 
 Please be aware that currently OpenEmu does not support compressed ROM files, and that not all imported ROMs may have artwork associated with them on archive.vg. An internet connection is required to download emulator cores, artwork and game metadata.
