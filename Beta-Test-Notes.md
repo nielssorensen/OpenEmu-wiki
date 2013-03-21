@@ -1,4 +1,4 @@
-## Welcome to the OpenEmu 1.0 Beta 9
+## Welcome to the OpenEmu 1.0 Beta 10
 
 # Requirements:
 
@@ -31,18 +31,18 @@ OpenEmu now automatically maps controls for the following recognized devices in 
 
 **If using an Xbox 360 compatible controller, please install the latest driver found at http://tattiebogle.net/index.php/ProjectRoot/Xbox360Controller/OsxDriver.**
 
-**If using a Wiimote or Wii U Pro controller, please go to the Controller preferences, select "Add a Wiimote" from the Input box and following the pairing directions**
+**If using a Wiimote or Wii U Pro controller, please go to the Controller preferences, select "Add a Wiimote" from the Input box and following the pairing directions.**
+
+Additionally, you can use [Joypad Connect](http://getjoypad.com/legacy/) to connect your iPhone as a controller.
 
 # Known Issues
 
-Please be aware that currently OpenEmu does not support compressed ROM files, and that not all imported ROMs may have artwork associated with them on archive.vg. An internet connection is required to download emulator cores, artwork and game metadata.
+Single file compressed ROMs are supported, but not files with multiple ROMs.
+Please be aware that not all imported ROMs may have artwork associated with them on [Archive.vg](http://archive.vg). An internet connection is required to download emulator cores, artwork and game metadata.
 
 # Other major known issues in this release:
 
-* Graphics - Framerate slowdown on the 9600M GT - seems to only be an issue with this GPU (issue 316).
 * Input - multiple controllers/players. When using multiple controllers, there is currently no way to switch which controller belongs to which player (issue 334).
-* ROMs with the .bin extension are not supported. If they are for Sega Genesis/Mega Drive, simply rename to .smd or .gen. (issue 139).
-* Compressed ROMs are not currently supported (issue 103).
 * Discontinued the Quartz Composer plugins originally included in earlier betas. Please know that currently they are discontinued to focus on the main app. We hope to return to their development in the future. In the meantime, we hope that the inclusion of Syphon is sufficient.
 
 # Reporting Bugs
