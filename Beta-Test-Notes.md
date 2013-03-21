@@ -25,6 +25,9 @@ OpenEmu now automatically maps controls for the following recognized devices in 
 * Sega Saturn USB
 * PS3 Neo Geo Pad USB
 * Retrode (SNES)
+* Retrolink SNES
+* Nintendo Wiimote
+* Nintendo Wii U Pro
 
 **If using an Xbox 360 compatible controller, please install the latest driver found at http://tattiebogle.net/index.php/ProjectRoot/Xbox360Controller/OsxDriver.**
 
