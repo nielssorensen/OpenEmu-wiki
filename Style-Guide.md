@@ -26,12 +26,12 @@ int (^blk1)(int) =
 };
 
 [someDictionary enumerateKeysAndObjectsUsingBlock:
- ^ (id key, id obj, BOOL *stop)
+ ^(id key, id obj, BOOL *stop)
  {
  }];
 ```
 
-* Caret and curly brace on previous line when there is no block parameters
+* Caret and curly brace on the same line when the block is a parameter of a function
 
 ```objective-c
 dispatch_async(^{
@@ -39,10 +39,10 @@ dispatch_async(^{
 });
 ```
 
-* Space between caret and block's return parameter list (when no return data-type is specified)
+* No space between caret and block's parameter list (when no return data-type is specified)
 
 ```objective-c
-^ (id key, id obj, BOOL *stop)
+^(id key, id obj, BOOL *stop)
 ```
 
 * Space between caret and block's return data-type and space between block's return data-type and parameter list
@@ -69,6 +69,12 @@ while(...)
 for(...)
 ```
 
+* Except for do { } while
+```objective-c
+do {
+} while(...);
+```
+
 * No spaces between function name and opening parentheses
 
 ```objective-c
@@ -79,14 +85,15 @@ NSStringFromClass(...)
 * Instance variables and properties should be aligned
 
 ```objective-c
-@interface SomeClass
+@interface SomeClass : NSObject
 {
-    BOOL      shouldCloseFile;
-    NSString *description;
+@private
+    BOOL      _shouldCloseFile;
+    NSString *_description;
 }
 
-@property(nonatomic, strong) NSViewController  *currentContentController;
-@property                    BOOL               allowWindowResizing;
+@property(nonatomic) NSViewController  *currentContentController;
+@property            BOOL               allowWindowResizing;
 
 @end
 ```
@@ -108,10 +115,10 @@ NSSet *someSet = [NSSet setWithObjects:
 * For `NSDictionary` place each value and key pair on the same line
 
 ```objective-c
-NSDictionary *someArray = [NSDictionary dictionaryWithObjectsAndKeys:
-                           @"value1", @"key1",
-                           @"value2", @"key2",
-                           nil];
+NSDictionary *someDict = [NSDictionary dictionaryWithObjectsAndKeys:
+                          @"value1", @"key1",
+                          @"value2", @"key2",
+                          nil];
 ```
 
 ## Naming conventions
@@ -121,10 +128,10 @@ NSDictionary *someArray = [NSDictionary dictionaryWithObjectsAndKeys:
 @implementation SomeClass
 ```
 
-* Private categories described by empty category, implementation methods placed within main `@implementation` block
+* Private categories described by class extensions, implementation methods placed within main `@implementation` block
 
 ```objective-c
-@interface SomeClass()
+@interface SomeClass ()
 @end
 ```
 
@@ -179,6 +186,25 @@ if(value < someValue) value = someValue;
 
 * There is no need to use conversion functions like `NSRectFromCGRect` or `NSPointToCGPoint` to convert NS-datatypes to CG-datatypes and vice versa.
 
+* Prefer using literal-syntax for NSArray, NSDictionary and NSNumber when possible
+
+```objective-c
+NSArray *array = @[ @YES, @NO ];
+NSDictionary *dict = @{ @"key1" : @(value), @"key2" : @2 };
+```
+
+* @property attributes should not show the default value for an attribute
+
+```objective-c
+@property(nonatomic) id object; // Default to strong
+@property(nonatomic) NSRect frame; // Default to assign
+```
+
+* Use auto-@synthesize whenever possible
+* Do not explicitly declare ivars that have a @property
+* Define private ivars in class extensions or main @implementation
+* Avoid the use of @protected (implicit or explicit) or @public
+
 ## Code sample
 
 Here you can see a sample class:
@@ -191,8 +217,8 @@ Here you can see a sample class:
 @interface SomeClass
 {
 @private
-    int  someValue;
-    BOOL shouldCloseFile;
+    int  _someValue;
+    BOOL _shouldCloseFile;
 
 @protected
     NSString *description;
@@ -204,9 +230,9 @@ Here you can see a sample class:
 
 @property(strong) IBOutlet OELibraryController *libraryController;
 
-@property(nonatomic, strong) NSViewController  *currentContentController;
-@property(nonatomic, strong) NSViewController  *defaultContentController;
-@property                    BOOL               allowWindowResizing;
+@property(nonatomic) NSViewController  *currentContentController;
+@property(nonatomic) NSViewController  *defaultContentController;
+@property            BOOL               allowWindowResizing;
 
 @property(copy) NSArray *deviceHandlers;
 @property(copy) NSArray *coreList;
