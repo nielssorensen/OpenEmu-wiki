@@ -40,6 +40,7 @@ Additionally, you can use [Joypad Connect](http://getjoypad.com/legacy/) to conn
 # Known Issues
 
 Single file compressed ROMs are supported, but not files with multiple ROMs.
+
 Please be aware that not all imported ROMs may have artwork associated with them on [Archive.vg](http://archive.vg). An internet connection is required to download emulator cores, artwork and game metadata.
 
 # Other major known issues in this release:
