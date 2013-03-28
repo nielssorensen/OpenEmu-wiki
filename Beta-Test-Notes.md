@@ -45,6 +45,7 @@ Please be aware that not all imported ROMs may have artwork associated with them
 
 # Other major known issues in this release:
 
+* Trying to re-map a button in controller prefs doesn't work - [Issue #556](https://github.com/OpenEmu/OpenEmu/issues/556)
 * Discontinued the Quartz Composer plugins originally included in earlier betas. Please know that currently they are discontinued to focus on the main app. We hope to return to their development in the future. In the meantime, we hope that the inclusion of [Syphon](http://syphon.v002.info/) is sufficient.
 * NeoGeo Pocket missing a controller graphic
 
