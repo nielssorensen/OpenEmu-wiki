@@ -26,6 +26,8 @@ OpenEmu now automatically maps controls for the following recognized devices in 
 * PS3 Neo Geo Pad USB
 * Retrode (SNES)
 * Retrolink SNES
+* Retrolink N64
+* N64 Adaptoid
 * Nintendo Wiimote
 * Nintendo Wii U Pro
 
