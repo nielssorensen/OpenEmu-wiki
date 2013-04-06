@@ -195,6 +195,7 @@ Note: the following systems will be rolled out steadily after the initial 1.0 re
 * <s>Atari Jaguar (http://icculus.org/virtualjaguar/)</s>
 * Gamecube/Wii (http://code.google.com/p/dolphin-emu/)
 * MAME
+* PlayStation 2 (http://pcsx2.net/)
 * PSP (https://github.com/hrydgard/ppsspp)
 * Sega Dreamcast (?)
 * Supermodel (http://www.supermodel3.com/)
