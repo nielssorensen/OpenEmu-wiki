@@ -102,13 +102,16 @@ Note: the following systems will be rolled out steadily after the initial 1.0 re
 ### Systems List<br>
 
 * Nintendo 64
-* TurboGrafx-16/PC Engine
+* TurboGrafx-16/PC Engine/CD
 * Nintendo DS
-* Playstation
+* PlayStation
 * Virtual Boy
 * PC-FX
 * WonderSwan
 * Atari Lynx
+* Sega CD
+* Sega Saturn
+* SG-1000
 
 ### System By System Core Details<br>
 
@@ -139,7 +142,7 @@ Note: the following systems will be rolled out steadily after the initial 1.0 re
 
 
 
-**Playstation**<br>
+**PlayStation**<br>
 
 **Core:** Mednafen<br>
 **Status:** Stable and working.<br>
@@ -189,18 +192,22 @@ Note: the following systems will be rolled out steadily after the initial 1.0 re
 * <s>Atari 2600 (http://stella.sourceforge.net/ or http://www.whimsey.com/z26/)</s>
 * <s>Atari 5200 (http://atari800.sourceforge.net/)</s>
 * Atari 7800 (https://home.comcast.net/~gscottstanton/)
-* Atari Jaguar (http://icculus.org/virtualjaguar/)
-* Commodore 64 (http://viceteam.org/)
-* Sega CD (?)
-* Sega Dreamcast (?)
+* <s>Atari Jaguar (http://icculus.org/virtualjaguar/)</s>
+* <s>Commodore 64 (http://viceteam.org/, VirtualC64)</s>
+* Gamecube/Wii (http://code.google.com/p/dolphin-emu/)
+* MAME
 * PSP (https://github.com/hrydgard/ppsspp)
+* Sega Dreamcast (?)
+* Supermodel (http://www.supermodel3.com/)
+* <s>Vectrex (VecXGL)</s>
+* <s>VMU/VMS (VeMU)</s>
 
 Other 8-bit systems:
+* Amiga
 * Amstrad CPC
 * ColecoVision (http://fms.komkon.org/ColEm/)
 * Intellivision (http://spatula-city.org/~im14u2c/intv/)
 * MSX (http://openmsx.sourceforge.net/, blueMSX)
 * Odyssey² (http://o2em.sourceforge.net/)
-* Vectrex
 * ZX Spectrum
 * etc
