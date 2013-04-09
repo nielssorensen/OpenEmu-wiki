@@ -17,7 +17,7 @@ Install Github for Mac from <http://mac.github.com/>. Then navigate to the OpenE
 
 ###Step 3
 
-Once it has finished cloning, browser to the 'OpenEmu' folder it cloned to.
+Once it has finished cloning, browse to the 'OpenEmu' folder it cloned to.
 
 ###Step 4
 
