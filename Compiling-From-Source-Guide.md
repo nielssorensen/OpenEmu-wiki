@@ -10,15 +10,17 @@ Download and install the latest copy of XCode from the Mac App Store: <https://i
 
 ###Step 2
 
-With Xcode downloaded and installed on your computer, we now need to clone the source code for OpenEmu. Install Github for Mac from: <http://mac.github.com/> and [click here to clone](github-mac://openRepo/https://github.com/OpenEmu/OpenEmu) the OpenEmu repository <github-mac://openRepo/https://github.com/OpenEmu/OpenEmu>. 
+With Xcode downloaded and installed on your computer, we now need to clone the source code for OpenEmu. Install Github for Mac from: <http://mac.github.com/>. Then navigate to the OpenEmu repo <https://github.com/OpenEmu/OpenEmu> and click "Clone in Mac"
+
+![Clone](http://i.imgur.com/MrMG6BU.png)
 
 ###Step 3
 
-Once the ZIP repository has finished downloading, the .zip file should automatically extract and you will be left with a folder called 'OpenEmu-master' in your download location (commonly your download location will be the 'Downloads' folder in your home repository)
+Once it has finished cloning, browser to 'OpenEmu' folder it cloned to.
 
 ###Step 4
 
-Open the folder called 'OpenEmu-master' and browse through the files until you find the XCode project file called 'OpenEmu.xcworkspace'. Double click this file and it should launch Xcode....
+Open the folder called 'OpenEmu' and browse through the files until you find the XCode project file called 'OpenEmu.xcworkspace'. Double click this file and it should launch Xcode....
 
 ![OpenEmu-master Folder](http://f.cl.ly/items/202V3S0R1c1o0x0s1V3z/3.png)
 
