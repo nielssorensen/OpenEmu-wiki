@@ -101,17 +101,23 @@ Note: the following systems will be rolled out steadily after the initial 1.0 re
 
 ### Systems List<br>
 
-* Nintendo 64
-* TurboGrafx-16/PC Engine/CD
-* Nintendo DS
-* PlayStation
-* Virtual Boy
-* PC-FX
-* WonderSwan
+* Atari 2600
+* Atari 5200
 * Atari Lynx
+* Commodore 64
+* Famicom Disk System
+* Nintendo DS
+* Nintendo 64
+* PC-FX
+* PlayStation
 * Sega CD
 * Sega Saturn
 * SG-1000
+* TurboGrafx-16/PC Engine/CD
+* Vectrex
+* Virtual Boy
+* WonderSwan
+
 
 ### System By System Core Details<br>
 
@@ -124,7 +130,7 @@ Note: the following systems will be rolled out steadily after the initial 1.0 re
 
 
 
-**TurboGrafx-16/PC Engine**<br>
+**TurboGrafx-16/PC Engine/CD**<br>
 
 **Core:** Mednafen<br>
 **Status:** Stable and working.<br>
@@ -187,14 +193,19 @@ Note: the following systems will be rolled out steadily after the initial 1.0 re
 
 # Wish List
 
+Strikethrough means they've already been ported. Feel free to port any that have not.
+
 * 3DO (Freedo, 4DO, 3DOplay)
 * Amiga CD32 (http://fengestad.no/wp/fs-uae)
 * <s>Atari 2600 (http://stella.sourceforge.net/ or http://www.whimsey.com/z26/)</s>
 * <s>Atari 5200 (http://atari800.sourceforge.net/)</s>
 * Atari 7800 (https://home.comcast.net/~gscottstanton/)
 * <s>Atari Jaguar (http://icculus.org/virtualjaguar/)</s>
+* <s>FB Alpha</s>
 * Gamecube/Wii (http://code.google.com/p/dolphin-emu/)
 * MAME
+* <s>Mednafen</s>
+* <s>Nintendo DS (http://sourceforge.net/projects/desmume/)</s>
 * PlayStation 2 (http://pcsx2.net/)
 * PSP (https://github.com/hrydgard/ppsspp)
 * Sega Dreamcast (?)
