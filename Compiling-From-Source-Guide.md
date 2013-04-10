@@ -15,6 +15,12 @@ Install Github for Mac from <http://mac.github.com/> and create a Github account
 
 ![Clone](http://i.imgur.com/MrMG6BU.png)
 
+**Note for advanced users:**
+If you cloned OpenEmu from the command line you also need to initialize the submodules with: 
+````
+git submodule update --init"
+````
+
 ###Step 3
 
 Once it has finished cloning, browse to the 'OpenEmu' folder it cloned to.
