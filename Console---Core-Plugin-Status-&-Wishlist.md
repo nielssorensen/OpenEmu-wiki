@@ -104,6 +104,7 @@ Note: the following systems will be rolled out steadily after the initial 1.0 re
 * Atari 2600
 * Atari 5200
 * Atari Lynx
+* ColecoVision
 * Commodore 64
 * Famicom Disk System
 * Nintendo DS
@@ -215,7 +216,7 @@ Strikethrough means they've already been ported. Feel free to port any that have
 Other 8-bit systems:
 * Amiga
 * Amstrad CPC
-* ColecoVision (http://fms.komkon.org/ColEm/)
+* <s>ColecoVision (http://fms.komkon.org/ColEm/, CrabEmu)</s>
 * <s>Commodore 64 (http://viceteam.org/, VirtualC64)</s>
 * Intellivision (http://spatula-city.org/~im14u2c/intv/)
 * MSX (http://openmsx.sourceforge.net/, blueMSX)
