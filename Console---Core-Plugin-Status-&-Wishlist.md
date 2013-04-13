@@ -196,6 +196,7 @@ Note: the following systems will be rolled out steadily after the initial 1.0 re
 
 Strikethrough means they've already been ported. Feel free to port any that have not.
 
+* MAME
 * 3DO (Freedo, 4DO, 3DOplay)
 * Amiga CD32 (http://fengestad.no/wp/fs-uae)
 * <s>Atari 2600 (http://stella.sourceforge.net/ or http://www.whimsey.com/z26/)</s>
@@ -204,7 +205,6 @@ Strikethrough means they've already been ported. Feel free to port any that have
 * <s>Atari Jaguar (http://icculus.org/virtualjaguar/)</s>
 * <s>FB Alpha</s>
 * Gamecube/Wii (http://code.google.com/p/dolphin-emu/)
-* MAME
 * <s>Mednafen</s>
 * <s>Nintendo DS (http://sourceforge.net/projects/desmume/)</s>
 * PlayStation 2 (http://pcsx2.net/)
@@ -214,6 +214,7 @@ Strikethrough means they've already been ported. Feel free to port any that have
 * <s>VMU/VMS (VeMU)</s>
 
 Other 8-bit systems:
+* MAME
 * Amiga
 * Amstrad CPC
 * <s>ColecoVision (http://fms.komkon.org/ColEm/, CrabEmu)</s>
