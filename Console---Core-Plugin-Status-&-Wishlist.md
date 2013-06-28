@@ -213,7 +213,7 @@ Strikethrough means they've already been ported. Feel free to port any that have
 * Supermodel (http://www.supermodel3.com/)
 * <s>VMU/VMS (VeMU)</s>
 
-Other 8-bit systems:
+Other systems:
 * MAME
 * Amiga (16-bit, http://fs-uae.net, FS-UAE)
 * Amstrad CPC
