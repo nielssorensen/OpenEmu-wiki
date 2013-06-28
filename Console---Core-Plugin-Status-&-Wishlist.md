@@ -215,8 +215,9 @@ Strikethrough means they've already been ported. Feel free to port any that have
 
 Other 8-bit systems:
 * MAME
-* Amiga
+* Amiga (16-bit, http://fs-uae.net, FS-UAE)
 * Amstrad CPC
+* Atari ST (16-bit, http://hatari.tuxfamily.org, Hatari)
 * <s>ColecoVision (http://fms.komkon.org/ColEm/, CrabEmu)</s>
 * <s>Commodore 64 (http://viceteam.org/, VirtualC64)</s>
 * Intellivision (http://spatula-city.org/~im14u2c/intv/)
