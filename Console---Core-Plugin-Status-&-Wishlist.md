@@ -107,6 +107,7 @@ Note: the following systems will be rolled out steadily after the initial 1.0 re
 * ColecoVision
 * Commodore 64
 * Famicom Disk System
+* MAME
 * Nintendo DS
 * Nintendo 64
 * PC-FX
@@ -196,7 +197,7 @@ Note: the following systems will be rolled out steadily after the initial 1.0 re
 
 Strikethrough means they've already been ported. Feel free to port any that have not.
 
-* MAME
+* <s>MAME</s>
 * 3DO (Freedo, 4DO, 3DOplay)
 * Amiga CD32 (http://fengestad.no/wp/fs-uae)
 * <s>Atari 2600 (http://stella.sourceforge.net/ or http://www.whimsey.com/z26/)</s>
@@ -214,14 +215,13 @@ Strikethrough means they've already been ported. Feel free to port any that have
 * <s>VMU/VMS (VeMU)</s>
 
 Other systems:
-* MAME
 * Amiga (16-bit, http://fs-uae.net, FS-UAE)
 * Amstrad CPC
 * Atari ST (16-bit, http://hatari.tuxfamily.org, Hatari)
 * <s>ColecoVision (http://fms.komkon.org/ColEm/, CrabEmu)</s>
 * <s>Commodore 64 (http://viceteam.org/, VirtualC64)</s>
 * Intellivision (http://spatula-city.org/~im14u2c/intv/)
-* MSX (http://openmsx.sourceforge.net/, blueMSX)
+* MSX (http://openmsx.sourceforge.net/, blueMSX, CocoaMSX)
 * Odyssey² (http://o2em.sourceforge.net/)
 * <s>Vectrex (VecXGL)</s>
 * ZX Spectrum
