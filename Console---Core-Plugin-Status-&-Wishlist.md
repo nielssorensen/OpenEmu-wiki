@@ -199,7 +199,7 @@ Strikethrough means they've already been ported. Feel free to port any that have
 
 * <s>MAME</s>
 * 3DO (Freedo, 4DO, 3DOplay)
-* Amiga CD32 (http://fengestad.no/wp/fs-uae)
+* Amiga & CD32 (http://fengestad.no/wp/fs-uae)
 * <s>Atari 2600 (http://stella.sourceforge.net/ or http://www.whimsey.com/z26/)</s>
 * <s>Atari 5200 (http://atari800.sourceforge.net/)</s>
 * Atari 7800 (https://home.comcast.net/~gscottstanton/)
@@ -215,9 +215,8 @@ Strikethrough means they've already been ported. Feel free to port any that have
 * <s>VMU/VMS (VeMU)</s>
 
 Other systems:
-* Amiga (16-bit, http://fs-uae.net, FS-UAE)
 * Amstrad CPC
-* Atari ST (16-bit, http://hatari.tuxfamily.org, Hatari)
+* Atari ST (http://hatari.tuxfamily.org, Hatari)
 * <s>ColecoVision (http://fms.komkon.org/ColEm/, CrabEmu)</s>
 * <s>Commodore 64 (http://viceteam.org/, VirtualC64)</s>
 * Intellivision (http://spatula-city.org/~im14u2c/intv/)
