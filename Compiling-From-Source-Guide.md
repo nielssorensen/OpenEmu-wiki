@@ -1,21 +1,24 @@
-Using the guide below, we will try and walk you through the steps required to download and compile the OpenEmu application from source. You will need a Macintosh computer running OSX 10.7 or 10.8. We recommend updating to the latest version and ensuring all software is up to date...
+Using the guide below, we will try and walk you through the steps required to download and compile the OpenEmu application from source. You will need a Macintosh computer running OSX 10.7 or 10.8. We recommend updating to the latest version and ensuring all software is up to date.
 
-If you have used earlier OpenEmu versions (Version 1.0b7, please see "Cleanup Earlier Versions" at the bottom before compiling OpenEmu)
+If you have used earlier OpenEmu versions, please see "Cleanup Earlier Versions" at the bottom before compiling OpenEmu.
 
 ###Step 1
 
-Download and install the latest copy of XCode from the Mac App Store: <https://itunes.apple.com/gb/app/xcode/id497799835?mt=12> This is free software provided by Apple. It is a hefty download weighing in at 1.5GB at time of writing. So download it, grab a coffee and see you for step 2 once the download is complete!... 
+Download and install the latest copy of XCode, which is free software provided by Apple, from the Mac App Store at <https://itunes.apple.com/gb/app/xcode/id497799835>. At the time of writing, Xcode is a hefty download weighing in at 1.7GB. Download it, and while waiting for it to download, grab a coffee or watch some TV.
 
-![XCode Is Available Via The Mac App Store](http://f.cl.ly/items/0Q3u3G2N351Z120t0823/0.jpg)
+![XCode on The Mac App Store](http://i.imgur.com/1w9V4no.png)
 
 ###Step 2
 
-**Warning: Do not download the ZIP. It won't work!**
+**Warning: Do not download the ZIP! It will not work!**
 
 With Xcode downloaded and installed on your computer, we now need to clone the source code for OpenEmu. 
-Install Github for Mac from <http://mac.github.com/> and create a Github account. Then navigate to the OpenEmu repo <https://github.com/OpenEmu/OpenEmu> and click "Clone in Mac"
+Install Github for Mac from <http://mac.github.com/> and create a Github account. Then, navigate to the OpenEmu repo at <https://github.com/OpenEmu/OpenEmu> and click "Clone in Desktop".
 
-![Clone](http://i.imgur.com/MrMG6BU.png)
+![Clone Panel](http://i.imgur.com/ePKEDcp.png)
+![Clone Button](http://i.imgur.com/d3mwhwW.png)
+<br />
+![Clone in Github for Mac](http://i.imgur.com/I6ObkRI.png)
 
 **Note for advanced users:**
 If you cloned OpenEmu from the command line you also need to initialize the submodules with: 
@@ -25,53 +28,55 @@ git submodule update --init
 
 ###Step 3
 
-Once it has finished cloning, browse to the 'OpenEmu' folder it cloned to.
+Once Github for Mac has finished cloning, browse to the 'OpenEmu' folder it cloned to.
+
+![Browse to the OpenEmu Folder](http://i.imgur.com/Vu815wF.png)
 
 ###Step 4
 
-Open the folder called 'OpenEmu' and browse through the files until you find the XCode project file called 'OpenEmu.xcworkspace'. Double click this file and it should launch Xcode....
+Open the 'OpenEmu' folder and browse through the files until you find the XCode project file called 'OpenEmu.xcworkspace'. Double click this file and it should open in Xcode.
 
-![OpenEmu-master Folder](http://f.cl.ly/items/202V3S0R1c1o0x0s1V3z/3.png)
+![OpenEmu Folder](http://i.imgur.com/pjtLaN7.png)
 
 ###Step 5
 
-With Xcode open, you will see a lot of files and 'cores' that make up the OpenEmu application in the left sidebar. At the top of the application you will see a lot of buttons. You need to click on the funky looking long bar and select the correct 'Scheme'...
+With Xcode open, you will see a lot of files and 'cores' that make up the OpenEmu application in the left sidebar. At the top of the application, you will see a lot of buttons. You need to click on the long bar to the right of the 'Stop' button and select the correct 'Scheme'.
 
-![The Scheme Bar](http://f.cl.ly/items/1O0f2P1m0u1P2w450d0W/4.png)
+![The Scheme Bar](http://i.imgur.com/64qjZJU.png)
 
 Click on the left-most portion of this bar, and be sure to scroll through the popover and select 'Build All' > 'My Mac 64 Bit'...
 
-![Selecting The Correct Scheme](http://f.cl.ly/items/0y400G2o3B0q30311Q0J/5.png)
+![Selecting The Correct Scheme](http://i.imgur.com/VVfYe7C.png)
 
 ###Step 6
 
-With the correct scheme selected in Step 5, you are now ready to build and compile the application. To do so, either press ⇧⌘I or click on 'Product' > 'Build For' > 'Profiling' in the menu bar up top. This makes sure that you get a release build that makes use of all those optimizations.
+With the correct scheme selected in Step 5, you are now ready to compile the application. To do so, either press ⇧⌘I or click on 'Product' > 'Build For' > 'Profiling' in the menu bar. This makes sure that you get a release build that makes use of optimizations.
 
-![Build for profiling](http://f.cl.ly/items/1Z3G1G3X3E332Q0f0Q3T/profiling.png)
+![Build for Profiling](http://i.imgur.com/MZG9j84.png)
 
 ###Step 7
 
-This will begin compiling the application. This process should take around 5 minutes or so to complete...
+OpenEmu and all of its cores will now begin compiling. This process should take around 5 minutes to complete.
 
-![OpenEmu Compiling - Status](http://f.cl.ly/items/1g060b2B3t2N2b2U0W02/6.png)
+![OpenEmu Compiling - Status](http://i.imgur.com/j2LIMTg.png)
 
 ###Step 8
 
-XCode has compiled OpenEmu. Simply search for OpenEmu.app in Finder, right-click on it and select 'Open Enclosing Folder'.
+Once XCode has compiled OpenEmu, simply search for OpenEmu.app in Finder, right-click on it and select 'Open Enclosing Folder'.
 
-![Select 'Open Enclosing Folder'](http://f.cl.ly/items/30291R3k3h071q0x0G0q/Image%202013.03.04%2000:39:28.png)
+![Select 'Open Enclosing Folder'](http://i.imgur.com/tgI8f6k.png)
 
 This should show you the application inside the 'Release' folder.
 
-![OpenEmu.app Inside The 'Release' Folder](http://f.cl.ly/items/2g180t0J0y150V0w1L1k/Image%202013.03.04%2000:30:22.png)
+![OpenEmu.app Inside the 'Release' Folder](http://i.imgur.com/mJAl02C.png)
 
-You can of course launch the application directly from this folder, or, feel free to move it over to your applications folder so it is easier to find and launch next time!.
+You can, of course launch the application directly from this folder. Or, if you want it to be easier to find next time, you can move it over to your applications folder!
 
 ###Step 9
 
-From here, you can begin playing your favorite games and using the application as normal (assuming that the source code you downloaded is in a usable state!)....
+From here, you can begin adding and playing your favorite games and using the application as normal (assuming that the source code you downloaded is in a usable state!)
 
-![OpenEmu: All Fresh & New](http://f.cl.ly/items/220f2f270x270B3r1I3p/7.png)
+![OpenEmu: All Fresh & New](http://i.imgur.com/p2m4taZ.png)
 
 ### Cleaning Up Previous Versions
 
@@ -79,7 +84,7 @@ If you have installed or used earlier versions of OpenEmu, some things have chan
 
 ### A) Remove older cores.
 
-Navigate to your ~/Library/Application Support/OpenEmu folder and delete it.
+Navigate to your ~/Library/Application Support/OpenEmu/Cores/ folder and delete it.
 
 ### B) Remove older preferences
 
