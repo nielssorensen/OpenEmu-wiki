@@ -211,7 +211,7 @@ Strikethrough means they've already been ported. Feel free to port any that have
 * <s>Nintendo DS (http://sourceforge.net/projects/desmume/)</s>
 * PlayStation 2 (http://pcsx2.net/)
 * PSP (https://github.com/hrydgard/ppsspp)
-<s>* Sega 32X (https://github.com/notaz/picodrive)</s>
+* <s>Sega 32X (https://github.com/notaz/picodrive)</s>
 * Sega Dreamcast (https://code.google.com/p/nulldc/source/browse/)
 * Supermodel (http://www.supermodel3.com/)
 * <s>VMU/VMS (VeMU)</s>
