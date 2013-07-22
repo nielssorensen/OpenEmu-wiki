@@ -112,6 +112,7 @@ Note: the following systems will be rolled out steadily after the initial 1.0 re
 * Nintendo 64
 * PC-FX
 * PlayStation
+* PSP
 * Sega 32X
 * Sega CD
 * Sega Saturn
@@ -194,6 +195,13 @@ Note: the following systems will be rolled out steadily after the initial 1.0 re
 **Compatability:** Very High<br>
 **Website:** http://mednafen.sourceforge.net/<br>
 
+**PSP**<br>
+
+**Core:** PPSSPP<br>
+**Status:** In development<br>
+**Compatability:** http://forums.ppsspp.org/forumdisplay.php?fid=5<br>
+**Website:** http://ppsspp.org//<br>
+
 # Wish List
 
 Strikethrough means they've already been ported. Feel free to port any that have not.
@@ -210,7 +218,7 @@ Strikethrough means they've already been ported. Feel free to port any that have
 * <s>Mednafen</s>
 * <s>Nintendo DS (http://sourceforge.net/projects/desmume/)</s>
 * PlayStation 2 (http://pcsx2.net/)
-* PSP (https://github.com/hrydgard/ppsspp)
+* <s>PSP (https://github.com/hrydgard/ppsspp)</s>
 * <s>Sega 32X (https://github.com/notaz/picodrive)</s>
 * Sega Dreamcast (https://code.google.com/p/nulldc/source/browse/)
 * Supermodel (http://www.supermodel3.com/)
