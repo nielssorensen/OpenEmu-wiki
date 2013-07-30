@@ -103,6 +103,7 @@ Note: the following systems will be rolled out steadily after the initial 1.0 re
 
 * Atari 2600
 * Atari 5200
+* Atari 7800
 * Atari Lynx
 * ColecoVision
 * Commodore 64
@@ -211,7 +212,7 @@ Strikethrough means they've already been ported. Feel free to port any that have
 * Amiga & CD32 (http://fengestad.no/wp/fs-uae)
 * <s>Atari 2600 (http://stella.sourceforge.net/ or http://www.whimsey.com/z26/)</s>
 * <s>Atari 5200 (http://atari800.sourceforge.net/)</s>
-* Atari 7800 (https://home.comcast.net/~gscottstanton/)
+* <s>Atari 7800 (https://home.comcast.net/~gscottstanton/)</s>
 * <s>Atari Jaguar (http://icculus.org/virtualjaguar/)</s>
 * <s>FB Alpha</s>
 * Gamecube/Wii (http://code.google.com/p/dolphin-emu/)
@@ -233,5 +234,5 @@ Other systems:
 * MSX (http://openmsx.sourceforge.net/, blueMSX, CocoaMSX)
 * Odyssey² (http://o2em.sourceforge.net/)
 * <s>Vectrex (VecXGL)</s>
-* ZX Spectrum
+* ZX Spectrum (http://fuse-emulator.sourceforge.net/libspectrum.php)
 * etc
