@@ -76,7 +76,7 @@ You can, of course launch the application directly from this folder. Or, if you 
 
 From here, you can begin adding and playing your favorite games and using the application as normal (assuming that the source code you downloaded is in a usable state!)
 
-![OpenEmu: All Fresh & New](http://i.imgur.com/p2m4taZ.png)
+![OpenEmu: All Fresh & New](http://i.imgur.com/GrsCjf5.png)
 
 ### Cleaning Up Previous Versions
 
