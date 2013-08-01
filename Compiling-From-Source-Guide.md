@@ -46,7 +46,7 @@ With Xcode open, you will see a lot of files and 'cores' that make up the OpenEm
 
 Click on the left-most portion of this bar, and be sure to scroll through the popover and select 'Build All' > 'My Mac 64 Bit'...
 
-![Selecting The Correct Scheme](http://i.imgur.com/VVfYe7C.png)
+![Selecting The Correct Scheme](http://i.imgur.com/nnlLkfu.png)
 
 ###Step 6
 
