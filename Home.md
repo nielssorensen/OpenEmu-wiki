@@ -44,7 +44,7 @@ To get OpenEmu at the current moment, you must compile it. Don't worry, it's an 
 
 <tr>
 <td> Sega Game Gear </td>
-<td> CrabEmu </td>
+<td> CrabEmu, TwoMbit </td>
 </tr>
 
 <tr>
@@ -54,7 +54,7 @@ To get OpenEmu at the current moment, you must compile it. Don't worry, it's an 
 
 <tr>
 <td> Sega Master System </td>
-<td> CrabEmu </td>
+<td> CrabEmu, TwoMbit </td>
 </tr>
 
 <tr>
