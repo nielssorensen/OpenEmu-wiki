@@ -13,28 +13,33 @@ To get OpenEmu at the current moment, you must compile it. Don't worry, it's an 
 </tr>
 
 <tr>
-<td> Game Boy </td>
-<td> Gambette </td>
-</tr>
-
-<tr>
 <td> Game Boy Advance </td>
 <td> Visual Boy Advance </td>
 </tr>
 
 <tr>
 <td> Game Boy Color </td>
-<td> Gambette </td>
+<td> Gambatte </td>
 </tr>
 
 <tr>
-<td> NeoGeo Pocket </td>
+<td> NeoGeo Pocket Color </td>
 <td> NeoPop </td>
 </tr>
 
 <tr>
-<td> Nintendo Entertainment System (NES) </td>
+<td> Nintendo Entertainment System (NES)/Famicom </td>
 <td> FCEU, Nestopia </td>
+</tr>
+
+<tr>
+<td> Nintendo DS </td>
+<td> DeSmuME </td>
+</tr>
+
+<tr>
+<td> Sega 32X </td>
+<td> Picodrive </td>
 </tr>
 
 <tr>
@@ -43,8 +48,8 @@ To get OpenEmu at the current moment, you must compile it. Don't worry, it's an 
 </tr>
 
 <tr>
-<td> Sega Genesis </td>
-<td> GenesisPlus </td>
+<td> Sega Genesis/Mega Drive </td>
+<td> Genesis Plus GX </td>
 </tr>
 
 <tr>
@@ -55,6 +60,16 @@ To get OpenEmu at the current moment, you must compile it. Don't worry, it's an 
 <tr>
 <td> Super Nintendo Entertainment System (SNES) </td>
 <td> SNES9x, BSNES </td>
+</tr>
+
+<tr>
+<td> TurboGrafx-16/PC Engine </td>
+<td> Mednafen </td>
+</tr>
+
+<tr>
+<td> Virtual Boy </td>
+<td> Mednafen </td>
 </tr>
 
 </tbody>
