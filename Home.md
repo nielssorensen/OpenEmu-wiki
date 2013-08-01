@@ -28,7 +28,7 @@ To get OpenEmu at the current moment, you must compile it. Don't worry, it's an 
 </tr>
 
 <tr>
-<td> Nintendo Entertainment System (NES)/Famicom </td>
+<td> Nintendo (NES)/Famicom </td>
 <td> FCEU, Nestopia </td>
 </tr>
 
@@ -58,7 +58,7 @@ To get OpenEmu at the current moment, you must compile it. Don't worry, it's an 
 </tr>
 
 <tr>
-<td> Super Nintendo Entertainment System (SNES) </td>
+<td> Super Nintendo (SNES) </td>
 <td> SNES9x, BSNES </td>
 </tr>
 
