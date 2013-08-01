@@ -52,7 +52,7 @@ Click on the left-most portion of this bar, and be sure to scroll through the po
 
 With the correct scheme selected in Step 5, you are now ready to compile the application. To do so, either press ⇧⌘I or click on 'Product' > 'Build For' > 'Profiling' in the menu bar. This makes sure that you get a release build that makes use of optimizations.
 
-![Build for Profiling](http://i.imgur.com/MZG9j84.png)
+![Build for Profiling](http://f.cl.ly/items/1Z3G1G3X3E332Q0f0Q3T/profiling.png)
 
 ###Step 7
 
