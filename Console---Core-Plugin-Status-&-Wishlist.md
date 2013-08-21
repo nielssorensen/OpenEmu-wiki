@@ -13,6 +13,8 @@
 * Sega Genesis / Mega Drive
 * Sega Master System
 * Super Nintendo (SNES)
+* TurboGrafx-16/PC Engine
+* Virtual Boy
 
 ### System By System Core Details<br>
 
@@ -96,6 +98,19 @@
 **Compatibility:** 100% of known games work<br>
 **Website:** http://byuu.org/bsnes/<br>
 
+**TurboGrafx-16/PC Engine/CD**<br>
+
+**Core:** Mednafen<br>
+**Status:** Stable and working.<br>
+**Compatibility:** Very High<br>
+**Website:** http://mednafen.sourceforge.net/<br>
+
+**Virtual Boy**<br>
+
+**Core:** Mednafen<br>
+**Status:** Stable and working.<br>
+**Compatibility:** 100% of known games work<br>
+**Website:** http://mednafen.sourceforge.net/<br>
 
 
 # Future Releases (Post-1.0 Release)
@@ -119,10 +134,8 @@ Note: the following systems will be rolled out steadily after the initial 1.0 re
 * Sega CD
 * Sega Saturn
 * SG-1000
-* TurboGrafx-16/PC Engine
 * TurboGrafx-CD/PC Engine CD
 * Vectrex
-* Virtual Boy
 * WonderSwan
 
 
@@ -169,21 +182,6 @@ Note: the following systems will be rolled out steadily after the initial 1.0 re
 **Status:** In development<br>
 **Compatibility:** http://forums.ppsspp.org/forumdisplay.php?fid=5<br>
 **Website:** http://ppsspp.org//<br>
-
-**TurboGrafx-16/PC Engine/CD**<br>
-
-**Core:** Mednafen<br>
-**Status:** Stable and working.<br>
-**Compatibility:** Very High<br>
-**Website:** http://mednafen.sourceforge.net/<br>
-
-**Virtual Boy**<br>
-
-**Core:** Mednafen<br>
-**Status:** Stable and working.<br>
-**Compatibility:** 100% of known games work<br>
-**Website:** http://mednafen.sourceforge.net/<br>
-
 
 # Wish List
 
