@@ -213,6 +213,7 @@ Other systems:
 * Intellivision (http://spatula-city.org/~im14u2c/intv/)
 * MSX (http://openmsx.sourceforge.net/, blueMSX, CocoaMSX)
 * Odyssey² (http://o2em.sourceforge.net/)
+* TRS-80 (http://sourceforge.net/projects/virtualt/)
 * <s>Vectrex (VecXGL)</s>
 * ZX Spectrum (http://fuse-emulator.sourceforge.net/libspectrum.php)
 * etc
