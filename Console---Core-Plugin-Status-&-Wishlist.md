@@ -197,11 +197,10 @@ Strikethrough means they've already been ported. Feel free to port any that have
 * <s>Atari Jaguar (http://icculus.org/virtualjaguar/)</s>
 * Atari ST (http://hatari.tuxfamily.org, Hatari)
 * <s>ColecoVision (http://fms.komkon.org/ColEm/, CrabEmu)</s>
-* <s>Commodore 64 (http://viceteam.org/, VirtualC64)</s>
+* Commodore 64 (http://viceteam.org/)
 * <s>FB Alpha</s>
 * GameCube/Wii (http://code.google.com/p/dolphin-emu/)
 * Intellivision (http://spatula-city.org/~im14u2c/intv/)
-* <s>Mednafen</s>
 * MSX (http://openmsx.sourceforge.net/, blueMSX, CocoaMSX)
 * <s>Nintendo DS (http://sourceforge.net/projects/desmume/)</s>
 * Odyssey² (http://o2em.sourceforge.net/)
