@@ -190,31 +190,29 @@ Strikethrough means they've already been ported. Feel free to port any that have
 * <s>MAME</s>
 * 3DO (Freedo, 4DO, 3DOplay)
 * Amiga & CD32 (http://fengestad.no/wp/fs-uae)
+* Amstrad CPC
 * <s>Atari 2600 (http://stella.sourceforge.net/ or http://www.whimsey.com/z26/)</s>
 * <s>Atari 5200 (http://atari800.sourceforge.net/)</s>
 * <s>Atari 7800 (https://home.comcast.net/~gscottstanton/)</s>
 * <s>Atari Jaguar (http://icculus.org/virtualjaguar/)</s>
-* <s>FB Alpha</s>
-* GameCube/Wii (http://code.google.com/p/dolphin-emu/)
-* <s>Mednafen</s>
-* <s>Nintendo DS (http://sourceforge.net/projects/desmume/)</s>
-* PlayStation 2 (http://pcsx2.net/)
-* <s>PSP (https://github.com/hrydgard/ppsspp)</s>
-* <s>Sega 32X (https://github.com/notaz/picodrive)</s>
-* Sega Dreamcast (https://code.google.com/p/nulldc/source/browse/)
-* Supermodel (http://www.supermodel3.com/)
-* <s>VMU/VMS (VeMU)</s>
-
-Other systems:
-* Amstrad CPC
 * Atari ST (http://hatari.tuxfamily.org, Hatari)
 * <s>ColecoVision (http://fms.komkon.org/ColEm/, CrabEmu)</s>
 * <s>Commodore 64 (http://viceteam.org/, VirtualC64)</s>
+* <s>FB Alpha</s>
+* GameCube/Wii (http://code.google.com/p/dolphin-emu/)
 * Intellivision (http://spatula-city.org/~im14u2c/intv/)
+* <s>Mednafen</s>
 * MSX (http://openmsx.sourceforge.net/, blueMSX, CocoaMSX)
+* <s>Nintendo DS (http://sourceforge.net/projects/desmume/)</s>
 * Odyssey² (http://o2em.sourceforge.net/)
+* PlayStation 2 (http://pcsx2.net/)
+* <s>PSP (https://github.com/hrydgard/ppsspp)</s>
 * ScummVM (http://scummvm.org/)
+* <s>Sega 32X (https://github.com/notaz/picodrive)</s>
+* Sega Dreamcast (https://code.google.com/p/nulldc/source/browse/)
+* Supermodel (http://www.supermodel3.com/)
 * TRS-80 (http://sourceforge.net/projects/virtualt/)
 * <s>Vectrex (VecXGL)</s>
+* <s>VMU/VMS (VeMU)</s>
 * ZX Spectrum (http://fuse-emulator.sourceforge.net/libspectrum.php)
 * etc
