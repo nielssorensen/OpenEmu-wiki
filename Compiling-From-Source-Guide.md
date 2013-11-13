@@ -86,8 +86,12 @@ If you have installed or used earlier versions of OpenEmu, some things have chan
 
 Navigate to your ~/Library/Application Support/OpenEmu/Cores/ folder and delete it.
 
-### B) Remove older preferences
+### B) Remove older key bindings.
+
+Navigate to your ~/Library/Application Support/OpenEmu/Bindings Configurations/ folder and delete it.
+
+### C) Remove older preferences
 
 Navigate to your home folder, library: ~/Library/Preferences/ and remove the org.openemu.OpenEmu.plist preferences file there, and any files labeled OpenEmu.
 
-### C) Proceed to Step 1 to compile OpenEmu.
+### D) Proceed to Step 1 to compile OpenEmu.
