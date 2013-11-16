@@ -5,14 +5,14 @@ If you have used earlier OpenEmu versions, please see "Cleanup Previous Versions
 ##Before You Begin (SSH Keys)
 Please follow [this guide] (https://help.github.com/articles/generating-ssh-keys) to setup secure authentication with GitHub's servers otherwise you may receive an error similar to this one:
 
-````
+```
 Cloning into 'BSNES'...
 Permission denied (publickey).
 fatal: Could not read from remote repository.
 
 Please make sure you have the correct access rights and the repository exists.
 Clone of 'git@github.com:OpenEmu/BSNES-Core.git' into submodule path 'BSNES' failed
-````
+```
 
 ##Command Line Install Guide (Advanced users)
 Not afraid of the command line? Follow this guide if you already have Xcode and Command Line Tools and want to clone and compile via terminal. Otherwise, please follow the [GUI Install Guide](https://github.com/OpenEmu/OpenEmu/wiki/Compiling-From-Source-Guide#gui-install-guide-easy-mode).
