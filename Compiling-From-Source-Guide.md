@@ -3,7 +3,8 @@ Using the guide below, we will try and walk you through the steps required to do
 If you have used earlier OpenEmu versions, please see "Cleanup Previous Versions" at the bottom before compiling OpenEmu.
 
 ##Before You Begin (SSH Keys)
-Please follow [this guide] to setup secure authentication with GitHub's servers otherwise you may receive an error similar to this one: (https://help.github.com/articles/generating-ssh-keys)
+Please follow [this guide] (https://help.github.com/articles/generating-ssh-keys) to setup secure authentication with GitHub's servers otherwise you may receive an error similar to this one:
+
 ````
 Cloning into 'BSNES'...
 Permission denied (publickey).
