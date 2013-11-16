@@ -3,9 +3,9 @@ Using the guide below, we will try and walk you through the steps required to do
 If you have used earlier OpenEmu versions, please see "Cleanup Previous Versions" at the bottom before compiling OpenEmu.
 
 ##Command Line Install Guide (Advanced users)
-Not afraid of the command line? Follow this guide if you already have Xcode or Command Line Tools and want to clone and compile via terminal. Otherwise, please follow the [GUI Install Guide](https://github.com/OpenEmu/OpenEmu/wiki/Compiling-From-Source-Guide#gui-install-guide-easy-mode).
+Not afraid of the command line? Follow this guide if you already have Xcode and Command Line Tools and want to clone and compile via terminal. Otherwise, please follow the [GUI Install Guide](https://github.com/OpenEmu/OpenEmu/wiki/Compiling-From-Source-Guide#gui-install-guide-easy-mode).
 
-Alternatively, you can easily install the necessary Command Line Tools without Xcode by following [this guide](http://www.computersnyou.com/2025/).
+Alternatively, you can easily install the necessary Command Line Tools by following [this guide](http://www.computersnyou.com/2025/). (Xcode is still necessary for successful compilation)
 ```
 git clone --recursive https://github.com/OpenEmu/OpenEmu.git
 cd OpenEmu
