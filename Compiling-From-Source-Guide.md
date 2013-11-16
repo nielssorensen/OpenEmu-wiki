@@ -1,6 +1,6 @@
 Using the guide below, we will try and walk you through the steps required to download and compile the OpenEmu application from source. You will need a Macintosh computer running OSX 10.7 or greater. We recommend updating to the latest version and ensuring all software is up to date.
 
-If you have used earlier OpenEmu versions, please see "Cleanup Earlier Versions" at the bottom before compiling OpenEmu.
+If you have used earlier OpenEmu versions, please see "Cleanup Previous Versions" at the bottom before compiling OpenEmu.
 
 ##Command Line Install Guide (Advanced users)
 Not afraid of the command line? Follow this guide if you already have Xcode or Command Line Tools and want to clone and compile via terminal. Otherwise, please follow the [GUI Install Guide](https://github.com/OpenEmu/OpenEmu/wiki/Compiling-From-Source-Guide#gui-install-guide-easy-mode).
