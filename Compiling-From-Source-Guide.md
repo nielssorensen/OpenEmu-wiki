@@ -106,9 +106,11 @@ From here, you can begin adding and playing your favorite games and using the ap
 
 If you have installed or used earlier versions of OpenEmu, some things have changed that require manual cleanup to ensure proper functionality of OpenEmu 1.0.
 
-### A) Remove older cores.
+### A) Remove older core and system plugins.
 
 Navigate to your ~/Library/Application Support/OpenEmu/Cores/ folder and delete it.
+
+Navigate to your ~/Library/Application Support/OpenEmu/Systems/ folder and delete it (If applicable. This is old and not everyone has this folder).
 
 ### B) Remove older key bindings.
 
