@@ -1,10 +1,14 @@
 Using the guide below, we will try and walk you through the steps required to download and compile the OpenEmu application from source. You will need a Macintosh computer running OSX 10.7 or greater. We recommend updating to the latest version and ensuring all software is up to date.
 
-If you have used earlier OpenEmu versions, please see "Cleanup Previous Versions" at the bottom before compiling OpenEmu.
+If you have used earlier OpenEmu versions, please see [Cleaning Up Previous Versions](https://github.com/OpenEmu/OpenEmu/wiki/Compiling-From-Source-Guide#cleaning-up-previous-versions) at the bottom **before** compiling OpenEmu.
 
-##Before You Begin (SSH Keys)
+##Command Line Install Guide (Advanced users)
+Not afraid of the command line? Follow this guide if you already have Xcode and Command Line Tools and want to clone and compile via terminal. Otherwise, please follow the [GUI Install Guide](https://github.com/OpenEmu/OpenEmu/wiki/Compiling-From-Source-Guide#gui-install-guide-easy-mode).
+
+Alternatively, you can easily install the necessary Command Line Tools by following [this guide](http://www.computersnyou.com/2025/). Xcode is still necessary for successful compilation.
+
+### SSH Keys
 Please follow [this guide] (https://help.github.com/articles/generating-ssh-keys) to setup secure authentication with GitHub's servers otherwise you may receive an error similar to this one:
-
 ```
 Cloning into 'BSNES'...
 Permission denied (publickey).
@@ -13,11 +17,7 @@ fatal: Could not read from remote repository.
 Please make sure you have the correct access rights and the repository exists.
 Clone of 'git@github.com:OpenEmu/BSNES-Core.git' into submodule path 'BSNES' failed
 ```
-
-##Command Line Install Guide (Advanced users)
-Not afraid of the command line? Follow this guide if you already have Xcode and Command Line Tools and want to clone and compile via terminal. Otherwise, please follow the [GUI Install Guide](https://github.com/OpenEmu/OpenEmu/wiki/Compiling-From-Source-Guide#gui-install-guide-easy-mode).
-
-Alternatively, you can easily install the necessary Command Line Tools by following [this guide](http://www.computersnyou.com/2025/). Xcode is still necessary for successful compilation.
+### Cloning
 ```
 git clone --recursive https://github.com/OpenEmu/OpenEmu.git
 cd OpenEmu
@@ -102,7 +102,7 @@ From here, you can begin adding and playing your favorite games and using the ap
 
 ![OpenEmu: All Fresh & New](http://i.imgur.com/GrsCjf5.png)
 
-### Cleaning Up Previous Versions
+## Cleaning Up Previous Versions
 
 If you have installed or used earlier versions of OpenEmu, some things have changed that require manual cleanup to ensure proper functionality of OpenEmu 1.0.
 
