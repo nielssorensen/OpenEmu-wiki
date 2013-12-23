@@ -59,7 +59,7 @@ To get OpenEmu at the current moment, you must compile it. Don't worry, it's an 
 
 <tr>
 <td> Super Nintendo (SNES) </td>
-<td> SNES9x, BSNES </td>
+<td> SNES9x, Higan </td>
 </tr>
 
 <tr>
@@ -78,6 +78,7 @@ To get OpenEmu at the current moment, you must compile it. Don't worry, it's an 
 Please see [this page](https://github.com/OpenEmu/OpenEmu/wiki/Console---Core-Plugin-Status-&-Wishlist) for an extensive list of systems and emulators that are planned for a future date. Some of the emulators in that list are currently usable!
 
 ###Supported Controllers
+* PlayStation 4
 * Xbox 360 *(driver required)*
 * PlayStation 3
 * Logitech series (Dual Action, Rumblepad 2, Gamepad F310/F510/F710)
