@@ -1,7 +1,7 @@
 ![OpenEmu Logo](http://i.imgur.com/I0vCcEj.png)
 
 ###Get OpenEmu
-To get OpenEmu at the current moment, you must compile it. Don't worry, it's an easy process! To compile OpenEmu, please ensure that you are using Mac OS X 10.7 or 10.8. You can follow [this guide](https://github.com/OpenEmu/OpenEmu/wiki/Compiling-From-Source-Guide) if you do not know how to compile OpenEmu.
+To get OpenEmu at the current moment, you must compile it. Don't worry, it's an easy process! To compile OpenEmu, please ensure that you are using Mac OS X 10.7, 10.8 or 10.9. You can follow [this guide](https://github.com/OpenEmu/OpenEmu/wiki/Compiling-From-Source-Guide) if you do not know how to compile OpenEmu.
 
 
 ###Supported Systems
