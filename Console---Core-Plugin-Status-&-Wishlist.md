@@ -204,6 +204,7 @@ Strikethrough means they've already been ported. Feel free to port any that have
 * MSX (http://openmsx.sourceforge.net/, blueMSX, CocoaMSX)
 * <s>Nintendo DS (http://sourceforge.net/projects/desmume/)</s>
 * Odyssey² (http://o2em.sourceforge.net/)
+* PC-98 (http://www.yui.ne.jp/np2/)
 * PlayStation 2 (http://pcsx2.net/)
 * <s>PSP (https://github.com/hrydgard/ppsspp)</s>
 * ScummVM (http://scummvm.org/)
