@@ -183,6 +183,13 @@ Note: the following systems will be rolled out steadily after the initial 1.0 re
 **Compatibility:** http://forums.ppsspp.org/forumdisplay.php?fid=5<br>
 **Website:** http://ppsspp.org//<br>
 
+**Sega Saturn**<br>
+
+**Core:** Yabause<br>
+**Status:** In development<br>
+**Compatibility:** http://yabause.org/compatibility-list<br>
+**Website:** http://yabause.org<br>
+
 # Wish List
 
 Strikethrough means they've already been ported. Feel free to port any that have not.
