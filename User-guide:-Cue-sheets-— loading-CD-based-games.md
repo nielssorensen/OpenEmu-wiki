@@ -14,7 +14,7 @@ Usually, a cue sheet will be distributed with the ROM download. If it is not, on
 
 Since cue sheets do not actually contain any ROM data, any files they reference must accompany it, usually in the same directory. **It is vitally important that the data file name matches the file name in the cue sheet** — if you change the name or path of the data file (the `.bin` or `.iso`) without updating the cue sheet, OpenEmu will not be able to load it.
 
-## Limitations
+### Limitations
 
 1. OpenEmu will not load CD-based games from an archive (e.g., `.zip`) file.
 
