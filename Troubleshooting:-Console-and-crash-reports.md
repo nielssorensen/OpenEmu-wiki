@@ -8,13 +8,17 @@ Console is located at /Applications/Utilities/Console, but it is perhaps easiest
 2. Enter `Console` into the search field
 3. Console will probably be the top hit, or at least the top 'Application' hit — click it
 
+![Spotlight search for Console](https://raw.github.com/okdana/OpenEmu-documentation/master/assets/img/troubleshooting/Spotlight%20-%20Console.png)
+
 ### Viewing OpenEmu logs
 
 OpenEmu logs to the normal system log, which is visible by default (as part of *All Messages*) when Console opens. Messages at the bottom are newest, and most of those relevant to OpenEmu will contain the text `OpenEmu` or `OpenEmuHelperApp` somewhere.
 
 When possible, it may be preferable to watch the logs as the problem is happening. To do this, open Console and note the last line (you can also insert a marker with the *Insert Marker* tool-bar button). Then, switch to OpenEmu (re-launch it if necessary) and replicate the problem you were having. Any new log entries that appear are probably relevant.
 
-Once you can see the log entries, simply select the lines and copy them like any normal text. You can either click and drag or use Shift+click and/or Cmd+click to select specific lines. 
+Once you can see the log entries, simply select the lines and copy them like any normal text. You can either click and drag or use Shift+click and/or Cmd+click to select specific lines.
+
+![Console logs](https://raw.github.com/okdana/OpenEmu-documentation/master/assets/img/troubleshooting/Console%20-%20logs.png)
 
 ### Viewing OpenEmu crash report
 
@@ -22,6 +26,8 @@ When OpenEmu (or its helper application) crashes, it usually generates a [crash 
 
 OpenEmu_2013-12-29-153318_`<computer name>`.crash    
 OpenEmuHelperApp_2013-12-29-153318_`<computer name>`.crash
+
+![Console crash reports](https://raw.github.com/okdana/OpenEmu-documentation/master/assets/img/troubleshooting/Console%20-%20crash%20reports.png)
 
 Simply find any files that correspond to the time the crash occurred (often there is just one) and click it. Then you can use Select All (⌘A) and copy the text.
 
