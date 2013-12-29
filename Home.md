@@ -1,11 +1,12 @@
 ![OpenEmu Logo](http://i.imgur.com/I0vCcEj.png)
 
 ###Get OpenEmu
-OpenEmu v1.0 is now available online at the [OpenEmu website](http://openemu.org). Download a precompiled version there. The current release is `760-g99ca053`.
+OpenEmu v1.0 is now available online at the [OpenEmu website](http://openemu.org). Download a pre-compiled version there or at the [GitHub Releases page](https://github.com/OpenEmu/OpenEmu/releases). The current release is `760-g99ca053`.
+
+An experimental release incorporating several additional cores not present in the stable version (including Nintendo 64, PlayStation, and arcade systems) is also available. To download a pre-compiled version, see the the [GitHub Releases page](https://github.com/OpenEmu/OpenEmu/releases).
 
 ###Compiling from Source
 It is also possible to compile OpenEmu from its source files. Don't worry, it's an easy process! To compile OpenEmu, please ensure that you are using Mac OS X 10.7, 10.8 or 10.9. You can follow [this guide](https://github.com/OpenEmu/OpenEmu/wiki/Compiling-From-Source-Guide) if you do not know how to compile OpenEmu.
-
 
 ###Supported Systems
 <table>
@@ -102,3 +103,7 @@ Please see [this page](https://github.com/OpenEmu/OpenEmu/wiki/Console---Core-Pl
 * Xbox 360 Controller Driver: http://tattiebogle.net/index.php/ProjectRoot/Xbox360Controller/OsxDriver
 * If using a Wiimote or Wii U Pro controller, please go to the Controller preferences, select "Add a Wiimote" from the Input box and follow the pairing directions.
 * You can use Joypad Connect to connect your iPhone as a controller.
+
+###Bugs and Support
+
+Please report bugs and other issues on the [GitHub issue tracker]() or on IRC ([#openemu @ Freenode](https://webchat.freenode.net/)).
