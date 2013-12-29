@@ -20,7 +20,7 @@ Once you can see the log entries, simply select the lines and copy them like any
 
 When OpenEmu (or its helper application) crashes, it usually generates a [crash report](http://en.wikipedia.org/wiki/Crash_reporter), which contains error and debugging information which may be useful to developers. These crash reports appear in Console under the *User Diagnostic Reports* header on the left-hand side, and have names like this:
 
-OpenEmu_2013-12-29-153318_`<computer name>`.crash
+OpenEmu_2013-12-29-153318_`<computer name>`.crash    
 OpenEmuHelperApp_2013-12-29-153318_`<computer name>`.crash
 
 Simply find any files that correspond to the time the crash occurred (often there is just one) and click it. Then you can use Select All (⌘A) and copy the text.
