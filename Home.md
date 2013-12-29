@@ -5,6 +5,8 @@ OpenEmu v1.0 is now available online at the [OpenEmu website](http://openemu.org
 
 An experimental release incorporating several additional cores not present in the stable version (including Nintendo 64, PlayStation, and arcade systems) is also available. To download a pre-compiled version, see the the [GitHub Releases page](https://github.com/OpenEmu/OpenEmu/releases).
 
+See the [[User guide]] (WIP) for usage documentation.
+
 ###Compiling from Source
 It is also possible to compile OpenEmu from its source files. Don't worry, it's an easy process! To compile OpenEmu, please ensure that you are using Mac OS X 10.7, 10.8 or 10.9. You can follow [this guide](https://github.com/OpenEmu/OpenEmu/wiki/Compiling-From-Source-Guide) if you do not know how to compile OpenEmu.
 
