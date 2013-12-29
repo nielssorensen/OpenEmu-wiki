@@ -216,7 +216,7 @@ Strikethrough means they've already been ported. Feel free to port any that have
 * <s>PSP (https://github.com/hrydgard/ppsspp)</s>
 * ScummVM (http://scummvm.org/)
 * <s>Sega 32X (https://github.com/notaz/picodrive)</s>
-* Sega Dreamcast (https://code.google.com/p/nulldc/source/browse/)
+* Sega Dreamcast (https://code.google.com/p/nulldc/source/browse/, http://www.lxdream.org)
 * Supermodel (http://www.supermodel3.com/)
 * TRS-80 (http://sourceforge.net/projects/virtualt/)
 * <s>Vectrex (VecXGL)</s>
