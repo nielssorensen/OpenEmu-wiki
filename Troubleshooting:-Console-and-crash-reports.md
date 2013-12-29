@@ -4,7 +4,7 @@ When troubleshooting problems with OpenEmu, it is often necessary to inspect log
 
 Console is located at /Applications/Utilities/Console, but it is perhaps easiest to open it through Spotlight:
 
-1. Click on the Spotlight icon on the menu bar (the magnifying glass in the far right)
+1. Click on the Spotlight icon on the menu bar (the magnifying glass on the far right)
 2. Enter `Console` into the search field
 3. Console will probably be the top hit, or at least the top 'Application' hit — click it
 
