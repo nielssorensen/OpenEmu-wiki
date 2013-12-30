@@ -12,7 +12,7 @@ However, some are more complicated.
 
 Usually, a cue sheet will be distributed with the ROM download. If it is not, one can be generated in some cases by hand or by using a third-party utility (Google 'cue sheet maker'). However, this is not always possible, and a proper cue sheet must be obtained elsewhere. It is recommended to simply obtain ROM downloads from a source which packages them properly.
 
-Since cue sheets do not actually contain any ROM data, any files they reference must accompany it, usually in the same directory. **It is vitally important that the data file name matches the file name in the cue sheet** — if you change the name or path of the data file (the `.bin` or `.iso`) without updating the cue sheet, OpenEmu will not be able to load it.
+Since a cue sheet does not actually contain any ROM data, any files it references must accompany it, usually in the same directory. **It is vitally important that the data file name matches the file name in the cue sheet** — if you change the name or path of the data file (the `.bin` or `.iso`) without updating the cue sheet, OpenEmu will not be able to load it.
 
 ### Limitations
 
