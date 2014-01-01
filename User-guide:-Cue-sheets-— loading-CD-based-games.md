@@ -1,3 +1,5 @@
+**Note**: As CD-based games are not yet supported in the release/stable version of OpenEmu, the following applies only to the [experimental build](https://github.com/OpenEmu/OpenEmu/releases).
+
 The process for adding [CD](http://en.wikipedia.org/wiki/Compact_disc)-based game ROMs — like those for the PlayStation and Mega CD — to OpenEmu is slightly different than for [cartridge](http://en.wikipedia.org/wiki/ROM_cartridge)-based games. Rather than using a single ROM file, OpenEmu requires the use of a [cue sheet](http://en.wikipedia.org/wiki/Cue_sheet_%28computing%29) — a file that describes how the data on a CD is laid out.
 
 A cue sheet is a plain-text file with a `.cue` extension which accompanies one or more data files (in the case of game ROMs, usually a `.bin` or `.iso` file) and describes how the data files are used to represent the CD they were derived from. A very simple cue sheet for a game disc might look like this:
