@@ -1,14 +1,12 @@
 #### 1.0.1 — 2014-01-03
 
-**Features**
-* Added debug options to take screenshots at native size and without aspect ratio correction. (12a8195, 126f396)
-* Added a *Restart System* menu item. (cb5e05e)
-
 **Enhancements**
 * Added `.sgb` to supported extensions for Game Boy ROMs. (5755357)
+* Added debug options to take screenshots at native size and without aspect ratio correction. (12a8195, 126f396)
 * Implemented detection for PC Engine CD-ROM games. (7167a96)
-* Improved the behaviour of the search bar. (3c17840, 0503fd4)
 * Improved cover art and meta-data look-up behaviour. (ad38c71, 99d099f, f896aa7, 8148564)
+* Improved the behaviour of the search bar. (442d434)
+* Added a *Restart System* menu item. (cb5e05e)
 * Added a *Help* menu. (4a357b8, 639203a)
 * Various other minor enhancements.
 
