@@ -87,7 +87,7 @@ Please see [this page](https://github.com/OpenEmu/OpenEmu/wiki/Console---Core-Pl
 * PlayStation 4
 * Xbox 360 *(driver required)*
 * PlayStation 3
-* Logitech series (Dual Action, Rumblepad 2, Gamepad F310/F510/F710)
+* Logitech series (Dual Action, Rumblepad 2, Gamepad F310/F510/F710)\*
 * Gravis GamePad Pro
 * ~~RetroUSB SNES RetroPort and RetroPad~~ (temporarily removed)
 * Sega Saturn USB
@@ -98,6 +98,8 @@ Please see [this page](https://github.com/OpenEmu/OpenEmu/wiki/Console---Core-Pl
 * N64 Adaptoid
 * Nintendo Wiimote
 * Nintendo Wii U Pro
+
+\* If your Logitech controller has a switch on the back, it must be set to DirectInput (D).
 
 **Additional help:**
 * Bluetooth with Logitech F710: http://www.macgamepads.com/gamepads/f710/index.html
