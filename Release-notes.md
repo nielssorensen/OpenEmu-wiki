@@ -9,7 +9,7 @@
 * Implemented detection for PC Engine CD-ROM games. (7167a96)
 * Improved the behaviour of the search bar. (3c17840, 0503fd4)
 * Improved cover art and meta-data look-up behaviour. (ad38c71, 99d099f, f896aa7, 8148564)
-* Added a Help menu. (4a357b8, 639203a)
+* Added a *Help* menu. (4a357b8, 639203a)
 * Various other minor enhancements.
 
 **Fixes**
