@@ -18,7 +18,7 @@ If you do decide to submit an issue, please be as detailed and specific as possi
 
 **Please also include the following standard information:**
 
-* Hardware model (MacBook, iMac, Mac mini)
+* Hardware model (MacBook, iMac, Mac mini, &c.)
 * Operating system version (go to Apple menu > *About This Mac* in the menu bar)
 * OpenEmu version (go to *OpenEmu* > *About OpenEmu* in the menu bar; include the part that looks like *801-g2795855-Release*)
 * Whether you have any special settings that might be related (debug options, application/OS modifications, &c.)
