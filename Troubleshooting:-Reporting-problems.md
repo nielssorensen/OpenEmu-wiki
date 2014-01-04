@@ -18,7 +18,7 @@ Please try to search for your issue before creating a ticket, as it might alread
 
 If you find a ticket that matches the problem you're having, please do not create a new one.
 
-Please also do not '+1' tickets on the issue tracker. If it hasn't been determined that the issue affects multiple users, you can mention that you're experiencing it as well, but if the problem is already established, adding '+1's will only annoy people. 
+Please also do not '+1' tickets on the issue tracker. If it hasn't been determined that the issue affects multiple users, you can mention that you're experiencing it as well, but if the problem is already established, adding '+1's and 'me too's will only annoy people. 
 
 Of course, if you feel you have any other useful information to add, you are encouraged to post it in the comments.
 
