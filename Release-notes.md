@@ -1,5 +1,5 @@
 #### 1.0.1 — 2014-01-03
-[``](https://github.com/OpenEmu/OpenEmu/commit/)
+
 **Enhancements**
 * Added `.sgb` to supported extensions for Game Boy ROMs. ([`57553571ba`](https://github.com/OpenEmu/OpenEmu/commit/57553571ba6677ca90513c3240e018a97fc36a49))
 * Added debug options to take screenshots at native size and without aspect ratio correction. ([`12a8195d0b`](https://github.com/OpenEmu/OpenEmu/commit/12a8195d0b1a21faabca6096ccca566737dd1afb), [`126f396ffc`](https://github.com/OpenEmu/OpenEmu/commit/126f396ffc4824e330eb24a36e590b34630ac39a))
