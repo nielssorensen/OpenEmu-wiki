@@ -12,9 +12,19 @@ If you're having an issue, please perform some preliminary troubleshooting befor
 * Try a different filter.
 * Try an internal drive (if using a network share or external drive).
 
+### Existing/known issues
+
+Please try to search for your issue before creating a ticket, as it might already have been reported. To search the issue tracker, go to the [Issues page](https://github.com/OpenEmu/OpenEmu/issues) and then enter your search terms in the field at the very top of the page (where it says *Search or type a command*).
+
+If you find a ticket that matches the problem you're having, please do not create a new one.
+
+Please also do not '+1' tickets on the issue tracker. If it hasn't been determined that the issue affects multiple people, you can mention that you're experiencing it as well, but if the problem is already established, adding '+1's will only annoy people. 
+
+Of course, if you feel you have any other useful information to add, you are encouraged to post it in the comments.
+
 ### Required ticket information
 
-If you do decide to submit an issue, please be as detailed and specific as possible about what's happening. Include the exact steps you took to make the problem happen (even if they seem obvious), and exactly what the problem looked like. If it's difficult to describe, try [taking a screenshot](http://support.apple.com/kb/ph11229) and uploading it to a site like [Imgur](http://imgur.com).
+If you do decide to submit an issue, please be as detailed and specific as possible about what's happening. Include the exact steps you took to make the problem happen (even if they seem obvious), and exactly what the problem looked like. If it's difficult to describe, try [taking a screenshot](http://support.apple.com/kb/ph11229) and dragging it into the issue field (or you can upload it to a site like [Imgur](http://imgur.com)).
 
 **Please also include the following standard information:**
 
