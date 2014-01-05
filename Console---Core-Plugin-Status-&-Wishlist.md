@@ -215,6 +215,7 @@ Strikethrough means they've already been ported. Feel free to port any that have
 * PlayStation 2 (http://pcsx2.net/)
 * <s>PSP (https://github.com/hrydgard/ppsspp)</s>
 * ScummVM (http://scummvm.org/)
+* ResidualVM (http://residualvm.org/)
 * <s>Sega 32X (https://github.com/notaz/picodrive)</s>
 * Sega Dreamcast (https://github.com/reicast/reicast-emulator)
 * Supermodel (http://www.supermodel3.com/)
