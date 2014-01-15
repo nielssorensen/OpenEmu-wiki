@@ -204,11 +204,11 @@ Strikethrough means they've already been ported. Feel free to port any that have
 * <s>Atari Jaguar (http://icculus.org/virtualjaguar/)</s>
 * Atari ST (http://hatari.tuxfamily.org, Hatari)
 * <s>ColecoVision (http://fms.komkon.org/ColEm/, CrabEmu)</s>
-* Commodore 64 (http://viceteam.org/)
+* <s>Commodore 64 (http://viceteam.org/ & http://www.dirkwhoffmann.de/virtualc64)</s> Work in Progress, Help Welcome (https://github.com/OpenEmu/VICE-Core & https://github.com/OpenEmu/VirtualC64-Core)
 * <s>FB Alpha</s>
-* GameCube/Wii (http://code.google.com/p/dolphin-emu/)
+* GameCube/Wii (http://code.google.com/p/dolphin-emu/) Preliminary work (http://github.com/loicloic/Dolphin-Core)
 * Intellivision (http://spatula-city.org/~im14u2c/intv/)
-* MSX (http://openmsx.sourceforge.net/, blueMSX, CocoaMSX)
+* <s>MSX (http://openmsx.sourceforge.net/, blueMSX, CocoaMSX)</s> Work in Progress (https://github.com/OpenEmu/blueMSX-Core)
 * <s>Nintendo DS (http://sourceforge.net/projects/desmume/)</s>
 * Odyssey² (http://o2em.sourceforge.net/)
 * PC-98 (http://www.yui.ne.jp/np2/)
