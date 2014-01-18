@@ -1,6 +1,6 @@
 - caching layers properly
 - ratings
-- animation
+- animation (done but they have a 0.0s duration)
 - ~~drag and drop (importing files/cover art/adding to collection)~~
 - ~~rename~~
-- ~~grid scaling (need to pass correct image url based on grid size)~~
+- grid scaling (always uses the same image for the grid, not the appropriately sized one; number needs to be the grid cell size) https://github.com/OpenEmu/OpenEmu/blob/NewGridView/OpenEmu/OEDBDataSourceAdditions.m#L122
