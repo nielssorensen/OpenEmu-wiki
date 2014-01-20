@@ -35,6 +35,12 @@ The following table shows a non-exhaustive list of common code types:
 </tr>
 
 <tr>
+<td>Game Boy</td>
+<td>Game Genie</td>
+<td>FA1-B9C-4C1</td>
+</tr>
+
+<tr>
 <td>Game Boy (Color)</td>
 <td>GameShark</td>
 <td>0101CEC1</td>
@@ -42,14 +48,20 @@ The following table shows a non-exhaustive list of common code types:
 
 <tr>
 <td>Game Boy Advance</td>
-<td>Action Replay</td>
-<td>42D8DCB716E09D2C</td>
+<td>GameShark v3</td>
+<td>CD93194F 089CE0B4</td>
 </tr>
 
 <tr>
 <td>Game Boy Advance</td>
-<td>GameShark</td>
-<td>A62B1D67EB2D</td>
+<td>GameShark v1/v2</td>
+<td>A62B1D67 EB2D</td>
+</tr>
+
+<tr>
+<td>Game Gear</td>
+<td>Action Replay</td>
+<td>00D3-C280</td>
 </tr>
 
 <tr>
@@ -62,6 +74,25 @@ The following table shows a non-exhaustive list of common code types:
 <td>Mega Drive / Genesis</td>
 <td>Game Genie</td>
 <td>NN8A-AADN</td>
+</tr>
+
+<tr>
+<td>N64</td>
+<td>GameShark</td>
+<td>8033B177 0015</td>
+</tr>
+
+<tr>
+<td>NDS</td>
+<td>Action Replay</td>
+<td>22085A50 00000001</td>
+</tr>
+
+
+<tr>
+<td>Sega Master System</td>
+<td>Action Replay</td>
+<td>00C0-2502</td>
 </tr>
 
 <tr>
