@@ -115,7 +115,7 @@ For multi-line codes, use a plus (`+`) to separate each line. For example: `AVSO
 
 ### Using cheats
 
-After you've added a cheat, you'll need to enable it. Return to the *Select Cheat* menu, and you will now see the cheat that was just added in the list. Click on it to enable it. If you need to disable it later, simply return to this menu and click it again.
+After you've added a cheat, you'll need to enable it. Return to the *Select Cheat* menu, and you will now see the cheat that was just added in the list. Click on it to enable it. If you need to disable it later (currently only supported for N64), simply return to this menu and click it again.
 
 ![HUD Select Cheat menu with cheat added](https://raw.github.com/okdana/OpenEmu-documentation/master/assets/img/user%20guide/HUD%20-%20Select%20Cheat%20-%2099%20lives%20%28no%20game%29.png)
 
