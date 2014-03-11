@@ -2,7 +2,7 @@ In order to emulate some systems, BIOS files are used.  As consoles have become 
 
 If the core you are currently trying to use needs a BIOS file, it will alert you with a popup message.  Before installing a BIOS, make sure that its filename and hash are correct, or it will not work!  Installing a BIOS is as simple as adding a game to OpenEmu, just drag-and-drop a BIOS onto your library!
 
-### Here is a list of BIOS files with hashes and what cores need them
+### Necessary BIOS Files for systems/cores
 
 <table>
 <tr>
