@@ -8,9 +8,9 @@ To add a cheat code, you must be running a game. Within the game window, move th
 
 ![HUD Select Cheat menu](https://raw.github.com/okdana/OpenEmu-documentation/master/assets/img/user%20guide/HUD%20-%20Select%20Cheat%20-%20Add%20Cheat%20%28no%20game%29.png)
 
-In the dialogue that opens, you can enter a name for the cheat (to identify it in the *Select Cheat* menu), as well as the code itself. Enter codes in whatever format the core supports; usually, these formats will be identical to the most popular cheat devices available for the system in question (such as Action Replay or Game Genie).
+In the dialogue that opens, you can enter a name for the cheat (to identify it in the *Select Cheat* menu), as well as the code itself. Enter codes in whatever format the core supports; usually, these formats will be identical to the most popular cheat devices available for the system in question (such as Action Replay or Game Genie). You can also choose to enable a cheat right away or wait to enable it later.
 
-![Add Cheat dialogue](https://raw.github.com/okdana/OpenEmu-documentation/master/assets/img/user%20guide/Add%20Cheat%20dialogue.png)
+![Add Cheat dialogue](http://i.imgur.com/6nQUt58.png)
 
 The following table shows a non-exhaustive list of common code types:
 
