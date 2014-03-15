@@ -105,6 +105,15 @@ In order to emulate some systems, BIOS files are needed due to increasing comple
 </tr>
 
 
+
+<tr>
+<td>TurboGrafx-CD / PC Engine-CD</td>
+<td>Mednafen</td>
+<td>syscard3.pce</td>
+<td><pre><code>ff1a674273fe3540ccef576376407d1d</pre></code></td>
+</tr>
+
+
 </table>
 
 \* (Note: The default GBA core, VisualBoy Advance, does not require a BIOS image)
