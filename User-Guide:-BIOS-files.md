@@ -100,8 +100,8 @@ In order to emulate some systems, BIOS files are needed due to increasing comple
 <tr>
 <td>SNES</td>
 <td>Higan</td>
-<td>Various**</td>
-<td>N/A</td>
+<td>Multiple**</td>
+<td>Multiple</td>
 </tr>
 
 
