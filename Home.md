@@ -1,7 +1,7 @@
 ![OpenEmu Logo](http://i.imgur.com/I0vCcEj.png)
 
 ###Get OpenEmu
-OpenEmu v1.0.1 is now available online at the [OpenEmu website](http://openemu.org). Download a pre-compiled version there or at the [GitHub Releases page](https://github.com/OpenEmu/OpenEmu/releases). The current release is `829-gfe1aabc`.
+OpenEmu is available online at the [OpenEmu website](http://openemu.org) or at the [GitHub Releases page](https://github.com/OpenEmu/OpenEmu/releases).
 
 An experimental release incorporating several additional cores not present in the stable version (including Nintendo 64, PlayStation, and arcade systems) is also available. To download a pre-compiled version, see the the [GitHub Releases page](https://github.com/OpenEmu/OpenEmu/releases).
 
