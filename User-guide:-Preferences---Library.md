@@ -1,4 +1,6 @@
-Game Library Folder Location
+### Game Library Folder Location
+
+This section displays the location of your Game Library Folder.  It allows you to move it where you would like and it also allows you to reset it to the default location.
 
 -----
 
