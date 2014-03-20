@@ -3,7 +3,7 @@ Preferences are accessed by clicking OpenEmu > Preferences or by pressing <code>
 ![Menu Bar](http://i.imgur.com/F8yHwjh.png)
 
 -----
-Select a page to learn more about the different tabs in the Preferences window
+### Learn more about the different tabs in the Preferences window
 
 ![Preferences Tabs](http://i.imgur.com/jOwhkR3.png)
 
