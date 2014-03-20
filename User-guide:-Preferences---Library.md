@@ -4,11 +4,12 @@ This section displays the location of your Game Library Folder.  It allows you t
 
 -----
 
-Reset all dialog warnings
+### Reset all dialog warnings
+
 
 -----
 
-Organization methods
+### Organization methods
 
 -----
 
