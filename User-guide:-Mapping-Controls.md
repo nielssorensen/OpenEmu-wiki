@@ -29,7 +29,6 @@ OpenEmu has the ability to map more than just what the original console supports
 -----
 **Note:**
 
-If you are having trouble pairing a PlayStation controller over Bluetooth: [[User guide: DualShock 3/4 Pairing]]
+If you are having trouble pairing a PlayStation controller over Bluetooth: [[User guide: DualShock Controller Pairing]]
 
 See [[User guide: Wiimote and Wii U Pro pairing]] for pairing Wii controllers, as they require an extra step. 
-
