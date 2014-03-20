@@ -17,6 +17,6 @@ Preferences are accessed by clicking OpenEmu > Preferences or by pressing <code>
 
 [[Preferences > Cores]]
 
-[[Preferences > Secrets]]
+[[Preferences > Secrets]](https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-Preferences---Secrets)
 
 -----
