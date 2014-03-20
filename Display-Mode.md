@@ -8,4 +8,4 @@ When using the Nestopia core, pressing the Display Mode button will cycle variou
 Display mode cycles through different palettes and [Anaglyph 3D](http://en.wikipedia.org/wiki/Anaglyph_3D) options.
 
 ### Nintendo DS
-Sometimes, the Extra screen on the DS is unnecessary, so Display Mode lets you choose between showing both screens, just the top screen, or just the touch screen.
+Sometimes, having an extra screen on the DS is unnecessary and wasteful of screen real estate.  Display Mode lets you choose between showing both screens, just the top screen, or just the touch screen.
