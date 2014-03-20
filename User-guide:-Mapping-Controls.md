@@ -13,7 +13,7 @@ OpenEmu makes it simple to map controls.  It is compatible with keyboard control
 OpenEmu has the ability to map more than just what the original console supports.  Under the "Special Keys" section in the key mapper, the following features are available:
 
 * [Save](https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-Save-states#manual-save-states)
-* [Load](https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-Save-states#manual-save-states)
+* [Load](https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-Save-states#loading)
 * [Quick Save](https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-Save-states#quick-save-state)
 * [Quick Load](https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-Save-states#quick-save-state)
 * Fullscreen
