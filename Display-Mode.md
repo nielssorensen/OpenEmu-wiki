@@ -4,7 +4,7 @@ Currently, only three systems support Display Mode:
 ### NES
 When using the Nestopia core, pressing the Display Mode button will cycle various palettes.
 
-[NES Palettes](http://i.imgur.com/NJbsF34.gif)
+![NES Palettes](http://i.imgur.com/NJbsF34.gif)
 
 -----
 ### Virtual Boy
