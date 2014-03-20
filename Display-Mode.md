@@ -16,7 +16,7 @@ Display mode cycles through different palettes and [Anaglyph 3D](http://en.wikip
 -----
 
 ### Nintendo DS
-Sometimes, having an extra screen on the DS is unnecessary and the scren.  Display Mode lets you choose between showing both screens, just the top screen, or just the touch screen.
+Sometimes, having an extra screen on the DS is unnecessary.  Display Mode lets you choose between showing both screens, just the top screen, or just the touch screen so that you can optimize your screen space.
 
 ![Nintendo DS screens](http://i.imgur.com/XeM6KaD.gif)
 
