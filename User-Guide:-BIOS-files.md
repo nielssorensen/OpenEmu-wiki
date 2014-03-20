@@ -116,7 +116,7 @@ In order to emulate some systems, BIOS files are needed due to increasing comple
 
 </table>
 
-\* (Note: The default GBA core, VisualBoy Advance, does not require a BIOS image)
+\* (Note: The default GBA core, VisualBoy Advance, does not require a BIOS)
 
 \** (Many SNES games came with additional chips on their cartridge, so the dependencies are per-game)
 
