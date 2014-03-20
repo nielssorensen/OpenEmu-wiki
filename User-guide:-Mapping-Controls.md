@@ -22,7 +22,7 @@ OpenEmu has the ability to map more than just what the original console supports
 * Volume Up
 * Reset (Reset emulation)
 * Pause (Pause emulation)
-* Fast Forward (Only fast-forwards as long as this button is held down)
+* Fast Forward (Fast forwards for the duration of the button press. It is not a toggle!)
 * [Display Mode](https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-Display-Mode)
 * Screenshot
 
