@@ -9,7 +9,10 @@ This section displays the location of your Game Library Folder.  It allows you t
 
 -----
 
-### Organization methods
+### Organisation methods
+* Keep games organised
+* Copy files to Game Library folder when adding to library
+* Automatically lookup game information & artwork
 
 -----
 
