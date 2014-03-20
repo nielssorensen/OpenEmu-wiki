@@ -13,7 +13,7 @@ Preferences are accessed by clicking OpenEmu > Preferences or by pressing <code>
 
 [[Preferences > Gameplay]]
 
-[[Preferences > Controls]]
+[Preferences > Controls](https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-Mapping-Controls)
 
 [[Preferences > Cores]]
 
