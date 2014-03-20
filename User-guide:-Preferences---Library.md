@@ -6,6 +6,7 @@ This section displays the location of your Game Library Folder.  It allows you t
 
 ### Reset all dialog warnings
 
+If pressed, this will restore all of the dialogs with a "Do not ask me again" option.
 
 -----
 
