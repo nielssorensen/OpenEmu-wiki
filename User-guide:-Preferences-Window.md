@@ -11,7 +11,7 @@ Preferences are accessed by clicking OpenEmu > Preferences or by pressing <code>
 
 [[Preferences > Library]]
 
-[[Preferences > Gameplay]]
+[Preferences > Gameplay](https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-Preferences:-Gameplay)
 
 [Preferences > Controls](https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-Mapping-Controls)
 
