@@ -9,14 +9,14 @@ Preferences are accessed by clicking OpenEmu > Preferences or by pressing <code>
 
 ![Preferences Tabs](http://i.imgur.com/jOwhkR3.png)
 
-[Library](https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-Preferences---Library)
+* [Library](https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-Preferences---Library)
 
-[Gameplay](https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-Preferences:-Gameplay)
+* [Gameplay](https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-Preferences:-Gameplay)
 
-[Controls](https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-Mapping-Controls)
+* [Controls](https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-Mapping-Controls)
 
-[Cores](https://github.com/OpenEmu/OpenEmu/wiki/User-Guide:-Preferences---Cores)
+* [Cores](https://github.com/OpenEmu/OpenEmu/wiki/User-Guide:-Preferences---Cores)
 
-[Secrets](https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-Preferences---Secrets)
+* [Secrets](https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-Preferences---Secrets)
 
 -----
