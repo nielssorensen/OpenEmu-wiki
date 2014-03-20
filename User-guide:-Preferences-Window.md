@@ -9,7 +9,7 @@ Preferences are accessed by clicking OpenEmu > Preferences or by pressing <code>
 
 ![Preferences Tabs](http://i.imgur.com/jOwhkR3.png)
 
-[[Library]]
+[Library](https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-Preferences---Library)
 
 [Gameplay](https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-Preferences:-Gameplay)
 
