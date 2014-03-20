@@ -11,11 +11,11 @@
 * Nearest Neighbor
 * NTSC
 * NTSC (Blargg)
-* Pixellate (This is the default filter)
+* Pixellate*
 * SABR
 * Scanline
 
-
+*Default filter
 -----
 
 ### Window Management
