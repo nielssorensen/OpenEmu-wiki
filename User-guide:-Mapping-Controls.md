@@ -12,10 +12,10 @@ OpenEmu makes it simple to map controls.  It is compatible with keyboard control
 ### Special Keys
 OpenEmu has the ability to map more than just what the original console supports.  Under the "Special Keys" section in the key mapper, the following features are available:
 
-* Save
-* Load
-* [[Quick Save]]
-* Quick Load
+* [Save](https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-Save-states)
+* [Load](https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-Save-states)
+* [Quick Save](https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-Save-states)
+* [Quick Load](https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-Save-states)
 * Fullscreen
 * Mute
 * Volume Down
@@ -23,7 +23,7 @@ OpenEmu has the ability to map more than just what the original console supports
 * Reset (Reset emulation)
 * Pause (Pause emulation)
 * Fast Forward (Only fast-forwards as long as this button is held down)
-* [[Display Mode]]
+* [Display Mode](https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-Display-Mode)
 * Screenshot
 
 -----
