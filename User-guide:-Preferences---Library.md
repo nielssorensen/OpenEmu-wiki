@@ -12,4 +12,6 @@ Organization methods
 
 -----
 
-Available Libraries
+### Available Libraries
+
+Displays every available Console library.  Uncheck a library to hide it in the sidebar of the main window.
