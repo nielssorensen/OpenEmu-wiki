@@ -1,6 +1,6 @@
 ### Display Mode
 
-[Built-in Filters](https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-Filters): 
+Built-in [Filters](https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-Filters): 
 * 2xBR
 * 4xBR
 * Beam4
