@@ -1,3 +1,5 @@
+### How to access OpenEmu's Preferences
+
 Preferences are accessed by clicking OpenEmu > Preferences or by pressing <code>⌘,</code>
 
 ![Menu Bar](http://i.imgur.com/F8yHwjh.png)
