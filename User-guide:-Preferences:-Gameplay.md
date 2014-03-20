@@ -11,7 +11,7 @@
 * Nearest Neighbor
 * NTSC
 * NTSC (Blargg)
-* Pixellate
+* Pixellate (This is the default filter)
 * SABR
 * Scanline
 
