@@ -16,10 +16,12 @@ Display mode cycles through different palettes and [Anaglyph 3D](http://en.wikip
 -----
 
 ### Nintendo DS
-Sometimes, having an extra screen on the DS is unnecessary and wasteful of screen real estate.  Display Mode lets you choose between showing both screens, just the top screen, or just the touch screen.
+Sometimes, having an extra screen on the DS is unnecessary and the scren.  Display Mode lets you choose between showing both screens, just the top screen, or just the touch screen.
+
+![Nintendo DS screens](http://i.imgur.com/XeM6KaD.gif)
 
 -----
 
 Note: 
 
-Support for changing the GameBoy palette in Gambatte is coming in the future.
+Support for changing the GameBoy palette in the Gambatte core is coming in the future.
