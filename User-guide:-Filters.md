@@ -1,1 +1,1 @@
-OpenEmu supports filters for those who wish to clean up or alter the look of their games
+OpenEmu supports filters for those who wish to clean up or alter the look of their games.
