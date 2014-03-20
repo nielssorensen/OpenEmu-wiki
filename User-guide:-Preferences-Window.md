@@ -15,7 +15,7 @@ Preferences are accessed by clicking OpenEmu > Preferences or by pressing <code>
 
 [Preferences > Controls](https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-Mapping-Controls)
 
-[[Preferences > Cores]]
+[Preferences > Cores](https://github.com/OpenEmu/OpenEmu/wiki/User-Guide:-Preferences---Cores)
 
 [Preferences > Secrets](https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-Preferences---Secrets)
 
