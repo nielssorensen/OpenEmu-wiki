@@ -1,4 +1,4 @@
-Some cores support the ability to change different display options.  This option is accessed by mapping "Display Mode" to a Keyboard/Controller button in [Preferences > Controls](https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-Mapping-Controls).
+Some cores support the ability to change different display options.  This is accessed by mapping "Display Mode" to a Keyboard/Controller button in [Preferences > Controls](https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-Preferences:-Controls).
 
 Currently, only three systems support Display Mode:
 
