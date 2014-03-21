@@ -1,0 +1,1 @@
+When adding a game to OpenEmu, it will attempt to identify the game and add metadata from [[OpenVGDB]].
