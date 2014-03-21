@@ -1,4 +1,4 @@
-### User Guide: Mapping Controls
+### Mapping Controls
 
 OpenEmu makes it simple to map controls.  It is compatible with keyboard controls and any [HID](http://en.wikipedia.org/wiki/USB_human_interface_device_class) Compliant controller. Simply connect your controller, select it in the "Input" dropdown, and if your controller is on [this list](https://github.com/OpenEmu/OpenEmu/wiki#supported-controllers), it will be auto-mapped.  If your controller is not auto-mapped or you wish to remap some controls from the default, all you have to do is select which button you would like to map to your controller and press the button on the controller to which you would like to map it.
 
