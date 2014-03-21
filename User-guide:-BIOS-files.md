@@ -14,7 +14,7 @@ In order to emulate some systems, BIOS files are needed due to increasing comple
 <tr>
 <td>Atari 5200</td>
 <td>Atari800</td>
-<td>5200.rom</td>
+<td><code>5200.rom</code></td>
 <td>
 <code>281f20ea4320404ec820fb7ec0693b38</code>
 </td>
@@ -23,7 +23,7 @@ In order to emulate some systems, BIOS files are needed due to increasing comple
 <tr>
 <td>Atari Lynx</td>
 <td>Mednafen</td>
-<td>lynxboot.img</td>
+<td><code>lynxboot.img</code></td>
 <td>
 <code>fcd403db69f54290b51035d82f835e7b</code>
 </td>
@@ -32,14 +32,14 @@ In order to emulate some systems, BIOS files are needed due to increasing comple
 <tr>
 <td>ColecoVision</td>
 <td>CrabEmu</td>
-<td>coleco.rom</td>
+<td><code>coleco.rom</code></td>
 <td><code>2c66f5911e5b42b8ebe113403548eee7</code></td>
 </tr>
 
 <tr>
 <td>Famicom Disk System</td>
 <td>Nestopia</td>
-<td>disksys.rom</td>
+<td><code>disksys.rom</code></td>
 <td>
 <code>ca30b50f880eb660a320674ed365ef7a</code>
 </td>
@@ -48,28 +48,28 @@ In order to emulate some systems, BIOS files are needed due to increasing comple
 <tr>
 <td>Game Boy Advance</td>
 <td>Higan*</td>
-<td>bios.rom</td>
+<td><code>bios.rom</code></td>
 <td><code>a860e8c0b6d573d191e4ec7db1b1e4f6</code></td>
 </tr>
 
 <tr>
 <td>Playstation</td>
 <td>Mednafen</td>
-<td>scph5500.bin</td>
+<td><code>scph5500.bin</code></td>
 <td><code>8dd7d5296a650fac7319bce665a6a53c</code></td>
 </tr>
 
 <tr>
 <td>Playstation</td>
 <td>Mednafen</td>
-<td>scph5501.bin</td>
+<td><code>scph5501.bin</code></td>
 <td><code>490f666e1afb15b7362b406ed1cea246</code></td>
 </tr>
 
 <tr>
 <td>Playstation</td>
 <td>Mednafen</td>
-<td>scph5502.bin</td>
+<td><code>scph5502.bin</code></td>
 <td><code>e56ec1b027e2fe8a49217d9678f7f6bb</code></td>
 </tr>
 
@@ -77,14 +77,14 @@ In order to emulate some systems, BIOS files are needed due to increasing comple
 <tr>
 <td>Sega CD</td>
 <td>GenesisPlus</td>
-<td>BIOS_CD_E.bin</td>
+<td><code>BIOS_CD_E.bin</code></td>
 <td><code>d8b8b720dea6c6ba25c309ed633930f4</code></td>
 </tr>
 
 <tr>
 <td>Sega CD</td>
 <td>GenesisPlus</td>
-<td>BIOS_CD_J.bin</td>
+<td><code>BIOS_CD_J.bin</code></td>
 <td><code>278a9397d192149e84e820ac621a8edd</code></td>
 </tr>
 
@@ -92,7 +92,7 @@ In order to emulate some systems, BIOS files are needed due to increasing comple
 <tr>
 <td>Sega CD</td>
 <td>GenesisPlus</td>
-<td>BIOS_CD_U.bin</td>
+<td><code>BIOS_CD_U.bin</code></td>
 <td><code>2efd74e3232ff260e371b99f84024f7f</code></td>
 </tr>
 
@@ -109,7 +109,7 @@ In order to emulate some systems, BIOS files are needed due to increasing comple
 <tr>
 <td>TurboGrafx-CD / PC Engine-CD</td>
 <td>Mednafen</td>
-<td>syscard3.pce</td>
+<td><code>syscard3.pce</code></td>
 <td><code>ff1a674273fe3540ccef576376407d1d</code></td>
 </tr>
 
