@@ -20,3 +20,9 @@ Make sure this box is checked in order to allow OpenEmu to scan your hard drive 
 ![setup assistant part 3](http://i.imgur.com/GJy4T5l.png)
 
 -----
+
+### Let's Go!
+
+That's it! The setup assistant is finished.  Press "Go" to begin enjoying your games!
+
+![setup assistant part 4](http://i.imgur.com/2fGBjbE.png)
