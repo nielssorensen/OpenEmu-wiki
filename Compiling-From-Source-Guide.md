@@ -118,6 +118,6 @@ Navigate to your ~/Library/Application Support/OpenEmu/Bindings Configurations/ 
 
 ### C) Remove older preferences
 
-Navigate to your home folder, library: ~/Library/Preferences/ and remove the org.openemu.OpenEmu.plist preferences file there, and any files labeled OpenEmu.
+Run the following command in Terminal.app: `defaults delete org.openemu.OpenEmu`
 
 ### D) Proceed to Step 1 to compile OpenEmu.
