@@ -10,6 +10,14 @@ In order to emulate some systems, BIOS files are needed due to increasing comple
 <th>md5 Hash</th>
 </tr> 
 
+<tr>
+<td>3DO</td>
+<td>4DO</td>
+<td><code>panafz10.bin</code></td>
+<td>
+<code>51f2f43ae2f3508a14d9f56597e2d3ce</code>
+</td>
+</tr>
 
 <tr>
 <td>Atari 5200</td>
