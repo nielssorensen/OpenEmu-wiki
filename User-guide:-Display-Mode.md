@@ -24,4 +24,4 @@ Sometimes, having an extra screen on the DS is unnecessary.  Display Mode lets y
 
 Note: 
 
-Support for changing the GameBoy palette in the Gambatte core is coming in the future.
+Support for changing the palette in Game Boy games in the Gambatte core is coming in the future.
