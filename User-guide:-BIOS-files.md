@@ -83,14 +83,14 @@ In order to emulate some systems, BIOS files are needed due to increasing comple
 
 
 <tr>
-<td>Sega CD</td>
+<td>Sega CD (EU)</td>
 <td>GenesisPlus</td>
 <td><code>BIOS_CD_E.bin</code></td>
 <td><code>d8b8b720dea6c6ba25c309ed633930f4</code></td>
 </tr>
 
 <tr>
-<td>Sega CD</td>
+<td>Sega CD (JP)</td>
 <td>GenesisPlus</td>
 <td><code>BIOS_CD_J.bin</code></td>
 <td><code>278a9397d192149e84e820ac621a8edd</code></td>
@@ -98,7 +98,7 @@ In order to emulate some systems, BIOS files are needed due to increasing comple
 
 
 <tr>
-<td>Sega CD</td>
+<td>Sega CD (NA)</td>
 <td>GenesisPlus</td>
 <td><code>BIOS_CD_U.bin</code></td>
 <td><code>2efd74e3232ff260e371b99f84024f7f</code></td>
