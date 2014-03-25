@@ -108,8 +108,8 @@ In order to emulate some systems, BIOS files are needed due to increasing comple
 <tr>
 <td>SNES</td>
 <td>Higan</td>
-<td>Multiple**</td>
-<td>Multiple</td>
+<td><a href="https://github.com/OpenEmu/OpenEmu/wiki/_preview#snes-chip-dumps">Multiple</a></td>
+<td><a href="https://github.com/OpenEmu/OpenEmu/wiki/_preview#snes-chip-dumps">Multiple</a></td>
 </tr>
 
 
@@ -126,5 +126,56 @@ In order to emulate some systems, BIOS files are needed due to increasing comple
 
 \* Note: The default GBA core, VisualBoy Advance, does not require a BIOS
 
-\** Many SNES games came with additional chips on their cartridge, so the dependencies are per-game
+-----
 
+### SNES Chip Dumps for Higan
+Many SNES games came with additional chips on their cartridge, so the dependencies are per-game.  
+
+
+<table>
+<tr>
+<th>Filename</th>
+<th>md5 Hash</th>
+</tr> 
+
+<tr>
+<td><code>dsp1.rom</code></td>
+<td><code>428fdb968d54353d9c9eced1b0586671</code></td>
+</tr>
+
+<tr>
+<td><code>dsp1b.rom</code></td>
+<td><code>332273cc0df5775d3803f2fd88e95d18</code></td>
+</tr>
+
+<tr>
+<td><code>dsp2.rom</code></td>
+<td><code>9ebbdcec67c0c01d5a0593d3cf167c9e</code></td>
+</tr>
+
+<tr>
+<td><code>dsp3.rom</code></td>
+<td><code>484908d68405d44e2be757b4e1e75d15</code></td>
+</tr>
+
+<tr>
+<td><code>dsp4.rom</code></td>
+<td><code>f229fda2d7b33c5a218cba28147ab9b8</code></td>
+</tr>
+
+<tr>
+<td><code>st010.rom</code></td>
+<td><code>636093910fbaff60c8b327be00aefbd9</code></td>
+</tr>
+
+<tr>
+<td><code>st011.rom</code></td>
+<td><code>5c209ce0283632b6574ad835bf862bee</code></td>
+</tr>
+
+<tr>
+<td><code>st018.rom</code></td>
+<td><code>dafae0e0c71c924075811c595c61a30e</code></td>
+</tr>
+
+</table>
