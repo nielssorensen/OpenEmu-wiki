@@ -61,21 +61,21 @@ In order to emulate some systems, BIOS files are needed due to increasing comple
 </tr>
 
 <tr>
-<td>Playstation</td>
+<td>Playstation (JP)</td>
 <td>Mednafen</td>
 <td><code>scph5500.bin</code></td>
 <td><code>8dd7d5296a650fac7319bce665a6a53c</code></td>
 </tr>
 
 <tr>
-<td>Playstation</td>
+<td>Playstation (NA)</td>
 <td>Mednafen</td>
 <td><code>scph5501.bin</code></td>
 <td><code>490f666e1afb15b7362b406ed1cea246</code></td>
 </tr>
 
 <tr>
-<td>Playstation</td>
+<td>Playstation (EU)</td>
 <td>Mednafen</td>
 <td><code>scph5502.bin</code></td>
 <td><code>e56ec1b027e2fe8a49217d9678f7f6bb</code></td>
