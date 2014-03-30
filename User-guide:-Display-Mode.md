@@ -1,6 +1,13 @@
 Some cores support the ability to change different display options.  This is accessed by mapping "Display Mode" to a Keyboard/Controller button in [Preferences > Controls](https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-Preferences:-Controls).
 
-Currently, only three systems support Display Mode:
+Currently, four systems support Display Mode:
+
+### Atari 2600
+While playing Atari 2600 press the Display Mode button to cycle through palettes and screen sizes.
+
+
+
+-----
 
 ### NES
 When using the Nestopia core, pressing the Display Mode button will cycle through various palettes.
