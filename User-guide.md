@@ -7,5 +7,6 @@ OpenEmu currently does not have a Help menu or a manual (see [issue # 893](https
 * [[User guide: Preferences]]
 * [[User guide: Save states]]
 * [[User guide: Wiimote and Wii U Pro pairing]]
+* [[User guide: DualShock Controller Pairing]]
 
 (Work in progress)
