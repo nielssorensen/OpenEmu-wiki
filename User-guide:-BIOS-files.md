@@ -108,8 +108,8 @@ In order to emulate some systems, BIOS files are needed due to increasing comple
 <tr>
 <td>SNES</td>
 <td>Higan</td>
-<td><a href="https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-BIOS-files#snes-chip-dumps">Multiple</a></td>
-<td><a href="https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-BIOS-files#snes-chip-dumps">Multiple</a></td>
+<td><a href="https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-BIOS-files#snes-chip-dumps-for-higan">Multiple</a></td>
+<td><a href="https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-BIOS-files#snes-chip-dumps-for-higan">Multiple</a></td>
 </tr>
 
 
