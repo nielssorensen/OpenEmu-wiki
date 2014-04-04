@@ -3,9 +3,9 @@ Some cores support the ability to change different display options.  This is acc
 Currently, four systems support Display Mode:
 
 ### Atari 2600
-While playing Atari 2600 press the Display Mode button to cycle through palettes and screen sizes.
+While playing Atari 2600 press the Display Mode button to cycle through NTSC/PAL/SECAM palettes and modes.
 
-
+![2600 Palettes](http://i.imgur.com/9NJPUUm.gif)
 
 -----
 
