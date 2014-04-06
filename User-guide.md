@@ -2,6 +2,7 @@ OpenEmu currently does not have a Help menu or a manual (see [issue # 893](https
 
 * [[User guide: Getting Started]]
 * [[User guide: BIOS files]]
+* [[User guide: Box art]]
 * [[User guide: Cheat codes]]
 * [[User guide: Cue sheets — loading CD based games]]
 * [[User guide: Preferences]]
