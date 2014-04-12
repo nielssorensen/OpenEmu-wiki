@@ -1,6 +1,7 @@
 - caching layers properly
 - ratings
 - renaming items (field editor)
+- drag and drop onto items (aka updating cover image)
 - selection of items without image
 - animation (done but they have a 0.0s duration)
 - ~~drag and drop (importing files/cover art/adding to collection)~~
