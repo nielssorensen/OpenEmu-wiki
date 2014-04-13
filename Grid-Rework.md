@@ -1,9 +1,0 @@
-- caching layers properly
-- ratings
-- renaming items (field editor)
-- drag and drop onto items (aka updating cover image)
-- selection of items without image
-- animation (done but they have a 0.0s duration)
-- ~~drag and drop (importing files/cover art/adding to collection)~~
-- ~~rename~~
-- grid scaling (always uses the same image for the grid, not the appropriately sized one; number needs to be the grid cell size) https://github.com/OpenEmu/OpenEmu/blob/NewGridView/OpenEmu/OEDBDataSourceAdditions.m#L122
