@@ -15,6 +15,7 @@
 ### Grid Rework
 - caching layers properly
 - fix layout
+- implement spinner, file missing and drop indication layers
 - ~~ratings~~
 - ~~renaming items (field editor)~~
 - drag and drop onto items (aka updating cover image)
