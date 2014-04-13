@@ -15,7 +15,8 @@
 ### Grid Rework
 - caching layers properly
 - ~~fix layout~~
-- implement spinner, file missing and drop indication layers
+- ~~implement spinner, file missing and drop indication layers~~
+- add animation for spinner (might require us to move the indication layer to the IKIBrowserView's foreground layer)
 - ~~ratings~~
 - ~~renaming items (field editor)~~
 - drag and drop onto items (aka updating cover image)
