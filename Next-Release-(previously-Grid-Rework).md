@@ -14,7 +14,7 @@
 
 ### Grid Rework
 - caching layers properly
-- fix layout
+- ~~fix layout~~
 - implement spinner, file missing and drop indication layers
 - ~~ratings~~
 - ~~renaming items (field editor)~~
@@ -24,7 +24,6 @@
 - ~~drag and drop (importing files/cover art/adding to collection)~~
 - ~~rename~~
 - improve missing artwork image (custom NSImage overriding drawInConetxt: so we can always draw without scaling?)
-- grid scaling (always uses the same image for the grid, not the appropriately sized one; number needs to be the grid cell size) https://github.com/OpenEmu/OpenEmu/blob/NewGridView/OpenEmu/OEDBDataSourceAdditions.m#L122
 
 ***
 
