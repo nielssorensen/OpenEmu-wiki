@@ -13,15 +13,15 @@
 ***
 
 ### Grid Rework
-- caching layers properly
+- ~~caching layers properly~~
 - ~~fix layout~~
 - ~~implement spinner, file missing and drop indication layers~~
-- add animation for spinner (might require us to move the indication layer to the IKIBrowserView's foreground layer)
+- ~~add animation for spinner (might require us to move the indication layer to the IKIBrowserView's foreground layer)~~
 - ~~ratings~~
 - ~~renaming items (field editor)~~
-- drag and drop onto items (aka updating cover image)
+- drag and drop onto items (aka updating cover image), including animation
 - ~~selection of items without image~~
-- animation (done but they have a 0.0s duration)
+- ~~animation (done but they have a 0.0s duration)~~
 - ~~drag and drop (importing files/cover art/adding to collection)~~
 - ~~rename~~
 - improve missing artwork image (custom NSImage overriding drawInConetxt: so we can always draw without scaling?)
