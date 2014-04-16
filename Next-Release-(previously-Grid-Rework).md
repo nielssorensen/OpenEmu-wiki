@@ -24,7 +24,8 @@
 - ~~animation (done but they have a 0.0s duration)~~
 - ~~drag and drop (importing files/cover art/adding to collection)~~
 - ~~rename~~
-- improve missing artwork image (custom NSImage overriding drawInConetxt: so we can always draw without scaling?)
+- ~~improve missing artwork image (custom NSImage overriding drawInConetxt: so we can always draw without scaling?)~~
+- Improve layout (http://imgur.com/a/QNQBM, new grid at bottom)
 
 ***
 
@@ -32,4 +33,4 @@
 - Fix input issues :P
 - can we keep track of battery saves?
 - ~~are OpenVGDB ids persistent? should we add them to the core data store?~~
-- add default cover art aspect ratio to system plugins (localised)
+- ~~add default cover art aspect ratio to system plugins (localised)~~
