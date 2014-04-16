@@ -31,5 +31,5 @@
 ### Misc
 - Fix input issues :P
 - can we keep track of battery saves?
-- are OpenVGDB ids persistent? should we add them to the core data store?
+- ~~are OpenVGDB ids persistent? should we add them to the core data store?~~
 - add default cover art aspect ratio to system plugins (localised)
