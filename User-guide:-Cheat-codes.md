@@ -1,6 +1,6 @@
 Like many emulators, OpenEmu allows the use of [cheat codes](http://en.wikipedia.org/wiki/Cheating_in_video_games) to change the way a game plays (invincibility, level skipping, &c.).
 
-Cheat-code support in OpenEmu is determined by each [core](#) and its underlying emulation code. Some cores do not support cheat codes; OpenEmu knows which cores those are, and its cheat functionality will not be available when they are in use.
+Cheat-code support in OpenEmu is determined by each [core](https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-Preferences:-Cores) and its underlying emulation code. Some cores do not support cheat codes; OpenEmu knows which cores those are, and its cheat functionality will not be available when they are in use.
 
 ### Adding cheats
 
