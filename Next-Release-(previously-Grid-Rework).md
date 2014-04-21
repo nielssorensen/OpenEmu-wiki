@@ -3,12 +3,12 @@
 ***
 
 ### Image Rework
-- use jpg as default (which compression factor?)
-- don't generate thumbnails (atm new grid view does not support images at different sizes)
-- migrate from old version
- - Delete thumbnails
- - Run background thread to convert pngs to jpg (save disk space, avoid hard drive as bottleneck for loading grid images)
- - save image format in core data so we keep track of which images to convert between launches
+- ~~use jpg as default (which compression factor?)~~
+- ~~don't generate thumbnails (atm new grid view does not support images at different sizes)~~
+- ~~migrate from old version~~
+ - ~~Delete thumbnails~~
+ - ~~Run background thread to convert pngs to jpg (save disk space, avoid hard drive as bottleneck for loading grid images)~~
+ - ~~save image format in core data so we keep track of which images to convert between launches~~
 
 ***
 
