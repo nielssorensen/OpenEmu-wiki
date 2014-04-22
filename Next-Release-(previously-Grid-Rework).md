@@ -9,7 +9,7 @@
  - ~~Delete thumbnails~~
  - ~~Run background thread to convert pngs to jpg (save disk space, avoid hard drive as bottleneck for loading grid images)~~
  - ~~save image format in core data so we keep track of which images to convert between launches~~
-
+ - Add indicator for migration progress
 ***
 
 ### Grid Rework
