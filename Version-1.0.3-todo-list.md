@@ -27,4 +27,10 @@
 - ~~are OpenVGDB ids persistent? should we add them to the core data store?~~
 - ~~add default cover art aspect ratio to system plugins (localised)~~
 - add support for multi-rom archives (is the stuff in multi-rom-archives branch working?)
+ - import
+ - deletion
+ - launching
+ - lookup
+ - migration
+ - move library
 - Fix coredata deadlock on quit (caused by saving child contexts when app terminates, temporarily fixed by ignoring changes in child contexts)
