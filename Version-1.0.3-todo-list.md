@@ -17,7 +17,7 @@
 ### Grid Rework
 - ~~Fix drag~~
 - ~~Fix drop (highlight & don't accept images on whole view)~~
-- Improve layout (http://imgur.com/a/QNQBM, new grid at bottom)
+- ~~Improve layout (http://imgur.com/a/QNQBM, new grid at bottom)~~
 
 ***
 
