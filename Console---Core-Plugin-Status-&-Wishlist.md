@@ -212,7 +212,7 @@ Strikethrough means they've already been ported. Feel free to port any that have
 * <s>Nintendo DS (http://sourceforge.net/projects/desmume/)</s>
 * Odyssey² (http://o2em.sourceforge.net/)
 * PC-98 (http://www.yui.ne.jp/np2/)
-* PlayStation 2 (http://pcsx2.net/)
+* PlayStation 2 (http://pcsx2.net/ & http://pcsx2mac.net)
 * <s>PSP (https://github.com/hrydgard/ppsspp)</s>
 * ScummVM (http://scummvm.org/)
 * ResidualVM (http://residualvm.org/)
