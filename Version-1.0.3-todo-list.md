@@ -21,6 +21,27 @@
 
 ***
 
+### Core Data Rewirte
+- Fix moving game library folder
+- check save states
+- check rom lookup (after import, initiated by context menu, on app launch)
+- reduce core data saves
+ - OpenVGDB sync could save every 5 seconds or after x items
+ - same for importer
+- see if reloading collection view can be optimised (right now we reload on every main context save)
+- Test Importer
+ - Single roms
+ - Directories
+ - Large data set
+ - Lookup
+ - Copy / organize
+ - Archives roms
+ - Multi-rom archives
+ - arcade (multi-file archive, single rom)
+ - cd based systems (bin / cue), especially issue resolving
+
+***
+
 ### Misc
 - Fix input issues :P
 - can we keep track of battery saves?
@@ -34,4 +55,4 @@
  - ~~migration~~, not tested, but should be fine
  - ~~move library~~
  - ~~save state directories~~
-- Fix coredata deadlock on quit (caused by saving child contexts when app terminates, temporarily fixed by ignoring changes in child contexts)
+- ~~Fix coredata deadlock on quit (caused by saving child contexts when app terminates, temporarily fixed by ignoring changes in child contexts)~~
