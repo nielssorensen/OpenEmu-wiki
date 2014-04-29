@@ -28,6 +28,7 @@
 - reduce core data saves
  - OpenVGDB sync could save every 5 seconds or after x items
  - same for importer
+- check how openvgdb lookup behaves when no internet connection is available
 - see if reloading collection view can be optimised (right now we reload on every main context save)
 - Test Importer
  - Single roms
@@ -58,3 +59,4 @@
 - ~~Fix coredata deadlock on quit (caused by saving child contexts when app terminates, temporarily fixed by ignoring changes in child contexts)~~
 - rewrite secrets pane (tableview based)
 - fix database debug actions
+- improve warning when a core is missing (also don't show that warning if core download was cancelled)
