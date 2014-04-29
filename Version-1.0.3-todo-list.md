@@ -37,7 +37,7 @@
  - ~~Large data set~~
  - ~~Lookup~~
  - Copy / organize
- - Archives roms
+ - Archived roms
  - Multi-rom archives
  - arcade (multi-file archive, single rom)
  - cd based systems (bin / cue), especially issue resolving
