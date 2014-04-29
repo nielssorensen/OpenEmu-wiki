@@ -18,6 +18,7 @@
 - ~~Fix drag~~
 - ~~Fix drop (highlight & don't accept images on whole view)~~
 - ~~Improve layout (http://imgur.com/a/QNQBM, new grid at bottom)~~
+- Try to avoid black images
 
 ***
 
@@ -26,15 +27,15 @@
 - check save states
 - check rom lookup (after import, initiated by context menu, on app launch)
 - reduce core data saves
- - OpenVGDB sync could save every 5 seconds or after x items
+ - ~~OpenVGDB sync could save every 5 seconds or after x items~~
  - same for importer
 - check how openvgdb lookup behaves when no internet connection is available
 - see if reloading collection view can be optimised (right now we reload on every main context save)
 - Test Importer
- - Single roms
- - Directories
- - Large data set
- - Lookup
+ - ~~Single roms~~
+ - ~~Directories~~
+ - ~~Large data set~~
+ - ~~Lookup~~
  - Copy / organize
  - Archives roms
  - Multi-rom archives
