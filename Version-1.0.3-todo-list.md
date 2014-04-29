@@ -56,3 +56,5 @@
  - ~~move library~~
  - ~~save state directories~~
 - ~~Fix coredata deadlock on quit (caused by saving child contexts when app terminates, temporarily fixed by ignoring changes in child contexts)~~
+- rewrite secrets pane (tableview based)
+- fix database debug actions
