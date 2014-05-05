@@ -41,6 +41,7 @@
  - Multi-rom archives
  - arcade (multi-file archive, single rom)
  - cd based systems (bin / cue), especially issue resolving
+- don't hide game scanner with active import issues
 
 ***
 
