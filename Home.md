@@ -107,6 +107,7 @@ Please see [this page](https://github.com/OpenEmu/OpenEmu/wiki/Console---Core-Pl
 * Xbox 360 Controller Driver: http://tattiebogle.net/index.php/ProjectRoot/Xbox360Controller/OsxDriver
 * If using a Wiimote or Wii U Pro controller, please go to the Controller preferences, select "Add a Wiimote" from the Input box and follow the pairing directions.
 * You can use Joypad Connect to connect your iPhone as a controller.
+* Third-party PS3 controllers: https://github.com/Hoffa/fi.sh
 
 ###Bugs and Support
 
