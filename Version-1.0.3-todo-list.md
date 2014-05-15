@@ -62,3 +62,6 @@
 - ~~rewrite secrets pane (tableview based)~~
 - fix database debug actions
 - ~~improve warning when a core is missing (also don't show that warning if core download was cancelled)~~
+
+### Import issues
+- Importing games that need cuesheets: cue gets copied to the game library folder but not the binaries inside and the game doesn't appear in the library
