@@ -64,4 +64,11 @@
 - ~~improve warning when a core is missing (also don't show that warning if core download was cancelled)~~
 
 ### Import issues
-- Importing games that need cuesheets: cue gets copied to the game library folder but not the binaries inside and the game doesn't appear in the library
+- The black image appear while importing before cover art shows up.
+- Sometimes when importing a new game, a different cover from the game next to it (or from completely other systems) briefly appear: http://cl.ly/1H2T163i0601
+- Sometimes when importing a new game, a weird animation happens: http://cl.ly/1S2q0P243y3K
+- Importing games that need cuesheets: cue gets copied to the game library folder but not the binaries inside and the game doesn't appear in the library.
+- Arcade ROMs (MAME) won't properly import because of the multiple files. They get extracted and end up in other libraries. Tested with dkong.zip where its contents are recognized as Atari 2600.
+- Double click a ROM to import into OE. "Your game finished importing, do you want to play it now?" pops up, hit Yes and OE crashes: http://pastebin.com/p2JiJpRt
+- "World/multi-region" ROMs no longer display any covers. Before it accurately grabbed the correct cover based on your region. Tested with Sonic & Knuckles (World).md MD5 checksum 4ea493ea4e9f6c9ebfccbdb15110367e
+- TODO: Need to try a massive import and look for memory leaks
