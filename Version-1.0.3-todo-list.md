@@ -69,7 +69,7 @@
 - Sometimes when importing a new game, a weird animation happens: http://cl.ly/1S2q0P243y3K
 - Importing games that need cuesheets: cue gets copied to the game library folder but not the binaries inside and the game doesn't appear in the library.
 - ~~Arcade ROMs (MAME) won't properly import because of the multiple files. They get extracted and end up in other libraries. Tested with dkong.zip where its contents are recognized as Atari 2600.~~ Fixed in 988bed411634 -cy
-- Double click a ROM to import into OE. "Your game finished importing, do you want to play it now?" pops up, hit Yes and OE crashes: http://pastebin.com/p2JiJpRt
+- ~~Double click a ROM to import into OE. "Your game finished importing, do you want to play it now?" pops up, hit Yes and OE crashes: http://pastebin.com/p2JiJpRt~~  Fixed in eb4e52e3ab1c -cy
 - ~~"World/multi-region" ROMs no longer display any covers. Before it accurately grabbed the correct cover based on your locale. Tested with Sonic & Knuckles (World).md MD5 checksum 4ea493ea4e9f6c9ebfccbdb15110367e~~ Also fixed in 684fcc4d4081 i believe -cy
 - ~~Importing certain unzipped Mega Drives ROMs (any format, md/smd/gen/bin) results in XADMaster thinking they're LZMA archives and hangs the game scanner/doesn't match covers. They work as expected while zipped, however. Tested with Batman (Europe).md MD5 checksum c4bc694fcc7ee608bd4b857a5ad49f86 and Jurassic Park - Rampage Edition (USA, Europe).md MD5 checksum 67c489b34827bb4fae2ba93e8d2a919e~~ Fixed in 684fcc4d4081 -cy
 - Games in the "Recently Added" collection cannot be removed. Intentional? If so we should disable the 'Delete' menu item in that collection.
