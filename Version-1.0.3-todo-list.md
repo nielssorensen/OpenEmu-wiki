@@ -64,6 +64,8 @@
 - ~~improve warning when a core is missing (also don't show that warning if core download was cancelled)~~
 
 ### Import issues
+- deleting games that are scheduled for info sync causes a crash
+- can't delete games from consoles anymore
 - The black image appear while importing before cover art shows up.
 - Sometimes when importing a new game, a different cover from the game next to it (or from completely other systems) briefly appear: http://cl.ly/1H2T163i0601
 - Sometimes when importing a new game, a weird animation happens: http://cl.ly/1S2q0P243y3K
