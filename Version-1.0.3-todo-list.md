@@ -68,6 +68,7 @@
 - can't delete games from consoles anymore
 - The black image appear while importing before cover art shows up.
 - Sometimes when importing a new game, a different cover from the game next to it (or from completely other systems) briefly appear: http://cl.ly/1H2T163i0601
+- Sometimes game scanner gets stuck while importing a game and has the wrong count. This happened while importing a cuesheet game where it was successfully added into the library but OpenVGDB didn't find a cover match based on its serial. I'm having a hard time replicating it though. Also I think at the time only the cuesheet was copied into the Game Library folder and not the binaries, but may be wrong. http://cl.ly/image/0p2a0l1B060l
 - ~~Sometimes when importing a new game, a weird animation happens: http://cl.ly/1S2q0P243y3K Update: I was able to replicate this again when importing a game that didn't pull a cover and then scrolling: http://cl.ly/00203W2U121k~~ _definitely fixed in 4ac8b10 -c_
 - ~~Importing games that need cuesheets: cue gets copied to the game library folder but not the binaries inside and the game doesn't appear in the library.~~ Fixed in 6d44497a741c -cy
 - ~~Arcade ROMs (MAME) won't properly import because of the multiple files. They get extracted and end up in other libraries. Tested with dkong.zip where its contents are recognized as Atari 2600.~~ Fixed in 988bed411634 -cy
