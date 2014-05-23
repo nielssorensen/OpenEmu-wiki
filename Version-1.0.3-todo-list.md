@@ -68,7 +68,7 @@
 - can't delete games from consoles anymore
 - The black image appear while importing before cover art shows up.
 - Sometimes when importing a new game, a different cover from the game next to it (or from completely other systems) briefly appear: http://cl.ly/1H2T163i0601
-- Sometimes when importing a new game, a weird animation happens: http://cl.ly/1S2q0P243y3K Update: I was able to replicate this again when importing a game that didn't pull a cover and then scrolling: http://cl.ly/00203W2U121k
+- ~~Sometimes when importing a new game, a weird animation happens: http://cl.ly/1S2q0P243y3K Update: I was able to replicate this again when importing a game that didn't pull a cover and then scrolling: http://cl.ly/00203W2U121k~~ _definitely fixed in 4ac8b10 -c_
 - ~~Importing games that need cuesheets: cue gets copied to the game library folder but not the binaries inside and the game doesn't appear in the library.~~ Fixed in 6d44497a741c -cy
 - ~~Arcade ROMs (MAME) won't properly import because of the multiple files. They get extracted and end up in other libraries. Tested with dkong.zip where its contents are recognized as Atari 2600.~~ Fixed in 988bed411634 -cy
 - ~~Double click a ROM to import into OE. "Your game finished importing, do you want to play it now?" pops up, hit Yes and OE crashes: http://pastebin.com/p2JiJpRt~~  Fixed in eb4e52e3ab1c -cy
