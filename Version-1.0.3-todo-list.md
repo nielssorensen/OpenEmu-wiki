@@ -14,11 +14,11 @@
  - ~~Large data set~~
  - ~~Lookup~~
  - Copy / organize
- - Archived roms
- - Multi-rom archives
- - arcade (multi-file archive, single rom)
- - cd based systems (bin / cue), especially issue resolving
-- don't hide game scanner with active import issues
+ - ~~Archived roms~~
+ - ~~Multi-rom archives~~
+ - ~~arcade (multi-file archive, single rom)~~
+ - ~~cd based systems (bin / cue), especially issue resolving~~
+- ~~don't hide game scanner with active import issues~~
 
 ***
 
@@ -32,6 +32,6 @@
 - The black image appear while importing before cover art shows up.
 - Sometimes when importing a new game, a different cover from the game next to it (or from completely other systems) briefly appear: http://cl.ly/1H2T163i0601
 - Core data error after import: "OpenEmu[20546]: ERROR: ForceShrinkPersistentStore_NoLock -delete- We do not have a BLOB or TEXT column type.  Instead, we have 5." http://stackoverflow.com/questions/19140151/strange-new-ios-7-errors-receiver-from-db-forceshrinkpersistentstore-nolock suggests it might be cache related
-- Sometimes game scanner gets stuck while importing a game and has the wrong count. This happened while importing a cuesheet game where it was successfully added into the library. Seems like importing enough games, especially ones with many binary tracks in the cuesheet will help trigger this easier. http://cl.ly/image/0p2a0l1B060l & http://cl.ly/image/0K2M3g0S3W3B
+- ~~Sometimes game scanner gets stuck while importing a game and has the wrong count. This happened while importing a cuesheet game where it was successfully added into the library. Seems like importing enough games, especially ones with many binary tracks in the cuesheet will help trigger this easier. http://cl.ly/image/0p2a0l1B060l & http://cl.ly/image/0K2M3g0S3W3B~~
 - TODO: Need to try a massive import and look for memory leaks
 - Unrelated crash? This happened after I switched back to my normal Game Library after testing and launched the app: http://pastebin.com/qScHaGq6
