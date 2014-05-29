@@ -12,7 +12,7 @@
 - Fix input issues :P
 - can we keep track of battery saves?
 - fix database debug actions
-- ~~Feature request :P - Can we force update all Cores after OE upgrades and relaunches? Since the change of moving options/bios stuff into the Cores, users will need the latest ones now~~ _1216ab4a910d86e57e8a5583a607ac810e9cd080_
+- ~~Feature request :P - Can we force update all Cores after OE upgrades and relaunches? Since the change of moving options/bios stuff into the Cores, users will need the latest ones now~~ _1216ab4a910d86e57e8a5583a607ac810e9cd080 & 6a469b3ad5e23ce4c8d2c0dbb2c98c85e58d738d_
 
 ### Library/Gridview issues
 - Tooltips not appearing when hovering over game titles.
