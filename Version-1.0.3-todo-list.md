@@ -16,7 +16,7 @@
 
 ### Library/Gridview issues
 - Tooltips not appearing when hovering over game titles.
-- "Add Cover Art From File" doesn't work.
+- ~~"Add Cover Art From File" doesn't work.~~ _ 8f72190e470425b7dd3c3ecf1d860db36471b904 _
 - Have a game selected in a library and hit 'add to collections > blah whatever collection', it'll get added fine, but if i go to that new collection the game will still be highlighted and if i hit 'delete' the game won't delete. For it to delete, i'll first have to deselect it and then delete it again.
 - In an empty library, the "Core Provided By ..." text only allows for showing 2 Cores whereas for NES we actually have 3 (FCEU, Higan, Nestopia). Maybe room for a max of 3 is enough http://cl.ly/image/2E0U2w2i1S1r
 - After import, during lookup phase, CPU use is very high. Dunno if normal or not though.
