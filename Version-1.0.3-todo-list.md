@@ -15,7 +15,7 @@
 - ~~Feature request :P - Can we force update all Cores after OE upgrades and relaunches? Since the change of moving options/bios stuff into the Cores, users will need the latest ones now~~ _1216ab4a910d86e57e8a5583a607ac810e9cd080 & 6a469b3ad5e23ce4c8d2c0dbb2c98c85e58d738d_
 
 ### Library/Gridview issues
-- Tooltips not appearing when hovering over game titles.
+- ~~Tooltips not appearing when hovering over game titles.~~ _51fdb679e6711fb00139035409cff566c36d1f17_
 - ~~"Add Cover Art From File" doesn't work.~~ _8f72190e470425b7dd3c3ecf1d860db36471b904_ 
 - Have a game selected in a library and hit 'add to collections > blah whatever collection', it'll get added fine, but if i go to that new collection the game will still be highlighted and if i hit 'delete' the game won't delete. For it to delete, i'll first have to deselect it and then delete it again.
 - In an empty library, the "Core Provided By ..." text only allows for showing 2 Cores whereas for NES we actually have 3 (FCEU, Higan, Nestopia). Maybe room for a max of 3 is enough http://cl.ly/image/2E0U2w2i1S1r
