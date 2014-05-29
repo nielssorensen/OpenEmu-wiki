@@ -25,7 +25,7 @@
 - ~~deleting games that are scheduled for info sync causes a crash~~ _fixed in 71a733493449cc987329274664dda2623a217ed9 -cy_
 - The black image appear while importing before cover art shows up. 
         _wontfix, we'll have to rewrite grid drawing code using OpenGL and at least draw images and image shadows ourselves -cy_
-- If i hit "don't import" while in the issue resolver for a game, the game scanner dialog will still appear http://cl.ly/image/093e2a1p2O23 and stick there
+- ~~If i hit "don't import" while in the issue resolver for a game, the game scanner dialog will still appear http://cl.ly/image/093e2a1p2O23 and stick there~~_5e4da16ed6a2929b453fda20bfd0e19ee5d0bdda_
 - Core data error after import: "OpenEmu[20546]: ERROR: ForceShrinkPersistentStore_NoLock -delete- We do not have a BLOB or TEXT column type.  Instead, we have 5." http://stackoverflow.com/questions/19140151/strange-new-ios-7-errors-receiver-from-db-forceshrinkpersistentstore-nolock suggests it might be cache related
 - TODO: Need to try a massive import and look for memory leaks
 - Unrelated crash? This happened after I switched back to my normal Game Library after testing and launched the app: http://pastebin.com/qScHaGq6
