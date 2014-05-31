@@ -93,8 +93,6 @@ Please see [this page](https://github.com/OpenEmu/OpenEmu/wiki/Console---Core-Pl
 * Sega Saturn USB
 * PS3 Neo Geo Pad USB
 * Retrode (SNES)
-* Retrolink SNES
-* Retrolink N64
 * N64 Adaptoid
 * Nintendo Wiimote
 * Nintendo Wii U Pro
