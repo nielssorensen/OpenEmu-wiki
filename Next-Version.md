@@ -7,6 +7,8 @@
 - Implement search (search game title, state names & state user description)
 - Use array controller and improve core data fetching
 - Add warning before renaming 'special' save states 
+- Fix subtitle font size
+- Change subtitle date display to a prettier format 
 
 ### Screenshot / Videos
 - Implement video & audio capture
