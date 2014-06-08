@@ -25,6 +25,8 @@ xcodebuild -workspace OpenEmu.xcworkspace -scheme "Build All" -configuration Rel
 ```
 The compiled OpenEmu.app binary is located in the default DerivedData path, `~/Library/Developer/Xcode/DerivedData` within a generated `OpenEmu-...` folder and then inside `Build/Products/Release`
 
+To get the experimental build, which includes extra work-in-progress cores, change `"Build All"` to `"Build All + Experimental"`
+
 ##GUI Install Guide (Easy mode)
 ###Step 1
 
