@@ -1,7 +1,7 @@
 ## Version 1.0.4 / 1.1
 
 ### Save State Manager
-- Disable group selection
+- ~~Disable group selection~~ ba6fabe6110ef24ead8e76c9208fdc6c3b36f4f8
 - Add 'Launch Save State' menu item
 - Add warning before deleting save states
 - Implement search (search game title, state names & state user description)
