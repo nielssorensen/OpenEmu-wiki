@@ -22,3 +22,11 @@
 
 ### Misc
 - Add info on cheats to save state plist (also advance state version in plist)
+
+### Retrode (optional for next release)
+- Show Slot 1 / Slot 2 header
+- Implement import action
+- Implement import save file action, show dialog and remove autosave state so the save file is actually read from disk
+- Read firmware version
+- Check for updates on retrode.com
+- Alert user of updates, show install wizard
