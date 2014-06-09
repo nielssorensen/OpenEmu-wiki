@@ -16,12 +16,17 @@
 - Scan screenshots directory on first launch and add them to the library
 
 ### Yosemite
-- Inspect grid glitches & fix them :P
+- Fix grid glitches, they seem to be caused by calling setFrame: on CALayers in -layerForType: method, not caused by use of private api as far as i can tell 
 - INAppstoreWindow crashes because of a custom theme frame, maybe they'll fix this
 - Button cells with borders do not honour attributed string titles, can be fixed by drawing button titles ourselves, or maybe we just wait for the next dp
 
 ### Misc
 - Add info on cheats to save state plist (also advance state version in plist)
+- Rewrite grid using OpenGL and CG renderers
+ - image shadows can be drawn by using a pre-rendered 9 part image
+ - use drawImage:inRect:fromRect:alpha:, drawText:inRect:withAttributes: & drawRect:withLineWidth: methods found in IKRenderer protocol
+ - manually implement drop & spinner animations
+ - fixes 10.10 grid glitches
 
 ### Retrode (optional for next release)
 - Show Slot 1 / Slot 2 header
