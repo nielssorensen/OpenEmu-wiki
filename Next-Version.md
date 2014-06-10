@@ -2,7 +2,7 @@
 
 ### Save State Manager
 - ~~Disable group selection~~ ba6fabe6110ef24ead8e76c9208fdc6c3b36f4f8
-- Add 'Launch Save State' menu item
+- ~~Add 'Launch Save State' menu item~~
 - Add warning before deleting save states
 - Implement search (search game title, state names & state user description)
 - Use array controller and improve core data fetching
