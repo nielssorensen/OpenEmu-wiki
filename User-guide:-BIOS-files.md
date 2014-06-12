@@ -63,6 +63,13 @@ You can check the hash of your file by opening Terminal.app, typing <code>md5 /p
 </tr>
 
 <tr>
+<td>PC-FX</td>
+<td> Mednafen </td>
+<td><code>pcfx.rom</code></td>
+<td><code>08e36edbea28a017f79f8d4f7ff9b6d7</code></td>
+</tr>
+
+<tr>
 <td>Playstation (JP)</td>
 <td>Mednafen</td>
 <td><code>scph5500.bin</code></td>
