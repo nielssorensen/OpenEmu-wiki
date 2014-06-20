@@ -138,7 +138,7 @@ You can check the hash of your file by opening Terminal.app, typing <code>md5 /p
 -----
 
 ### SNES Chip Dumps for Higan
-Many SNES games came with additional chips on their cartridge, so the dependencies are per-game.  
+Many SNES games came with additional coprocessor chips on their cartridge, so the dependencies are per-game. A full list of games that require them can be [found here] (http://en.wikipedia.org/wiki/List_of_Super_NES_enhancement_chips#List_of_Super_NES_games_that_use_enhancement_chips).
 
 
 <table>
@@ -146,6 +146,11 @@ Many SNES games came with additional chips on their cartridge, so the dependenci
 <th>Filename</th>
 <th>md5 Hash</th>
 </tr> 
+
+<tr>
+<td><code>cx4.rom</code></td>
+<td><code>037ac4296b6b6a5c47c440188d3c72e3</code></td>
+</tr>
 
 <tr>
 <td><code>dsp1.rom</code></td>
