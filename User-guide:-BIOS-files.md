@@ -87,7 +87,7 @@ You can check the hash of your file by opening Terminal.app, typing <code>md5 /p
 <td>Playstation (EU)</td>
 <td>Mednafen</td>
 <td><code>scph5502.bin</code></td>
-<td><code>e56ec1b027e2fe8a49217d9678f7f6bb</code></td>
+<td><code> 32736f17079d0b2b7024407c39bd3050</code></td>
 </tr>
 
 
