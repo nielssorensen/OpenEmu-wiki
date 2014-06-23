@@ -95,7 +95,7 @@ You can check the hash of your file by opening Terminal.app, typing <code>md5 /p
 <td>Sega CD (EU)</td>
 <td>GenesisPlus</td>
 <td><code>BIOS_CD_E.bin</code></td>
-<td><code>d8b8b720dea6c6ba25c309ed633930f4</code></td>
+<td><code>e66fa1dc5820d254611fdcdba0662372</code></td>
 </tr>
 
 <tr>
