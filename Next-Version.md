@@ -9,6 +9,12 @@
 - Add warning before renaming 'special' save states 
 - ~~Fix subtitle font size~~ 8c1a9f8e4360a507bbb99349dec4606733ed1888
 - ~~Change subtitle date display to a prettier format~~ 03807ae6d73fd4cf38726a2299cb7112e6590bba
+- correctly show names of all 'special' save states, including quick save slots
+
+### Save States
+- Use relative paths
+- handle case-sensitive paths correctly
+- rename all unused auto saves in a game to 'restored auto save'
 
 ### Screenshot / Videos
 - Implement video & audio capture
@@ -21,6 +27,7 @@
 - Button cells with borders do not honour attributed string titles, can be fixed by drawing button titles ourselves, or maybe we just wait for the next dp
 
 ### Misc
+- Fix grid view, click on a game a couple of times can launch it twice
 - Add info on cheats to save state plist (also advance state version in plist)
 - Rewrite grid using OpenGL and CG renderers
  - image shadows can be drawn by using a pre-rendered 9 part image
@@ -33,5 +40,5 @@
 - Implement import action
 - Implement import save file action, show dialog and remove autosave state so the save file is actually read from disk
 - Read firmware version
-- Check for updates on retrode.com
+- Check for updates on retrode.com, retrode abandoned = no more firmware updates?
 - Alert user of updates, show install wizard
