@@ -6,7 +6,7 @@
 - Add warning before deleting save states
 - Implement search (search game title, state names & state user description)
 - Use array controller and improve core data fetching
-- Add warning before renaming 'special' save states 
+- ~~Add warning before renaming 'special' save states~~ aa32e469cfc1223bcab12d7a60a06d7c473acdab rephrase
 - ~~Fix subtitle font size~~ 8c1a9f8e4360a507bbb99349dec4606733ed1888
 - ~~Change subtitle date display to a prettier format~~ 03807ae6d73fd4cf38726a2299cb7112e6590bba
 - correctly show names of all 'special' save states, including quick save slots
