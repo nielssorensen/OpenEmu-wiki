@@ -3,7 +3,7 @@
 ### Save State Manager
 - ~~Disable group selection~~ ba6fabe6110ef24ead8e76c9208fdc6c3b36f4f8
 - ~~Add 'Launch Save State' menu item~~
-- Add warning before deleting save states
+- ~~Add warning before deleting save states~~ 8491a86aa82bf3c35e4c5fdc77c17dd131d20488 might wanna show game title in the warnings as well (especially for quick / auto saves)
 - Implement search (search game title, state names & state user description)
 - Use array controller and improve core data fetching
 - ~~Add warning before renaming 'special' save states~~ aa32e469cfc1223bcab12d7a60a06d7c473acdab rephrase
