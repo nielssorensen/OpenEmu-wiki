@@ -25,6 +25,7 @@
 - Fix grid glitches, they seem to be caused by calling setFrame: on CALayers in -layerForType: method, not caused by use of private api as far as i can tell 
 - INAppstoreWindow crashes because of a custom theme frame, maybe they'll fix this
 - Button cells with borders do not honour attributed string titles, can be fixed by drawing button titles ourselves, or maybe we just wait for the next dp
+- Update Sparkle.framework. Our version in use appears to be 4 years old and the developer has ceased maintaining it (https://github.com/andymatuschak/Sparkle/). Updating to the final release may fix 10.10 support, or we can check out a fork that appears to be active (https://github.com/pornel/Sparkle). Have to make sure that newer Sparkle versions still allow us to distribute updates without the need of code signing. Currently we are allowed to bypass code signing because we distribute updates over SSL.
 
 ### Misc
 - Fix grid view, click on a game a couple of times can launch it twice
