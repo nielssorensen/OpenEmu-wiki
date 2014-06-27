@@ -10,6 +10,8 @@
 - ~~Fix subtitle font size~~ 8c1a9f8e4360a507bbb99349dec4606733ed1888
 - ~~Change subtitle date display to a prettier format~~ 03807ae6d73fd4cf38726a2299cb7112e6590bba
 - correctly show names of all 'special' save states, including quick save slots
+- accept dropped save states
+- allow drag of save state & screenshot files
 
 ### Save States
 - Use relative paths
