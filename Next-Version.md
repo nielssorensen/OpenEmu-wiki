@@ -4,7 +4,7 @@
 - ~~Disable group selection~~ ba6fabe6110ef24ead8e76c9208fdc6c3b36f4f8
 - ~~Add 'Launch Save State' menu item~~
 - ~~Add warning before deleting save states~~ 8491a86aa82bf3c35e4c5fdc77c17dd131d20488 might wanna show game title in the warnings as well (especially for quick / auto saves)
-- Implement search (search game title, state names & state user description)
+- ~~Implement search (search game title, state names & state user description)~~
 - Use array controller and improve core data fetching
 - ~~Add warning before renaming 'special' save states~~ aa32e469cfc1223bcab12d7a60a06d7c473acdab rephrase
 - ~~Fix subtitle font size~~ 8c1a9f8e4360a507bbb99349dec4606733ed1888
@@ -15,11 +15,15 @@
 - Use relative paths
 - handle case-sensitive paths correctly
 - rename all unused auto saves in a game to 'restored auto save'
+- check for weird duplicates on first start of new version
 
 ### Screenshot / Videos
 - ~~Implement video & audio capture~~ - Talked to vade in IRC, it seems best if we leave audio/video capture to another app, like obs-studio (once its rewrite is finished http://www.michaelevans.org/blog/2014/06/07/building-obs-studio-for-os-x/ for latest qt5 package in homebrew you need to do `export CMAKE_PREFIX_PATH=/usr/local/Cellar/qt5/5.3.1/lib/cmake`). Better to leave this to apps that handle AV capture properly than trying to do it ourselves. With OBS, users will be able to stream to whatever site they want too.
-- Modify core data model to include screenshots ~~and videos~~
-- Scan screenshots directory on first launch and add them to the library
+- ~~Modify core data model to include screenshots~~ ~~and videos~~
+- ~~Scan screenshots directory on first launch and add them to the library~~
+- fix renaming screenshots
+- import screenshots without 100% match into 'Unkown' category
+- fix deleting screenshots
 
 ### Yosemite
 - Fix grid glitches, they seem to be caused by calling setFrame: on CALayers in -layerForType: method, not caused by use of private api as far as i can tell 
