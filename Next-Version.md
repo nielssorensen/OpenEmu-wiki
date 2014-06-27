@@ -17,8 +17,8 @@
 - rename all unused auto saves in a game to 'restored auto save'
 
 ### Screenshot / Videos
-- Implement video & audio capture - Talked to vade in IRC, it seems best if we leave audio/video capture to another app, like obs-studio (once its rewrite is finished http://www.michaelevans.org/blog/2014/06/07/building-obs-studio-for-os-x/). Better to leave this to apps that handle AV capture properly than trying to do it ourselves. With OBS, users will be able to stream to whatever site they want too.
-- Modify core data model to include screenshots and videos
+- ~~Implement video & audio capture~~ - Talked to vade in IRC, it seems best if we leave audio/video capture to another app, like obs-studio (once its rewrite is finished http://www.michaelevans.org/blog/2014/06/07/building-obs-studio-for-os-x/). Better to leave this to apps that handle AV capture properly than trying to do it ourselves. With OBS, users will be able to stream to whatever site they want too.
+- Modify core data model to include screenshots ~~and videos~~
 - Scan screenshots directory on first launch and add them to the library
 
 ### Yosemite
