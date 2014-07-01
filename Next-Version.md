@@ -45,6 +45,7 @@
  - use drawImage:inRect:fromRect:alpha:, drawText:inRect:withAttributes: & drawRect:withLineWidth: methods found in IKRenderer protocol
  - manually implement drop & spinner animations
  - fixes 10.10 grid glitches
+- Add a link in the BIOS alert to our wiki page (https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-BIOS-files) in order to help explain hashes for people with these issues (https://twitter.com/SheaTribalFFXIV/status/481633869913784321)
 
 ### Retrode (optional for next release)
 - Show Slot 1 / Slot 2 header
