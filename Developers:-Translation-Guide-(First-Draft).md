@@ -1,4 +1,4 @@
-If you have any questions or suggestions regarding the translation process. Join #OpenEmu on irc.freenode.net 
+If you have any questions or suggestions regarding the translation process. Join #OpenEmu on irc.freenode.net (http://webchat.freenode.net/?channels=openemu)
 
 ###Preparation
 * Make sure no one is working on the language you want to translate
@@ -34,8 +34,8 @@ When you're done with the translation process you can either create a pull reque
 
 
 ###Translation Progress
- 
-Language | id | Status
+
+progress | id | Status
 ---------|------------|---------
 English | en | Development Language
 Portuguese | pt | WIP
