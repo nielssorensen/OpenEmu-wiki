@@ -1,7 +1,7 @@
 If you have any questions or suggestions regarding the translation process. Join #OpenEmu on irc.freenode.net (http://webchat.freenode.net/?channels=openemu)
 
 ###Preparation
-* Make sure no one is working on the language you want to translate
+* Make sure no one is working on the language you want to translate ([Here](#translation-progress))
 * get OpenEmu source code (https://github.com/OpenEmu/OpenEmu/wiki/Compiling-From-Source-Guide)
 * download helper app https://www.dropbox.com/s/4shjhllw2t57gha/OELocalizer.zip (Source: https://github.com/cyco/OELocalizer)
 
