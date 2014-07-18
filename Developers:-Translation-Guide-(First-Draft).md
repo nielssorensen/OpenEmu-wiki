@@ -3,7 +3,7 @@ If you have any questions or suggestions regarding the translation process. Join
 ###Preparation
 * Make sure no one is working on the language you want to translate ([Here](#translation-progress))
 * get OpenEmu source code (https://github.com/OpenEmu/OpenEmu/wiki/Compiling-From-Source-Guide)
-* download helper app https://www.dropbox.com/s/4shjhllw2t57gha/OELocalizer.zip (Source: https://github.com/cyco/OELocalizer)
+* download helper app https://www.dropbox.com/s/4shjhllw2t57gha/OELocalizer.zip (Source: https://github.com/cyco/OELocalizer). This is used translate strings that appear in code and to sync up changes in language files and source code.
 
 ###Setup
 
