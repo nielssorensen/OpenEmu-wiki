@@ -21,19 +21,20 @@ Window should look like this now
 
 ###Translation
 
+As you can see above there are several different file types that need to be translated:
+
 * _Localizeable.strings_, can be edited directly with OELocalizer.app. Make sure to load your language when you start OELocalizer and save before you quit. You can use OELocalizer to start OpenEmu with the selected language (shortcut cmd + r). If you want to review your changes make sure to save and then use the rebuild and run menu action (shortcut cmd + shift +r) 
 ![Imgur](http://i.imgur.com/vNZ9czd.png)
 
 * _ControlLabels.strings_, must be edited manually (use a text editor like TextEdit.app). Labels that are actually visible on the controller should not be translated (like Start and Select buttons on SNES/Super Famicom).
 
-* _Credits.rtf_ should also be edited using TextEdit. Don't translate licenses.
+* _Credits.rtf_ should also be edited using TextEdit. No need to translate licenses.
 
-* _.xib files_, these files must be translated using Xcode (make sure you have at least version 5.something). Don't move / delete interface elements.
-	
+* _.xib files_, these files must be translated using Xcode (make sure you have at least version 5.something). You should not move or delete elements, if you need more space to fit in a sentence or word we can adjust the layout later.
+
 ###Merging Changes
 
-When you're done with the translation process you can either create a pull request (preferred way) or zip your .lproj directory and send it in by mail so we can add your changes to the main OpenEmu repository.
-
+When you're done with the translation you can either create a pull request (preferred way) or zip your .lproj directory and send it in by mail so we can add your changes to the main OpenEmu repository.
 
 ###Translation Progress
 
