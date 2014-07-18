@@ -15,7 +15,7 @@ If you have any questions or suggestions regarding the translation process. Join
 Window should look like this now
 ![Imgur](http://i.imgur.com/kW9IAaN.png)
 	
-* A new directory has been created with all the files you need to edit
+* This created a new directory that contains all the files that need to be translated.
 ![Imgur](http://i.imgur.com/fsl5XgG.png)
 ![Imgur](http://i.imgur.com/TtvXFx0.png)
 
