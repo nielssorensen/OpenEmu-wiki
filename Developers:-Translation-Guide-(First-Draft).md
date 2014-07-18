@@ -38,30 +38,30 @@ When you're done with the translation you can either create a pull request (pref
 
 ###Translation Progress
 
-progress | id | Status
----------|------------|---------
-English | en | Development Language
-Portuguese | pt | WIP
-Russian | ru | In Progress?
-Spanish | es | WIP
+Language   | ID | Status                
+-----------|----|---------------------- 
+English    | en | Development Language  
+Portuguese | pt | WIP                   
+Russian    | ru | In Progress?          
+Spanish    | es | WIP                   
 | |
 | |
-Afrikaans | af | 
-Albanian | sq | 
-Amharic | am | 
-Arabic | ar | 
-Armenian | hy | 
-Assamese | as | 
-Aymara | ay | 
+Afrikaans   | af | 
+Albanian    | sq | 
+Amharic     | am | 
+Arabic      | ar | 
+Armenian    | hy | 
+Assamese    | as | 
+Aymara      | ay | 
 Azerbaijani | az | 
-Basque | eu | 
-Bengali | bn | 
-Breton | br | 
-Bulgarian | bg | 
-Burmese | my | 
+Basque      | eu | 
+Bengali     | bn | 
+Breton      | br | 
+Bulgarian   | bg | 
+Burmese     | my | 
 Byelorussian | be | 
-Catalan | ca | 
-Chinese | zh | 
+Catalan   | ca | 
+Chinese   | zh | 
 Croatian | hr | 
 Czech | cs | 
 Danish | da | 
