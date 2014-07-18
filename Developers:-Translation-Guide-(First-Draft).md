@@ -25,7 +25,9 @@ Window should look like this now
 ![Imgur](http://i.imgur.com/vNZ9czd.png)
 
 * _ControlLabels.strings_, must be edited manually (use a text editor like TextEdit.app). Labels that are actually visible on the controller should not be translated (like Start and Select buttons on SNES/Super Famicom).
+
 * _Credits.rtf_ should also be edited using TextEdit. Don't translate licenses.
+
 * _.xib files_, these files must be translated using Xcode (make sure you have at least version 5.something). Don't move / delete interface elements.
 	
 ###Merging Changes
