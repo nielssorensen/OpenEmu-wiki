@@ -1,4 +1,4 @@
-If you have any questions or suggestions regarding the translation process. Join #OpenEmu on irc.freenode.net (http://webchat.freenode.net/?channels=openemu)
+If you have any questions or suggestions regarding the translation process. Join #OpenEmu on irc.freenode.net (http://webchat.freenode.net/?channels=openemu) and let us know.
 
 ###Preparation
 * Make sure no one is working on the language you want to translate ([Here](#translation-progress))
