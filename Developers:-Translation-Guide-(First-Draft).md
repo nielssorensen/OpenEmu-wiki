@@ -21,7 +21,7 @@ Window should look like this now
 
 ###Translation
 
-As you can see above there are several different file types that need to be translated:
+As you can see above there are several different file types that need different treatments:
 
 * _Localizeable.strings_, can be edited directly with OELocalizer.app. Make sure to load your language when you start OELocalizer and save before you quit. You can use OELocalizer to start OpenEmu with the selected language (shortcut cmd + r). If you want to review your changes make sure to save and then use the rebuild and run menu action (shortcut cmd + shift +r) 
 ![Imgur](http://i.imgur.com/vNZ9czd.png)
