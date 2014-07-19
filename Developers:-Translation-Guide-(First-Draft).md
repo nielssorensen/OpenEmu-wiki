@@ -7,7 +7,12 @@ If you have any questions or suggestions regarding the translation process. Join
 
 ###Setup
 
-* Open OELocalizer, and point it to the OpenEmu source files
+* Open OpenEmu.xcworkspace with Xcode, then select the OpenEmu project on the left. Under 'Localizations' hit the plus button and add your language. Keep the defaults in the dialog that comes up and click Finish.
+
+![Imgur](http://i.imgur.com/Tx5Fvu9.png?1)
+![Imgur](http://i.imgur.com/2142ODt.png) 
+
+* Next, open OELocalizer, and point it to the OpenEmu source files
 ![PickSource](http://i.imgur.com/k9te9u0.png)	
 
 * Pick language, click on load, then click on save
@@ -15,7 +20,7 @@ If you have any questions or suggestions regarding the translation process. Join
 Window should look like this now
 ![Imgur](http://i.imgur.com/kW9IAaN.png)
 	
-* This created a new directory that contains all the files that need to be translated.
+* All the files that need to be translated should be setup now.
 ![Imgur](http://i.imgur.com/fsl5XgG.png)
 ![Imgur](http://i.imgur.com/TtvXFx0.png)
 
