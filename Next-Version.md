@@ -36,6 +36,7 @@
 - blur pererences toolbar?
 - blur sidebar?
 - blur hud controls?
+- fast forward causes crash (#1516)
 
 ### Misc
 - Fix grid view, click on a game a couple of times can launch it twice
