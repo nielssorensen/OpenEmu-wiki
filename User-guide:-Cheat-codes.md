@@ -1,10 +1,16 @@
-Like many emulators, OpenEmu allows the use of [cheat codes](http://en.wikipedia.org/wiki/Cheating_in_video_games) to change the way a game plays (invincibility, level skipping, &c.).
+Like many emulators, OpenEmu allows the use of [cheat codes](http://en.wikipedia.org/wiki/Cheating_in_video_games) to change the way a game plays (invincibility, level skipping, etc.).
 
 Cheat-code support in OpenEmu is determined by each [core](https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-Preferences:-Cores) and its underlying emulation code. Some cores do not support cheat codes; OpenEmu knows which cores those are, and its cheat functionality will not be available when they are in use.
 
+### Finding cheats
+
+A good resource for finding cheat codes is [GameHacking.org](http://gamehacking.org).
+
+**Important**: Be sure that the codes you use are for the proper region of the game you are playing. Since there can be different versions of a game for various locales, there are also different codes that have to be used. For example: cheat codes for a US version of a game may not work for an EU version of a game.
+
 ### Adding cheats
 
-To add a cheat code, you must be running a game. Within the game window, move the mouse to produce the [HUD bar](#), and click the cog/gear icon near the centre. If the core supports cheat codes, a menu item called *Select Cheat* will be available. In this menu, there will be another item labelled *Add Cheat...* — click here to input a new code.
+To add a cheat code, you must be running a game. Within the game window, move the mouse to produce the [HUD bar](#), and click the cog/gear icon near the center. If the core supports cheat codes, a menu item called *Select Cheat* will be available. In this menu, there will be another item labelled *Add Cheat...* — click here to input a new code.
 
 ![HUD Select Cheat menu](https://raw.github.com/okdana/OpenEmu-documentation/master/assets/img/user%20guide/HUD%20-%20Select%20Cheat%20-%20Add%20Cheat%20%28no%20game%29.png)
 
@@ -111,11 +117,9 @@ The following table shows a non-exhaustive list of common code types:
 
 For multi-line codes, use a plus (`+`) to separate each line. For example: `AVSOYOSZ+ELEAPOZE+AIEAZPAP`
 
-**Note**: Although OpenEmu knows which core emulators support cheat codes, it does not necessarily track what formats the emulators support, and performs only minimal syntax-checking.
-
 ### Using cheats
 
-After you've added a cheat, you'll need to enable it. Return to the *Select Cheat* menu, and you will now see the cheat that was just added in the list. Click on it to enable it. If you need to disable it later (currently only supported for N64), simply return to this menu and click it again.
+After you've added a cheat, you'll need to enable it if you haven't already. Return to the *Select Cheat* menu, and you will now see the cheat that was just added in the list. Click on it to enable it. If you need to disable it later, simply return to this menu and click it again.
 
 ![HUD Select Cheat menu with cheat added](https://raw.github.com/okdana/OpenEmu-documentation/master/assets/img/user%20guide/HUD%20-%20Select%20Cheat%20-%2099%20lives%20%28no%20game%29.png)
 
