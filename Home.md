@@ -20,7 +20,7 @@ It is also possible to compile OpenEmu from its source files. Don't worry, it's 
 
 <tr>
 <td> Game Boy Advance </td>
-<td> Higan, Visual Boy Advance </td>
+<td> Visual Boy Advance </td>
 </tr>
 
 <tr>
