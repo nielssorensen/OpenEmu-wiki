@@ -1,1 +1,0 @@
-When I download roms for Game Boy Advance, unzip them to .gba files, and add them to OpenEmu, it will not open the games.
