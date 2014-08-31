@@ -49,6 +49,7 @@ English    | en | Development Language
 Portuguese | pt | WIP                   
 Russian    | ru | In Progress?          
 Spanish    | es | WIP                   
+French     | fr | WIP                   
 | |
 | |
 Afrikaans   | af | 
@@ -77,7 +78,6 @@ Estonian | et |
 Faroese | fo | 
 Farsi | fa | 
 Finnish | fi | 
-French | fr | 
 Galician | gl | 
 Georgian | ka | 
 German | de | 
