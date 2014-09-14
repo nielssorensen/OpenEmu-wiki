@@ -28,24 +28,22 @@
 - fix deleting screenshots
 
 ### Yosemite
-- Fix grid glitches, they seem to be caused by calling setFrame: on CALayers in -layerForType: method, not caused by use of private api as far as i can tell 
+- ~~Fix grid glitches, they seem to be caused by calling setFrame: on CALayers in -layerForType: method, not caused by use of private api as far as i can tell~~
 - INAppstoreWindow crashes because of a custom theme frame, maybe they'll fix this
-- Button cells with borders do not honour attributed string titles, can be fixed by drawing button titles ourselves, or maybe we just wait for the next dp
-- ~~Update Sparkle.framework. Our version in use appears to be 4 years old and the developer has ceased maintaining it (https://github.com/andymatuschak/Sparkle/). Updating to the final release may fix 10.10 support, or we can check out a fork that appears to be active (https://github.com/pornel/Sparkle). Have to make sure that newer Sparkle versions still allow us to distribute updates without the need of code signing. Currently we are allowed to bypass code signing because we distribute updates over SSL.~~ 0e979d9f30ec6a8bc65018971f0a079cb292a0f5
-- blur oe menus?
-- blur pererences toolbar?
-- blur sidebar?
-- blur hud controls?
+- ~~Button cells with borders do not honour attributed string titles, can be fixed by drawing button titles ourselves, or maybe we just wait for the next dp~~
+- ~~Update Sparkle.framework. Our version in use appears to be 4 years old and the developer has ceased maintaining it (https://github.com/andymatuschak/Sparkle/). Updating to the final release may fix 10.10 support, or we can check out a fork that appears to be active (https://github.com/pornel/Sparkle). Have to make sure that newer Sparkle versions still allow us to distribute updates without the need of code signing. Currently we are allowed to bypass code signing because we distribute updates over SSL. 0e979d9f30ec6a8bc65018971f0a079cb292a0f5~~ 
+- Fix HUDWindow title bar appearance (http://i.imgur.com/ikZWXCs.png)
 
 ### Misc
 - Fix grid view, click on a game a couple of times can launch it twice
 - Add info on cheats to save state plist (also advance state version in plist)
+ - manually implement drop & spinner animations
+- ~~Add a link in the BIOS alert to our wiki page (https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-BIOS-files) in order to help explain hashes for people with these issues (https://twitter.com/SheaTribalFFXIV/status/481633869913784321)~~
+
+## Next Version (1.0.5 or later)
 - Rewrite grid using OpenGL and CG renderers
  - image shadows can be drawn by using a pre-rendered 9 part image
  - use drawImage:inRect:fromRect:alpha:, drawText:inRect:withAttributes: & drawRect:withLineWidth: methods found in IKRenderer protocol
- - manually implement drop & spinner animations
- - fixes 10.10 grid glitches
-- Add a link in the BIOS alert to our wiki page (https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-BIOS-files) in order to help explain hashes for people with these issues (https://twitter.com/SheaTribalFFXIV/status/481633869913784321)
 
 ### Retrode (optional for next release)
 - Show Slot 1 / Slot 2 header
@@ -54,3 +52,9 @@
 - Read firmware version
 - Check for updates on retrode.com, retrode abandoned = no more firmware updates?
 - Alert user of updates, show install wizard
+
+### _possible_ Yosemite UI Changes
+- blur oe menus
+- blur pererences toolbar
+- blur sidebar
+- blur hud controls
