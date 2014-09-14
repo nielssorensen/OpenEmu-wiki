@@ -40,6 +40,15 @@
  - manually implement drop & spinner animations
 - ~~Add a link in the BIOS alert to our wiki page (https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-BIOS-files) in order to help explain hashes for people with these issues (https://twitter.com/SheaTribalFFXIV/status/481633869913784321)~~
 
+# UI
+- need proper bios (aka System Files) tick mark
+- improve bios pane instruction text appearance (link color)
+- blank slate for:
+ - screenshots (mentioning cmd + t shortcut?)
+ - save states
+ - featured games
+- possibly in-game screenshot indicator (like save game 'notification')
+
 ## Next Version (1.0.5 or later)
 - Rewrite grid using OpenGL and CG renderers
  - image shadows can be drawn by using a pre-rendered 9 part image
