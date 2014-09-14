@@ -14,8 +14,8 @@
 - allow drag of save state & screenshot files
 
 ### Save States
-- Use relative paths
-- handle case-sensitive paths correctly
+- ~~Use relative paths~~
+- ~~handle case-sensitive paths correctly~~
 - rename all unused auto saves in a game to 'restored auto save'
 - check for weird duplicates on first start of new version
 
