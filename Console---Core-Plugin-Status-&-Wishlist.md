@@ -195,7 +195,7 @@ Note: the following systems will be rolled out steadily after the initial 1.0 re
 Strikethrough means they've already been ported. Feel free to port any that have not.
 
 * <s>MAME</s>
-* 3DO (Freedo, 4DO, 3DOplay)
+* <s>3DO (Freedo, 4DO, 3DOplay)</s>
 * Amiga & CD32 (http://fengestad.no/wp/fs-uae)
 * Amstrad CPC (https://github.com/redbug26/crocods, crocods)
 * <s>Atari 2600 (http://stella.sourceforge.net/ or http://www.whimsey.com/z26/)</s>
