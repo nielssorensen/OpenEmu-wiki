@@ -1,5 +1,14 @@
-## Version 1.0.4 / 1.1
+## Version 1.0.5 / 1.1
 
+### Features
+- Featured Games
+- BIOS perferences
+
+### Translations
+- ~~Fix Sidebar for translations. Translated xibs are broken, probably because of merge errors.~~  #1636, 94fe61d922817de083b03cabc03e8a34364d7ddd
+- Fix secret preferences (currently no text shows up at all (tested with german version)) 
+
+## Version 1.0.4
 ### Save State Manager
 - ~~Disable group selection~~ ba6fabe6110ef24ead8e76c9208fdc6c3b36f4f8
 - ~~Add 'Launch Save State' menu item~~
