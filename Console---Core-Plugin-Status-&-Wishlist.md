@@ -207,10 +207,10 @@ Strikethrough means they've already been ported. Feel free to port any that have
 * <s>Commodore 64 (http://viceteam.org/ & http://www.dirkwhoffmann.de/virtualc64)</s> Work in Progress, Help Welcome (https://github.com/OpenEmu/VICE-Core & https://github.com/OpenEmu/VirtualC64-Core)
 * <s>FB Alpha</s>
 * GameCube/Wii (http://code.google.com/p/dolphin-emu/) Preliminary work (http://github.com/loicloic/Dolphin-Core)
-* Intellivision (http://spatula-city.org/~im14u2c/intv/)
+* <s>Intellivision (Bliss & http://spatula-city.org/~im14u2c/intv/)</s>
 * <s>MSX (http://openmsx.sourceforge.net/, blueMSX, CocoaMSX)</s> Work in Progress (https://github.com/OpenEmu/blueMSX-Core)
 * <s>Nintendo DS (http://sourceforge.net/projects/desmume/)</s>
-* Odyssey² (http://o2em.sourceforge.net/)
+* <s>Odyssey² (http://o2em.sourceforge.net/)</s>
 * PC-98 (http://www.yui.ne.jp/np2/)
 * PlayStation 2 (http://pcsx2.net/ & http://pcsx2mac.net)
 * <s>PSP (https://github.com/hrydgard/ppsspp)</s>
