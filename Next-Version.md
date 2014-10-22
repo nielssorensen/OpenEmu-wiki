@@ -8,6 +8,9 @@
 - ~~Fix Sidebar for translations. Translated xibs are broken, probably because of merge errors.~~  #1636, 94fe61d922817de083b03cabc03e8a34364d7ddd
 - Fix secret preferences (currently no text shows up at all (tested with german version)) 
 
+### Grid View
+- Restore sort descriptors
+
 ## Version 1.0.4
 ### Save State Manager
 - ~~Disable group selection~~ ba6fabe6110ef24ead8e76c9208fdc6c3b36f4f8
@@ -38,7 +41,7 @@
 
 ### Yosemite
 - ~~Fix grid glitches, they seem to be caused by calling setFrame: on CALayers in -layerForType: method, not caused by use of private api as far as i can tell~~
-- INAppstoreWindow crashes because of a custom theme frame, maybe they'll fix this
+- ~~INAppstoreWindow crashes because of a custom theme frame, maybe they'll fix this~~ Not really a crash, but rather a warning -cy
 - ~~Button cells with borders do not honour attributed string titles, can be fixed by drawing button titles ourselves, or maybe we just wait for the next dp~~
 - ~~Update Sparkle.framework. Our version in use appears to be 4 years old and the developer has ceased maintaining it (https://github.com/andymatuschak/Sparkle/). Updating to the final release may fix 10.10 support, or we can check out a fork that appears to be active (https://github.com/pornel/Sparkle). Have to make sure that newer Sparkle versions still allow us to distribute updates without the need of code signing. Currently we are allowed to bypass code signing because we distribute updates over SSL. 0e979d9f30ec6a8bc65018971f0a079cb292a0f5~~ 
 - Fix HUDWindow title bar appearance (http://i.imgur.com/ikZWXCs.png)
