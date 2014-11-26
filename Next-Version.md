@@ -12,7 +12,7 @@
 - Fix secret preferences (currently no text shows up at all (tested with german version)) 
 
 ### Grid View
-- Restore sort descriptors
+- ~~Restore sort descriptors~~
 
 ## Version 1.0.4
 ### Save State Manager
@@ -39,7 +39,7 @@
 - ~~Modify core data model to include screenshots~~ ~~and videos~~
 - ~~Scan screenshots directory on first launch and add them to the library~~
 - fix renaming screenshots
-- import screenshots without 100% match into 'Unkown' category
+- import screenshots without 100% match into 'Unknown' category
 - fix deleting screenshots
 
 ### Yosemite
