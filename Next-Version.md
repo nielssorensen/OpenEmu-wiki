@@ -3,10 +3,7 @@
 ### Features
 - Featured Games
 - BIOS preferences
- - need nicer checkmark
- - sometimes wild table headers appear http://i.imgur.com/DsP0vXc.png
- - 1px row shows up at random http://i.imgur.com/5JH1LVM.png
- 
+
 ### Translations
 - ~~Fix Sidebar for translations. Translated xibs are broken, probably because of merge errors.~~  #1636, 94fe61d922817de083b03cabc03e8a34364d7ddd
 - Fix secret preferences (currently no text shows up at all (tested with german version)) 
@@ -58,7 +55,9 @@
 
 # UI
 - need proper bios (aka System Files) tick mark
-- improve bios pane instruction text appearance (link color)
+- ~~improve bios pane instruction text appearance (link color)~~
+- bios: sometimes wild table headers appear http://i.imgur.com/DsP0vXc.png
+- bios: 1px row shows up at random http://i.imgur.com/5JH1LVM.png
 - blank slate for:
  - screenshots (mentioning cmd + t shortcut?)
  - save states
