@@ -2,8 +2,11 @@
 
 ### Features
 - Featured Games
-- BIOS perferences
-
+- BIOS preferences
+ - need nicer checkmark
+ - sometimes wild table headers appear http://i.imgur.com/DsP0vXc.png
+ - 1px row shows up at random http://i.imgur.com/5JH1LVM.png
+ 
 ### Translations
 - ~~Fix Sidebar for translations. Translated xibs are broken, probably because of merge errors.~~  #1636, 94fe61d922817de083b03cabc03e8a34364d7ddd
 - Fix secret preferences (currently no text shows up at all (tested with german version)) 
