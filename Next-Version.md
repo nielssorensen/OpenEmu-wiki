@@ -77,9 +77,3 @@
 - Read firmware version
 - Check for updates on retrode.com, retrode abandoned = no more firmware updates?
 - Alert user of updates, show install wizard
-
-### _possible_ Yosemite UI Changes
-- blur oe menus
-- blur pererences toolbar
-- blur sidebar
-- blur hud controls
