@@ -12,7 +12,7 @@ A good resource for finding cheat codes is [GameHacking.org](http://gamehacking.
 
 To add a cheat code, you must be running a game. Within the game window, move the mouse to produce the [HUD bar](#), and click the cog/gear icon near the center. If the core supports cheat codes, a menu item called *Select Cheat* will be available. In this menu, there will be another item labelled *Add Cheat...* — click here to input a new code.
 
-![HUD Select Cheat menu](https://raw.github.com/okdana/OpenEmu-documentation/master/assets/img/user%20guide/HUD%20-%20Select%20Cheat%20-%20Add%20Cheat%20%28no%20game%29.png)
+![HUD Select Cheat menu](http://i.imgur.com/nz9wA5M.png)
 
 In the dialogue that opens, you can enter a name for the cheat (to identify it in the *Select Cheat* menu), as well as the code itself. Enter codes in whatever format the core supports; usually, these formats will be identical to the most popular cheat devices available for the system in question (such as Action Replay or Game Genie). You can also choose to enable a cheat right away or wait to enable it later.
 
@@ -121,7 +121,7 @@ For multi-line codes, use a plus (`+`) to separate each line. For example: `AVSO
 
 After you've added a cheat, you'll need to enable it if you haven't already. Return to the *Select Cheat* menu, and you will now see the cheat that was just added in the list. Click on it to enable it. If you need to disable it later, simply return to this menu and click it again.
 
-![HUD Select Cheat menu with cheat added](https://raw.github.com/okdana/OpenEmu-documentation/master/assets/img/user%20guide/HUD%20-%20Select%20Cheat%20-%2099%20lives%20%28no%20game%29.png)
+![HUD Select Cheat menu with cheat added](http://i.imgur.com/Lgwe3Lx.png)
 
 ### Limitations
 
