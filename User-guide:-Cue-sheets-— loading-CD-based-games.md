@@ -20,4 +20,4 @@ Since a cue sheet does not actually contain any ROM data, any files it reference
 
 1. OpenEmu will not load CD-based games from an archive (e.g., `.zip`) file.
 
-2. Game discs are sometimes distributed with the CD audio in MP3 or WAV format; OpenEmu can not load games in this format. Removing any references to the `.mp3` or `.wav` files from the cue sheet will allow OpenEmu to load the disc properly, but the game will probably not have any sound.
+2. Game images are sometimes distributed with the CD audio (sometimes called ["Redbook Audio"](https://en.wikipedia.org/wiki/Compact_Disc_Digital_Audio)) in MP3 or WAV format. OpenEmu can not load games in this format. Removing any references to the `.mp3` or `.wav` files from the cue sheet will allow OpenEmu to load the disc properly, but the game will probably not have any music.
