@@ -54,14 +54,14 @@
 - ~~Add a link in the BIOS alert to our wiki page (https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-BIOS-files) in order to help explain hashes for people with these issues (https://twitter.com/SheaTribalFFXIV/status/481633869913784321)~~
 
 # UI
-- need proper bios (aka System Files) tick mark
+- ~~need proper bios (aka System Files) tick mark~~
 - ~~improve bios pane instruction text appearance (link color)~~
-- bios: sometimes wild table headers appear http://i.imgur.com/DsP0vXc.png
+- ~~bios: sometimes wild table headers appear http://i.imgur.com/DsP0vXc.png~~
 - bios: 1px row shows up at random http://i.imgur.com/5JH1LVM.png
 - blank slate for:
  - screenshots (mentioning cmd + t shortcut?)
  - save states
- - featured games
+ - ~~featured games~~
 - possibly in-game screenshot indicator (like save game 'notification')
 
 ## Next Version (1.0.5 or later)
