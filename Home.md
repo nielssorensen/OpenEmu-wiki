@@ -100,7 +100,7 @@ Please see [this page](https://github.com/OpenEmu/OpenEmu/wiki/Console---Core-Pl
 \* If your Logitech controller has a switch on the back, it must be set to DirectInput (D).
 
 **Additional help:**
-* Logitech F710: http://www.macgamepads.com/gamepads/f710/index.html
+* Logitech F710: https://web.archive.org/web/20130815061741/http://www.macgamepads.com/gamepads/f710/index.html
 * Bluetooth with PS3 controller: https://gist.github.com/3172711 and http://bit.ly/W26q2k
 * Xbox 360 Controller Driver: http://tattiebogle.net/index.php/ProjectRoot/Xbox360Controller/OsxDriver - If you're using a wireless controller you will also need an XBox Wireless Receiver (for Windows).
 * If using a Wiimote or Wii U Pro controller, please go to the Controller preferences, select "Add a Wiimote" from the Input box and follow the pairing directions.
