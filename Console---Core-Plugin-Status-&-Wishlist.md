@@ -212,7 +212,8 @@ Strikethrough means they've already been ported. Feel free to port any that have
 * <s>Nintendo DS (http://sourceforge.net/projects/desmume/)</s>
 * <s>Odyssey² (http://o2em.sourceforge.net/)</s>
 * PC-98 (http://www.yui.ne.jp/np2/)
-* PlayStation 2 (https://github.com/PCSX2/pcsx2)
+* PlayStation with video upscaling (https://pcsxr.codeplex.com or http://www.epsxe.com) 
+* PlayStation 2 (https://github.com/PCSX2/pcsx2 or http://purei.org) _Needs x86-64 Support_
 * <s>PSP (https://github.com/hrydgard/ppsspp)</s>
 * ScummVM (http://scummvm.org/)
 * ResidualVM (http://residualvm.org/)
