@@ -57,14 +57,14 @@
 - ~~need proper bios (aka System Files) tick mark~~
 - ~~improve bios pane instruction text appearance (link color)~~
 - ~~bios: sometimes wild table headers appear http://i.imgur.com/DsP0vXc.png~~
-- bios: 1px row shows up at random http://i.imgur.com/5JH1LVM.png
+- ~~bios: 1px row shows up at random http://i.imgur.com/5JH1LVM.png~~ fixed at the same time as the table header bug -cy
 - blank slate for:
  - screenshots (mentioning cmd + t shortcut?)
  - save states
  - ~~featured games~~
 - possibly in-game screenshot indicator (like save game 'notification')
 
-## Next Version (1.0.5 or later)
+## Next Version (later…)
 - Rewrite grid using OpenGL and CG renderers
  - image shadows can be drawn by using a pre-rendered 9 part image
  - use drawImage:inRect:fromRect:alpha:, drawText:inRect:withAttributes: & drawRect:withLineWidth: methods found in IKRenderer protocol
