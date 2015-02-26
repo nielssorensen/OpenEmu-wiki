@@ -1,10 +1,5 @@
-## Version 1.0.5 / 1.1
+## Version 1.1
 
-### Features
-- Featured Games
-- BIOS preferences
-
-## Version 1.0.4
 ### Save State Manager
 - Use array controller and improve core data fetching
 - correctly show names of all 'special' save states, including quick save slots
