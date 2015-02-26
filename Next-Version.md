@@ -19,7 +19,7 @@
 - Fix HUDWindow title bar appearance (http://i.imgur.com/ikZWXCs.png)
 
 ### Misc
-- Tooltips not displaying in any view
+- Tooltips not displaying in any view, _i checked tooltips in main window (like grid view button). those work, is this fixed? -cy_
 - Fix grid view, click on a game a couple of times can launch it twice
 - Add info on cheats to save state plist (also advance state version in plist)
  - manually implement drop & spinner animations
