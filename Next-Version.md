@@ -6,7 +6,7 @@
 
 ### Translations
 - ~~Fix Sidebar for translations. Translated xibs are broken, probably because of merge errors.~~  #1636, 94fe61d922817de083b03cabc03e8a34364d7ddd
-- Fix secret preferences (currently no text shows up at all (tested with german version)) 
+- ~Fix secret preferences (currently no text shows up at all (tested with german version))~ Already fixed, not sure when -cy
 
 ### Grid View
 - ~~Restore sort descriptors~~
