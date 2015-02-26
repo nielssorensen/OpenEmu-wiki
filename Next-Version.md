@@ -23,6 +23,7 @@
 - Fix grid view, click on a game a couple of times can launch it twice
 - Add info on cheats to save state plist (also advance state version in plist)
  - manually implement drop & spinner animations
+- Fix core data migration bug where updating 1.0.2 or early to 1.0.4 causes artwork images to be removed
 
 # UI
 - blank slate for:
