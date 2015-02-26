@@ -20,7 +20,7 @@
 
 ### Misc
 - Tooltips not displaying in any view, _i checked tooltips in main window (like grid view button). those work, is this fixed? -cy_
-- Fix grid view, click on a game a couple of times can launch it twice
+- ~~Fix grid view, click on a game a couple of times can launch it twice~~ ad93e3c6cde2b9465735fd7d6a2a076c6b4a5a57
 - Add info on cheats to save state plist (also advance state version in plist)
  - manually implement drop & spinner animations
 - Fix core data migration bug where updating 1.0.2 or early to 1.0.4 causes artwork images to be removed
