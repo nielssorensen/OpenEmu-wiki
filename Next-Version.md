@@ -11,9 +11,9 @@
 - check for weird duplicates on first start of new version
 
 ### Screenshot / Videos
-- fix renaming screenshots
+- ~~fix renaming screenshots~~ _seems to work already -cy_
 - import screenshots without 100% match into 'Unknown' category
-- fix deleting screenshots
+- ~~fix deleting screenshots~~ _seems to work already -cy_
 
 ### Yosemite
 - Fix HUDWindow title bar appearance (http://i.imgur.com/ikZWXCs.png)
