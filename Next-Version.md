@@ -22,7 +22,6 @@
 - Tooltips not displaying in any view, _i checked tooltips in main window (like grid view button). those work, is this fixed? -cy_
 - ~~Fix grid view, click on a game a couple of times can launch it twice~~ ad93e3c6cde2b9465735fd7d6a2a076c6b4a5a57
 - ~~Add info on cheats to save state plist (also advance state version in plist)~~ _not yet, moved to next release -cy_
-- manually implement drop & spinner animations
 - Fix core data migration bug where updating 1.0.2 or early to 1.0.4 causes artwork images to be removed
 
 # Bugs and Crashes
@@ -50,6 +49,8 @@
 - Rewrite grid using OpenGL and CG renderers
  - image shadows can be drawn by using a pre-rendered 9 part image
  - use drawImage:inRect:fromRect:alpha:, drawText:inRect:withAttributes: & drawRect:withLineWidth: methods found in IKRenderer protocol
+- Add info on cheats to save state plist (also advance state version in plist)
+- manually implement drop & spinner animations
 
 ### Retrode (optional for next release)
 - Show Slot 1 / Slot 2 header
