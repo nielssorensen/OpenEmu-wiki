@@ -3,8 +3,8 @@
 ### Save State Manager
 - Use array controller and improve core data fetching
 - correctly show names of all 'special' save states, including quick save slots
-- accept dropped save states
-- allow drag of save state & screenshot files
+- ~~accept dropped save states~~ [changes](https://github.com/OpenEmu/OpenEmu/compare/9b6d377eb4236e504c8dbe6731c5793764b15683...fcd5c9684ae68788dde0cb0243e863523ea3c76b)
+- ~~allow drag of save state & screenshot files~~ [changes](https://github.com/OpenEmu/OpenEmu/compare/9b6d377eb4236e504c8dbe6731c5793764b15683...fcd5c9684ae68788dde0cb0243e863523ea3c76b)
 
 ### Save States
 - rename all unused auto saves in a game to 'restored auto save'
