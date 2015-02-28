@@ -26,7 +26,7 @@
 
 # Bugs and Crashes
 - Import:
- - Double clicking a ROM in Finder to import *sometimes* crashes OE https://gist.github.com/anonymous/bc5ab9d23ea67dd7863a
+ - ~~Double clicking a ROM in Finder to import *sometimes* crashes OE https://gist.github.com/anonymous/bc5ab9d23ea67dd7863a~~ might be fixed by 335598662189
  - Zipped ROMs that end up in the import issue resolver will not import (https://github.com/OpenEmu/OpenEmu/issues/1694)
 - UI:
  - "Stop Emulation” not working; window closes but games still run (https://github.com/OpenEmu/OpenEmu/issues/1676)
