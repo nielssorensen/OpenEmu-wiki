@@ -16,7 +16,7 @@
 - ~~fix deleting screenshots~~ _seems to work already -cy_
 
 ### Yosemite
-- Fix HUDWindow title bar appearance (http://i.imgur.com/ikZWXCs.png)
+- ~~Fix HUDWindow title bar appearance (http://i.imgur.com/ikZWXCs.png)~~ 2d510a094e4028d6b72ffb25ab4acc28346a0987
 
 ### Misc
 - Tooltips not displaying in any view, _i checked tooltips in main window (like grid view button). those work, is this fixed? -cy_
