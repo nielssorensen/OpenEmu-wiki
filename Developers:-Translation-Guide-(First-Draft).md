@@ -3,7 +3,6 @@ If you have any questions or suggestions regarding the translation process. Join
 ###Preparation
 * Make sure no one is working on the language you want to translate ([Here](#translation-progress))
 * get OpenEmu source code (https://github.com/OpenEmu/OpenEmu/wiki/Compiling-From-Source-Guide)
-* download helper app https://www.dropbox.com/s/4shjhllw2t57gha/OELocalizer.zip (Source: https://github.com/cyco/OELocalizer). This is used translate strings that appear in code and to sync up changes in language files and source code.
 
 ###Setup
 
@@ -12,30 +11,8 @@ If you have any questions or suggestions regarding the translation process. Join
 ![Imgur](http://i.imgur.com/Tx5Fvu9.png?1)
 ![Imgur](http://i.imgur.com/2142ODt.png) 
 
-* Next, open OELocalizer, and point it to the OpenEmu source files
-![PickSource](http://i.imgur.com/k9te9u0.png)	
 
-* Pick language, click on load, then click on save
-
-Window should look like this now
-![Imgur](http://i.imgur.com/kW9IAaN.png)
-	
-* All the files that need to be translated should be setup now.
-![Imgur](http://i.imgur.com/fsl5XgG.png)
-![Imgur](http://i.imgur.com/TtvXFx0.png)
-
-###Translation
-
-As you can see above there are several different file types that need different treatments:
-
-* _Localizeable.strings_, can be edited directly with OELocalizer.app. Make sure to load your language when you start OELocalizer and save before you quit. You can use OELocalizer to start OpenEmu with the selected language (shortcut cmd + r). If you want to review your changes make sure to save and then use the rebuild and run menu action (shortcut cmd + shift +r) 
-![Imgur](http://i.imgur.com/vNZ9czd.png)
-
-* _ControlLabels.strings_, must be edited manually (use a text editor like TextEdit.app). Labels that are actually visible on the controller should not be translated (like Start and Select buttons on SNES/Super Famicom).
-
-* _Credits.rtf_ should also be edited using TextEdit. No need to translate licenses.
-
-* _.xib files_, these files must be translated using Xcode (make sure you have at least version 5.something). You should not move or delete elements, if you need more space to fit in a sentence or word we can adjust the layout later.
+...
 
 ###Merging Changes
 
