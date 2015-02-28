@@ -30,7 +30,7 @@
  - Zipped ROMs that end up in the import issue resolver will not import (https://github.com/OpenEmu/OpenEmu/issues/1694)
 - UI:
  - "Stop Emulation” not working; window closes but games still run (https://github.com/OpenEmu/OpenEmu/issues/1676)
- - If you hit "Quit OpenEmu" more than once, multiple confirmation dialogs pop up (https://github.com/OpenEmu/OpenEmu/issues/1711)
+ - ~~If you hit "Quit OpenEmu" more than once, multiple confirmation dialogs pop up (https://github.com/OpenEmu/OpenEmu/issues/1711)~~ 6db9e39e0b46f61a66005eb46b593d9803b2a587
  - (RARE?) Stuck context menus (https://github.com/OpenEmu/OpenEmu/issues/1639)
  - (RARE?) Crash while moving game window (https://github.com/OpenEmu/OpenEmu/issues/1692)
  - (RARE?) Crash when dragging game window between monitors (https://github.com/OpenEmu/OpenEmu/issues/1753)
