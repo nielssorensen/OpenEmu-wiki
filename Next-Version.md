@@ -25,11 +25,26 @@
  - manually implement drop & spinner animations
 - Fix core data migration bug where updating 1.0.2 or early to 1.0.4 causes artwork images to be removed
 
+# Bugs and Crashes
+- Import:
+ - Double clicking a ROM in Finder to import *sometimes* crashes OE https://gist.github.com/anonymous/bc5ab9d23ea67dd7863a
+ - Zipped ROMs that end up in the import issue resolver will not import (https://github.com/OpenEmu/OpenEmu/issues/1694)
+- UI:
+ - "Stop Emulation” not working; window closes but games still run (https://github.com/OpenEmu/OpenEmu/issues/1676)
+ - If you hit "Quit OpenEmu" more than once, multiple confirmation dialogs pop up (https://github.com/OpenEmu/OpenEmu/issues/1711)
+ - (RARE?) Stuck context menus (https://github.com/OpenEmu/OpenEmu/issues/1639)
+ - (RARE?) Crash while moving game window (https://github.com/OpenEmu/OpenEmu/issues/1692)
+ - (RARE?) Crash when dragging game window between monitors (https://github.com/OpenEmu/OpenEmu/issues/1753)
+ - (RARE?) HUD bar disappears when dragged to second monitor (https://github.com/OpenEmu/OpenEmu/issues/1647)
+ - (Can't Replicate, Needs Info) Cmd+Q crashing? (https://github.com/OpenEmu/OpenEmu/issues/1734)
+
 # UI
 - blank slate for:
  - screenshots (mentioning cmd + t shortcut?)
  - save states
 - possibly in-game screenshot indicator (like save game 'notification')
+
+***
 
 ## Next Version (later…)
 - Rewrite grid using OpenGL and CG renderers
