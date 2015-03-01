@@ -20,117 +20,117 @@ When you're done with the translation you can either create a pull request (pref
 
 ###Translation Progress
 
-Language   | ID | Status                
------------|----|---------------------- 
-English    | en | Development Language  
-German     | de | Done
-Portuguese | pt | WIP                   
-Russian    | ru | In Progress?          
-Spanish    | es | WIP                   
-French     | fr | WIP                   
-| |
-| |
-Afrikaans   | af | 
-Albanian    | sq | 
-Amharic     | am | 
-Arabic      | ar | 
-Armenian    | hy | 
-Assamese    | as | 
-Aymara      | ay | 
-Azerbaijani | az | 
-Basque      | eu | 
-Bengali     | bn | 
-Breton      | br | 
-Bulgarian   | bg | 
-Burmese     | my | 
-Byelorussian | be | 
-Catalan   | ca | 
-Chinese   | zh | 
-Croatian | hr | 
-Czech | cs | 
-Danish | da | 
-Dutch | nl | 
-Dzongkha | dz | 
-Esperanto | eo | 
-Estonian | et | 
-Faroese | fo | 
-Farsi | fa | 
-Finnish | fi | 
-Galician | gl | 
-Georgian | ka | 
-Greek | el | 
-Greenlandic | kl | 
-Guarani | gn | 
-Gujarati | gu | 
-Hebrew | he | 
-Hindi | hi | 
-Hungarian | hu | 
-Icelandic | is | 
-Indonesian | id | 
-Inuktitut | iu | 
-Irish | ga | 
-Italian | it | 
-Japanese | ja | 
-Javanese | jv | 
-Kannada | kn | 
-Kashmiri | ks | 
-Kazakh | kk | 
-Khmer | km | 
-Kinyarwanda | rw | 
-Kirghiz | ky | 
-Korean | ko | 
-Kurdish | ku | 
-Lao | lo | 
-Latin | la | 
-Latvian | lv | 
-Lithuanian | lt | 
-Macedonian | mk | 
-Malagasy | mg | 
-Malay | ms | 
-Malayalam | ml | 
-Maltese | mt | 
-Manx | gv | 
-Marathi | mr | 
-Moldavian | mo | 
-Mongolian | mn | 
-Nepali | ne | 
-Norwegian | nb | 
-Nynorsk | nn | 
-Oriya | or | 
-Oromo | om | 
-Pashto | ps | 
-Polish | pl | 
-Punjabi | pa | 
-Quechua | qu | 
-Romanian | ro | 
-Rundi | rn | 
-Sami | se | 
-Sanskrit | sa | 
-Scottish | gd | 
-Serbian | sr | 
-Sindhi | sd | 
-Sinhalese | si | 
-Slovak | sk | 
-Slovenian | sl | 
-Somali | so | 
-Sundanese | su | 
-Swahili | sw | 
-Swedish | sv | 
-Tagalog | tl | 
-Tajiki | tg | 
-Tamil | ta | 
-Tatar | tt | 
-Telugu | te | 
-Thai | th | 
-Tibetan | bo | 
-Tigrinya | ti | 
-Tongan | to | 
-Turkish | tr | 
-Turkmen | tk | 
-Uighur | ug | 
-Ukrainian | uk | 
-Urdu | ur | 
-Uzbek | uz | 
-Vietnamese | vi | 
-Welsh | cy | 
-Yiddish | yi | 
+Language   | ID | Status                | Credits
+-----------|----|-----------------------|------------- 
+English    | en | Development Language  | 
+German     | de | Done                  | @J-rg
+Portuguese | pt | WIP                   | @ivanhtp
+Russian    | ru | Abandoned             | 
+Spanish    | es | WIP                   | Juan Pablo Atienza Martinez
+French     | fr | WIP                   | 
+| | |
+| | |
+Afrikaans   | af |     |
+Albanian    | sq |     |
+Amharic     | am |     |
+Arabic      | ar |     |
+Armenian    | hy |     |
+Assamese    | as |     |
+Aymara      | ay |     |
+Azerbaijani | az |     |
+Basque      | eu |     |
+Bengali     | bn |     |
+Breton      | br |     |
+Bulgarian   | bg |     |
+Burmese     | my |     |
+Byelorussian | be |    |
+Catalan   | ca |       |
+Chinese   | zh |       |
+Croatian | hr |        |
+Czech | cs |           |
+Danish | da |          |
+Dutch | nl |           |
+Dzongkha | dz |        |
+Esperanto | eo |       |
+Estonian | et |        |
+Faroese | fo |         |
+Farsi | fa |           |
+Finnish | fi |         |
+Galician | gl |        |
+Georgian | ka |        |
+Greek | el |           |
+Greenlandic | kl |     |
+Guarani | gn |         |
+Gujarati | gu |        |
+Hebrew | he |          |
+Hindi | hi |           |
+Hungarian | hu |       |
+Icelandic | is |       |
+Indonesian | id |      |
+Inuktitut | iu |       |
+Irish | ga |           |
+Italian | it |         |
+Japanese | ja |        |
+Javanese | jv |        |
+Kannada | kn |         |
+Kashmiri | ks |        |
+Kazakh | kk |          |
+Khmer | km |           |
+Kinyarwanda | rw |     |
+Kirghiz | ky |         |
+Korean | ko |          |
+Kurdish | ku |         |
+Lao | lo |             |
+Latin | la |           |
+Latvian | lv |         |
+Lithuanian | lt |      |
+Macedonian | mk |      |
+Malagasy | mg |        |
+Malay | ms |           |
+Malayalam | ml |       |
+Maltese | mt |         |
+Manx | gv |            |
+Marathi | mr |         |
+Moldavian | mo |       |
+Mongolian | mn |       |
+Nepali | ne |          |
+Norwegian | nb |       |
+Nynorsk | nn |         |
+Oriya | or |           |
+Oromo | om |           |
+Pashto | ps |          |
+Polish | pl |          |
+Punjabi | pa |         |
+Quechua | qu |         |
+Romanian | ro |        |
+Rundi | rn |           |
+Sami | se |            |
+Sanskrit | sa |        |
+Scottish | gd |        |
+Serbian | sr |         |
+Sindhi | sd |          |
+Sinhalese | si |       |
+Slovak | sk |          |
+Slovenian | sl |       |
+Somali | so |          |
+Sundanese | su |       |
+Swahili | sw |         |
+Swedish | sv |         |
+Tagalog | tl |         |
+Tajiki | tg |          |
+Tamil | ta |           |
+Tatar | tt |           |
+Telugu | te |          |
+Thai | th |            |
+Tibetan | bo |         |
+Tigrinya | ti |        |
+Tongan | to |          |
+Turkish | tr |         |
+Turkmen | tk |         |
+Uighur | ug |          |
+Ukrainian | uk |       |
+Urdu | ur |            |
+Uzbek | uz |           |
+Vietnamese | vi |      |
+Welsh | cy |           |
+Yiddish | yi |         |
