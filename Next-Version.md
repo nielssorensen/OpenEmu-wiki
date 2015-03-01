@@ -32,7 +32,7 @@
  - ~~"Stop Emulation” not working; window closes but games still run (https://github.com/OpenEmu/OpenEmu/issues/1676)~~ 33acba127dc28c6caea18c1bcae774447899685e
  - ~~If you hit "Quit OpenEmu" more than once, multiple confirmation dialogs pop up (https://github.com/OpenEmu/OpenEmu/issues/1711)~~ 6db9e39e0b46f61a66005eb46b593d9803b2a587
  - (RARE?) Stuck context menus (https://github.com/OpenEmu/OpenEmu/issues/1639)
- - (RARE?) Crash while moving game window (https://github.com/OpenEmu/OpenEmu/issues/1692)
+ - ~~(RARE?) Crash while moving game window (https://github.com/OpenEmu/OpenEmu/issues/1692)~~ 2172d36e049576ccbe33fb7ef8443b94ebb087d5
  - (RARE?) Crash when dragging game window between monitors (https://github.com/OpenEmu/OpenEmu/issues/1753)
  - (RARE?) HUD bar disappears when dragged to second monitor (https://github.com/OpenEmu/OpenEmu/issues/1647)
  - (Can't Replicate, Needs Info) Cmd+Q crashing? (https://github.com/OpenEmu/OpenEmu/issues/1734)
