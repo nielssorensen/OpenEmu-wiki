@@ -23,6 +23,7 @@ When you're done with the translation you can either create a pull request (pref
 Language   | ID | Status                
 -----------|----|---------------------- 
 English    | en | Development Language  
+German     | de | Done
 Portuguese | pt | WIP                   
 Russian    | ru | In Progress?          
 Spanish    | es | WIP                   
@@ -57,7 +58,6 @@ Farsi | fa |
 Finnish | fi | 
 Galician | gl | 
 Georgian | ka | 
-German | de | 
 Greek | el | 
 Greenlandic | kl | 
 Guarani | gn | 
