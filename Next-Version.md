@@ -34,7 +34,7 @@
  - (RARE?) Stuck context menus (https://github.com/OpenEmu/OpenEmu/issues/1639)
  - ~~(RARE?) Crash while moving game window (https://github.com/OpenEmu/OpenEmu/issues/1692)~~ 2172d36e049576ccbe33fb7ef8443b94ebb087d5
  - ~~(RARE?) Crash when dragging game window between monitors (https://github.com/OpenEmu/OpenEmu/issues/1753)~~ 3a37cc2979f3b197b68a5601bf08a3e3080650c3
- - (RARE?) HUD bar disappears when dragged to second monitor (https://github.com/OpenEmu/OpenEmu/issues/1647)
+ - ~~(RARE?) HUD bar disappears when dragged to second monitor (https://github.com/OpenEmu/OpenEmu/issues/1647)~~ 8f51d3b56af05be78781acb1209c24d10542e328
  - (Can't Replicate, Needs Info) Cmd+Q crashing? (https://github.com/OpenEmu/OpenEmu/issues/1734) _wontfix until we get more info -cy_
 
 # UI
