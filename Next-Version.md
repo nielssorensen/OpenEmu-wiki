@@ -31,7 +31,7 @@
 - UI:
  - ~~(RARE?) Stuck context menus (https://github.com/OpenEmu/OpenEmu/issues/1639)
  _can't fix without more info or crash log -cy
- - ~~(Can't Replicate, Needs Info) Cmd+Q crashing? (https://github.com/OpenEmu/OpenEmu/issues/1734) _wontfix until we get more info -cy__~~_probably fixed here https://github.com/OpenEmu/OpenEmu/compare/74c4dda7fd92...b5dc16a66e9d -cy_ 
+ - ~~(Can't Replicate, Needs Info) Cmd+Q crashing? (https://github.com/OpenEmu/OpenEmu/issues/1734) _wontfix until we get more info -cy_ ~~ _probably fixed here https://github.com/OpenEmu/OpenEmu/compare/74c4dda7fd92...b5dc16a66e9d -cy_ 
  - ~~"Stop Emulation” not working; window closes but games still run (https://github.com/OpenEmu/OpenEmu/issues/1676)~~ 33acba127dc28c6caea18c1bcae774447899685e
  - ~~If you hit "Quit OpenEmu" more than once, multiple confirmation dialogs pop up (https://github.com/OpenEmu/OpenEmu/issues/1711)~~ 6db9e39e0b46f61a66005eb46b593d9803b2a587
  - ~~(RARE?) Crash while moving game window (https://github.com/OpenEmu/OpenEmu/issues/1692)~~ 2172d36e049576ccbe33fb7ef8443b94ebb087d5
