@@ -27,7 +27,7 @@ German     | de | Done                  | @J-rg
 Portuguese | pt | WIP                   | @ivanhtp
 Russian    | ru | Abandoned             | 
 Spanish    | es | WIP                   | Juan Pablo Atienza Martinez
-French     | fr | IN REVIEW             | @cyril634
+French     | fr | Done / Review         | @cyril634
 | | |
 | | |
 Afrikaans   | af |     |
