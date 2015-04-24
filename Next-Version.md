@@ -43,7 +43,8 @@
  - screenshots (mentioning cmd + t shortcut?)
  - save states
 - possibly in-game screenshot indicator (like save game 'notification')
-
+- check in-game save state notification
+- alerts don't pass input back to game or something like that
 ***
 
 ## Next Version (later…)
