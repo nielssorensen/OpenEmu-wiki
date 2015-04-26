@@ -4,6 +4,8 @@ In order to emulate some systems, BIOS files are needed due to increasing comple
 
 You can check the hash of your file by opening Terminal.app, typing <code>md5 /path/to/file</code> and pressing Enter.  Instead of typing the file path in manually, you can just drag the file onto the Terminal window.
 
+Also make sure that the file extension is in lowercase letters.
+
 ### Required BIOS Files for Cores
 
 <table>
