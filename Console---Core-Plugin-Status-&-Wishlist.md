@@ -221,6 +221,7 @@ Strikethrough means they've already been ported. Feel free to port any that have
 * Sega Dreamcast (https://github.com/reicast/reicast-emulator)
 * Supermodel (http://www.supermodel3.com/)
 * TRS-80 (http://sourceforge.net/projects/virtualt/)
+* Texas Instruments TI-99 (http://eswartz.github.io/emul/)
 * <s>Vectrex (VecXGL)</s>
 * <s>VMU/VMS (VeMU)</s>
 * ZX Spectrum (http://fuse-emulator.sourceforge.net/libspectrum.php)
