@@ -29,6 +29,10 @@
  - ~~Double clicking a ROM in Finder to import *sometimes* crashes OE https://gist.github.com/anonymous/bc5ab9d23ea67dd7863a~~ might be fixed by 335598662189
  - ~~Zipped ROMs that end up in the import issue resolver will not import (https://github.com/OpenEmu/OpenEmu/issues/1694)~~ 5fdad1e5b189dcb67d9272df93e1cb5e756a50d1
 - UI:
+ - App crash when launching a game. Happened with Nestopia at the time but can happen with any core (https://gist.github.com/anonymous/c6c040e9fe70ef2f1f0b)
+ - These seem to be related to import and cover downloading in the grid (https://gist.github.com/anonymous/906492c58d45a94ac120 & https://gist.github.com/anonymous/67d0529e006357fbb59a)
+ - INAppStoreWindow exception (https://gist.github.com/anonymous/a77996283181f43b3a44)
+ - Another exception. Can't remember the exact details when it occurred but I could no longer right click on anything in the grid view (https://gist.github.com/anonymous/8478b6f2d3da018af53b)
  - (RARE?) Stuck context menus (https://github.com/OpenEmu/OpenEmu/issues/1639)
  _can't fix without more info or crash log -cy
  - ~~(Can't Replicate, Needs Info) Cmd+Q crashing? (https://github.com/OpenEmu/OpenEmu/issues/1734) wontfix until we get more info -cy ~~ _probably fixed here https://github.com/OpenEmu/OpenEmu/compare/74c4dda7fd92...b5dc16a66e9d -cy_ 
