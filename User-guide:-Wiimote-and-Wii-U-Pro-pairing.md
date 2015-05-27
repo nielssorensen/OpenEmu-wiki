@@ -1,5 +1,5 @@
 When pairing for the **very first time**, you need to:
-* Use the latest version of OpenEmu (1.0.3) or greater.
+* Use the latest version of OpenEmu (1.0.4) or greater.
 * Have Bluetooth enabled on your machine.
 * Remove any previous Wiimote pairings stored in Bluetooth prefs.
 * Remove third party apps/kexts that cause conflicts (**DarwiinRemote, USB Overdrive, WJoy - these are NOT required and do cause problems!**). Unload kexts for WJoy via Terminal.app with the following command: `sudo kextunload -b com.alxn1.driver.wjoy`
