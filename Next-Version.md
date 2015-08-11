@@ -31,7 +31,7 @@
  - ~~Double clicking a ROM in Finder to import *sometimes* crashes OE https://gist.github.com/anonymous/bc5ab9d23ea67dd7863a~~ might be fixed by 335598662189
  - ~~Zipped ROMs that end up in the import issue resolver will not import (https://github.com/OpenEmu/OpenEmu/issues/1694)~~ 5fdad1e5b189dcb67d9272df93e1cb5e756a50d1
 - UI:
- - App crash when launching a game. Happened with Nestopia at the time but can happen with any core (https://gist.github.com/anonymous/c6c040e9fe70ef2f1f0b & SNES9x: https://gist.github.com/anonymous/5ffddc76286eb98bbaff & GenesisPlusGX: https://gist.github.com/anonymous/25496fab9c6751bd6ef1 & https://gist.github.com/anonymous/7fee33ea62f179a06d61 & https://gist.github.com/anonymous/40a9b963ac547e28d227 )
+ - ~~App crash when launching a game. Happened with Nestopia at the time but can happen with any core (https://gist.github.com/anonymous/c6c040e9fe70ef2f1f0b & SNES9x: https://gist.github.com/anonymous/5ffddc76286eb98bbaff & GenesisPlusGX: https://gist.github.com/anonymous/25496fab9c6751bd6ef1 & https://gist.github.com/anonymous/7fee33ea62f179a06d61 & https://gist.github.com/anonymous/40a9b963ac547e28d227 )~~
  - These seem to be related to import and cover downloading in the grid (https://gist.github.com/anonymous/906492c58d45a94ac120 & https://gist.github.com/anonymous/67d0529e006357fbb59a)
     - ~~can be reproduced by having at least one spinner visible and then resizing the window. after a few seconds console will be spammed with those messages (blocking the app) and you can't switch consoles or launch a game without heavy glitching. Also happens when spinner animation is disabled.~~ 90951ed63f9db68cfb60b37a1d954f74948f0a8f
  - INAppStoreWindow exception (https://gist.github.com/anonymous/a77996283181f43b3a44)
