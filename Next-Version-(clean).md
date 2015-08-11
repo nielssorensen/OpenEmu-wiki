@@ -8,6 +8,11 @@
 - blank slate for save states
 - Use array controller and improve core data fetching in save state manager
 
+### unordered
+- fix pt and es localizations https://github.com/OpenEmu/OpenEmu/issues/1963
+- setting second player's controls https://github.com/OpenEmu/OpenEmu/issues/1861, should have been fixed in https://github.com/OpenEmu/OpenEmu-SDK/commit/4415e6bc72e57d3af74860e1ff0e55f1bd7d3f95
+- blank slate for cd based games mentioning / linking to new guide
+
 ## Bugs and Crashes
  - App crash when launching a game. Happened with Nestopia at the time but can happen with any core (https://gist.github.com/anonymous/c6c040e9fe70ef2f1f0b & SNES9x: https://gist.github.com/anonymous/5ffddc76286eb98bbaff & GenesisPlusGX: https://gist.github.com/anonymous/25496fab9c6751bd6ef1 & https://gist.github.com/anonymous/7fee33ea62f179a06d61 & https://gist.github.com/anonymous/40a9b963ac547e28d227 )
  - INAppStoreWindow exception (actually just a warning) (https://gist.github.com/anonymous/a77996283181f43b3a44)
