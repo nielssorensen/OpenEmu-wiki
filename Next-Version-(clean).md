@@ -1,6 +1,4 @@
 ## Version Next
-- possibly in-game screenshot indicator (like save game 'notification')
-- ~correctly show names of all 'special' save states in save state manager, including quick save slots~ seems to work already
 - rename all unused auto saves in a game to 'restored auto save'
 - import screenshots without 100% match into 'Unknown' category
 - check for weird save state duplicates on first start of new version
