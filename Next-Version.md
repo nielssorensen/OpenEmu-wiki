@@ -50,7 +50,7 @@
 - blank slate for:
  - screenshots (mentioning cmd + t shortcut?)
  - save states
-- possibly in-game screenshot indicator (like save game 'notification')
+- ~~possibly in-game screenshot indicator (like save game 'notification')~~ f5d5a5baceec04ee3cf74ab66679d8db22b14a88
 - ~~check in-game save state notification~~ 6f082f03a3019f1385f308b0e44f5319fd9aab8c
 - ~~Alerts: Whenever you type into one of our modals, the keyboard presses will register for the both text field and emulator control. Should drop responder status whenever text field is in focus?~~ fb9a210291fa8006811c8cbe77f1999e8ce655bd
 - ~~Alerts: (related to above) Press ‘save hotkey’ twice makes two dialogs appear. To replicate, bind a 'special key' for 'Save' and press the button over and over.~~ 6f082f03a3019f1385f308b0e44f5319fd9aab8c
