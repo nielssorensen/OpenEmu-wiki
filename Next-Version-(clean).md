@@ -3,7 +3,6 @@
 - import screenshots without 100% match into 'Unknown' category
 - check for weird save state duplicates on first start of new version
 - blank slate for cd based games mentioning / linking to new guide
-- blank slate for screenshots (mentioning cmd + t shortcut?)
 - blank slate for save states
 - Use array controller and improve core data fetching in save state manager
 
