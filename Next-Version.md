@@ -47,7 +47,7 @@
  - ~~(RARE?) HUD bar disappears when dragged to second monitor (https://github.com/OpenEmu/OpenEmu/issues/1647)~~ 8f51d3b56af05be78781acb1209c24d10542e328
 
 # UI
-- blank slate for:
+- ~~blank slate for:~~
  - ~~screenshots (mentioning cmd + t shortcut?)~~ 2085c9cc538715cd6460650597b3892f08a98084
  - ~~save states~~ 828dc89db9c451f546641d28a8141acaaa97126f
 - ~~possibly in-game screenshot indicator (like save game 'notification')~~ f5d5a5baceec04ee3cf74ab66679d8db22b14a88
