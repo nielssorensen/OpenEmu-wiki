@@ -89,7 +89,6 @@ Please see [this page](https://github.com/OpenEmu/OpenEmu/wiki/Console---Core-Pl
 * PlayStation 3
 * Logitech series (Dual Action, Rumblepad 2, Gamepad F310/F510/F710)\*
 * Gravis GamePad Pro
-* ~~RetroUSB SNES RetroPort and RetroPad~~ (temporarily removed)
 * Sega Saturn USB
 * PS3 Neo Geo Pad USB
 * Retrode (SNES)
