@@ -209,11 +209,12 @@ Strikethrough means they've already been ported. Feel free to port any that have
 * <s>GameCube/Wii (http://code.google.com/p/dolphin-emu/) _Preliminary work (https://github.com/OpenEmu/dolphin)_</s>
 * <s>Intellivision (Bliss & http://spatula-city.org/~im14u2c/intv/)</s>
 * <s>MSX (http://openmsx.sourceforge.net/, blueMSX, CocoaMSX)</s> _Work in Progress (https://github.com/OpenEmu/blueMSX-Core)_
+* Nintendo 3DS (https://github.com/citra-emu/citra)
 * <s>Nintendo DS (http://sourceforge.net/projects/desmume/)</s>
 * <s>Odyssey² (http://o2em.sourceforge.net/)</s>
 * PC-98 (http://www.yui.ne.jp/np2/)
 * PlayStation with video upscaling (https://pcsxr.codeplex.com or http://www.epsxe.com) 
-* PlayStation 2 (https://github.com/PCSX2/pcsx2 or http://purei.org) _Needs x86-64 Support_
+* PlayStation 2 (https://github.com/PCSX2/pcsx2 or http://purei.org) _core lacks x86-64 Support_
 * <s>PSP (https://github.com/hrydgard/ppsspp)</s>
 * ScummVM (http://scummvm.org/)
 * ResidualVM (http://residualvm.org/)
@@ -224,5 +225,6 @@ Strikethrough means they've already been ported. Feel free to port any that have
 * Texas Instruments TI-99 (http://eswartz.github.io/emul/)
 * <s>Vectrex (VecXGL)</s>
 * <s>VMU/VMS (VeMU)</s>
+* Xbox 360 (http://xenia.jp)
 * ZX Spectrum (http://fuse-emulator.sourceforge.net/libspectrum.php)
 * etc
