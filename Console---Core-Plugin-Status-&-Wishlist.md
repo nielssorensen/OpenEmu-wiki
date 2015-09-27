@@ -197,7 +197,7 @@ Strikethrough means they've already been ported. Feel free to port any that have
 * <s>MAME</s>
 * <s>3DO (Freedo, 4DO, 3DOplay)</s>
 * Amiga & CD32 (http://fengestad.no/wp/fs-uae)
-* Amstrad CPC (https://github.com/redbug26/crocods, crocods)
+* Amstrad CPC (http://sourceforge.net/projects/caprice32/)
 * <s>Atari 2600 (http://stella.sourceforge.net/ or http://www.whimsey.com/z26/)</s>
 * <s>Atari 5200 (http://atari800.sourceforge.net/)</s>
 * <s>Atari 7800 (https://home.comcast.net/~gscottstanton/)</s>
