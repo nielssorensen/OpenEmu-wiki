@@ -13,14 +13,6 @@ This screen has you confirm that you want to install the emulator cores.  **Leav
 
 -----
 
-### Game Scanner
-
-Make sure this box is checked in order to allow OpenEmu to scan your hard drive for ROM files.
-
-![setup assistant part 3](http://i.imgur.com/GJy4T5l.png)
-
------
-
 ### Let's Go!
 
 That's it! The setup assistant is finished.  Press "Go" to begin enjoying your games!
