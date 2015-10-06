@@ -19,6 +19,16 @@
  - Another exception. Can't remember the exact details when it occurred but I could no longer right click on anything in the grid view (https://gist.github.com/anonymous/8478b6f2d3da018af53b)
  - (Rare?) Had this crash some times while launching the app (https://gist.github.com/anonymous/d239235e177d4813dfe9 & https://gist.github.com/anonymous/45307fefff5fdc6f67b6 & https://gist.github.com/anonymous/c0282c14dd7476fc5d43)
 
+## UI change
+- Remove bottom bar and replace with top bar in the style of the new iTunes (think NSTitleBarAccessoryViewController)
+- Remove grid resizing slider and replace with using mouse gesture pinch to zoom/unzoom
+- Remove grid / list / coverflow buttons
+- Remove 'Media' library subsection from sidebar
+- Move the +-button into the sidebar
+- Move search to the new top bar
+- Move former 'Media' library to their own category buttons in the top bar above the sidebar, like new iTunes
+- Possibly move list view into 'view options' menu or hide in something like http://i.stack.imgur.com/xfImA.png
+
 ## Next Version (later…)
 - Rewrite grid using OpenGL and CG renderers
  - image shadows can be drawn by using a pre-rendered 9 part image
