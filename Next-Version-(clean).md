@@ -26,8 +26,8 @@
 - Remove 'Media' library subsection from sidebar
 - Move the +-button into the sidebar
 - Move search to the new top bar
-- Move former 'Media' library to their own category buttons in the top bar above the sidebar, like new iTunes
-- Possibly move list view into 'view options' menu or hide in something like http://i.stack.imgur.com/xfImA.png
+- Move former 'Media' library to their own category selector buttons in the top bar above the sidebar, like new iTunes http://i.imgur.com/i3PE7xY.png
+- Possibly move list view into 'view options' menu or hide in something like http://i.stack.imgur.com/xfImA.png or http://i.imgur.com/EM4Pz1X.png
 - possibly remove accessory view during gameplay
 - remove lower inset shadow in grid view
 - use one of those fancy special effects views in the sidebar
