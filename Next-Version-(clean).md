@@ -28,6 +28,11 @@
 - Move search to the new top bar
 - Move former 'Media' library to their own category buttons in the top bar above the sidebar, like new iTunes
 - Possibly move list view into 'view options' menu or hide in something like http://i.stack.imgur.com/xfImA.png
+- possibly remove accessory view during gameplay
+- remove lower inset shadow in grid view
+- use one of those fancy special effects views in the sidebar
+- use WAYWindow for preferences (not sure if needed or can / should be done using titlebar accessory view)
+- possibly remove (or use less) grain in grid view
 
 ## Next Version (later…)
 - Rewrite grid using OpenGL and CG renderers
