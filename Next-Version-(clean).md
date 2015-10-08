@@ -33,6 +33,9 @@
 - use one of those fancy special effects views in the sidebar
 - use WAYWindow for preferences (not sure if needed or can / should be done using titlebar accessory view)
 - possibly remove (or use less) grain in grid view
+- fix sidebar button
+- disable toolbar during setup assistant / game play
+- disable toolbar editing
 
 ## Next Version (later…)
 - Rewrite grid using OpenGL and CG renderers
