@@ -36,6 +36,7 @@
 - fix sidebar button
 - disable toolbar during setup assistant / game play
 - disable toolbar editing
+- probably want the title of the game playing in the new toolbar
 
 ## Next Version (later…)
 - Rewrite grid using OpenGL and CG renderers
