@@ -20,22 +20,22 @@
  - (Rare?) Had this crash some times while launching the app (https://gist.github.com/anonymous/d239235e177d4813dfe9 & https://gist.github.com/anonymous/45307fefff5fdc6f67b6 & https://gist.github.com/anonymous/c0282c14dd7476fc5d43)
 
 ## UI change
-- Remove bottom bar and replace with top bar in the style of the new iTunes (think NSTitleBarAccessoryViewController)
+- ~~Remove bottom bar and replace with top bar in the style of the new iTunes (think NSTitleBarAccessoryViewController)~~
 - Remove grid resizing slider and replace with using mouse gesture pinch to zoom/unzoom
 - Remove grid / list / coverflow buttons
 - Remove 'Media' library subsection from sidebar
 - Move the +-button into the sidebar
-- Move search to the new top bar
+- ~~Move search to the new top bar~~
 - Move former 'Media' library to their own category selector buttons in the top bar above the sidebar, like new iTunes http://i.imgur.com/i3PE7xY.png
 - Possibly move list view into 'view options' menu or hide in something like http://i.stack.imgur.com/xfImA.png or http://i.imgur.com/EM4Pz1X.png
-- possibly remove accessory view during gameplay
-- remove lower inset shadow in grid view
+- ~~possibly remove accessory view during gameplay~~
+- ~~remove lower inset shadow in grid view~~
 - use one of those fancy special effects views in the sidebar
-- use WAYWindow for preferences (not sure if needed or can / should be done using titlebar accessory view)
+- ~~use WAYWindow for preferences (not sure if needed or can / should be done using titlebar accessory view)~~ _using WAYWindow was not necessary  -cy_
 - possibly remove (or use less) grain in grid view
-- fix sidebar button
-- disable toolbar during setup assistant / game play
-- disable toolbar editing
+- ~~fix sidebar button~~
+- ~~disable toolbar during setup assistant / game play~~ _hidden instead  -cy_
+- ~~disable toolbar editing~~
 - probably want the title of the game playing in the new toolbar
 - hide toolbar during fullscreen game play
 
