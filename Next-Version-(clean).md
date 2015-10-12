@@ -30,8 +30,8 @@
 - use one of those fancy special effects views in the sidebar
 - possibly remove (or use less) grain in grid view
 - probably want the title of the game playing in the new toolbar
-- hide toolbar during fullscreen game play
 
+- ~~hide toolbar during fullscreen game play~~
 - ~~Remove bottom bar and replace with top bar in the style of the new iTunes (think NSTitleBarAccessoryViewController)~~
 - ~~Move search to the new top bar~~
 - ~~possibly remove accessory view during gameplay~~
