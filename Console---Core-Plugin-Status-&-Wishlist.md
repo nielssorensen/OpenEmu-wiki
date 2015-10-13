@@ -206,7 +206,7 @@ Strikethrough means they've already been ported. Feel free to port any that have
 * <s>ColecoVision (http://fms.komkon.org/ColEm/, CrabEmu)</s>
 * <s>Commodore 64 (http://viceteam.org/ & http://www.dirkwhoffmann.de/virtualc64)</s> _Work in Progress (https://github.com/OpenEmu/VICE-Core & https://github.com/OpenEmu/VirtualC64-Core)_
 * <s>FB Alpha</s>
-* <s>GameCube/Wii (http://code.google.com/p/dolphin-emu/) _Preliminary work (https://github.com/OpenEmu/dolphin)_</s>
+* <s>GameCube/Wii (http://code.google.com/p/dolphin-emu/)</s> _Preliminary work (https://github.com/OpenEmu/dolphin)_
 * <s>Intellivision (Bliss & http://spatula-city.org/~im14u2c/intv/)</s>
 * <s>MSX (http://openmsx.sourceforge.net/, blueMSX, CocoaMSX)</s> _Work in Progress (https://github.com/OpenEmu/blueMSX-Core)_
 * Nintendo 3DS (https://github.com/citra-emu/citra)
