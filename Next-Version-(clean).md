@@ -20,10 +20,9 @@
  - (Rare?) Had this crash some times while launching the app (https://gist.github.com/anonymous/d239235e177d4813dfe9 & https://gist.github.com/anonymous/45307fefff5fdc6f67b6 & https://gist.github.com/anonymous/c0282c14dd7476fc5d43)
 
 ## UI change
-- sidebar button position while in fullscreen
-- Remove grid / list / coverflow buttons
-- Remove 'Media' library subsection from sidebar
-- Move the +-button into the sidebar
+- preferences window sometimes doesn't resize correctly (not sure why)
+- preferences window doesn't finish animation when it's closed too early
+- Move the +-button into the sidebar (or not maybe not)
 - Possibly move list view into 'view options' menu or hide in something like http://i.stack.imgur.com/xfImA.png or http://i.imgur.com/EM4Pz1X.png
 - use one of those fancy special effects views in the sidebar
 - possibly remove (or use less) grain in grid view
@@ -34,7 +33,8 @@
 - smoothen title bar changes
 - restore toolbar after coming back from in-window gameplay
 - animate showing / hiding screenshots, featured games, save states
-
+- Remove grid / list ~~/ coverflow~~ buttons
+- ~~Remove 'Media' library subsection from sidebar~~
 - ~~Move former 'Media' library to their own category selector buttons in the top bar above the sidebar, like new iTunes http://i.imgur.com/i3PE7xY.png~~
 - ~~probably want the title of the game playing in the new toolbar~~
 - ~~show title bar during gameplay (and setup assistant?)~~
@@ -47,6 +47,7 @@
 - ~~fix sidebar button~~
 - ~~disable toolbar during setup assistant / game play~~ _hidden instead  -cy_
 - ~~disable toolbar editing~~
+- ~~sidebar button position while in fullscreen~~
 
 ## Next Version (later…)
 - Rewrite grid using OpenGL and CG renderers
