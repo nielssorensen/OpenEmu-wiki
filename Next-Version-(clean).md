@@ -21,16 +21,16 @@
 
 ## UI change
 - sidebar button position while in fullscreen
-- Remove grid resizing slider and replace with using mouse gesture pinch to zoom/unzoom
+- Remove grid resizing slider and ~replace with using mouse gesture pinch to zoom/unzoom~
 - Remove grid / list / coverflow buttons
 - Remove 'Media' library subsection from sidebar
 - Move the +-button into the sidebar
-- Move former 'Media' library to their own category selector buttons in the top bar above the sidebar, like new iTunes http://i.imgur.com/i3PE7xY.png
+- ~Move former 'Media' library to their own category selector buttons in the top bar above the sidebar, like new iTunes http://i.imgur.com/i3PE7xY.png~
 - Possibly move list view into 'view options' menu or hide in something like http://i.stack.imgur.com/xfImA.png or http://i.imgur.com/EM4Pz1X.png
 - use one of those fancy special effects views in the sidebar
 - possibly remove (or use less) grain in grid view
-- probably want the title of the game playing in the new toolbar
-- show title bar during gameplay (and setup assistant?)
+- ~probably want the title of the game playing in the new toolbar~
+- ~show title bar during gameplay (and setup assistant?)~
 
 - ~~hide toolbar during fullscreen game play~~
 - ~~Remove bottom bar and replace with top bar in the style of the new iTunes (think NSTitleBarAccessoryViewController)~~
