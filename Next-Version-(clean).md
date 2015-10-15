@@ -41,6 +41,9 @@
 - ~~fix sidebar button~~
 - ~~disable toolbar during setup assistant / game play~~ _hidden instead  -cy_
 - ~~disable toolbar editing~~
+- restore selected sidebar item
+- restore game collection view state (zoom, selection, view type)
+- restore active overlay (aka screenshots, featured games, save states) and their respective states
 
 ## Next Version (later…)
 - Rewrite grid using OpenGL and CG renderers
