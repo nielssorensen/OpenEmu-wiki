@@ -8,7 +8,7 @@ An experimental release incorporating several additional cores not present in th
 See the [[User guide]] (WIP) for usage documentation.
 
 ###Compiling from Source
-It is also possible to compile OpenEmu from its source files. Don't worry, it's an easy process! To compile OpenEmu, please ensure that you are using OS X 10.9 or greater. You can follow [this guide](https://github.com/OpenEmu/OpenEmu/wiki/Compiling-From-Source-Guide) if you do not know how to compile OpenEmu.
+It is also possible to compile OpenEmu from its source files. Don't worry, it's an easy process! To compile OpenEmu, please ensure that you are using OS X 10.11. You can follow [this guide](https://github.com/OpenEmu/OpenEmu/wiki/Compiling-From-Source-Guide) if you do not know how to compile OpenEmu.
 
 ###Supported Systems
 <table>
