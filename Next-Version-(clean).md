@@ -38,7 +38,7 @@
 - fix game scanner overlaying sidebar (users can't access collections while game scanner is active)
 - ~~restore toolbar after coming back from in-window gameplay~~
 - animate showing / hiding screenshots, featured games, save states
-- Remove grid / list ~~/ coverflow~~ buttons
+- ~~Remove grid / list ~~/ coverflow~~ buttons~~ _let's keep grid/list buttons - clobber_
 - ~~possibly remove (or use less) grain in grid view~~
 - ~~Remove 'Media' library subsection from sidebar~~
 - ~~Move former 'Media' library to their own category selector buttons in the top bar above the sidebar, like new iTunes http://i.imgur.com/i3PE7xY.png~~
