@@ -25,15 +25,18 @@
 - Move the +-button into the sidebar (or not maybe not)
 - Possibly move list view into 'view options' menu or hide in something like http://i.stack.imgur.com/xfImA.png or http://i.imgur.com/EM4Pz1X.png
 - use one of those fancy special effects views in the sidebar
-- possibly remove (or use less) grain in grid view
 - restore selected sidebar item
 - restore game collection view state (zoom, selection, view type, search)
 - restore active overlay (aka screenshots, featured games, save states) and their respective states
 - Remove grid resizing slider and ~~replace with using mouse gesture pinch to zoom/unzoom~~
 - smoothen title bar changes
-- restore toolbar after coming back from in-window gameplay
+- fix 'resolve issues' button
+- fix game scanner canceling
+- fix game scanner overlaying sidebar (users can't access collections while game scanner is active)
+- ~~restore toolbar after coming back from in-window gameplay~~
 - animate showing / hiding screenshots, featured games, save states
 - Remove grid / list ~~/ coverflow~~ buttons
+- ~~possibly remove (or use less) grain in grid view~~
 - ~~Remove 'Media' library subsection from sidebar~~
 - ~~Move former 'Media' library to their own category selector buttons in the top bar above the sidebar, like new iTunes http://i.imgur.com/i3PE7xY.png~~
 - ~~probably want the title of the game playing in the new toolbar~~
