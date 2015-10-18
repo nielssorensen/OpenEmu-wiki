@@ -20,6 +20,9 @@
  - (Rare?) Had this crash some times while launching the app (https://gist.github.com/anonymous/d239235e177d4813dfe9 & https://gist.github.com/anonymous/45307fefff5fdc6f67b6 & https://gist.github.com/anonymous/c0282c14dd7476fc5d43)
 
 ## UI change
+- properly center blank slate content (subtract titlebar height)
+- fix grid view drop indicator (extends below titlebar)
+- fix sidebar drop indicator (also extends below titlebar)
 - preferences window sometimes doesn't resize correctly (not sure why)
 - preferences window doesn't finish animation when it's closed too early
 - Move the +-button into the sidebar (or not maybe not)
