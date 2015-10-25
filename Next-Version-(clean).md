@@ -25,19 +25,19 @@
 - fix sidebar drop indicator (also extends below titlebar)
 - preferences window sometimes doesn't resize correctly (not sure why)
 - preferences window doesn't finish animation when it's closed too early
-- Move the +-button into the sidebar (or not maybe not)
-- Possibly move list view into 'view options' menu or hide in something like http://i.stack.imgur.com/xfImA.png or http://i.imgur.com/EM4Pz1X.png
 - use one of those fancy special effects views in the sidebar
 - restore selected sidebar item
 - restore game collection view state (zoom, selection, view type, search)
 - restore active overlay (aka screenshots, featured games, save states) and their respective states
-- Remove grid resizing slider and ~~replace with using mouse gesture pinch to zoom/unzoom~~
 - smoothen title bar changes
 - fix 'resolve issues' button
 - fix game scanner canceling
 - fix game scanner overlaying sidebar (users can't access collections while game scanner is active)
+- animate showing / hiding screenshots, featured games, save states _is this still wanted now that we have segmented controls? - clobber_
+- ~~Possibly move list view into 'view options' menu or hide in something like http://i.stack.imgur.com/xfImA.png or http://i.imgur.com/EM4Pz1X.png~~ _looks like no longer necessary_
+- ~~Move the +-button into the sidebar (or not maybe not)~~
+- ~~Remove grid resizing slider~~ and ~~replace with using mouse gesture pinch to zoom/unzoom~~ _decided to shrink slider to match photos app - clobber_
 - ~~restore toolbar after coming back from in-window gameplay~~
-- animate showing / hiding screenshots, featured games, save states
 - ~~Remove grid / list ~~/ coverflow~~ buttons~~ _let's keep grid/list buttons - clobber_
 - ~~possibly remove (or use less) grain in grid view~~
 - ~~Remove 'Media' library subsection from sidebar~~
