@@ -20,6 +20,9 @@
  - (Rare?) Had this crash some times while launching the app (https://gist.github.com/anonymous/d239235e177d4813dfe9 & https://gist.github.com/anonymous/45307fefff5fdc6f67b6 & https://gist.github.com/anonymous/c0282c14dd7476fc5d43)
 
 ## UI change
+- bug: query entered into searchbox doesn’t persist after game play but the results do. expected: search string should also persist in the box after game play.
+- bug: during gameplay, titlebar cuts off the gameview http://i.imgur.com/laMOjtR.png
+- crash: search field-related. steps to replicate: enter search in library mode, click another category like save states, click back to library category, enter in a search again (notice it won't actually filter and give a result), switch back to save states yet again, then switch back to library once more, enter a search, crash: https://gist.github.com/anonymous/0105333cd1c4e03eb42a
 - properly center blank slate content (subtract titlebar height)
 - fix grid view drop indicator (extends below titlebar)
 - fix sidebar drop indicator (also extends below titlebar)
