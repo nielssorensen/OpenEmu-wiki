@@ -30,6 +30,7 @@
 - restore selected sidebar item
 - restore game collection view state (zoom, selection, view type, search)
 - restore active overlay (aka screenshots, featured games, save states) and their respective states
+- restore New Collection From Selection action https://github.com/OpenEmu/OpenEmu/blob/master/OpenEmu/OEGameCollectionViewController.m#L315-L321
 - smoothen title bar changes
 - fix 'resolve issues' button
 - fix game scanner canceling
