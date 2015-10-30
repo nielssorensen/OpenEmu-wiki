@@ -35,8 +35,8 @@
 - smoothen title bar changes
 - fix 'resolve issues' button
 - fix game scanner canceling
-- fix game scanner overlaying sidebar (users can't access collections while game scanner is active)
 - animate showing / hiding screenshots, featured games, save states _is this still wanted now that we have segmented controls? - clobber_
+- ~~fix game scanner overlaying sidebar (users can't access collections while game scanner is active)~~ cf7313d74cf3b9f0c6b238b4713e2b1cb6136179
 - ~~Possibly move list view into 'view options' menu or hide in something like http://i.stack.imgur.com/xfImA.png or http://i.imgur.com/EM4Pz1X.png~~ _looks like no longer necessary_
 - ~~Move the +-button into the sidebar (or not maybe not)~~
 - ~~Remove grid resizing slider~~ and ~~replace with using mouse gesture pinch to zoom/unzoom~~ _decided to shrink slider to match photos app - clobber_
