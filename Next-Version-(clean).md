@@ -24,8 +24,6 @@
 - bug: game scanner view doesn't pop up when there are import issues to resolve.
 - crash: search field-related. steps to replicate: enter search in library mode, click another category like save states, click back to library category, enter in a search again (notice it won't actually filter and give a result), switch back to save states yet again, then switch back to library once more, enter a search, crash: https://gist.github.com/anonymous/0105333cd1c4e03eb42a
 - properly center blank slate content (subtract titlebar height)
-- fix grid view drop indicator (extends below titlebar)
-- fix sidebar drop indicator (also extends below titlebar)
 - preferences window sometimes doesn't resize correctly (not sure why)
 - preferences window doesn't finish animation when it's closed too early
 - use one of those fancy special effects views in the sidebar
@@ -36,6 +34,8 @@
 - fix 'resolve issues' button
 - fix game scanner canceling
 - animate showing / hiding screenshots, featured games, save states _is this still wanted now that we have segmented controls? - clobber_
+- ~~fix grid view drop indicator (extends below titlebar)~~ 3c909cae210e1fe97d55278131210f4c21f2b121
+- ~~fix sidebar drop indicator (also extends below titlebar)~~ _cannot replicate - clobber_
 - ~~fix game scanner overlaying sidebar (users can't access collections while game scanner is active)~~ cf7313d74cf3b9f0c6b238b4713e2b1cb6136179
 - ~~Possibly move list view into 'view options' menu or hide in something like http://i.stack.imgur.com/xfImA.png or http://i.imgur.com/EM4Pz1X.png~~ _looks like no longer necessary_
 - ~~Move the +-button into the sidebar (or not maybe not)~~
