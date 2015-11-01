@@ -24,6 +24,7 @@
 - bug: game scanner view doesn't pop up when there are import issues to resolve.
 - bug: quit the app with one of the other categories selected, then relaunch and select the library, the sidebar is blank. also, quit the app with homebrew selected, relaunch and select the library (it will be blank) but also switch back to homebrew and then it will also be blank.
 - crash: search field-related. steps to replicate: enter search in library mode, click another category like save states, click back to library category, enter in a search again (notice it won't actually filter and give a result), switch back to save states yet again, then switch back to library once more, enter a search, crash: https://gist.github.com/anonymous/0105333cd1c4e03eb42a
+- crash: scary looking crash, possibly from exiting game in main window https://gist.github.com/anonymous/589a7429c31e1be3517f
 - properly center blank slate content (subtract titlebar height)
 - preferences window sometimes doesn't resize correctly (not sure why)
 - preferences window doesn't finish animation when it's closed too early
@@ -35,7 +36,7 @@
 - smoothen title bar changes
 - fix 'resolve issues' button
 - fix game scanner canceling
-- animate showing / hiding screenshots, featured games, save states _is this still wanted now that we have segmented controls? - clobber_
+- ~~animate showing / hiding screenshots, featured games, save states~~ 91e4da8ebd944c3089da5c666c3bc4f8cd937156 && 0460901683a89d67848beecfa10dc2c3bdb2c4c8
 - ~~fix grid view drop indicator (extends below titlebar)~~ 3c909cae210e1fe97d55278131210f4c21f2b121
 - ~~fix sidebar drop indicator (also extends below titlebar)~~ _cannot replicate - clobber_
 - ~~fix game scanner overlaying sidebar (users can't access collections while game scanner is active)~~ cf7313d74cf3b9f0c6b238b4713e2b1cb6136179
