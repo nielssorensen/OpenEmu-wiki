@@ -25,7 +25,7 @@
 - ~~bug: quit the app with one of the other categories selected, then relaunch and select the library, the sidebar is blank. also, quit the app with homebrew selected, relaunch and select the library (it will be blank) but also switch back to homebrew and then it will also be blank.~~ 6b68879224f0fd89beda8e19a3c7895b6878bd9e
 - crash: search field-related. steps to replicate: enter search in library mode, click another category like save states, click back to library category, enter in a search again (notice it won't actually filter and give a result), switch back to save states yet again, then switch back to library once more, enter a search, crash: https://gist.github.com/anonymous/0105333cd1c4e03eb42a
 - crash: scary looking crash, possibly from exiting game in main window https://gist.github.com/anonymous/589a7429c31e1be3517f
-- properly center blank slate content (subtract titlebar height)
+- ~~properly center blank slate content (subtract titlebar height)~~ c6e9601730c59825667579398378315387863cd9
 - preferences window sometimes doesn't resize correctly (not sure why)
 - preferences window doesn't finish animation when it's closed too early
 - use one of those fancy special effects views in the sidebar
