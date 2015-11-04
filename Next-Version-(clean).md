@@ -23,7 +23,6 @@
 - bug: during gameplay, titlebar cuts off the gameview http://i.imgur.com/laMOjtR.png
 - bug: game scanner view doesn't pop up when there are import issues to resolve.
 - crash: search field-related. steps to replicate: enter search in library mode, click another category like save states, click back to library category, enter in a search again (notice it won't actually filter and give a result), switch back to save states yet again, then switch back to library once more, enter a search, crash: https://gist.github.com/anonymous/0105333cd1c4e03eb42a
-- crash: happens when exiting a game in the main window. steps to reproduce: load a game, quit the game, load it again, quit it again and you should eventually get the crash: https://gist.github.com/anonymous/d5eb58b3649121cdc382 & https://gist.github.com/anonymous/da02a16b906f5a1f0b5a - robotoad able to replicate. Crash is related to autolayout with the solution being to disable autolayout for OELibraryGamesViewController.xib and manually layout the game scanner view.
 - ~~properly center blank slate content (subtract titlebar height)~~ c6e9601730c59825667579398378315387863cd9 **reverted?**
 - preferences window sometimes doesn't resize correctly (not sure why)
 - preferences window doesn't finish animation when it's closed too early
@@ -37,6 +36,7 @@
 
 ### Completed
 - ~~bug: quit the app with one of the other categories selected, then relaunch and select the library, the sidebar is blank. also, quit the app with homebrew selected, relaunch and select the library (it will be blank) but also switch back to homebrew and then it will also be blank.~~ 6b68879224f0fd89beda8e19a3c7895b6878bd9e
+- ~~crash: happens when exiting a game in the main window. steps to reproduce: load a game, quit the game, load it again, quit it again and you should eventually get the crash: https://gist.github.com/anonymous/d5eb58b3649121cdc382 & https://gist.github.com/anonymous/da02a16b906f5a1f0b5a - robotoad able to replicate. Crash is related to autolayout with the solution being to disable autolayout for OELibraryGamesViewController.xib and manually layout the game scanner view.~~ 6cd03fb6d22b20f42a955855e32ed1f976b27fd1
 - ~~use one of those fancy special effects views in the sidebar~~ b5072f2d90a75bc531e019c50dfb131c2369bb7c
 - ~~animate showing / hiding screenshots, featured games, save states~~ 91e4da8ebd944c3089da5c666c3bc4f8cd937156 && 0460901683a89d67848beecfa10dc2c3bdb2c4c8
 - ~~fix grid view drop indicator (extends below titlebar)~~ 3c909cae210e1fe97d55278131210f4c21f2b121
