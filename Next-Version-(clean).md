@@ -19,10 +19,12 @@
  - (Rare?) Had this crash some times while launching the app (https://gist.github.com/anonymous/d239235e177d4813dfe9 & https://gist.github.com/anonymous/45307fefff5fdc6f67b6 & https://gist.github.com/anonymous/c0282c14dd7476fc5d43)
 
 ## UI change
+- reminder: all the .xib's have been changed so we will probably need to delete most localized ones. probably no time to update them all for localization and we don't want weird crashes.
 - bug: query entered into searchbox doesn’t persist after game play but the results do. expected: search string should also persist in the box after game play.
 - bug: game scanner view doesn't pop up when there are import issues to resolve.
 - bug: fullscreen transition for games running in main window is not smooth
 - bug: resizing a running game window (main window or popout) can produce flickering garbage
+- bug: if you have scrollbars and translucency on, the scollbar persists briefly during transition from library to another category.
 - crash: search field-related. steps to replicate: enter search in library mode, click another category like save states, click back to library category, enter in a search again (notice it won't actually filter and give a result), switch back to save states yet again, then switch back to library once more, enter a search, crash: https://gist.github.com/anonymous/0105333cd1c4e03eb42a
 - ~~properly center blank slate content (subtract titlebar height)~~ c6e9601730c59825667579398378315387863cd9 **reverted?**
 - preferences window sometimes doesn't resize correctly (not sure why)
