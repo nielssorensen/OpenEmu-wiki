@@ -31,7 +31,7 @@
 - restore game collection view state (zoom, selection, view type, search)
 - restore active overlay (aka screenshots, featured games, save states) and their respective states
 - restore New Collection From Selection action https://github.com/OpenEmu/OpenEmu/blob/master/OpenEmu/OEGameCollectionViewController.m#L315-L321
-- fix 'resolve issues' button
+- ~~fix 'resolve issues' button~~ ea1da7ee2c8f38c645ce80851c2a3e8745bce934
 - fix game scanner canceling
 - ratings appear at twice the size when i move the main window from my retina screen to my standard resolution monitor: http://i.imgur.com/1aSptny.png
 
