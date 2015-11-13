@@ -24,18 +24,18 @@
 - bug: fullscreen transition for games running in main window is not smooth
 - bug: resizing a running game window (main window or popout) can produce flickering garbage
 - crash: search field-related. steps to replicate: enter search in library mode, click another category like save states, click back to library category, enter in a search again (notice it won't actually filter and give a result), switch back to save states yet again, then switch back to library once more, enter a search, crash: https://gist.github.com/anonymous/0105333cd1c4e03eb42a
-- ~~properly center blank slate content (subtract titlebar height)~~ c6e9601730c59825667579398378315387863cd9 **reverted?**
+- properly center blank slate content (subtract titlebar height)
 - preferences window sometimes doesn't resize correctly (not sure why)
 - preferences window doesn't finish animation when it's closed too early
 - restore selected sidebar item
 - restore game collection view state (zoom, selection, view type, search)
 - restore active overlay (aka screenshots, featured games, save states) and their respective states
-- ~~restore New Collection From Selection action https://github.com/OpenEmu/OpenEmu/blob/master/OpenEmu/OEGameCollectionViewController.m#L315-L321~~ 8f96c1b3b786dc99fb28d9e92125e9fb56eac043
-- ~~fix 'resolve issues' button~~ ea1da7ee2c8f38c645ce80851c2a3e8745bce934
-- ~~fix game scanner canceling~~ ed6b3fb0e6c6907bc525a87ff88fc5b92dbccee4
 - ratings appear at twice the size when i move the main window from my retina screen to my standard resolution monitor: http://i.imgur.com/1aSptny.png
 
 ### Completed
+- ~~restore New Collection From Selection action https://github.com/OpenEmu/OpenEmu/blob/master/OpenEmu/OEGameCollectionViewController.m#L315-L321~~ 8f96c1b3b786dc99fb28d9e92125e9fb56eac043
+- ~~fix 'resolve issues' button~~ ea1da7ee2c8f38c645ce80851c2a3e8745bce934
+- ~~fix game scanner canceling~~ ed6b3fb0e6c6907bc525a87ff88fc5b92dbccee4
 - ~~bug: during gameplay, titlebar cuts off the gameview http://i.imgur.com/laMOjtR.png~~ 8727c7ef7610d6c83e2415356c1f42b7fa9d9409
 - ~~bug: quit the app with one of the other categories selected, then relaunch and select the library, the sidebar is blank. also, quit the app with homebrew selected, relaunch and select the library (it will be blank) but also switch back to homebrew and then it will also be blank.~~ 6b68879224f0fd89beda8e19a3c7895b6878bd9e
 - ~~bug: if you have scrollbars and translucency on, the scollbar persists briefly during transition from library to another category.~~ 457728470ad64b48fc23fe9eaed9169f22f9a511
