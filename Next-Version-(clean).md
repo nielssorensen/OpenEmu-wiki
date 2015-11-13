@@ -37,6 +37,7 @@
 - smoothen title bar changes
 - fix 'resolve issues' button
 - fix game scanner canceling
+- ratings appear at twice the size when i move the main window from my retina screen to my standard resolution monitor: http://i.imgur.com/1aSptny.png
 
 ### Completed
 - ~~bug: during gameplay, titlebar cuts off the gameview http://i.imgur.com/laMOjtR.png~~ 8727c7ef7610d6c83e2415356c1f42b7fa9d9409
