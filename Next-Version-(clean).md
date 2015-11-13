@@ -21,7 +21,7 @@
 ## UI change
 - reminder: all the .xib's have been changed so we will probably need to delete most localized ones. probably no time to update them all for localization and we don't want weird crashes.
 - bug: query entered into searchbox doesn’t persist after game play but the results do. expected: search string should also persist in the box after game play.
-- bug: game scanner view doesn't pop up when there are import issues to resolve.
+- ~~bug: game scanner view doesn't pop up when there are import issues to resolve.~~ 09dfe478e58e00c5e099bb9c6b98a4f2346d8f34
 - bug: fullscreen transition for games running in main window is not smooth
 - bug: resizing a running game window (main window or popout) can produce flickering garbage
 - ~~bug: if you have scrollbars and translucency on, the scollbar persists briefly during transition from library to another category.~~ 457728470ad64b48fc23fe9eaed9169f22f9a511
