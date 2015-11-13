@@ -24,7 +24,7 @@
 - bug: game scanner view doesn't pop up when there are import issues to resolve.
 - bug: fullscreen transition for games running in main window is not smooth
 - bug: resizing a running game window (main window or popout) can produce flickering garbage
-- bug: if you have scrollbars and translucency on, the scollbar persists briefly during transition from library to another category.
+- ~~bug: if you have scrollbars and translucency on, the scollbar persists briefly during transition from library to another category.~~ 457728470ad64b48fc23fe9eaed9169f22f9a511
 - bug: scrollbars look wide instead of thin when system translucency is on http://i.imgur.com/ETZhyok.png
 - crash: search field-related. steps to replicate: enter search in library mode, click another category like save states, click back to library category, enter in a search again (notice it won't actually filter and give a result), switch back to save states yet again, then switch back to library once more, enter a search, crash: https://gist.github.com/anonymous/0105333cd1c4e03eb42a
 - ~~properly center blank slate content (subtract titlebar height)~~ c6e9601730c59825667579398378315387863cd9 **reverted?**
