@@ -33,7 +33,6 @@
 - restore active overlay (aka screenshots, featured games, save states) and their respective states
 - ratings appear at twice the size when i move the main window from my retina screen to my standard resolution monitor: http://i.imgur.com/1aSptny.png
 - figure out way to more prominently display the 'CD guide' otherwise we're looking at annoying repeated questions and issues opened forever: http://i.imgur.com/Pom4Qib.png
-- disable all titlebar view controls while in the issue resolver view, otherwise it can break while switching categories
 
 ### Completed
 - ~~restore New Collection From Selection action https://github.com/OpenEmu/OpenEmu/blob/master/OpenEmu/OEGameCollectionViewController.m#L315-L321~~ 8f96c1b3b786dc99fb28d9e92125e9fb56eac043
@@ -71,6 +70,7 @@
 - ~~disable toolbar editing~~
 - ~~sidebar button position while in fullscreen~~
 - ~~smoothen title bar changes~~ f1047c0bb19c4883e5eca44e55412c8f07faf4ad
+- ~~disable all titlebar view controls while in the issue resolver view, otherwise it can break while switching categories~~ 3772aaac81438ca67ed6a13ff47ef9cc00d8e6cd
 
 ## Next Version (later…)
 - Rewrite grid using OpenGL and CG renderers
