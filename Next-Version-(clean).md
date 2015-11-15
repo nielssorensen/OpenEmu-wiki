@@ -23,6 +23,7 @@
 - bug: query entered into searchbox doesn’t persist after game play but the results do. expected: search string should also persist in the box after game play.
 - bug: fullscreen transition for games running in main window is not smooth
 - bug: resizing a running game window (main window or popout) can produce flickering garbage
+- bug: resolve issues 'link' doesn't load issue resolver view on second import. steps to replicate: import a game that will prompt the issue resolver, click the resolve issues link, select a system and apply. next, import another and try to click the resolve issues 'link' and the view will not load unless you first click anywhere other than the game scanner view.
 - crash: search field-related. steps to replicate: enter search in library mode, click another category like save states, click back to library category, enter in a search again (notice it won't actually filter and give a result), switch back to save states yet again, then switch back to library once more, enter a search, crash: https://gist.github.com/anonymous/0105333cd1c4e03eb42a
 - properly center blank slate content (subtract titlebar height)
 - preferences window sometimes doesn't resize correctly (not sure why)
@@ -32,6 +33,7 @@
 - restore active overlay (aka screenshots, featured games, save states) and their respective states
 - ratings appear at twice the size when i move the main window from my retina screen to my standard resolution monitor: http://i.imgur.com/1aSptny.png
 - figure out way to more prominently display the 'CD guide' otherwise we're looking at annoying repeated questions and issues opened forever: http://i.imgur.com/Pom4Qib.png
+- disable all titlebar view controls while in the issue resolver view, otherwise it can break while switching categories
 
 ### Completed
 - ~~restore New Collection From Selection action https://github.com/OpenEmu/OpenEmu/blob/master/OpenEmu/OEGameCollectionViewController.m#L315-L321~~ 8f96c1b3b786dc99fb28d9e92125e9fb56eac043
