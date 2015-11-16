@@ -24,6 +24,7 @@
 - bug: fullscreen transition for games running in main window is not smooth
 - bug: resizing a running game window (main window or popout) can produce flickering garbage
 - bug: resolve issues 'link' doesn't load issue resolver view on second import. steps to replicate: import a game that will prompt the issue resolver, click the resolve issues link, select a system and apply. next, import another and try to click the resolve issues 'link' and the view will not load unless you first click anywhere other than the game scanner view.
+- bug: if you switch to a different category from library and switch back, then import a game that will prompt the issue resolver, the issue resolver view will be empty unless you resize the window https://i.imgur.com/TsVBcsO.png
 - crash: search field-related. steps to replicate: enter search in library mode, click another category like save states, click back to library category, enter in a search again (notice it won't actually filter and give a result), switch back to save states yet again, then switch back to library once more, enter a search, crash: https://gist.github.com/anonymous/0105333cd1c4e03eb42a
 - properly center blank slate content (subtract titlebar height)
 - preferences window sometimes doesn't resize correctly (not sure why)
