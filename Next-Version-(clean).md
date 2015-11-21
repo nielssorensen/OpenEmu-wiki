@@ -20,6 +20,7 @@
 
 ## UI change
 - reminder: all the .xib's have been changed so we will probably need to delete most localized ones. probably no time to update them all for localization and we don't want weird crashes.
+- crash: quitting the application (Command+Q) while running a game in the main window: https://gist.github.com/anonymous/26e972f6322087ebe7c5
 - bug: query entered into searchbox doesn’t persist after game play but the results do. expected: search string should also persist in the box after game play.
 - bug: fullscreen transition for games running in main window is not smooth
 - bug: resizing a running game window (main window or popout) can produce flickering garbage
