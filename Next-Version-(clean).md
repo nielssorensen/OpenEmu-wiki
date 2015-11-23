@@ -20,7 +20,6 @@
 
 ## UI change
 - reminder: all the .xib's have been changed so we will probably need to delete most localized ones. probably no time to update them all for localization and we don't want weird crashes.
-- crash: quitting the application (Command+Q) while running a game in the main window: https://gist.github.com/anonymous/26e972f6322087ebe7c5
 - bug: query entered into searchbox doesn’t persist after game play but the results do. expected: search string should also persist in the box after game play.
 - bug: fullscreen transition for games running in main window is not smooth
 - bug: resizing a running game window (main window or popout) can produce flickering garbage
@@ -37,6 +36,7 @@
 - figure out way to more prominently display the 'CD guide' otherwise we're looking at annoying repeated questions and issues opened forever: http://i.imgur.com/Pom4Qib.png
 
 ### Completed
+- ~~crash: quitting the application (Command+Q) while running a game in the main window: https://gist.github.com/anonymous/26e972f6322087ebe7c5~~ e2299750d32e4c3b91c6d7cf043a0f673a95ca4e
 - ~~restore New Collection From Selection action https://github.com/OpenEmu/OpenEmu/blob/master/OpenEmu/OEGameCollectionViewController.m#L315-L321~~ 8f96c1b3b786dc99fb28d9e92125e9fb56eac043
 - ~~fix 'resolve issues' button~~ ea1da7ee2c8f38c645ce80851c2a3e8745bce934
 - ~~fix game scanner canceling~~ ed6b3fb0e6c6907bc525a87ff88fc5b92dbccee4
