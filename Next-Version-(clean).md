@@ -26,7 +26,7 @@
 - preferences window doesn't finish animation when it's closed too early
 - restore selected sidebar item
 - restore game collection view state (zoom, selection, view type, search)
-- restore active overlay (aka screenshots, featured games, save states) and their respective states
+- ~restore active overlay (aka screenshots, featured games, save states)~ and their respective states
 - adjust grid size slider hint image locations so it doesn't look weird on min / max size
 - adjust space between grid cover and selector ring
 
