@@ -29,9 +29,9 @@
 - restore game collection view state (zoom, selection, view type, search)
 - restore active overlay (aka screenshots, featured games, save states) and their respective states
 - ratings appear at twice the size when i move the main window from my retina screen to my standard resolution monitor: http://i.imgur.com/1aSptny.png
-- figure out way to more prominently display the 'CD guide' otherwise we're looking at annoying repeated questions and issues opened forever: http://i.imgur.com/Pom4Qib.png
 
 ### Completed
+- ~~figure out way to more prominently display the 'CD guide' otherwise we're looking at annoying repeated questions and issues opened forever: http://i.imgur.com/Pom4Qib.png~~ 960c233f525003268665e64c75a33066c78c4809
 - ~~bug: resolve issues 'link' doesn't load issue resolver view on second import. steps to replicate: import a game that will prompt the issue resolver, click the resolve issues link, select a system and apply. next, import another and try to click the resolve issues 'link' and the view will not load unless you first click anywhere other than the game scanner view.~~ 77d30fa3ed3abf1aa4bcacadcb8aa42287f9f874
 - ~~bug: query entered into searchbox doesn’t persist after game play but the results do. expected: search string should also persist in the box after game play.~~ 5b1170462e44b3e626215d955f497135b40a867b
 - ~~crash: search field-related. steps to replicate: enter search in library mode, click another category like save states, click back to library category, enter in a search again (notice it won't actually filter and give a result), switch back to save states yet again, then switch back to library once more, enter a search, crash: https://gist.github.com/anonymous/0105333cd1c4e03eb42a~~ 6d961c5a175dba934d67320ae9e5487f46e1d957
