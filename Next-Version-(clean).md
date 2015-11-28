@@ -27,9 +27,9 @@
 - restore selected sidebar item
 - restore game collection view state (zoom, selection, view type, search)
 - restore active overlay (aka screenshots, featured games, save states) and their respective states
-- ratings appear at twice the size when i move the main window from my retina screen to my standard resolution monitor: http://i.imgur.com/1aSptny.png
 
 ### Completed
+- ~~ratings appear at twice the size when i move the main window from my retina screen to my standard resolution monitor: http://i.imgur.com/1aSptny.png~~ 21479c0a23228ade407b3b75249e6d77d5cd163b
 - ~~properly center blank slate content (subtract titlebar height)~~ 6288391fa1d4af10ee868293ed419da12db58bb5
 - ~~figure out way to more prominently display the 'CD guide' otherwise we're looking at annoying repeated questions and issues opened forever: http://i.imgur.com/Pom4Qib.png~~ 960c233f525003268665e64c75a33066c78c4809
 - ~~bug: resolve issues 'link' doesn't load issue resolver view on second import. steps to replicate: import a game that will prompt the issue resolver, click the resolve issues link, select a system and apply. next, import another and try to click the resolve issues 'link' and the view will not load unless you first click anywhere other than the game scanner view.~~ 77d30fa3ed3abf1aa4bcacadcb8aa42287f9f874
