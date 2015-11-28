@@ -6,17 +6,12 @@
 
 Help
 
-Q. [My cue sheet or CCD won't import](https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-CD-based-games#q-my-cue-sheet-or-ccd-wont-import)
-
-Q. [I have no music at all, only sound effects most of the time](https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-CD-based-games#q-i-have-no-music-at-all-only-sound-effects-most-of-the-time)
-
-Q. [I only have a single .BIN or .ISO file](https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-CD-based-games#q-i-only-have-a-single-bin-or-iso-file)
-
-Q. [I have a multi-disc game](https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-CD-based-games#q-i-have-a-multi-disc-game)
-
-Q. [I have an .ECM or .APE file](https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-CD-based-games#q-i-have-an-ecm-or-ape-file)
-
-Q. [I have a .CHD file from Archive.org](https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-CD-based-games#q-i-have-a-chd-file-from-archiveorg)
+- Q. [My cue sheet or CCD won't import](https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-CD-based-games#q-my-cue-sheet-or-ccd-wont-import)
+- Q. [I have no music at all, only sound effects most of the time](https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-CD-based-games#q-i-have-no-music-at-all-only-sound-effects-most-of-the-time)
+- Q. [I only have a single .BIN or .ISO file](https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-CD-based-games#q-i-only-have-a-single-bin-or-iso-file)
+- Q. [I have a multi-disc game](https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-CD-based-games#q-i-have-a-multi-disc-game)
+- Q. [I have an .ECM or .APE file](https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-CD-based-games#q-i-have-an-ecm-or-ape-file)
+- Q. [I have a .CHD file from Archive.org](https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-CD-based-games#q-i-have-a-chd-file-from-archiveorg)
 
 ### Getting Started
 Compressed archives (such as .rar, .zip, .7z, etc) are **NOT** supported for CD-based games — you must [uncompress](https://itunes.apple.com/us/app/the-unarchiver/id425424353?mt=12) them first.
