@@ -27,6 +27,7 @@
 - restore selected sidebar item
 - restore game collection view state (zoom, selection, view type, search)
 - restore active overlay (aka screenshots, featured games, save states) and their respective states
+- adjust grid size slider hint image locations so it doesn't look weird on min / max size
 
 ### Completed
 - ~~ratings appear at twice the size when i move the main window from my retina screen to my standard resolution monitor: http://i.imgur.com/1aSptny.png~~ 21479c0a23228ade407b3b75249e6d77d5cd163b
