@@ -22,7 +22,6 @@
 - reminder: all the .xib's have been changed so we will probably need to delete most localized ones. probably no time to update them all for localization and we don't want weird crashes.
 - bug: fullscreen transition for games running in main window is not smooth
 - bug: resizing a running game window (main window or popout) can produce flickering garbage
-- properly center blank slate content (subtract titlebar height)
 - preferences window sometimes doesn't resize correctly (not sure why)
 - preferences window doesn't finish animation when it's closed too early
 - restore selected sidebar item
@@ -31,6 +30,7 @@
 - ratings appear at twice the size when i move the main window from my retina screen to my standard resolution monitor: http://i.imgur.com/1aSptny.png
 
 ### Completed
+- ~~properly center blank slate content (subtract titlebar height)~~ 6288391fa1d4af10ee868293ed419da12db58bb5
 - ~~figure out way to more prominently display the 'CD guide' otherwise we're looking at annoying repeated questions and issues opened forever: http://i.imgur.com/Pom4Qib.png~~ 960c233f525003268665e64c75a33066c78c4809
 - ~~bug: resolve issues 'link' doesn't load issue resolver view on second import. steps to replicate: import a game that will prompt the issue resolver, click the resolve issues link, select a system and apply. next, import another and try to click the resolve issues 'link' and the view will not load unless you first click anywhere other than the game scanner view.~~ 77d30fa3ed3abf1aa4bcacadcb8aa42287f9f874
 - ~~bug: query entered into searchbox doesn’t persist after game play but the results do. expected: search string should also persist in the box after game play.~~ 5b1170462e44b3e626215d955f497135b40a867b
