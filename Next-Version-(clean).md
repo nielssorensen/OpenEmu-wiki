@@ -26,10 +26,10 @@
 - preferences window doesn't finish animation when it's closed too early
 - restore selected sidebar item
 - restore game collection view state (zoom, selection, view type, search)
-- ~restore active overlay (aka screenshots, featured games, save states)~ and their respective states
-- adjust space between grid cover and selector ring
+- ~~restore active overlay (aka screenshots, featured games, save states)~~ and their respective states
 
 ### Completed
+- ~~adjust space between grid cover and selector ring~~ 60d63e77db8c9046c2226e7bd6ef92230b4eba6c
 - ~~adjust grid size slider hint image locations so it doesn't look weird on min / max size~~ d0d0a1c1fb1aef01540895b43cc6c502bfcfdfa0
 - ~~ratings appear at twice the size when i move the main window from my retina screen to my standard resolution monitor: http://i.imgur.com/1aSptny.png~~ 21479c0a23228ade407b3b75249e6d77d5cd163b
 - ~~properly center blank slate content (subtract titlebar height)~~ 6288391fa1d4af10ee868293ed419da12db58bb5
