@@ -27,6 +27,7 @@
 - restore selected sidebar item
 - restore game collection view state (zoom, selection, view type, search)
 - convert Prefs to NSTabViewController so it can manage the toolbar and the window automagically
+- maybe adjust space between grid cover and selector ring again? http://i.imgur.com/206lkMO.png
 
 ### Completed
 - ~~restore active overlay (aka screenshots, featured games, save states)~~ and their respective states
