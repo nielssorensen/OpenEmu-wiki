@@ -22,6 +22,7 @@
 - reminder: all the .xib's have been changed so we will probably need to delete most localized ones. probably no time to update them all for localization and we don't want weird crashes.
 - bug: fullscreen transition for games running in main window is not smooth
 - bug: resizing a running game window (main window or popout) can produce flickering garbage
+- bug: since the toolbar change to the preferences (a7dcd04ef2d213abefb5a0d49bc770655d6aef0c), only clicking the icon will change tabs instead of before where clicking the 'text' label would also work
 - preferences window sometimes doesn't resize correctly (not sure why)
 - preferences window doesn't finish animation when it's closed too early
 - restore selected sidebar item
