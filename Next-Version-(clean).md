@@ -22,7 +22,6 @@
 - bug: fullscreen transition for games running in main window is not smooth
 - bug: resizing a running game window (main window or popout) can produce flickering garbage
 - bug: since the toolbar change to the preferences (a7dcd04ef2d213abefb5a0d49bc770655d6aef0c), only clicking the icon will change tabs instead of before where clicking the 'text' label would also work
-- bug: after new gradient background view, resizing the main window doesn't look as 'smooth'
 - bug: Launching a game in the library window from list view mode and then exiting the game returns the library window to grid view mode.
 - bug: In the gameplay popout window, going to fullscreen and then out of fullscreen causes the window title text to disappear.
 - preferences window sometimes doesn't resize correctly (not sure why)
@@ -35,6 +34,7 @@
 - table views: use the standard look with Source List style + visual effect view?
 
 ### Completed
+- ~~bug: after new gradient background view, resizing the main window doesn't look as 'smooth'~~ 2feeee90b621e56de4951fe8b3e91e270790bf2a
 - ~~bug: after new gradient background view, double clicking the top titlebar doesn't 'expand' the window.~~ 876d38b41db3131380140ad6821e64c42975607e
 - ~~reminder: all the .xib's have been changed so we will probably need to delete most localized ones. probably no time to update them all for localization and we don't want weird crashes.~~
 - ~~restore selected sidebar item~~
