@@ -24,6 +24,7 @@
 - bug: since the toolbar change to the preferences (a7dcd04ef2d213abefb5a0d49bc770655d6aef0c), only clicking the icon will change tabs instead of before where clicking the 'text' label would also work
 - bug: after new gradient background view, resizing the main window doesn't look as 'smooth'
 - bug: Launching a game in the library window from list view mode and then exiting the game returns the library window to grid view mode.
+- bug: In the gameplay popout window, going to fullscreen and then out of fullscreen causes the window title text to disappear.
 - preferences window sometimes doesn't resize correctly (not sure why)
 - preferences window doesn't finish animation when it's closed too early
 - restore game collection view state (zoom, selection, view type, search)
