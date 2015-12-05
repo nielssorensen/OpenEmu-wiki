@@ -19,7 +19,6 @@
  - (Rare?) Had this crash some times while launching the app (https://gist.github.com/anonymous/d239235e177d4813dfe9 & https://gist.github.com/anonymous/45307fefff5fdc6f67b6 & https://gist.github.com/anonymous/c0282c14dd7476fc5d43)
 
 ## UI change
-- reminder: all the .xib's have been changed so we will probably need to delete most localized ones. probably no time to update them all for localization and we don't want weird crashes.
 - bug: fullscreen transition for games running in main window is not smooth
 - bug: resizing a running game window (main window or popout) can produce flickering garbage
 - bug: since the toolbar change to the preferences (a7dcd04ef2d213abefb5a0d49bc770655d6aef0c), only clicking the icon will change tabs instead of before where clicking the 'text' label would also work
@@ -35,6 +34,7 @@
 - table views: use the standard look with Source List style + visual effect view?
 
 ### Completed
+- ~~reminder: all the .xib's have been changed so we will probably need to delete most localized ones. probably no time to update them all for localization and we don't want weird crashes.~~
 - ~~restore selected sidebar item~~
 - ~~maybe adjust space between grid cover and selector ring again? http://i.imgur.com/206lkMO.png~~ 953fd8c4fc972665de7596555a2c32159733369f
 - ~~grid/list controls don't enable until after transitions when changing Collections and looks odd. remove the delay so they happen in response to the button click and not the animation.~~ 1f3c71da0f70f98bb8bc3231ade116e04f961864
