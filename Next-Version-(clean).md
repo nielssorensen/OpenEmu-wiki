@@ -23,6 +23,7 @@
 - bug: fullscreen transition for games running in main window is not smooth
 - bug: resizing a running game window (main window or popout) can produce flickering garbage
 - bug: since the toolbar change to the preferences (a7dcd04ef2d213abefb5a0d49bc770655d6aef0c), only clicking the icon will change tabs instead of before where clicking the 'text' label would also work
+- bug: after new gradient background view, double clicking the top titlebar doesn't 'expand' the window.
 - preferences window sometimes doesn't resize correctly (not sure why)
 - preferences window doesn't finish animation when it's closed too early
 - restore selected sidebar item
