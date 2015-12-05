@@ -29,14 +29,14 @@
 - restore game collection view state (zoom, selection, view type, search)
 - convert Prefs to NSTabViewController so it can manage the toolbar and the window automagically
 - maybe adjust space between grid cover and selector ring again? http://i.imgur.com/206lkMO.png
-- titlebar needs a gradient to give some definition, otherwise too flat behind our themed controls
 - transition from Other Collections to Library has a slight 'pop' in the sidebar at the end of the animation, seems NSVisualEffectView-related
-- grid/list controls don't enable until after transitions when changing Collections and looks odd. remove the delay so they happen in response to the button click and not the animation.
 - search field flashing carat has a white line at the bottom. redraw issue?
 - transition to the Homebrew collection has a longer delay than the rest of the collections
 - table views: use the standard look with Source List style + visual effect view?
 
 ### Completed
+- ~~grid/list controls don't enable until after transitions when changing Collections and looks odd. remove the delay so they happen in response to the button click and not the animation.~~ 1f3c71da0f70f98bb8bc3231ade116e04f961864
+- ~~titlebar needs a gradient to give some definition, otherwise too flat behind our themed controls~~ 1a7d78813b2faaa6e417174a026c7565394a1157
 - ~~restore active overlay (aka screenshots, featured games, save states)~~ and their respective states
 - ~~adjust space between grid cover and selector ring~~ 60d63e77db8c9046c2226e7bd6ef92230b4eba6c
 - ~~adjust grid size slider hint image locations so it doesn't look weird on min / max size~~ d0d0a1c1fb1aef01540895b43cc6c502bfcfdfa0
