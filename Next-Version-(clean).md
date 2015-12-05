@@ -24,18 +24,19 @@
 - bug: resizing a running game window (main window or popout) can produce flickering garbage
 - bug: since the toolbar change to the preferences (a7dcd04ef2d213abefb5a0d49bc770655d6aef0c), only clicking the icon will change tabs instead of before where clicking the 'text' label would also work
 - bug: after new gradient background view, double clicking the top titlebar doesn't 'expand' the window.
+- bug: after new gradient background view, resizing the main window doesn't look as 'smooth'
 - preferences window sometimes doesn't resize correctly (not sure why)
 - preferences window doesn't finish animation when it's closed too early
-- restore selected sidebar item
 - restore game collection view state (zoom, selection, view type, search)
 - convert Prefs to NSTabViewController so it can manage the toolbar and the window automagically
-- maybe adjust space between grid cover and selector ring again? http://i.imgur.com/206lkMO.png
 - transition from Other Collections to Library has a slight 'pop' in the sidebar at the end of the animation, seems NSVisualEffectView-related
 - search field flashing carat has a white line at the bottom. redraw issue?
 - transition to the Homebrew collection has a longer delay than the rest of the collections
 - table views: use the standard look with Source List style + visual effect view?
 
 ### Completed
+- ~~restore selected sidebar item~~
+- ~~maybe adjust space between grid cover and selector ring again? http://i.imgur.com/206lkMO.png~~ 953fd8c4fc972665de7596555a2c32159733369f
 - ~~grid/list controls don't enable until after transitions when changing Collections and looks odd. remove the delay so they happen in response to the button click and not the animation.~~ 1f3c71da0f70f98bb8bc3231ade116e04f961864
 - ~~titlebar needs a gradient to give some definition, otherwise too flat behind our themed controls~~ 1a7d78813b2faaa6e417174a026c7565394a1157
 - ~~restore active overlay (aka screenshots, featured games, save states)~~ and their respective states
