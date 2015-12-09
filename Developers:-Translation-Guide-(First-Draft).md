@@ -25,9 +25,10 @@ Language   | ID | Status                | Credits
 English    | en | Development Language  | 
 German     | de | Done                  | @J-rg
 Portuguese | pt | WIP                   | @ivanhtp
-Russian    | ru | Abandoned             | 
+Russian    | ru | Abandoned             | @phoenixweiss
 Spanish    | es | WIP                   | Juan Pablo Atienza Martinez
 French     | fr | Done / Review         | @cyril634
+Italian    | it | Done                  | @shysaur
 | | |
 | | |
 Afrikaans   | af |     |
@@ -69,7 +70,6 @@ Icelandic | is |       |
 Indonesian | id |      |
 Inuktitut | iu |       |
 Irish | ga |           |
-Italian | it |         |
 Japanese | ja |        |
 Javanese | jv |        |
 Kannada | kn |         |
