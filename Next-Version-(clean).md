@@ -23,14 +23,14 @@
 - bug: resizing a running game window (main window or popout) can produce flickering garbage
 - bug: Launching a game in the library window from list view mode and then exiting the game returns the library window to grid view mode.
 - bug: In the gameplay popout window, going to fullscreen and then out of fullscreen causes the window title text to disappear.
-- preferences window sometimes doesn't resize correctly (check if this was resolved by b5fa707812f697e3dbe0a37cae0315575003c40c)
-- preferences window doesn't finish animation when it's closed too early (check if this was resolved by b5fa707812f697e3dbe0a37cae0315575003c40c)
 - restore game collection view state (zoom, selection, view type, search)
 - transition from Other Collections to Library has a slight 'pop' in the sidebar at the end of the animation, seems NSVisualEffectView-related
 - transition to the Homebrew collection has a longer delay than the rest of the collections
 - table views: use the standard look with Source List style + visual effect view?
 
 ### Completed
+- ~~preferences window sometimes doesn't resize correctly~~ b5fa707812f697e3dbe0a37cae0315575003c40c
+- ~~preferences window doesn't finish animation when it's closed too early~~ b5fa707812f697e3dbe0a37cae0315575003c40c
 - ~~bug: since the toolbar change to the preferences (a7dcd04ef2d213abefb5a0d49bc770655d6aef0c), only clicking the icon will change tabs instead of before where clicking the 'text' label would also work~~ b5fa707812f697e3dbe0a37cae0315575003c40c
 - ~~OpenEmu's preference tab icons are 36x36, but NSToolbarItem uses HIG-specified icon size of 32x32, causing noticeable scaling. Before/after conversion to NSTabViewController: http://i.imgur.com/FWSyIJQ.png~~ d39d151699fad633363949d874a2c4035d0aab83
 - ~~convert Prefs to NSTabViewController so it can manage the toolbar and the window automagically~~ b5fa707812f697e3dbe0a37cae0315575003c40c
