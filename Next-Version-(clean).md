@@ -21,7 +21,6 @@
 ## UI change
 - bug: fullscreen transition for games running in main window is not smooth
 - bug: resizing a running game window (main window or popout) can produce flickering garbage
-- bug: since the toolbar change to the preferences (a7dcd04ef2d213abefb5a0d49bc770655d6aef0c), only clicking the icon will change tabs instead of before where clicking the 'text' label would also work
 - bug: Launching a game in the library window from list view mode and then exiting the game returns the library window to grid view mode.
 - bug: In the gameplay popout window, going to fullscreen and then out of fullscreen causes the window title text to disappear.
 - preferences window sometimes doesn't resize correctly (check if this was resolved by b5fa707812f697e3dbe0a37cae0315575003c40c)
@@ -32,6 +31,7 @@
 - table views: use the standard look with Source List style + visual effect view?
 
 ### Completed
+- ~~bug: since the toolbar change to the preferences (a7dcd04ef2d213abefb5a0d49bc770655d6aef0c), only clicking the icon will change tabs instead of before where clicking the 'text' label would also work~~ b5fa707812f697e3dbe0a37cae0315575003c40c
 - ~~OpenEmu's preference tab icons are 36x36, but NSToolbarItem uses HIG-specified icon size of 32x32, causing noticeable scaling. Before/after conversion to NSTabViewController: http://i.imgur.com/FWSyIJQ.png~~ d39d151699fad633363949d874a2c4035d0aab83
 - ~~convert Prefs to NSTabViewController so it can manage the toolbar and the window automagically~~ b5fa707812f697e3dbe0a37cae0315575003c40c
 - ~~search field flashing carat has a white line at the bottom. redraw issue?~~ c67c48c36b6ddb73c7ac909bfc196ce58d58da88
