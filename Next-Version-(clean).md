@@ -24,8 +24,9 @@
 - bug: since the toolbar change to the preferences (a7dcd04ef2d213abefb5a0d49bc770655d6aef0c), only clicking the icon will change tabs instead of before where clicking the 'text' label would also work
 - bug: Launching a game in the library window from list view mode and then exiting the game returns the library window to grid view mode.
 - bug: In the gameplay popout window, going to fullscreen and then out of fullscreen causes the window title text to disappear.
-- preferences window sometimes doesn't resize correctly (not sure why)
-- preferences window doesn't finish animation when it's closed too early
+- preferences window sometimes doesn't resize correctly (check if this was resolved by b5fa707812f697e3dbe0a37cae0315575003c40c)
+- preferences window doesn't finish animation when it's closed too early (check if this was resolved by b5fa707812f697e3dbe0a37cae0315575003c40c)
+- preferences tab icons aren't sized correctly
 - restore game collection view state (zoom, selection, view type, search)
 - transition from Other Collections to Library has a slight 'pop' in the sidebar at the end of the animation, seems NSVisualEffectView-related
 - transition to the Homebrew collection has a longer delay than the rest of the collections
