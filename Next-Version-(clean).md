@@ -28,9 +28,9 @@
 - transition from Other Collections to Library has a slight 'pop' in the sidebar at the end of the animation, seems NSVisualEffectView-related
 - transition to the Homebrew collection has a longer delay than the rest of the collections
 - table views: use the standard look with Source List style + visual effect view?
-- fix modal sheet positioning, probably to sit under the titlebar? https://transfer.sh/4ZRmf/screen-shot-2015-12-11-at-21.24.56.png
 
 ### Completed
+- ~~fix modal sheet positioning, probably to sit under the titlebar? https://transfer.sh/4ZRmf/screen-shot-2015-12-11-at-21.24.56.png~~ 223d714852af367201698377ca965cc426dd1701
 - ~~preferences window sometimes doesn't resize correctly~~ b5fa707812f697e3dbe0a37cae0315575003c40c
 - ~~preferences window doesn't finish animation when it's closed too early~~ b5fa707812f697e3dbe0a37cae0315575003c40c
 - ~~bug: since the toolbar change to the preferences (a7dcd04ef2d213abefb5a0d49bc770655d6aef0c), only clicking the icon will change tabs instead of before where clicking the 'text' label would also work~~ b5fa707812f697e3dbe0a37cae0315575003c40c
