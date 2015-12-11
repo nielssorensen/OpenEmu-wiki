@@ -27,12 +27,12 @@
 - preferences window sometimes doesn't resize correctly (not sure why)
 - preferences window doesn't finish animation when it's closed too early
 - restore game collection view state (zoom, selection, view type, search)
-- convert Prefs to NSTabViewController so it can manage the toolbar and the window automagically
 - transition from Other Collections to Library has a slight 'pop' in the sidebar at the end of the animation, seems NSVisualEffectView-related
 - transition to the Homebrew collection has a longer delay than the rest of the collections
 - table views: use the standard look with Source List style + visual effect view?
 
 ### Completed
+- ~~convert Prefs to NSTabViewController so it can manage the toolbar and the window automagically~~ b5fa707812f697e3dbe0a37cae0315575003c40c
 - ~~search field flashing carat has a white line at the bottom. redraw issue?~~ c67c48c36b6ddb73c7ac909bfc196ce58d58da88
 - ~~bug: after new gradient background view, resizing the main window doesn't look as 'smooth'~~ 2feeee90b621e56de4951fe8b3e91e270790bf2a
 - ~~bug: after new gradient background view, double clicking the top titlebar doesn't 'expand' the window.~~ 876d38b41db3131380140ad6821e64c42975607e
