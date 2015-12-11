@@ -26,7 +26,7 @@
 - bug: In the gameplay popout window, going to fullscreen and then out of fullscreen causes the window title text to disappear.
 - preferences window sometimes doesn't resize correctly (check if this was resolved by b5fa707812f697e3dbe0a37cae0315575003c40c)
 - preferences window doesn't finish animation when it's closed too early (check if this was resolved by b5fa707812f697e3dbe0a37cae0315575003c40c)
-- preferences tab icons aren't sized correctly
+- preferences tab icons aren't sized correctly. Before/after: http://i.imgur.com/FWSyIJQ.png
 - restore game collection view state (zoom, selection, view type, search)
 - transition from Other Collections to Library has a slight 'pop' in the sidebar at the end of the animation, seems NSVisualEffectView-related
 - transition to the Homebrew collection has a longer delay than the rest of the collections
