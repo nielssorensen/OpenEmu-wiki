@@ -23,8 +23,6 @@
 ## UI change
 - bug: fullscreen transition for games running in main window is not smooth
 - bug: resizing a running game window (main window or popout) can produce flickering garbage
-- bug: Launching a game in the library window from list mode and then exiting the game switches the library window to grid mode.
-- bug: Importing a game in list mode switches the library window to grid mode.
 - bug: In the gameplay popout window, going to fullscreen and then out of fullscreen causes the window title text to disappear.
 - bug: "clicking the list view column titles leaves untidy white lines" https://github.com/OpenEmu/OpenEmu/issues/2200
 - restore game collection view state (zoom, selection, view type, search)
@@ -33,6 +31,8 @@
 - table views: use the standard look with Source List style + visual effect view?
 
 ### Completed
+- ~~bug: Launching a game in the library window from list mode and then exiting the game switches the library window to grid mode.~~ 5deb7b9970defe4a59ca612ec8abe9dd12c8c03e
+- ~~bug: Importing a game in list mode switches the library window to grid mode.~~ 5deb7b9970defe4a59ca612ec8abe9dd12c8c03e
 - ~~fix modal sheet positioning, probably to sit under the titlebar? https://transfer.sh/4ZRmf/screen-shot-2015-12-11-at-21.24.56.png~~ 223d714852af367201698377ca965cc426dd1701
 - ~~preferences window sometimes doesn't resize correctly~~ b5fa707812f697e3dbe0a37cae0315575003c40c
 - ~~preferences window doesn't finish animation when it's closed too early~~ b5fa707812f697e3dbe0a37cae0315575003c40c
