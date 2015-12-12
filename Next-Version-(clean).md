@@ -11,7 +11,7 @@
  - https://github.com/OpenEmu/OpenEmu/commit/19a19445b0212fb61037234aea6314241c327be4
  - https://github.com/OpenEmu/OpenEmu/commit/35ff1f1c9e4a66162c0460608cae071773ebf271#diff-b2132583dd704be5d9832f2fc9ce274a
 - type select select in menus (eg console selection in controls settings) _not sure if this ever worked -cy_
-- for some reason it is impossible to deselect gambatte in setup assistant
+- ~~for some reason it is impossible to deselect gambatte in setup assistant~~ _this was intentional to resolve some user headaches -clobber https://github.com/OpenEmu/OpenEmu/commit/002ede42aaf20f1590934cf9e1eb54ccbe9bc2ee_
 
 ## Bugs and Crashes
  - App crash when launching a game. Happened with Nestopia at the time but can happen with any core (https://gist.github.com/anonymous/c6c040e9fe70ef2f1f0b & SNES9x: https://gist.github.com/anonymous/5ffddc76286eb98bbaff & GenesisPlusGX: https://gist.github.com/anonymous/25496fab9c6751bd6ef1 & https://gist.github.com/anonymous/7fee33ea62f179a06d61 & https://gist.github.com/anonymous/40a9b963ac547e28d227 )
