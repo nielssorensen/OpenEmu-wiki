@@ -25,6 +25,7 @@
 - bug: resizing a running game window (main window or popout) can produce flickering garbage
 - bug: In the gameplay popout window, going to fullscreen and then out of fullscreen causes the window title text to disappear.
 - bug: "clicking the list view column titles leaves untidy white lines" https://github.com/OpenEmu/OpenEmu/issues/2200
+- bug: the "hide" context menu action for hiding a library no longer works. regression from a recent commit; not sure which yet. a quick workaround is apparently to first disable a system in library preferences and then it will work again from the context menu in the main window.
 - restore game collection view state (zoom, selection, view type, search)
 - transition from Other Collections to Library has a slight 'pop' in the sidebar at the end of the animation, seems NSVisualEffectView-related
 - transition to the Homebrew collection has a longer delay than the rest of the collections
