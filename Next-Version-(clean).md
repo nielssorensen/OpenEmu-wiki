@@ -30,9 +30,9 @@
 - transition to the Homebrew collection has a longer delay than the rest of the collections. The usual crossfade animation occurs when the delay completes. The delay lasts the length of the transition duration, and setting the duration to 0 eliminates the delay (at the cost of eliminating the crossfade animation).
 - table views: use the standard look with Source List style + visual effect view?
 - bug: issue resolver is still glitching https://transfer.sh/xF3yV/screen-shot-2015-12-14-at-23.10.45.png
-- bug: konami code is broken
 
 ### Completed
+- bug: ~~konami code is broken~~ 3d67687061073d4f46c4479a6d027af69a7ac3ef
 - bug: ~~the "hide" context menu action for hiding a library no longer works until the preferences window is shown. This is because the preferences window is now lazily loaded, and so there's nothing listening for OESidebarTogglesSystemNotification until OEPrefLibraryController gets initialized.~~ f7dade9e9a3dde3686c598f61f58bcfc56035059
 - ~~bug: Launching a game in the library window from list mode and then exiting the game switches the library window to grid mode.~~ 5deb7b9970defe4a59ca612ec8abe9dd12c8c03e
 - ~~bug: Importing a game in list mode switches the library window to grid mode.~~ 5deb7b9970defe4a59ca612ec8abe9dd12c8c03e
