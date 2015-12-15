@@ -27,7 +27,7 @@
 - bug: ~~"clicking the list view column titles leaves untidy white lines" https://github.com/OpenEmu/OpenEmu/issues/2200 ~~ -0f5f64c
 - restore game collection view state (zoom, selection, view type, search)
 - transition from Other Collections to Library has a slight 'pop' in the sidebar at the end of the animation, seems NSVisualEffectView-related
-- transition to the Homebrew collection has a longer delay than the rest of the collections. The usual crossfade animation occurs when the delay completes. The delay lasts the length of the transition duration, and setting the duration to 0 eliminates the delay (at the cost of eliminating the crossfade transition animation).
+- transition to the Homebrew collection has a longer delay than the rest of the collections. The usual crossfade animation occurs when the delay completes. The delay lasts the length of the transition duration, and setting the duration to 0 eliminates the delay (at the cost of eliminating the crossfade animation).
 - table views: use the standard look with Source List style + visual effect view?
 
 ### Completed
