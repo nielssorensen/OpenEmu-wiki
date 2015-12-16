@@ -29,11 +29,11 @@
 - table views: use the standard look with Source List style + visual effect view?
 
 ### Completed
-- bug: ~~"clicking the list view column titles leaves untidy white lines" https://github.com/OpenEmu/OpenEmu/issues/2200~~ -0f5f64c
+- ~~bug: "clicking the list view column titles leaves untidy white lines" https://github.com/OpenEmu/OpenEmu/issues/2200~~ -0f5f64c
 - ~~transition to the Homebrew collection has a longer delay than the rest of the collections. The usual crossfade animation occurs when the delay completes. The delay lasts the length of the transition duration, and setting the duration to 0 eliminates the delay (at the cost of eliminating the crossfade animation). The delay does not happen for the first transition to the homebrew collection.~~ 729a832 
-- bug: ~~issue resolver is still glitching https://transfer.sh/xF3yV/screen-shot-2015-12-14-at-23.10.45.png~~ a9e11acb724c7ac643a7ca5ce8faa48dde8576ca
-- bug: ~~konami code is broken~~ 3d67687061073d4f46c4479a6d027af69a7ac3ef
-- bug: ~~the "hide" context menu action for hiding a library no longer works until the preferences window is shown. This is because the preferences window is now lazily loaded, and so there's nothing listening for OESidebarTogglesSystemNotification until OEPrefLibraryController gets initialized.~~ f7dade9e9a3dde3686c598f61f58bcfc56035059
+- ~~bug: issue resolver is still glitching https://transfer.sh/xF3yV/screen-shot-2015-12-14-at-23.10.45.png~~ a9e11acb724c7ac643a7ca5ce8faa48dde8576ca
+- ~~bug: konami code is broken~~ 3d67687061073d4f46c4479a6d027af69a7ac3ef
+- ~~bug: the "hide" context menu action for hiding a library no longer works until the preferences window is shown. This is because the preferences window is now lazily loaded, and so there's nothing listening for OESidebarTogglesSystemNotification until OEPrefLibraryController gets initialized.~~ f7dade9e9a3dde3686c598f61f58bcfc56035059
 - ~~bug: Launching a game in the library window from list mode and then exiting the game switches the library window to grid mode.~~ 5deb7b9970defe4a59ca612ec8abe9dd12c8c03e
 - ~~bug: Importing a game in list mode switches the library window to grid mode.~~ 5deb7b9970defe4a59ca612ec8abe9dd12c8c03e
 - ~~fix modal sheet positioning, probably to sit under the titlebar? https://transfer.sh/4ZRmf/screen-shot-2015-12-11-at-21.24.56.png~~ 223d714852af367201698377ca965cc426dd1701
