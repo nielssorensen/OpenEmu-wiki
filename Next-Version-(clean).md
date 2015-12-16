@@ -24,12 +24,12 @@
 - bug: fullscreen transition for games running in main window is not smooth
 - bug: resizing a running game window (main window or popout) can produce flickering garbage
 - bug: In the gameplay popout window, going to fullscreen and then out of fullscreen causes the window title text to disappear.
-- bug: ~~"clicking the list view column titles leaves untidy white lines" https://github.com/OpenEmu/OpenEmu/issues/2200 ~~ -0f5f64c
 - restore game collection view state (zoom, selection, view type, search)
 - transition from Other Collections to Library has a slight 'pop' in the sidebar at the end of the animation, seems NSVisualEffectView-related 
 - table views: use the standard look with Source List style + visual effect view?
 
 ### Completed
+- bug: ~~"clicking the list view column titles leaves untidy white lines" https://github.com/OpenEmu/OpenEmu/issues/2200~~ -0f5f64c
 - ~~transition to the Homebrew collection has a longer delay than the rest of the collections. The usual crossfade animation occurs when the delay completes. The delay lasts the length of the transition duration, and setting the duration to 0 eliminates the delay (at the cost of eliminating the crossfade animation). The delay does not happen for the first transition to the homebrew collection.~~ 729a832 
 - bug: ~~issue resolver is still glitching https://transfer.sh/xF3yV/screen-shot-2015-12-14-at-23.10.45.png~~ a9e11acb724c7ac643a7ca5ce8faa48dde8576ca
 - bug: ~~konami code is broken~~ 3d67687061073d4f46c4479a6d027af69a7ac3ef
