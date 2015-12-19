@@ -23,10 +23,10 @@
 ## UI change
 - bug: fullscreen transition for games running in main window is not smooth
 - bug: resizing a running game window (main window or popout) can produce flickering garbage
-- bug: In the gameplay popout window, going to fullscreen and then out of fullscreen causes the window title text to disappear. (Update: Minor issue but worth fixing eventually)
-- restore game collection view state (zoom, selection, view type, search) (Update: Is this still accurate? These things seem to be persisted.)
-- transition from Other Collections to Library has a slight 'pop' in the sidebar at the end of the animation (Update: It appears to be the NSVisualEffectView going from inactive state to active state.)
-- table views: use the standard look with Source List style + visual effect view? (Update: Is it conventional for non-source list table views to have a "source list" style and vibrancy? Would a list view with vibrancy sitting next to the sidebar with vibrancy be too much darned vibrancy? Also keep in mind that behind-window vibrancy and within-window vibrancy can't mix.)
+- bug: In the gameplay popout window, going to fullscreen and then out of fullscreen causes the window title text to disappear. (Minor issue but worth fixing eventually - robotoad)
+- restore game collection view state (zoom, selection, view type, search) (Is this still accurate? These things seem to be persisted. - robotoad)
+- transition from Other Collections to Library has a slight 'pop' in the sidebar at the end of the animation (It appears to be the NSVisualEffectView going from inactive state to active state. - robotoad)
+- table views: use the standard look with Source List style + visual effect view? (Is it conventional for non-source list table views to have a "source list" style and vibrancy? Would a list view with vibrancy sitting next to the sidebar with vibrancy be too much darned vibrancy? Also keep in mind that behind-window vibrancy and within-window vibrancy can't mix. - robotoad)
 
 ### Completed
 - ~~bug: "clicking the list view column titles leaves untidy white lines" https://github.com/OpenEmu/OpenEmu/issues/2200~~ -0f5f64c
