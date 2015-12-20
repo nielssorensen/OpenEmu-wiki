@@ -24,12 +24,14 @@
 ##### High priority
 - bug: 'Recently Added' collection in the sidebar affected by a bug involving importDate: ZIMPORTDATE is null for a newly imported game on a clean library. Dates back to at least 1.0.4. 
 
-##### Normal priority
+##### Medium priority
 - bug: fullscreen transition for games running in main window is not smooth
 - bug: resizing a running game window (main window or popout) can produce flickering garbage
 - bug: Quitting main window gameplay after launching from a save state clears the save state selection after a delay.
-- bug: In the gameplay popout window, going to fullscreen and then out of fullscreen causes the window title text to disappear.
 - bug: transition from Other Collections to Library has a slight 'pop' in the sidebar at the end of the animation *[It appears to be the NSVisualEffectView going from inactive state to active state.]*
+
+##### Low priority
+- bug: In the gameplay popout window, going to fullscreen and then out of fullscreen causes the window title text to disappear.
 
 ## UI changes
 - restore game collection view state (zoom, selection, view type, search) *[Is this still accurate? These things seem to already be persisted.]*
