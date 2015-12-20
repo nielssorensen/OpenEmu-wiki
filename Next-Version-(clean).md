@@ -20,14 +20,21 @@
  - Another exception. Can't remember the exact details when it occurred but I could no longer right click on anything in the grid view (https://gist.github.com/anonymous/8478b6f2d3da018af53b)
  - (Rare?) Had this crash some times while launching the app (https://gist.github.com/anonymous/d239235e177d4813dfe9 & https://gist.github.com/anonymous/45307fefff5fdc6f67b6 & https://gist.github.com/anonymous/c0282c14dd7476fc5d43)
 
-## UI change
+## UI bugs
+##### High priority
+- bug: 'Recently Added' collection in the sidebar affected by a bug involving importDate: ZIMPORTDATE is null for a newly imported game on a clean library. Dates back to at least 1.0.4. 
+
+##### Medium priority
 - bug: fullscreen transition for games running in main window is not smooth
 - bug: resizing a running game window (main window or popout) can produce flickering garbage
-- bug: In the gameplay popout window, going to fullscreen and then out of fullscreen causes the window title text to disappear.
-- bug: 'Recently Added' collection in the sidebar doesn't seem to be tracking recently added games anymore.
 - bug: Quitting main window gameplay after launching from a save state clears the save state selection after a delay.
-- restore game collection view state (zoom, selection, view type, search) *[Is this still accurate? These things seem to be persisted.]*
-- transition from Other Collections to Library has a slight 'pop' in the sidebar at the end of the animation *[It appears to be the NSVisualEffectView going from inactive state to active state.]*
+
+##### Low priority
+- bug: In the gameplay popout window, going to fullscreen and then out of fullscreen causes the window title text to disappear.
+- bug: transition from Other Collections to Library has a slight 'pop' in the sidebar at the end of the animation *[It appears to be the NSVisualEffectView going from inactive state to active state.]*
+
+## UI changes
+- restore game collection view state (zoom, selection, view type, search) *[Is this still accurate? These things seem to already be persisted.]*
 - table views: use the standard look with Source List style + visual effect view? *[Is it conventional for non-source list table views to have a source list style and vibrancy? Would a table view with vibrancy sitting next to the sidebar with vibrancy be too much darned vibrancy? Also keep in mind that behind-window vibrancy and within-window vibrancy can't mix.]*
 
 ### Completed
