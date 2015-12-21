@@ -23,7 +23,6 @@
 ## UI bugs
 - fullscreen transition for games running in main window is not smooth
 - resizing a running game window (main window or popout) can produce flickering garbage
-- Quitting main window gameplay after launching from a save state clears the save state selection after a delay.
 - transition from Other Collections to Library has a slight 'pop' in the sidebar at the end of the animation *[It appears to be the NSVisualEffectView going from inactive state to active state.]*
 - isSidebarVisible needs to be removed from OELibrarySplit view, since now that we don't support that people on 1.0.4 with their collapsed sidebar will also find their sidebar is collapse on 2.0 with no way to fix it
 
@@ -32,6 +31,7 @@
 - table views: use the standard look with Source List style + visual effect view? *[Is it conventional for non-source list table views to have a source list style and vibrancy? Would a table view with vibrancy sitting next to the sidebar with vibrancy be too much darned vibrancy? Also keep in mind that behind-window vibrancy and within-window vibrancy can't mix.]*
 
 ### Completed
+- ~~Quitting main window gameplay after launching from a save state clears the save state selection after a delay.~~ c9629bf7faecac421383ff0a0da001a1b604a4e7
 - ~~bug: In the gameplay popout window, going to fullscreen and then out of fullscreen causes the window title text to disappear.~~ db85b26824d49e77f7ee8a22aaf275e57eb7ef2d
 - ~~bug: 'Recently Added' collection in the sidebar affected by a bug involving importDate: ZIMPORTDATE is null for a newly imported game on a clean library. Dates back to at least 1.0.4.~~ 8bb76685337daa3f8d0ec395243210d31e37b69f
 - ~~bug: "clicking the list view column titles leaves untidy white lines" https://github.com/OpenEmu/OpenEmu/issues/2200~~ -0f5f64c
