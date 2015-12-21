@@ -21,7 +21,6 @@
  - (Rare?) Had this crash some times while launching the app (https://gist.github.com/anonymous/d239235e177d4813dfe9 & https://gist.github.com/anonymous/45307fefff5fdc6f67b6 & https://gist.github.com/anonymous/c0282c14dd7476fc5d43)
 
 ## UI bugs
-- bug: 'Recently Added' collection in the sidebar affected by a bug involving importDate: ZIMPORTDATE is null for a newly imported game on a clean library. Dates back to at least 1.0.4. 
 - bug: fullscreen transition for games running in main window is not smooth
 - bug: resizing a running game window (main window or popout) can produce flickering garbage
 - bug: Quitting main window gameplay after launching from a save state clears the save state selection after a delay.
@@ -33,6 +32,7 @@
 - table views: use the standard look with Source List style + visual effect view? *[Is it conventional for non-source list table views to have a source list style and vibrancy? Would a table view with vibrancy sitting next to the sidebar with vibrancy be too much darned vibrancy? Also keep in mind that behind-window vibrancy and within-window vibrancy can't mix.]*
 
 ### Completed
+- ~~bug: 'Recently Added' collection in the sidebar affected by a bug involving importDate: ZIMPORTDATE is null for a newly imported game on a clean library. Dates back to at least 1.0.4. ~~ 8bb76685337daa3f8d0ec395243210d31e37b69f
 - ~~bug: "clicking the list view column titles leaves untidy white lines" https://github.com/OpenEmu/OpenEmu/issues/2200~~ -0f5f64c
 - ~~transition to the Homebrew collection has a longer delay than the rest of the collections. The usual crossfade animation occurs when the delay completes. The delay lasts the length of the transition duration, and setting the duration to 0 eliminates the delay (at the cost of eliminating the crossfade animation). The delay does not happen for the first transition to the homebrew collection.~~ 729a832 
 - ~~bug: issue resolver is still glitching https://transfer.sh/xF3yV/screen-shot-2015-12-14-at-23.10.45.png~~ a9e11acb724c7ac643a7ca5ce8faa48dde8576ca
