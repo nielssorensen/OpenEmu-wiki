@@ -24,14 +24,14 @@
 - fullscreen transition for games running in main window is not smooth
 - resizing a running game window (main window or popout) can produce flickering garbage
 - transition from Other Collections to Library has a slight 'pop' in the sidebar at the end of the animation *[It appears to be the NSVisualEffectView going from inactive state to active state.]*
-- isSidebarVisible needs to be removed from OELibrarySplit view, since now that we don't support that people on 1.0.4 with their collapsed sidebar will also find their sidebar is collapse on 2.0 with no way to fix it
 - "Start Game" menu item is disabled in the main window and cannot be used to launch a game. It also enables while playing a game in the main window.
 
 ## UI changes
 - restore game collection view state (zoom, selection, view type, search) *[Is this still accurate? These things seem to already be persisted.]*
 - table views: use the standard look with Source List style + visual effect view? *[Is it conventional for non-source list table views to have a source list style and vibrancy? Would a table view with vibrancy sitting next to the sidebar with vibrancy be too much darned vibrancy? Also keep in mind that behind-window vibrancy and within-window vibrancy can't mix.]*
 
-### Completed
+### Completed UI bugfixes/changes
+- ~~isSidebarVisible needs to be removed from OELibrarySplit view, since now that we don't support that people on 1.0.4 with their collapsed sidebar will also find their sidebar is collapse on 2.0 with no way to fix it~~ 141319844f10c8d712dbc6475e1cd20120ad49f0
 - ~~Quitting main window gameplay after launching from a save state clears the save state selection after a delay.~~ c9629bf7faecac421383ff0a0da001a1b604a4e7
 - ~~bug: In the gameplay popout window, going to fullscreen and then out of fullscreen causes the window title text to disappear.~~ db85b26824d49e77f7ee8a22aaf275e57eb7ef2d
 - ~~bug: 'Recently Added' collection in the sidebar affected by a bug involving importDate: ZIMPORTDATE is null for a newly imported game on a clean library. Dates back to at least 1.0.4.~~ 8bb76685337daa3f8d0ec395243210d31e37b69f
