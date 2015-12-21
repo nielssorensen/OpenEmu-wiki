@@ -25,13 +25,13 @@
 - bug: resizing a running game window (main window or popout) can produce flickering garbage
 - bug: Quitting main window gameplay after launching from a save state clears the save state selection after a delay.
 - bug: transition from Other Collections to Library has a slight 'pop' in the sidebar at the end of the animation *[It appears to be the NSVisualEffectView going from inactive state to active state.]*
-- bug: In the gameplay popout window, going to fullscreen and then out of fullscreen causes the window title text to disappear.
 
 ## UI changes
 - restore game collection view state (zoom, selection, view type, search) *[Is this still accurate? These things seem to already be persisted.]*
 - table views: use the standard look with Source List style + visual effect view? *[Is it conventional for non-source list table views to have a source list style and vibrancy? Would a table view with vibrancy sitting next to the sidebar with vibrancy be too much darned vibrancy? Also keep in mind that behind-window vibrancy and within-window vibrancy can't mix.]*
 
 ### Completed
+- ~~bug: In the gameplay popout window, going to fullscreen and then out of fullscreen causes the window title text to disappear.~~ db85b26824d49e77f7ee8a22aaf275e57eb7ef2d
 - ~~bug: 'Recently Added' collection in the sidebar affected by a bug involving importDate: ZIMPORTDATE is null for a newly imported game on a clean library. Dates back to at least 1.0.4. ~~ 8bb76685337daa3f8d0ec395243210d31e37b69f
 - ~~bug: "clicking the list view column titles leaves untidy white lines" https://github.com/OpenEmu/OpenEmu/issues/2200~~ -0f5f64c
 - ~~transition to the Homebrew collection has a longer delay than the rest of the collections. The usual crossfade animation occurs when the delay completes. The delay lasts the length of the transition duration, and setting the duration to 0 eliminates the delay (at the cost of eliminating the crossfade animation). The delay does not happen for the first transition to the homebrew collection.~~ 729a832 
