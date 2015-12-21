@@ -21,10 +21,11 @@
  - (Rare?) Had this crash some times while launching the app (https://gist.github.com/anonymous/d239235e177d4813dfe9 & https://gist.github.com/anonymous/45307fefff5fdc6f67b6 & https://gist.github.com/anonymous/c0282c14dd7476fc5d43)
 
 ## UI bugs
-- bug: fullscreen transition for games running in main window is not smooth
-- bug: resizing a running game window (main window or popout) can produce flickering garbage
-- bug: Quitting main window gameplay after launching from a save state clears the save state selection after a delay.
-- bug: transition from Other Collections to Library has a slight 'pop' in the sidebar at the end of the animation *[It appears to be the NSVisualEffectView going from inactive state to active state.]*
+- fullscreen transition for games running in main window is not smooth
+- resizing a running game window (main window or popout) can produce flickering garbage
+- Quitting main window gameplay after launching from a save state clears the save state selection after a delay.
+- transition from Other Collections to Library has a slight 'pop' in the sidebar at the end of the animation *[It appears to be the NSVisualEffectView going from inactive state to active state.]*
+- isSidebarVisible needs to be removed from OELibrarySplit view, since now that we don't support that people on 1.0.4 with their collapsed sidebar will also find their sidebar is collapse on 2.0 with no way to fix it
 
 ## UI changes
 - restore game collection view state (zoom, selection, view type, search) *[Is this still accurate? These things seem to already be persisted.]*
