@@ -25,6 +25,7 @@
 - resizing a running game window (main window or popout) can produce flickering garbage
 - transition from Other Collections to Library has a slight 'pop' in the sidebar at the end of the animation *[It appears to be the NSVisualEffectView going from inactive state to active state.]*
 - isSidebarVisible needs to be removed from OELibrarySplit view, since now that we don't support that people on 1.0.4 with their collapsed sidebar will also find their sidebar is collapse on 2.0 with no way to fix it
+- "Start Game" menu item is disabled in the main window and cannot be used to launch a game. It also enables while playing a game in the main window.
 
 ## UI changes
 - restore game collection view state (zoom, selection, view type, search) *[Is this still accurate? These things seem to already be persisted.]*
