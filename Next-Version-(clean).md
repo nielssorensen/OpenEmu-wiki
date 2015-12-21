@@ -11,7 +11,6 @@
  - https://github.com/OpenEmu/OpenEmu/commit/19a19445b0212fb61037234aea6314241c327be4
  - https://github.com/OpenEmu/OpenEmu/commit/35ff1f1c9e4a66162c0460608cae071773ebf271#diff-b2132583dd704be5d9832f2fc9ce274a
 - type select select in menus (eg console selection in controls settings) _not sure if this ever worked -cy_
-- ~~for some reason it is impossible to deselect gambatte in setup assistant~~ _this was intentional to resolve some user headaches -clobber https://github.com/OpenEmu/OpenEmu/commit/002ede42aaf20f1590934cf9e1eb54ccbe9bc2ee_
 
 ## Bugs and Crashes
  - App crash when launching a game. Happened with Nestopia at the time but can happen with any core (https://gist.github.com/anonymous/c6c040e9fe70ef2f1f0b & SNES9x: https://gist.github.com/anonymous/5ffddc76286eb98bbaff & GenesisPlusGX: https://gist.github.com/anonymous/25496fab9c6751bd6ef1 & https://gist.github.com/anonymous/7fee33ea62f179a06d61 & https://gist.github.com/anonymous/40a9b963ac547e28d227 )
@@ -24,13 +23,14 @@
 - fullscreen transition for games running in main window is not smooth
 - resizing a running game window (main window or popout) can produce flickering garbage
 - transition from Other Collections to Library has a slight 'pop' in the sidebar at the end of the animation *[It appears to be the NSVisualEffectView going from inactive state to active state.]*
-- "Start Game" menu item is disabled in the main window and cannot be used to launch a game. It also enables while playing a game in the main window.
 
 ## UI changes
 - restore game collection view state (zoom, selection, view type, search) *[Is this still accurate? These things seem to already be persisted.]*
 - table views: use the standard look with Source List style + visual effect view? *[Is it conventional for non-source list table views to have a source list style and vibrancy? Would a table view with vibrancy sitting next to the sidebar with vibrancy be too much darned vibrancy? Also keep in mind that behind-window vibrancy and within-window vibrancy can't mix.]*
 
 ### Completed UI bugfixes/changes
+- ~~for some reason it is impossible to deselect gambatte in setup assistant~~ _this was intentional to resolve some user headaches -clobber https://github.com/OpenEmu/OpenEmu/commit/002ede42aaf20f1590934cf9e1eb54ccbe9bc2ee_
+- ~~"Start Game" menu item is disabled in the main window and cannot be used to launch a game. It also enables while playing a game in the main window.~~ -5228791cab7f3c1bcbd6c2c72aff35e95b85f1e7
 - ~~Switching from the main library in list view to another category and back will cause controls in the library to be disabled and not persist the correct selected button state.~~ f0f4ac8edfaf342778ddb029f36a2ebe899dd56e and f75ce661df366d2b936cf09c2dc74fe37fa5d878
 - ~~isSidebarVisible needs to be removed from OELibrarySplit view, since now that we don't support that people on 1.0.4 with their collapsed sidebar will also find their sidebar is collapse on 2.0 with no way to fix it~~ 141319844f10c8d712dbc6475e1cd20120ad49f0
 - ~~Quitting main window gameplay after launching from a save state clears the save state selection after a delay.~~ c9629bf7faecac421383ff0a0da001a1b604a4e7
