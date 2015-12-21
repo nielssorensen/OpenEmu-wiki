@@ -32,7 +32,7 @@
 
 ### Completed
 - ~~bug: In the gameplay popout window, going to fullscreen and then out of fullscreen causes the window title text to disappear.~~ db85b26824d49e77f7ee8a22aaf275e57eb7ef2d
-- ~~bug: 'Recently Added' collection in the sidebar affected by a bug involving importDate: ZIMPORTDATE is null for a newly imported game on a clean library. Dates back to at least 1.0.4. ~~ 8bb76685337daa3f8d0ec395243210d31e37b69f
+- ~~bug: 'Recently Added' collection in the sidebar affected by a bug involving importDate: ZIMPORTDATE is null for a newly imported game on a clean library. Dates back to at least 1.0.4.~~ 8bb76685337daa3f8d0ec395243210d31e37b69f
 - ~~bug: "clicking the list view column titles leaves untidy white lines" https://github.com/OpenEmu/OpenEmu/issues/2200~~ -0f5f64c
 - ~~transition to the Homebrew collection has a longer delay than the rest of the collections. The usual crossfade animation occurs when the delay completes. The delay lasts the length of the transition duration, and setting the duration to 0 eliminates the delay (at the cost of eliminating the crossfade animation). The delay does not happen for the first transition to the homebrew collection.~~ 729a832 
 - ~~bug: issue resolver is still glitching https://transfer.sh/xF3yV/screen-shot-2015-12-14-at-23.10.45.png~~ a9e11acb724c7ac643a7ca5ce8faa48dde8576ca
