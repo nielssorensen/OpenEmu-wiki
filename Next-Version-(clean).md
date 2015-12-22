@@ -23,12 +23,13 @@
 - fullscreen transition for games running in main window is not smooth
 - resizing a running game window (main window or popout) can produce flickering garbage
 - transition from Other Collections to Library has a slight 'pop' in the sidebar at the end of the animation *[Could it be the NSVisualEffectView, or what's behind it, going from inactive state to active state?]*
+- buttons in the other collections besides the library should have no state
+- toolbar bug: go to the main library, switch to list view, then switch to save states, then perform a search in the toolbar (notice it resets the button), then switch back to the library. you'll notice that the grid button has been toggled but you are still in list view.
+- 'start game' menu item should probably also work for the games in the save states manager
 
 ## UI changes
 - restore game collection view state (zoom, selection, view type, search) *[Is this still accurate? These things seem to already be persisted.]*
 - table views: use the standard look with Source List style + visual effect view? *[Is it conventional for non-source list table views to have a source list style and vibrancy? Would a table view with vibrancy sitting next to the sidebar with vibrancy be too much darned vibrancy? Also keep in mind that behind-window vibrancy and within-window vibrancy can't mix.]*
-- buttons in the other collections besides the library should have no state
-- toolbar bug: go to the main library, switch to list view, then switch to save states, then perform a search in the toolbar (notice it resets the button), then switch back to the library. you'll notice that the grid button has been toggled but you are still in list view.
 
 ### Completed UI bugfixes/changes
 - ~~for some reason it is impossible to deselect gambatte in setup assistant~~ _this was intentional to resolve some user headaches -clobber https://github.com/OpenEmu/OpenEmu/commit/002ede42aaf20f1590934cf9e1eb54ccbe9bc2ee_
