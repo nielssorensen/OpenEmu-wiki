@@ -20,7 +20,7 @@
  - (Rare?) Had this crash some times while launching the app (https://gist.github.com/anonymous/d239235e177d4813dfe9 & https://gist.github.com/anonymous/45307fefff5fdc6f67b6 & https://gist.github.com/anonymous/c0282c14dd7476fc5d43)
 
 ## UI bugs
-- investigate "Blurry images on non-retina screens" https://github.com/OpenEmu/OpenEmu/issues/2215
+- investigate "Blurry images on non-retina screens" https://github.com/OpenEmu/OpenEmu/issues/2215 further example: 1.0.4 (http://i.imgur.com/HXHJ4i9.png) vs 2.0 (http://i.imgur.com/TPV5yjr.png)
 - fullscreen transition for games running in main window is not smooth
 - resizing a running game window (main window or popout) can produce flickering garbage
 - 'start game' menu item should probably also work for the games in the save states manager
