@@ -23,8 +23,6 @@
 - fullscreen transition for games running in main window is not smooth
 - resizing a running game window (main window or popout) can produce flickering garbage
 - transition from Other Collections to Library has a slight 'pop' in the sidebar at the end of the animation *[Could it be the NSVisualEffectView, or what's behind it, going from inactive state to active state?]*
-- buttons in the other collections besides the library should have no state
-- toolbar bug: go to the main library, switch to list view, then switch to save states, then perform a search in the toolbar (notice it resets the button), then switch back to the library. you'll notice that the grid button has been toggled but you are still in list view.
 - 'start game' menu item should probably also work for the games in the save states manager
 
 ## UI changes
@@ -32,6 +30,8 @@
 - table views: use the standard look with Source List style + visual effect view? *[Is it conventional for non-source list table views to have a source list style and vibrancy? Would a table view with vibrancy sitting next to the sidebar with vibrancy be too much darned vibrancy? Also keep in mind that behind-window vibrancy and within-window vibrancy can't mix.]*
 
 ### Completed UI bugfixes/changes
+- ~~buttons in the other collections besides the library should have no state~~ af54cfa56b770c1324ce1af9fb5704a0eb3572df
+- ~~toolbar bug: go to the main library, switch to list view, then switch to save states, then perform a search in the toolbar (notice it resets the button), then switch back to the library. you'll notice that the grid button has been toggled but you are still in list view.~~ af54cfa56b770c1324ce1af9fb5704a0eb3572df
 - ~~for some reason it is impossible to deselect gambatte in setup assistant~~ _this was intentional to resolve some user headaches -clobber https://github.com/OpenEmu/OpenEmu/commit/002ede42aaf20f1590934cf9e1eb54ccbe9bc2ee_
 - ~~"Start Game" menu item is disabled in the main window and cannot be used to launch a game. It also enables while playing a game in the main window.~~ -5228791cab7f3c1bcbd6c2c72aff35e95b85f1e7
 - ~~Switching from the main library in list view to another category and back will cause controls in the library to be disabled and not persist the correct selected button state.~~ f0f4ac8edfaf342778ddb029f36a2ebe899dd56e and f75ce661df366d2b936cf09c2dc74fe37fa5d878
