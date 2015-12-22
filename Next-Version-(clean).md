@@ -20,11 +20,9 @@
 - fullscreen transition for games running in main window is not smooth
 - resizing a running game window (main window or popout) can produce flickering garbage
 
-## UI changes
-- restore game collection view state (zoom, selection, view type, search) *[Is this still accurate? These things seem to already be persisted.]*
-- table views: use the standard look with Source List style + visual effect view? *[Is it conventional for non-source list table views to have a source list style and vibrancy? Would a table view with vibrancy sitting next to the sidebar with vibrancy be too much darned vibrancy? Also keep in mind that behind-window vibrancy and within-window vibrancy can't mix.]*
-
 ### Completed UI bugfixes/changes
+- ~~restore game collection view state (zoom, selection, view type, search) *[Is this still accurate? These things seem to already be persisted.]*~~ _should be ok for now_
+- ~~table views: use the standard look with Source List style + visual effect view? *[Is it conventional for non-source list table views to have a source list style and vibrancy? Would a table view with vibrancy sitting next to the sidebar with vibrancy be too much darned vibrancy? Also keep in mind that behind-window vibrancy and within-window vibrancy can't mix.]*~~ _should be ok for now_
 - ~~'start game' menu item should probably also work for the games in the save states manager~~ -e5d9771072e0d43ef805bfed629ceb1b2f57a34a
 - ~~review NSViewController+OEAdditions.m, NSColor+OEAdditions.m~~ ~~and OENonARCHacks.m to see if we still need "no ARC" hacks `-fno-objc-arc`~~ 4e57bc8565f44ec1a75ff6d05bbc51e9886193c2, 925df43afde59e9a72d6a7e64aad1e4173536397
  - https://github.com/OpenEmu/OpenEmu/commit/d55ea9e3868f118359420645ff72e83879d82576
