@@ -6,10 +6,6 @@
 
 ### unordered
 - setting second player's controls https://github.com/OpenEmu/OpenEmu/issues/1861, should have been fixed in https://github.com/OpenEmu/OpenEmu-SDK/commit/4415e6bc72e57d3af74860e1ff0e55f1bd7d3f95
-- ~~review NSViewController+OEAdditions.m, NSColor+OEAdditions.m~~ ~~and OENonARCHacks.m to see if we still need "no ARC" hacks `-fno-objc-arc`~~ 4e57bc8565f44ec1a75ff6d05bbc51e9886193c2, 925df43afde59e9a72d6a7e64aad1e4173536397
- - https://github.com/OpenEmu/OpenEmu/commit/d55ea9e3868f118359420645ff72e83879d82576
- - https://github.com/OpenEmu/OpenEmu/commit/19a19445b0212fb61037234aea6314241c327be4
- - https://github.com/OpenEmu/OpenEmu/commit/35ff1f1c9e4a66162c0460608cae071773ebf271#diff-b2132583dd704be5d9832f2fc9ce274a
 - type select select in menus (eg console selection in controls settings) _not sure if this ever worked -cy_
 
 ## Bugs and Crashes
@@ -29,6 +25,10 @@
 - table views: use the standard look with Source List style + visual effect view? *[Is it conventional for non-source list table views to have a source list style and vibrancy? Would a table view with vibrancy sitting next to the sidebar with vibrancy be too much darned vibrancy? Also keep in mind that behind-window vibrancy and within-window vibrancy can't mix.]*
 
 ### Completed UI bugfixes/changes
+- ~~review NSViewController+OEAdditions.m, NSColor+OEAdditions.m~~ ~~and OENonARCHacks.m to see if we still need "no ARC" hacks `-fno-objc-arc`~~ 4e57bc8565f44ec1a75ff6d05bbc51e9886193c2, 925df43afde59e9a72d6a7e64aad1e4173536397
+ - https://github.com/OpenEmu/OpenEmu/commit/d55ea9e3868f118359420645ff72e83879d82576
+ - https://github.com/OpenEmu/OpenEmu/commit/19a19445b0212fb61037234aea6314241c327be4
+ - https://github.com/OpenEmu/OpenEmu/commit/35ff1f1c9e4a66162c0460608cae071773ebf271#diff-b2132583dd704be5d9832f2fc9ce274a
 - ~~investigate "Blurry images on non-retina screens" https://github.com/OpenEmu/OpenEmu/issues/2215 further example: 1.0.4 (http://i.imgur.com/HXHJ4i9.png) vs 2.0 (http://i.imgur.com/TPV5yjr.png)~~ 344671e9ecfac024f8493ca3a58ff5d509807139
 - ~~transition from Other Collections to Library has a slight 'pop' in the sidebar at the end of the animation *[Could it be the NSVisualEffectView, or what's behind it, going from inactive state to active state?]*~~ bdc38ad31ddefe1d417a57f86a8cc551fb91a105 *[This doesn't completely resolve the issue but is a workaround to lessen the effect.]*
 - ~~buttons in the other collections besides the library should have no state~~ af54cfa56b770c1324ce1af9fb5704a0eb3572df
