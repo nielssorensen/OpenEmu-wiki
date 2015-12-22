@@ -20,7 +20,6 @@
  - (Rare?) Had this crash some times while launching the app (https://gist.github.com/anonymous/d239235e177d4813dfe9 & https://gist.github.com/anonymous/45307fefff5fdc6f67b6 & https://gist.github.com/anonymous/c0282c14dd7476fc5d43)
 
 ## UI bugs
-- investigate "Blurry images on non-retina screens" https://github.com/OpenEmu/OpenEmu/issues/2215 further example: 1.0.4 (http://i.imgur.com/HXHJ4i9.png) vs 2.0 (http://i.imgur.com/TPV5yjr.png)
 - fullscreen transition for games running in main window is not smooth
 - resizing a running game window (main window or popout) can produce flickering garbage
 - 'start game' menu item should probably also work for the games in the save states manager
@@ -30,6 +29,7 @@
 - table views: use the standard look with Source List style + visual effect view? *[Is it conventional for non-source list table views to have a source list style and vibrancy? Would a table view with vibrancy sitting next to the sidebar with vibrancy be too much darned vibrancy? Also keep in mind that behind-window vibrancy and within-window vibrancy can't mix.]*
 
 ### Completed UI bugfixes/changes
+- ~~investigate "Blurry images on non-retina screens" https://github.com/OpenEmu/OpenEmu/issues/2215 further example: 1.0.4 (http://i.imgur.com/HXHJ4i9.png) vs 2.0 (http://i.imgur.com/TPV5yjr.png)~~ 344671e9ecfac024f8493ca3a58ff5d509807139
 - ~~transition from Other Collections to Library has a slight 'pop' in the sidebar at the end of the animation *[Could it be the NSVisualEffectView, or what's behind it, going from inactive state to active state?]*~~ bdc38ad31ddefe1d417a57f86a8cc551fb91a105 *[This doesn't completely resolve the issue but is a workaround to lessen the effect.]*
 - ~~buttons in the other collections besides the library should have no state~~ af54cfa56b770c1324ce1af9fb5704a0eb3572df
 - ~~toolbar bug: go to the main library, switch to list view, then switch to save states, then perform a search in the toolbar (notice it resets the button), then switch back to the library. you'll notice that the grid button has been toggled but you are still in list view.~~ af54cfa56b770c1324ce1af9fb5704a0eb3572df
