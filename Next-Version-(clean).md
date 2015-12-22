@@ -13,6 +13,7 @@
 ### Probably wontfix
  - Another exception. Can't remember the exact details when it occurred but I could no longer right click on anything in the grid view (https://gist.github.com/anonymous/8478b6f2d3da018af53b)
  - (Rare?) Had this crash some times while launching the app (https://gist.github.com/anonymous/d239235e177d4813dfe9 & https://gist.github.com/anonymous/45307fefff5fdc6f67b6 & https://gist.github.com/anonymous/c0282c14dd7476fc5d43)
+
 - type select select in menus (eg console selection in controls settings) _not sure if this ever worked -cy_
 
 ## UI bugs
