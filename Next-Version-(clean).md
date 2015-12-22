@@ -22,7 +22,7 @@
 ## UI bugs
 - fullscreen transition for games running in main window is not smooth
 - resizing a running game window (main window or popout) can produce flickering garbage
-- transition from Other Collections to Library has a slight 'pop' in the sidebar at the end of the animation *[It appears to be the NSVisualEffectView going from inactive state to active state.]*
+- transition from Other Collections to Library has a slight 'pop' in the sidebar at the end of the animation *[Could it be the NSVisualEffectView, or what's behind it, going from inactive state to active state?]*
 
 ## UI changes
 - restore game collection view state (zoom, selection, view type, search) *[Is this still accurate? These things seem to already be persisted.]*
