@@ -17,6 +17,7 @@
 - type select select in menus (eg console selection in controls settings) _not sure if this ever worked -cy_
 
 ## UI bugs
+- The "Recently Added" collection can be deleted with the Delete key, and there's no way for the user to regenerate it. Behavior dates back to 1.0.4, so there will be users who have deleted it prior to 2.0. Suggestion: in a point release, add an "Added" date column to the list view, which would make "Recently Added" redundant, and just remove it for everyone.
 - fullscreen transition for games running in main window is not smooth
 - resizing a running game window (main window or popout) can produce flickering garbage
 
