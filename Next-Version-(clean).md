@@ -1,9 +1,11 @@
 ## 2.0 Show-stopping bugs to be patched in point release
-- Save states will not save if you have checked the "Don't ask me again" box https://github.com/OpenEmu/OpenEmu/issues/2224#issuecomment-167140410
 - When launching a game requiring a BIOS file that prompts you to install a Core, OE will not properly import the BIOS file on drag in drop until the app is restarted, instead placing the file in the game library. Example steps to replicate: Close the application, delete CrabEmu.oecoreplugin from your Cores folder, delete 'coleco.rom' from your BIOS folder, launch the application, try to play a Colecovision game, get prompted to download and install the CrabEmu core, game tries to launch but will prompt you for the BIOS files, drag and drop in the required 'coleco.rom' but instead of the importer detecting it as a BIOS file, it will want to end up in your game library. Only restarting the app after installing the CrabEmu core can you properly import the 'coleco.rom' BIOS file. Example case https://twitter.com/Rickyzgz/status/680099300085465088
 - UI confusion: consider just showing all available libraries in the sidebar, even if the cores are not installed. People are not seeing the new systems upon upgrade because of this.
 - Also maybe consider force installing new cores instead of just updates, but this is less of an issue if we just resolve the BIOS issue and sidebar issue above.
 - Some users are not seeing the new systems appear in Library under Preferences, still unknown why. Sources: https://www.reddit.com/r/OpenEmu/comments/3y24yz/i_updated_to_20_but_none_of_the_new_systems_are/ & https://github.com/OpenEmu/OpenEmu/issues/2225
+
+## Fixed 2.0 Bugs
+- ~~Save states will not save if you have checked the "Don't ask me again" box https://github.com/OpenEmu/OpenEmu/issues/2224#issuecomment-167140410~~ 4ba8b8a8c4dde3f4ca32c595732be20e913693bc
 
 ## Version Next
 - rename all unused auto saves in a game to 'restored auto save'
