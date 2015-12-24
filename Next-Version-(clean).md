@@ -17,6 +17,7 @@
 - type select select in menus (eg console selection in controls settings) _not sure if this ever worked -cy_
 
 ## UI bugs
+- If in list mode, selecting another non-empty collection re-enables the zoom slider in the toolbar.
 - The "Recently Added" collection was able to be deleted with the Delete key in 1.0.4, so there will be users who have deleted it with no way to get it back. Suggestion: in a point release, add an "Added" date column to the list view, which would make "Recently Added" redundant, and just remove it for everyone.
 - fullscreen transition for games running in main window is not smooth
 - resizing a running game window (main window or popout) can produce flickering garbage
