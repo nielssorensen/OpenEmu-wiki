@@ -17,12 +17,12 @@
 - type select select in menus (eg console selection in controls settings) _not sure if this ever worked -cy_
 
 ## UI bugs
-- If in list mode, selecting another non-empty collection re-enables the zoom slider in the toolbar.
 - The "Recently Added" collection was able to be deleted with the Delete key in 1.0.4, so there will be users who have deleted it with no way to get it back. Suggestion: in a point release, add an "Added" date column to the list view, which would make "Recently Added" redundant, and just remove it for everyone.
 - fullscreen transition for games running in main window is not smooth
 - resizing a running game window (main window or popout) can produce flickering garbage
 
 ### Completed UI bugfixes/changes
+- ~~If in list mode, selecting another non-empty collection re-enables the zoom slider in the toolbar.~~ b949b04589b42058a6b73fdd8920cb00fcb40063
 - ~~restore game collection view state (zoom, selection, view type, search) *[Is this still accurate? These things seem to already be persisted.]*~~ _should be ok for now_
 - ~~table views: use the standard look with Source List style + visual effect view? *[Is it conventional for non-source list table views to have a source list style and vibrancy? Would a table view with vibrancy sitting next to the sidebar with vibrancy be too much darned vibrancy? Also keep in mind that behind-window vibrancy and within-window vibrancy can't mix.]*~~ _should be ok for now_
 - ~~'start game' menu item should probably also work for the games in the save states manager~~ -e5d9771072e0d43ef805bfed629ceb1b2f57a34a
