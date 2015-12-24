@@ -1,4 +1,20 @@
-#### 1.0.1 — 2014-01-03
+#### 2.0 — Dec 23, 2015
+
+[Release notes](http://openemu.org/rnotes/2.0.html)
+
+#### 1.0.4 — Oct 15, 2014
+
+[Release notes](http://openemu.org/rnotes/1.0.4.html)
+
+#### 1.0.3 — May 31, 2014
+
+[Release notes](http://openemu.org/rnotes/1.0.3.html)
+
+#### 1.0.2 — Mar 4, 2014
+
+[Release notes](http://openemu.org/rnotes/1.0.2.html)
+
+#### 1.0.1 — Jan 3, 2014
 
 **Enhancements**
 * Added `.sgb` to supported extensions for Game Boy ROMs. ([`57553571ba`](https://github.com/OpenEmu/OpenEmu/commit/57553571ba6677ca90513c3240e018a97fc36a49))
