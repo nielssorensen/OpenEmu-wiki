@@ -4,7 +4,7 @@
 - Also maybe consider force installing new cores instead of just updates, but this is less of an issue if we just resolve the BIOS issue and sidebar issue above.
 - Some users are not seeing the new systems appear in Library under Preferences, still unknown why. Sources: https://www.reddit.com/r/OpenEmu/comments/3y24yz/i_updated_to_20_but_none_of_the_new_systems_are/ & https://github.com/OpenEmu/OpenEmu/issues/2225
 
-## Fixed 2.0 Bugs For Upcoming Point Release
+## Fixed 2.0 Bugs
 - ~~Save states will not save if you have checked the "Don't ask me again" box https://github.com/OpenEmu/OpenEmu/issues/2224#issuecomment-167140410~~ 4ba8b8a8c4dde3f4ca32c595732be20e913693bc
 
 ## Version Next
