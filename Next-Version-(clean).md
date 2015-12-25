@@ -3,12 +3,11 @@
 
     Findings: The issue seems to disappear after a restart, regardless of the above steps. Deleting the application support folder and preferences brings the issue back (need to narrow that down further). Is something getting saved somewhere? What changes after the first attempt to replicate the bug?
 
-- UI confusion: consider just showing all available libraries in the sidebar, even if the cores are not installed. People are not seeing the new systems upon upgrade because of this.
-- Also maybe consider force installing new cores instead of just updates, but this is less of an issue if we just resolve the BIOS issue and sidebar issue above.
-- Some users are not seeing the new systems appear in Library under Preferences, still unknown why. Sources: https://www.reddit.com/r/OpenEmu/comments/3y24yz/i_updated_to_20_but_none_of_the_new_systems_are/ & https://github.com/OpenEmu/OpenEmu/issues/2225
+
 
 ##### Fixed 2.0 Bugs
 - ~~Save states will not save if you have checked the "Don't ask me again" box https://github.com/OpenEmu/OpenEmu/issues/2224#issuecomment-167140410~~ 4ba8b8a8c4dde3f4ca32c595732be20e913693bc
+- ~~Some users are not seeing the new systems appear in Library under Preferences, still unknown why. Sources: https://www.reddit.com/r/OpenEmu/comments/3y24yz/i_updated_to_20_but_none_of_the_new_systems_are/ & https://github.com/OpenEmu/OpenEmu/issues/2225~~ 72e105885e5c62dc1bbf02f918090e3f11928d02
 
 ## Version Next
 - rename all unused auto saves in a game to 'restored auto save'
