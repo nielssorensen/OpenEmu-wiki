@@ -8,6 +8,8 @@
 ##### Fixed 2.0 Bugs
 - ~~Save states will not save if you have checked the "Don't ask me again" box https://github.com/OpenEmu/OpenEmu/issues/2224#issuecomment-167140410~~ 4ba8b8a8c4dde3f4ca32c595732be20e913693bc
 - ~~Some users are not seeing the new systems appear in Library under Preferences, still unknown why. Sources: https://www.reddit.com/r/OpenEmu/comments/3y24yz/i_updated_to_20_but_none_of_the_new_systems_are/ & https://github.com/OpenEmu/OpenEmu/issues/2225~~ 72e105885e5c62dc1bbf02f918090e3f11928d02
+- ~~Blank game collections default to list view.~~ 8fead0da95b350d27e5da9afaaabb884a44eb55f
+- ~~The extra top 50pts of overshoot in controller graphics are clipped during the animated bounce transition (only happens in certain circumstances, could be integrated versus discrete graphics related): https://github.com/OpenEmu/OpenEmu/issues/2229~~ 2fde96882c5153cf1e92b7b4cc7d1ad216a1d512
 
 ## Version Next
 - rename all unused auto saves in a game to 'restored auto save'
@@ -33,8 +35,6 @@
 - resizing a running game window (main window or popout) can produce flickering garbage
 
 ### Completed UI bugfixes/changes
-- ~~Blank game collections default to list view.~~ 8fead0da95b350d27e5da9afaaabb884a44eb55f
-- ~~The extra top 50pts of overshoot in controller graphics are clipped during the animated bounce transition (only happens in certain circumstances, could be integrated versus discrete graphics related): https://github.com/OpenEmu/OpenEmu/issues/2229~~ 2fde96882c5153cf1e92b7b4cc7d1ad216a1d512
 - ~~If in list mode, selecting another non-empty collection re-enables the zoom slider in the toolbar.~~ b949b04589b42058a6b73fdd8920cb00fcb40063
 - ~~restore game collection view state (zoom, selection, view type, search) *[Is this still accurate? These things seem to already be persisted.]*~~ _should be ok for now_
 - ~~table views: use the standard look with Source List style + visual effect view? *[Is it conventional for non-source list table views to have a source list style and vibrancy? Would a table view with vibrancy sitting next to the sidebar with vibrancy be too much darned vibrancy? Also keep in mind that behind-window vibrancy and within-window vibrancy can't mix.]*~~ _should be ok for now_
