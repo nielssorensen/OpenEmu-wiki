@@ -31,9 +31,9 @@
 - The "Recently Added" collection was able to be deleted with the Delete key in 1.0.4, so there will be users who have deleted it with no way to get it back. Suggestion: in a point release, add an "Added" date column to the list view, which would make "Recently Added" redundant, and just remove it for everyone.
 - fullscreen transition for games running in main window is not smooth
 - resizing a running game window (main window or popout) can produce flickering garbage
-- Importing a game into an empty collection defaults to list view.
 
 ### Completed UI bugfixes/changes
+- ~~Blank game collections default to list view.~~ 8fead0da95b350d27e5da9afaaabb884a44eb55f
 - ~~The extra top 50pts of overshoot in controller graphics are clipped during the animated bounce transition (only happens in certain circumstances, could be integrated versus discrete graphics related): https://github.com/OpenEmu/OpenEmu/issues/2229~~ 2fde96882c5153cf1e92b7b4cc7d1ad216a1d512
 - ~~If in list mode, selecting another non-empty collection re-enables the zoom slider in the toolbar.~~ b949b04589b42058a6b73fdd8920cb00fcb40063
 - ~~restore game collection view state (zoom, selection, view type, search) *[Is this still accurate? These things seem to already be persisted.]*~~ _should be ok for now_
