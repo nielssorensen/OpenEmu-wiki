@@ -1,3 +1,7 @@
+#### 2.0.1 — Dec 24, 2015
+
+[Release notes](http://openemu.org/rnotes/2.0.1.html)
+
 #### 2.0 — Dec 23, 2015
 
 [Release notes](http://openemu.org/rnotes/2.0.html)
