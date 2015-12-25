@@ -31,6 +31,7 @@
 - The "Recently Added" collection was able to be deleted with the Delete key in 1.0.4, so there will be users who have deleted it with no way to get it back. Suggestion: in a point release, add an "Added" date column to the list view, which would make "Recently Added" redundant, and just remove it for everyone.
 - fullscreen transition for games running in main window is not smooth
 - resizing a running game window (main window or popout) can produce flickering garbage
+- The tops of controller graphics are clipped during the animated bounce transition: https://github.com/OpenEmu/OpenEmu/issues/2229
 
 ### Completed UI bugfixes/changes
 - ~~If in list mode, selecting another non-empty collection re-enables the zoom slider in the toolbar.~~ b949b04589b42058a6b73fdd8920cb00fcb40063
