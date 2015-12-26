@@ -123,6 +123,32 @@ After you've added a cheat, you'll need to enable it if you haven't already. Ret
 
 ![HUD Select Cheat menu with cheat added](http://i.imgur.com/Lgwe3Lx.png)
 
+### GBA cheats
+If the code is Action Replay v3/v4, you will have to instead use a GameShark equivalent code or attempt to convert it here: http://gamehacking.org/?sys=gba
+
+This is because we cannot automatically detect if a code is AR v3 since they are the same length as the AR/GameShark v1/v2 (16 chars), and v3 uses different encryption.
+
+There is no good way to detect v3 unless you explicitly tell VisualBoyAdvance (VBA) that the code is v3. There are numerous problems with front ends and codes floating around the web:
+* Cheat code websites usually all have AR/GS formatted as XXXXXXXX YYYYYYYY and don't tell you which type of AR/GS, unless its a good cheat code website such as gamehacking.org which will denote AR/GS v1/v2 codes as **AR12** and AR v3 as **AR34**.
+
+* Many cheat code websites have codes mislabeled or plain wrong, without noting which region they are.
+
+* VBA standalone expects AR/GS v1/v2 formatted as XXXXXXXXYYYYYYYY (no spaces) but AR v3 formatted as XXXXXXXX YYYYYYYY (8 chars separated by a space). But it doesn't tell you this in the UI!
+
+* GBA4iOS forces all 16 char AR/GS as "AR v3" which is wrong and breaks the use of valid AR/GS v1/v2 codes. (it also incorrectly states GameShark SP codes aren't supported when those are actually the same as Codebreaker, 12 chars minus the space).
+
+So, which cheat codes can 'just work' with OpenEmu's VBA core plugin?
+* Raw Address:Value cheat codes (11, 13 or 17 chars including the colon).
+* Codebreaker/GameShark SP codes (these are 12 chars, minus the space).
+* GameShark Advance/Action Replay v1/v2 codes (these are 16 chars, minus the space).
+
+What doesn't work?
+* Action Replay v3 codes (these are also 16 chars, minus the space).
+
+Note: you don't have to worry about adding spaces in your cheats that you input for OpenEmu.
+
+More general info on GBA cheat types here: http://doc.kodewerx.org/hacking_gba.html
+
 ### Limitations
 
 OpenEmu currently has no way of saving cheats — any codes entered will be lost as soon as you leave the game. Improved cheat-code functionality (potentially including a built-in database of codes) is planned for a future version of the application.
