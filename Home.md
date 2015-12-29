@@ -12,73 +12,124 @@ It is also possible to compile OpenEmu from its source files. Don't worry, it's 
 
 ###Supported Systems
 <table>
-<tbody>
-<tr>
-<td><b>System</b></td>
-<td><b>Emulator Cores</b></td>
-</tr>
-
-<tr>
-<td> Game Boy Advance </td>
-<td> Visual Boy Advance </td>
-</tr>
-
-<tr>
-<td> Game Boy Color </td>
-<td> Gambatte </td>
-</tr>
-
-<tr>
-<td> NeoGeo Pocket Color </td>
-<td> NeoPop </td>
-</tr>
-
-<tr>
-<td> Nintendo (NES)/Famicom </td>
-<td> FCEU, Nestopia </td>
-</tr>
-
-<tr>
-<td> Nintendo DS </td>
-<td> DeSmuME </td>
-</tr>
-
-<tr>
-<td> Sega 32X </td>
-<td> Picodrive </td>
-</tr>
-
-<tr>
-<td> Sega Game Gear </td>
-<td> CrabEmu, TwoMbit </td>
-</tr>
-
-<tr>
-<td> Sega Genesis/Mega Drive </td>
-<td> Genesis Plus GX </td>
-</tr>
-
-<tr>
-<td> Sega Master System </td>
-<td> CrabEmu, TwoMbit </td>
-</tr>
-
-<tr>
-<td> Super Nintendo (SNES) </td>
-<td> SNES9x, Higan </td>
-</tr>
-
-<tr>
-<td> TurboGrafx-16/PC Engine </td>
-<td> Mednafen </td>
-</tr>
-
-<tr>
-<td> Virtual Boy </td>
-<td> Mednafen </td>
-</tr>
-
-</tbody>
+	<thead>
+		<th>System</th>
+		<th>Cores</th>
+	</thead>
+	<tbody>
+		<tr>
+			<th>Atari 2600</th>
+			<td>Stella</td>
+		</tr>
+		<tr>
+			<th>Atari 5200</th>
+			<td>Atari800</td>	
+		</tr>
+		<tr>
+			<th>Atari 7800</th>
+			<td>Prosystem</td>
+		</tr>
+		<tr>
+			<th>Atari Lynx</th>
+			<td>Mednafen</td>
+		</tr>
+		<tr>
+			<th>ColecoVision</th>
+			<td>CrabEmu</td>
+		</tr>
+		<tr>
+			<th>Game Boy and Game Boy Color</th>
+			<td>Gambatte</td>
+		</tr>
+		<tr>
+			<th>Game Boy Advance</th>
+			<td>Visualboy Advance</td>
+		</tr>
+		<tr>
+			<th>Game Gear</th>
+			<td>CrabEmu, TwoMbit</td>
+		</tr>
+		<tr>
+			<th>Intellivision</th>
+			<td>Bliss</td>
+		</tr>
+		<tr>
+			<th>Neo Geo Pocket and Neo Geo Pocket Color</th>
+			<td>NeoPop</td>
+		</tr>
+		<tr>
+			<th>NES/Famicom</th>
+			<td>FCEU, Nestopia</td>
+		</tr>
+		<tr>
+			<th>Nintendo 64</th>
+			<td>Mupen64Plus</td>
+		</tr>
+		<tr>
+			<th>Nintendo DS</th>
+			<td>DeSmuME</td>
+		</tr>
+		<tr>
+			<th>Odyssey²/Videopac+</th>
+			<td>02EM</td>
+		</tr>
+		<tr>
+			<th>PC-FX</th>
+			<td>Mednafen</td>
+		</tr>
+		<tr>
+			<th>SG - 1000</th>
+			<td>CrabEmu</td>
+		</tr>
+		<tr>
+			<th>Sega 32X</th>
+			<td>Picodrive</td>
+		</tr>
+		<tr>
+			<th>Sega CD</th>
+			<td>Genesis Plus</td>
+		</tr>
+		<tr>
+			<th>Sega Genesis/Mega Drive</th>
+			<td>Genesis Plus</td>
+		</tr>
+		<tr>
+			<th>Sega Master System</th>	
+			<td>CrabEmu, TwoMbit</td>
+		</tr> 
+		<tr>
+			<th>Sony PSP</th>
+			<td>PPSSPP</td>
+		</tr>
+		<tr>
+			<th>Sony Playstation</th>
+			<td>Mednafen</td>
+		</tr>
+		<tr>
+			<th>SNES and Super Famicom</th>
+			<td>Higan, SNES9x</td>
+		</tr>
+		<tr>
+			<th>TurboGrafx-16/PC Engine</th>
+			<td>Mednafen</td>
+		</tr>
+		<tr>
+			<th>TurboGrafx-CD/PC Engine CD</th>
+			<td>Mednafen</td>
+		</tr>
+		<tr>
+			<th>Vectrex</th>
+			<td>VecXGL</td>
+		</tr>
+		<tr>
+			<th>Virtual Boy</th>
+			<td>Mednafen</td>
+		</tr>
+		<tr>
+			<th>Wonderswan</th>
+			<td>Mednafen</td>
+		</tr>
+	</tbody>
 </table>
 
 Please see [this page](https://github.com/OpenEmu/OpenEmu/wiki/Console---Core-Plugin-Status-&-Wishlist) for an extensive list of systems and emulators that are planned for a future date. Some of the emulators in that list are currently usable!
