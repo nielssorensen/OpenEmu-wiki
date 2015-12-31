@@ -93,13 +93,6 @@ You can check the hash of your file by opening Terminal.app, typing <code>md5 /p
 </tr>
 
 <tr>
-<td>Intellivision</td>
-<td>Bliss</td>
-<td><code></code></td>
-<td><code></code></td>
-</tr>
-
-<tr>
 <td>PC-FX</td>
 <td> Mednafen </td>
 <td><code>pcfx.rom</code></td>
