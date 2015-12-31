@@ -65,6 +65,41 @@ You can check the hash of your file by opening Terminal.app, typing <code>md5 /p
 </tr>
 
 <tr>
+<td>Intellivision</td>
+<td>Bliss</td>
+<td><code>exec.bin</code></td>
+<td><code>62e761035cb657903761800f4437b8af</code></td>
+</tr>
+
+<tr>
+<td>Intellivision</td>
+<td>Bliss</td>
+<td><code>grom.bin</code></td>
+<td><code>0cd5946c6473e42e8e4c2137785e427f</code></td>
+</tr>
+
+<tr>
+<td>Intellivision</td>
+<td>Bliss</td>
+<td><code>ivoice.bin (Optional)</code></td>
+<td><code>d5530f74681ec6e0f282dab42e6b1c5f</code></td>
+</tr>
+
+<tr>
+<td>Intellivision</td>
+<td>Bliss</td>
+<td><code>ecs.bin (Optional)</code></td>
+<td><code>2e72a9a2b897d330a35c8b07a6146c52</code></td>
+</tr>
+
+<tr>
+<td>Intellivision</td>
+<td>Bliss</td>
+<td><code></code></td>
+<td><code></code></td>
+</tr>
+
+<tr>
 <td>PC-FX</td>
 <td> Mednafen </td>
 <td><code>pcfx.rom</code></td>
