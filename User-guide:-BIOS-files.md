@@ -102,21 +102,21 @@ You can check the hash of your file by opening Terminal.app, typing <code>md5 /p
 <tr>
 <td>Playstation (JP)</td>
 <td>Mednafen</td>
-<td><code>SCPH5500.bin</code></td>
+<td><code>scph5500.bin</code></td>
 <td><code>8dd7d5296a650fac7319bce665a6a53c</code></td>
 </tr>
 
 <tr>
 <td>Playstation (NA)</td>
 <td>Mednafen</td>
-<td><code>SCPH7003.bin</code></td>
+<td><code>scph5501.bin</code></td>
 <td><code>490f666e1afb15b7362b406ed1cea246</code></td>
 </tr>
 
 <tr>
 <td>Playstation (EU)</td>
 <td>Mednafen</td>
-<td><code>SCPH5552.bin</code></td>
+<td><code>scph5502.bin</code></td>
 <td><code>32736f17079d0b2b7024407c39bd3050</code></td>
 </tr>
 
