@@ -81,14 +81,14 @@ You can check the hash of your file by opening Terminal.app, typing <code>md5 /p
 <tr>
 <td>Intellivision</td>
 <td>Bliss</td>
-<td><code>ivoice.bin (Optional)</code></td>
+<td><code>ivoice.bin</code> (Optional)</td>
 <td><code>d5530f74681ec6e0f282dab42e6b1c5f</code></td>
 </tr>
 
 <tr>
 <td>Intellivision</td>
 <td>Bliss</td>
-<td><code>ecs.bin (Optional)</code></td>
+<td><code>ecs.bin</code> (Optional)</td>
 <td><code>2e72a9a2b897d330a35c8b07a6146c52</code></td>
 </tr>
 
@@ -100,45 +100,45 @@ You can check the hash of your file by opening Terminal.app, typing <code>md5 /p
 </tr>
 
 <tr>
-<td>Playstation (JP)</td>
+<td>PlayStation (v3.0 09/09/96 J)</td>
 <td>Mednafen</td>
 <td><code>scph5500.bin</code></td>
 <td><code>8dd7d5296a650fac7319bce665a6a53c</code></td>
 </tr>
 
 <tr>
-<td>Playstation (NA)</td>
+<td>PlayStation (v3.0 11/18/96 A)</td>
 <td>Mednafen</td>
-<td><code>scph5501.bin</code></td>
+<td><code>scph5501.bin</code> or <code>scph7003.bin</code></td>
 <td><code>490f666e1afb15b7362b406ed1cea246</code></td>
 </tr>
 
 <tr>
-<td>Playstation (EU)</td>
+<td>PlayStation (v3.0 01/06/97 E)</td>
 <td>Mednafen</td>
-<td><code>scph5502.bin</code></td>
+<td><code>scph5502.bin</code> or <code>scph5552.bin</code></td>
 <td><code>32736f17079d0b2b7024407c39bd3050</code></td>
 </tr>
 
 
 <tr>
-<td>Sega CD (EU)</td>
-<td>GenesisPlus</td>
+<td>Mega-CD (Model 1 1.00 Europe)</td>
+<td>Genesis Plus GX</td>
 <td><code>BIOS_CD_E.bin</code></td>
 <td><code>e66fa1dc5820d254611fdcdba0662372</code></td>
 </tr>
 
 <tr>
-<td>Sega CD (JP)</td>
-<td>GenesisPlus</td>
+<td>Mega-CD (Model 1 1.00p Japan)</td>
+<td>Genesis Plus GX</td>
 <td><code>BIOS_CD_J.bin</code></td>
 <td><code>278a9397d192149e84e820ac621a8edd</code></td>
 </tr>
 
 
 <tr>
-<td>Sega CD (NA)</td>
-<td>GenesisPlus</td>
+<td>Sega CD &nbsp;(Model 1 1.10 USA)</td>
+<td>Genesis Plus GX</td>
 <td><code>BIOS_CD_U.bin</code></td>
 <td><code>2efd74e3232ff260e371b99f84024f7f</code></td>
 </tr>
