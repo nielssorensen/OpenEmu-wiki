@@ -93,6 +93,13 @@ You can check the hash of your file by opening Terminal.app, typing <code>md5 /p
 </tr>
 
 <tr>
+<td>Odyssey² / Videopac</td>
+<td>O2EM</td>
+<td><code>o2rom.bin</code></td>
+<td><code>562d5ebf9e030a40d6fabfc2f33139fd</code></td>
+</tr>
+
+<tr>
 <td>PC-FX</td>
 <td> Mednafen </td>
 <td><code>pcfx.rom</code></td>
