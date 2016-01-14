@@ -152,7 +152,8 @@ Please see [this page](https://github.com/OpenEmu/OpenEmu/wiki/Console---Core-Pl
 **Additional help:**
 * Logitech F710: https://web.archive.org/web/20130815061741/http://www.macgamepads.com/gamepads/f710/index.html
 * Bluetooth with PS3 controller: https://gist.github.com/3172711 and http://bit.ly/W26q2k
-* Xbox 360 Controller Driver: https://github.com/360Controller/360Controller/releases - If you're using a wireless controller you will also need an XBox Wireless Receiver (for Windows). For OS X 10.8 (Mountain Lion) and older: http://tattiebogle.net/index.php/ProjectRoot/Xbox360Controller/OsxDriver 
+* Xbox 360 Controller Driver: https://github.com/360Controller/360Controller/releases - If you're using a wireless controller you will also need an XBox Wireless Receiver (for Windows).
+* For OS X 10.8 (Mountain Lion) and older: http://tattiebogle.net/index.php/ProjectRoot/Xbox360Controller/OsxDriver 
 * If using a Wiimote or Wii U Pro controller, please go to the Controller preferences, select "Add a Wiimote" from the Input box and follow the pairing directions.
 * You can use Joypad Connect to connect your iPhone as a controller.
 
