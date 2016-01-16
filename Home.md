@@ -3,7 +3,7 @@
 ###Get OpenEmu
 OpenEmu is available online at the [OpenEmu website](http://openemu.org).
 
-An experimental release incorporating several additional cores not present in the stable version (including Nintendo 64, PlayStation, and arcade systems) is also available. Both releases can be downloaded from the [GitHub Releases page](https://github.com/OpenEmu/OpenEmu/releases).
+An experimental release incorporating several additional cores not present in the stable version (including Sega Saturn and arcade systems) is also available. Both releases can be downloaded from the [GitHub Releases page](https://github.com/OpenEmu/OpenEmu/releases).
 
 See the [[User guide]] (WIP) for usage documentation.
 
