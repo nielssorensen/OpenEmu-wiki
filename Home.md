@@ -135,9 +135,10 @@ It is also possible to compile OpenEmu from its source files. Don't worry, it's 
 Please see [this page](https://github.com/OpenEmu/OpenEmu/wiki/Console---Core-Plugin-Status-&-Wishlist) for an extensive list of systems and emulators that are planned for a future date. Some of the emulators in that list are currently usable!
 
 ###Supported Controllers
+* PlayStation 3
 * PlayStation 4
 * Xbox 360 *(driver required)*
-* PlayStation 3
+* Xbox One *(driver required)*
 * Logitech series (Dual Action, Rumblepad 2, Gamepad F310/F510/F710)\*
 * Gravis GamePad Pro
 * Sega Saturn USB
