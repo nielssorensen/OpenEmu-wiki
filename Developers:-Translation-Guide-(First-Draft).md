@@ -29,7 +29,7 @@ Russian    | ru | Abandoned             | @phoenixweiss
 Spanish    | es | WIP                   | Juan Pablo Atienza Martinez
 French     | fr | Done / Review         | @cyril634
 Italian    | it | Done                  | @shysaur
-Dutch      | nl | Done / Review         | @mettekou
+Dutch      | nl | Done / Review         | [Dylan Meysmans (@mettekou)](https://github.com/mettekou)
 | | |
 | | |
 Afrikaans   | af |     |
