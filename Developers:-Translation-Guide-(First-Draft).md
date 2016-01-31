@@ -29,6 +29,7 @@ Russian    | ru | Abandoned             | @phoenixweiss
 Spanish    | es | WIP                   | Juan Pablo Atienza Martinez
 French     | fr | Done / Review         | @cyril634
 Italian    | it | Done                  | @shysaur
+Dutch      | nl | Done / Review         | @mettekou
 | | |
 | | |
 Afrikaans   | af |     |
@@ -50,7 +51,6 @@ Chinese   | zh |       |
 Croatian | hr |        |
 Czech | cs |           |
 Danish | da |          |
-Dutch | nl |           |
 Dzongkha | dz |        |
 Esperanto | eo |       |
 Estonian | et |        |
