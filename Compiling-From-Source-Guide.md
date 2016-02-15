@@ -106,7 +106,7 @@ From here, you can begin adding and playing your favorite games and using the ap
 
 ## Cleaning Up Previous Versions
 
-If you have installed or used earlier versions of OpenEmu, some things have changed that require manual cleanup to ensure proper functionality of OpenEmu 1.0.
+If you have installed or used earlier versions of OpenEmu, some things have changed that require manual cleanup to ensure proper functionality of OpenEmu 2.0.
 
 ### A) Remove older core and system plugins.
 
