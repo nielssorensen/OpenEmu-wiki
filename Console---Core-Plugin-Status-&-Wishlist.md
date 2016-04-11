@@ -34,7 +34,7 @@
 
 ### Systems List (Experimental Release)
 
-**Note: Experimental ports may have compatibility or usability issues.**
+**Note: Experimental ports may have compatibility or usability issues and are strictly unsupported.**
 
 * All systems included in the Standard release
 * Arcade ([MAME](https://github.com/mamedev/mame))
@@ -42,7 +42,7 @@
 
 # Work-In-Progress ports
 
-**Note: These are not yet ready for release and no guarantee they will be. Some are in a preliminary or non-functional state and others may not be a good fit for OpenEmu.**
+**Note: These are not yet ready for release and no guarantee they will be. Some are in a preliminary or non-functional state and others may not be a good fit for OpenEmu. WIP ports are strictly unsupported.**
 
 * 3DO ([4DO](http://www.fourdo.com/))
 * Atari 8-bit ([Atari800](http://sourceforge.net/projects/atari800/))
