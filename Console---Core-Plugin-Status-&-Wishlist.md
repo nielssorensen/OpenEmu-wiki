@@ -15,7 +15,7 @@
 * NeoGeo Pocket ([NeoPop](http://neopop.emuxhaven.net/))
 * Nintendo (NES) / Famicom ([FCEUX](http://sourceforge.net/projects/fceultra/), [Nestopia](http://nestopia.sourceforge.net/))
 * Nintendo DS ([DeSmuME](http://desmume.org/))
-* Nintendo 64 ([Project64](https://github.com/project64/project64), [Mupen64Plus](https://github.com/mupen64plus))
+* Nintendo 64 ([Mupen64Plus](https://github.com/mupen64plus))
 * Odyssey²/Videopac+ ([O2EM](http://sourceforge.net/projects/o2em/))
 * PC-FX ([Mednafen](http://mednafen.sourceforge.net/))
 * SG-1000 ([CrabEmu](http://crabemu.sourceforge.net/))
