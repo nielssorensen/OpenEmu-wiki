@@ -134,11 +134,10 @@ It is also possible to compile OpenEmu from its source files. Don't worry, it's 
 
 Please see [this page](https://github.com/OpenEmu/OpenEmu/wiki/Console---Core-Plugin-Status-&-Wishlist) for an extensive list of systems and emulators that are planned for a future date. Some of the emulators in that list are currently usable!
 
-###Supported Controllers
+###Automap Supported Controllers
 * PlayStation 3
 * PlayStation 4
 * Xbox 360 *(driver required)*
-* Xbox One *(driver required)*
 * Logitech series (Dual Action, Rumblepad 2, Gamepad F310/F510/F710)\*
 * Gravis GamePad Pro
 * Sega Saturn USB
@@ -147,6 +146,9 @@ Please see [this page](https://github.com/OpenEmu/OpenEmu/wiki/Console---Core-Pl
 * N64 Adaptoid
 * Nintendo Wiimote
 * Nintendo Wii U Pro
+
+###Controllers Requiring Extra Effort
+* Xbox One *(driver required)*
 * 8Bitdo NES30 Pro (start controller in mode 2)
 
 \* If your Logitech controller has a switch on the back, it must be set to DirectInput (D).
@@ -155,7 +157,6 @@ Please see [this page](https://github.com/OpenEmu/OpenEmu/wiki/Console---Core-Pl
 * Logitech F710: https://web.archive.org/web/20130815061741/http://www.macgamepads.com/gamepads/f710/index.html
 * Bluetooth with PS3 controller: https://gist.github.com/3172711 and http://bit.ly/W26q2k
 * Xbox 360 / Xbox One Controller Driver: https://github.com/360Controller/360Controller/releases - If you're using a wireless controller you will also need an XBox Wireless Receiver (for Windows).
-* For OS X 10.8 (Mountain Lion) and older: http://tattiebogle.net/index.php/ProjectRoot/Xbox360Controller/OsxDriver 
 * If using a Wiimote or Wii U Pro controller, please go to the Controller preferences, select "Add a Wiimote" from the Input box and follow the pairing directions.
 * You can use Joypad Connect to connect your iPhone as a controller.
 
