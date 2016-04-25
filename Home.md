@@ -135,17 +135,20 @@ It is also possible to compile OpenEmu from its source files. Don't worry, it's 
 Please see [this page](https://github.com/OpenEmu/OpenEmu/wiki/Console---Core-Plugin-Status-&-Wishlist) for an extensive list of systems and emulators that are planned for a future date. Some of the emulators in that list are currently usable!
 
 ###Automap Supported Controllers
-* PlayStation 3
-* PlayStation 4
+* PlayStation 3 DualShock 3
+* PlayStation 4 DualShock 4
+* Nintendo Wiimote
+* Nintendo Wii U Pro
 * Xbox 360 *(driver required)*
+* SteelSeries Nimbus
+* SteelSeries Stratus XL
+* Horipad Ultimate
 * Logitech series (Dual Action, Rumblepad 2, Gamepad F310/F510/F710)\*
 * Gravis GamePad Pro
 * Sega Saturn USB
 * PS3 Neo Geo Pad USB
 * Retrode (SNES)
 * N64 Adaptoid
-* Nintendo Wiimote
-* Nintendo Wii U Pro
 
 ###Controllers Requiring Extra Effort
 * Xbox One *(driver required)*
