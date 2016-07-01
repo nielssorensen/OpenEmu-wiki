@@ -30,9 +30,9 @@ To get the experimental build, which includes extra work-in-progress cores, chan
 ##GUI Install Guide (Easy mode)
 ###Step 1
 
-Download and install the latest copy of XCode, which is free software provided by Apple, from the Mac App Store at <https://itunes.apple.com/gb/app/xcode/id497799835>. At the time of writing, Xcode is a hefty download weighing in at 1.7GB. Download it, and while waiting for it to download, grab a coffee or watch some TV.
+Download and install the latest copy of Xcode, which is free software provided by Apple, from the Mac App Store at <https://itunes.apple.com/gb/app/xcode/id497799835>. At the time of writing, Xcode is a hefty download weighing in at 1.7GB. Download it, and while waiting for it to download, grab a coffee or watch some TV.
 
-![XCode on The Mac App Store](http://i.imgur.com/1w9V4no.png)
+![Xcode on The Mac App Store](http://i.imgur.com/1w9V4no.png)
 
 ###Step 2
 
@@ -60,7 +60,7 @@ Once Github for Mac has finished cloning, browse to the 'OpenEmu' folder it clon
 
 ###Step 4
 
-Open the 'OpenEmu' folder and browse through the files until you find the XCode project file called 'OpenEmu.xcworkspace'. Double click this file and it should open in Xcode.
+Open the 'OpenEmu' folder and browse through the files until you find the Xcode project file called 'OpenEmu.xcworkspace'. Double click this file and it should open in Xcode.
 
 ![OpenEmu Folder](http://i.imgur.com/pjtLaN7.png)
 
@@ -88,7 +88,7 @@ OpenEmu and all of its cores will now begin compiling. This process should take 
 
 ###Step 8
 
-Once XCode has compiled OpenEmu, simply search for OpenEmu.app in Finder, right-click on it and select 'Open Enclosing Folder'.
+Once Xcode has compiled OpenEmu, simply search for OpenEmu.app in Finder, right-click on it and select 'Open Enclosing Folder'.
 
 ![Select 'Open Enclosing Folder'](http://i.imgur.com/tgI8f6k.png)
 
