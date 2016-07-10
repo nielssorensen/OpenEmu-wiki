@@ -9,7 +9,7 @@
 * ColecoVision ([CrabEmu](http://crabemu.sourceforge.net/))
 * Famicom Disk System ([Nestopia](http://nestopia.sourceforge.net/))
 * Game Boy / Game Boy Color ([Gambatte](https://github.com/sinamas/gambatte))
-* Game Boy Advance ([VBA-M](http://sourceforge.net/projects/vbam/))
+* Game Boy Advance ([mGBA](https://mgba.io/), [VBA-M](http://sourceforge.net/projects/vbam/))
 * Game Gear ([CrabEmu](http://crabemu.sourceforge.net/), [TwoMbit](http://sourceforge.net/projects/twombit/))
 * Intellivision ([Bliss](https://github.com/jeremiah-sypult/BlissEmu))
 * NeoGeo Pocket ([NeoPop](http://neopop.emuxhaven.net/))
