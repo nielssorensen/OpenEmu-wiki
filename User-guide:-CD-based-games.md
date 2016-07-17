@@ -12,6 +12,7 @@ Help
 * [I have a multi-disc game](https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-CD-based-games#q-i-have-a-multi-disc-game)
 * [I have an .ECM or .APE file](https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-CD-based-games#q-i-have-an-ecm-or-ape-file)
 * [I have a .CHD file from Archive.org](https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-CD-based-games#q-i-have-a-chd-file-from-archiveorg)
+* [I have a .MDF and a .MDS file](https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-CD-based-games#q-i-have-a-mdf-and-a-mds-file)
 
 ### Getting Started
 Compressed archives (such as .rar, .zip, .7z, etc) are **NOT** supported for CD-based games — you must [uncompress](https://itunes.apple.com/us/app/the-unarchiver/id425424353?mt=12) them first.
@@ -217,3 +218,14 @@ Some CD dumps are stored in a MAME/MESS-specific format capable of multiple laye
 
     `./chdman extractcd -i "sonic cd (usa).chd" -o "sonic cd (usa).cue" -ob "sonic cd (usa).bin"`
 
+### Q. I have a .MDF and a .MDS file
+
+These are an alternative format to iso/bin images created by some software like Alcohol 120%. They are very easy to convert into .bin/.cue.
+
+1. Install a command-line tool named mdf2iso using either macports or homebrew.
+
+    `$ brew install mdf2iso`
+2. In the directory with both .mdf and .mds files, run the following command to convert into .bin/.cue.
+
+    `$ mdf2iso --cue name_of_file.mdf`
+3. This will generate compatible .bin/.cue files in the same directory, with the same name as the original image.
