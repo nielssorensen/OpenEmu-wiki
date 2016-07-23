@@ -1,5 +1,7 @@
 ### Input not working?
 
+**Note: OpenEmu running on non-Apple hardware aka "Hackintosh" is strictly unsupported.**
+
 There are circumstances in which open applications, installed software or certain hardware usage can cause interference with gamepad and keyboard input in OpenEmu. Please see each section below for details of possible problems and solutions.
 
 ### Applications
