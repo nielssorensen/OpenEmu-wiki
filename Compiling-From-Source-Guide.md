@@ -116,7 +116,7 @@ Navigate to your ~/Library/Application Support/OpenEmu/Systems/ folder and delet
 
 ### B) Remove older key bindings.
 
-Navigate to your ~/Library/Application Support/OpenEmu/Bindings Configurations/ folder and delete it.
+Navigate to your ~/Library/Application Support/OpenEmu/Bindings/ folder and delete it.
 
 ### C) Remove older preferences
 
