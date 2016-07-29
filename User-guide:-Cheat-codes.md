@@ -6,7 +6,7 @@ Cheat-code support in OpenEmu is determined by each [core](https://github.com/Op
 
 A good resource for finding cheat codes is [GameHacking.org](http://gamehacking.org).
 
-**Important**: Be sure that the codes you use are for the proper region of the game you are playing. Since there can be different versions of a game for various locales, there are also different codes that have to be used. For example: cheat codes for a US version of a game may not work for an EU version of a game.
+**Important**: Be sure that the codes you use are for the proper region and revision of the game you are playing. Since there can be different versions of a game for various locales, there are also different codes that have to be used. For example: cheat codes for a US version of a game may not work for an EU version of a game.
 
 ### Adding cheats
 
@@ -131,7 +131,7 @@ This is because we cannot automatically detect if a code is AR v3 since they are
 There is no good way to detect v3 unless you explicitly tell VisualBoyAdvance (VBA) that the code is v3. There are numerous problems with front ends and codes floating around the web:
 * Cheat code websites usually all have AR/GS formatted as XXXXXXXX YYYYYYYY and don't tell you which type of AR/GS, unless its a good cheat code website such as gamehacking.org which will denote AR/GS v1/v2 codes as **AR12** and AR v3 as **AR34**.
 
-* Many cheat code websites have codes mislabeled or plain wrong, without noting which region they are.
+* Many cheat code websites have codes mislabeled or plain wrong, without noting which region and revision they are.
 
 * VBA standalone expects AR/GS v1/v2 formatted as XXXXXXXXYYYYYYYY (no spaces) but AR v3 formatted as XXXXXXXX YYYYYYYY (8 chars separated by a space). But it doesn't tell you this in the UI!
 
