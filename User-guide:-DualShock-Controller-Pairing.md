@@ -1,4 +1,4 @@
-Note: These instructions are for OSX Mavericks (OSX 10.9), but the process is very similar for Lion (OSX 10.7) and Mountain Lion (OSX 10.8)
+**Note: Generics, clones, knockoffs and third party devices are strictly unsupported.**
 
 The DualShock 3 and 4 can be paired with your Mac with Bluetooth or they can be plugged into USB.  The following are instructions for pairing over Bluetooth.  
 
