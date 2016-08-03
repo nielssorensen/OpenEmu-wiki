@@ -1,3 +1,5 @@
+**Note: Generics, clones, knockoffs and third party devices are strictly unsupported.**
+
 When pairing for the **very first time**, you need to:
 * Use the latest version of OpenEmu (2.0) or greater.
 * Have Bluetooth enabled on your machine.
