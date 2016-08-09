@@ -26,6 +26,12 @@ Input modifier apps such as these are not compatible with OpenEmu, cause interfe
 * USB Overdrive  (disable the "Any Gaming, Any Application" option.)
 * WJoy (unload kexts for WJoy via Terminal.app with the following command: `sudo kextunload -b com.alxn1.driver.wjoy`)
 
+### Remote Desktop apps
+Remote Desktop apps such as these are not compatible with OpenEmu and will not be able to receive input events.
+
+* Splashtop
+* TeamViewer
+
 ### Hardware
 
 These are generally unsupported and you should plug in your device directly to your Mac if possible.
