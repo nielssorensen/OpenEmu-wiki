@@ -20,11 +20,11 @@ System | Cores
 **ColecoVision** | [CrabEmu](http://crabemu.sourceforge.net/)
 **Famicom Disk System** | [Nestopia](http://nestopia.sourceforge.net/)
 **Game Boy / Game Boy Color** | [Gambatte](https://github.com/sinamas/gambatte)
-**Game Boy Advance** | [mGBA](https://mgba.io/), [VBA-M](http://sourceforge.net/projects/vbam/)
-**Game Gear** | [CrabEmu](http://crabemu.sourceforge.net/), [TwoMbit](http://sourceforge.net/projects/twombit/)
+**Game Boy Advance** | [mGBA](https://mgba.io/)*, [VBA-M](http://sourceforge.net/projects/vbam/)
+**Game Gear** | [CrabEmu](http://crabemu.sourceforge.net/), [TwoMbit](http://sourceforge.net/projects/twombit/)*
 **Intellivision** | [Bliss](https://github.com/jeremiah-sypult/BlissEmu)
 **NeoGeo Pocket** | [NeoPop](http://neopop.emuxhaven.net/)
-**Nintendo (NES) / Famicom** | [FCEUX](http://sourceforge.net/projects/fceultra/), [Nestopia](http://nestopia.sourceforge.net/)
+**Nintendo (NES) / Famicom** | [FCEUX](http://sourceforge.net/projects/fceultra/), [Nestopia](http://nestopia.sourceforge.net/)*
 **Nintendo DS** | [DeSmuME](http://desmume.org/)
 **Nintendo 64** | [Mupen64Plus](https://github.com/mupen64plus)
 **Odyssey²/Videopac+** | [O2EM](http://sourceforge.net/projects/o2em/)
@@ -33,15 +33,16 @@ System | Cores
 **Sega 32X** | [picodrive](https://github.com/notaz/picodrive)
 **Sega CD / Mega CD** | [Genesis Plus GX](https://github.com/ekeeke/Genesis-Plus-GX)
 **Sega Genesis / Mega Drive** | [Genesis Plus GX](https://github.com/ekeeke/Genesis-Plus-GX)
-**Sega Master System** | [CrabEmu](http://crabemu.sourceforge.net/), [TwoMbit](http://sourceforge.net/projects/twombit/)
+**Sega Master System** | [CrabEmu](http://crabemu.sourceforge.net/), [TwoMbit](http://sourceforge.net/projects/twombit/)*
 **Sony PlayStation** | [Mednafen](http://mednafen.sourceforge.net/)
 **Sony PSP** | [PPSSPP](https://github.com/hrydgard/ppsspp)
-**Super Nintendo (SNES)** | [Higan](http://byuu.org/), [Snes9x](https://github.com/snes9xgit/snes9x)
+**Super Nintendo (SNES)** | [Higan](http://byuu.org/), [Snes9x](https://github.com/snes9xgit/snes9x)*
 **TurboGrafx-16/PC Engine/SuperGrafx** | [Mednafen](http://mednafen.sourceforge.net/)
 **TurboGrafx-CD/PC Engine CD** | [Mednafen](http://mednafen.sourceforge.net/)
 **Virtual Boy** | [Mednafen](http://mednafen.sourceforge.net/)
 **Vectrex** | [VecXGL](http://jum.pdroms.de/emulators/emul.html)
 **WonderSwan** | [Mednafen](http://mednafen.sourceforge.net/)
+\* Default core
 
 Please see [this page](https://github.com/OpenEmu/OpenEmu/wiki/Console---Core-Plugin-Status-&-Wishlist) for an extensive list of systems and emulators that are planned for a future date. Some of the emulators in that list are currently usable!
 
