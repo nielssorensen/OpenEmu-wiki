@@ -1,3 +1,7 @@
+#### 2.0.3 — Aug 12, 2016
+
+[Release notes](http://openemu.org/rnotes/2.0.3.html)
+
 #### 2.0.2 — Jul 1, 2016
 
 [Release notes](http://openemu.org/rnotes/2.0.2.html)
