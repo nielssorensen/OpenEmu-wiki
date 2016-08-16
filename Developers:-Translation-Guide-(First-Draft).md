@@ -30,6 +30,7 @@ Spanish    | es | WIP                   | Juan Pablo Atienza Martinez
 French     | fr | Done / Review         | @cyril634
 Italian    | it | Done                  | @shysaur
 Dutch      | nl | Done / Review         | [Dylan Meysmans (@mettekou)](https://github.com/mettekou)
+Catalan    | ca | WIP                   | @pereorga
 | | |
 | | |
 Afrikaans   | af |     |
@@ -46,7 +47,6 @@ Breton      | br |     |
 Bulgarian   | bg |     |
 Burmese     | my |     |
 Byelorussian | be |    |
-Catalan   | ca |       |
 Chinese   | zh |       |
 Croatian | hr |        |
 Czech | cs |           |
