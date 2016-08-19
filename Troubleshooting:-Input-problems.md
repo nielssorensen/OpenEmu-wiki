@@ -37,5 +37,6 @@ Remote Desktop apps such as these are not compatible with OpenEmu and will not b
 
 These are generally unsupported and you should plug in your device directly to your Mac if possible.
 
+* Any non-HID compliant device (e.g. console-only Official Nintendo GameCube Controller Adapter for Wii U)
 * Adapters
 * USB Hub
