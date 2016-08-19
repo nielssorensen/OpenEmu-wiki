@@ -23,6 +23,7 @@ Input modifier apps such as these are not compatible with OpenEmu, cause interfe
 * Enjoyable
 * GamePad Companion
 * Joystick Mapper
+* SteelSeries Engine
 * USB Overdrive  (disable the "Any Gaming, Any Application" option.)
 * WJoy (unload kexts for WJoy via Terminal.app with the following command: `sudo kextunload -b com.alxn1.driver.wjoy`)
 
