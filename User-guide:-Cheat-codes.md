@@ -124,6 +124,8 @@ After you've added a cheat, you'll need to enable it if you haven't already. Ret
 ![HUD Select Cheat menu with cheat added](http://i.imgur.com/Lgwe3Lx.png)
 
 ### GBA cheats
+**Note: As of now, this information only applies to using the VisualBoyAdvance core plugin for GBA games. We are waiting on a future update of mGBA with enhanced cheat support to handle more types. See how to switch [Default Cores](https://github.com/OpenEmu/OpenEmu/wiki/User-Guide:-Default-Cores).**
+
 If the code is Action Replay v3/v4, you will have to instead use a GameShark equivalent code or attempt to convert it here: http://gamehacking.org/?sys=gba
 
 This is because we cannot automatically detect if a code is AR v3 since they are the same length as the AR/GameShark v1/v2 (16 chars), and v3 uses different encryption.
