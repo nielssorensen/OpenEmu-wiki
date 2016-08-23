@@ -30,7 +30,7 @@ Spanish    | es | WIP                   | Juan Pablo Atienza Martinez
 French     | fr | Done / Review         | @cyril634
 Italian    | it | Done                  | @shysaur
 Dutch      | nl | Done / Review         | [Dylan Meysmans (@mettekou)](https://github.com/mettekou)
-Catalan    | ca | WIP                   | @pereorga
+Catalan    | ca | Done                  | [Pere Orga (@pereorga)](https://github.com/pereorga)
 | | |
 | | |
 Afrikaans   | af |     |
