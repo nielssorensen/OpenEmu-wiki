@@ -14,6 +14,20 @@ If you have any questions or suggestions regarding the translation process. Join
 
 ...
 
+###Debug
+You can use the `plutil` command to check the syntax of your `.strings` files:
+```
+plutil OpenEmu/ca.lproj/*.strings
+```
+
+Expected output:
+```
+OpenEmu/ca.lproj/ControlLabels.strings: OK
+OpenEmu/ca.lproj/InfoPlist.strings: OK
+OpenEmu/ca.lproj/Localizable.strings: OK
+...
+```
+
 ###Merging Changes
 
 When you're done with the translation you can either create a pull request (preferred way) or zip your .lproj directory and send it in by mail so we can add your changes to the main OpenEmu repository.
