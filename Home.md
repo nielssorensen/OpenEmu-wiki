@@ -64,7 +64,7 @@ Please see [this page](https://github.com/OpenEmu/OpenEmu/wiki/Console---Core-Pl
 
 ###Controllers Requiring Extra Effort
 * Xbox One *(driver required)*
-* 8Bitdo NES30/FC30 Pro (start controller in mode 2)
+* 8Bitdo devices (get the [latest firmware](http://forum.8bitdo.com/thread-942-1-1.html) and use Mode 1/Joystick Mode by holding the START button to power on)
 
 \* If your Logitech controller has a switch on the back, it must be set to DirectInput (D).
 
