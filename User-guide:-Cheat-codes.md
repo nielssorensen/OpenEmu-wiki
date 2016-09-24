@@ -124,7 +124,7 @@ After you've added a cheat, you'll need to enable it if you haven't already. Ret
 ![HUD Select Cheat menu with cheat added](http://i.imgur.com/Lgwe3Lx.png)
 
 ### GBA cheats
-**Note: As of now, this information only applies to using the VisualBoyAdvance core plugin for GBA games. We are waiting on a future update of mGBA with enhanced cheat support to handle more types. See how to switch [Default Cores](https://github.com/OpenEmu/OpenEmu/wiki/User-Guide:-Default-Cores).**
+**TL;DR only Codebreaker/GameShark SP and GameShark Advance cheats are supported for GBA. Not Action Replay v3.**
 
 If the code is Action Replay v3/v4, you will have to instead use a GameShark equivalent code or attempt to convert it here: http://gamehacking.org/?sys=gba
 
