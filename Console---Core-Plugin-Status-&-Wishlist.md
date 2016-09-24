@@ -12,7 +12,7 @@
 * Game Boy Advance ([mGBA](https://mgba.io/), [VBA-M](http://sourceforge.net/projects/vbam/))
 * Game Gear ([CrabEmu](http://crabemu.sourceforge.net/), [TwoMbit](http://sourceforge.net/projects/twombit/))
 * Intellivision ([Bliss](https://github.com/jeremiah-sypult/BlissEmu))
-* NeoGeo Pocket ([NeoPop](http://neopop.emuxhaven.net/))
+* NeoGeo Pocket ([Mednafen](http://mednafen.sourceforge.net/), [NeoPop](http://neopop.emuxhaven.net/))
 * Nintendo (NES) / Famicom ([FCEUX](http://sourceforge.net/projects/fceultra/), [Nestopia](http://nestopia.sourceforge.net/))
 * Nintendo DS ([DeSmuME](http://desmume.org/))
 * Nintendo 64 ([Mupen64Plus](https://github.com/mupen64plus))
@@ -38,7 +38,7 @@
 
 * All systems included in the Standard release
 * Arcade ([MAME](https://github.com/mamedev/mame))
-* Sega Saturn ([Yabause](https://github.com/Yabause/yabause))
+* Sega Saturn ([Mednafen](http://mednafen.sourceforge.net/), [Yabause](https://github.com/Yabause/yabause))
 
 # Work-In-Progress ports
 
