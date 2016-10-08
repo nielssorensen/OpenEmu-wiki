@@ -32,6 +32,7 @@ Input modifier apps such as these are not compatible with OpenEmu, cause interfe
 Remote Desktop apps such as these are not compatible with OpenEmu and will not be able to receive input events.
 
 * Splashtop
+* Synergy
 * TeamViewer
 
 ### Hardware
