@@ -7,6 +7,7 @@ System | Cores
 :---: | ---
 **Game Boy Advance** | [mGBA](https://mgba.io/)*, [VBA-M](http://sourceforge.net/projects/vbam/)
 **Game Gear** | [CrabEmu](http://crabemu.sourceforge.net/), [TwoMbit](http://sourceforge.net/projects/twombit/)*
+**NeoGeo Pocket** | [Mednafen](http://mednafen.sourceforge.net/)*, [NeoPop](http://neopop.emuxhaven.net/)
 **Nintendo (NES) / Famicom** | [FCEUX](http://sourceforge.net/projects/fceultra/), [Nestopia](http://nestopia.sourceforge.net/)*
 **Sega Master System** | [CrabEmu](http://crabemu.sourceforge.net/), [TwoMbit](http://sourceforge.net/projects/twombit/)*
 **Super Nintendo (SNES)** | [Higan](http://byuu.org/), [Snes9x](https://github.com/snes9xgit/snes9x)*
