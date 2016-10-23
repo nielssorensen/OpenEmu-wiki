@@ -11,6 +11,7 @@ The following applications are commonly found to interfere with input and should
 * Google Chrome (HTML5 Gamepad API)
 * DOSBox
 * iTerm2
+* Keybase.io
 * Webroot Antivirus (Secure Keyboard Entry)
 
 ### Keyboard and Gamepad modifier apps
