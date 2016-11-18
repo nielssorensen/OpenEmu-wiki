@@ -144,7 +144,7 @@ You need to create a `.m3u` file containing the filenames of all the cue sheets 
 
 Example:
 
-1. You've imported a multi-disc game such as *Chrono Cross* in your library via drag and dropping the cue sheets `Chrono Cross (USA) (Disc 1).cue` and `Chrono Cross (USA) (Disc 2).cue`.
+1. You have a multi-disc game such as *Chrono Cross* with two cue sheets `Chrono Cross (USA) (Disc 1).cue` and `Chrono Cross (USA) (Disc 2).cue`.
 
 2. Now create a `.m3u` file by opening up your favorite [plain text editor](https://macromates.com/download) and copy and pasting the filenames of your cue sheets, one per line appearing as:
 
@@ -154,7 +154,7 @@ Example:
     ```
 ![screen shot 2015-05-17 at 6 41 52 pm](https://cloud.githubusercontent.com/assets/1303132/7672776/71744a82-fcc4-11e4-983a-4918553460d2.png)
 3. **IMPORTANT** — Save the file as **plain text** (if using TextEdit, select "Make Plain Text" from the Edit menu) with a .m3u extension, for example ``Chrono Cross (USA).m3u``
-4. Import the file into your library as normal. It will appear in your PlayStation library and you can load it.
+4. Import only the `.m3u` file into your library as normal and the cue sheets will be automatically imported. It will appear in your PlayStation library and you can load it.
 
 Now, when you reach a point in-game where you must swap discs, select the required disc from the HUD control bar "Select Disc" menu like so:
 
