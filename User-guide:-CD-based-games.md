@@ -20,7 +20,7 @@ Compressed archives (such as .rar, .zip, .7z, etc) are **NOT** supported for CD-
 ### Importing
 Dumped copies of CD-based games must be loaded in with [Cue sheets](https://en.wikipedia.org/wiki/Cue_sheet_%28computing%29) or [CloneCD](https://en.wikipedia.org/wiki/CloneCD_Control_File) files only.
 
-Simply drag and drop a `.cue` or `.ccd` file into your library and OpenEmu will add all associated files along with it from the same folder.
+Simply drag and drop a `.cue` or `.ccd` file into your library and OpenEmu will add all associated files along with it from the same folder. If a game is made up of multiple discs, please follow the [multi-disc guide](https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-CD-based-games#q-i-have-a-multi-disc-game) instead.
 
 Please make sure you are importing valid files by carefully reading the sections below.
 
@@ -140,7 +140,7 @@ FILE "filename.iso" BINARY
 ![Text Edit](http://i.imgur.com/VP2L4N5.png)
 
 ### Q. I have a multi-disc game
-You need to create a `.m3u` file containing the filenames of all the cue sheets for the game.
+You need to create a `.m3u` file containing the filenames of all the cue sheets for the game. The file **must be saved in a folder together with all the cue sheets and their associated files** in order for them to be automatically imported. Also, the cue sheets for the game must not already be pre-imported in your library.
 
 Example:
 
