@@ -62,7 +62,7 @@ To create a new save state, click on *Save Current Game*. A dialogue will appear
 
 #### Deleting
 
-You can delete a manual save state (or a Quick Save State) by holding the Option key on the keyboard when navigating the *Play Save Games* menu or the HUD's disk menu. With this key held down, any saves you mouse over will be highlighted red to indicate that clicking will delete them. By default, there is a confirmation dialogue before the files are actually deleted.
+You can delete a manual save state (or a Quick Save State) from the Save States library by right-clicking on the desired state and selecting delete.
 
 ![HUD disk menu](https://raw.github.com/okdana/OpenEmu-documentation/master/assets/img/user%20guide/HUD%20-%20saves%20-%20delete%20my%20save%202%20%28no%20game%29.png)
 
