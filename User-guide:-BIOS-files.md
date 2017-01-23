@@ -58,13 +58,6 @@ You can check the hash of your file by opening Terminal.app, typing <code>md5 /p
 </tr>
 
 <tr>
-<td>Game Boy Advance</td>
-<td>Higan*1</td>
-<td><code>bios.rom</code></td>
-<td><code>a860e8c0b6d573d191e4ec7db1b1e4f6</code></td>
-</tr>
-
-<tr>
 <td>Intellivision</td>
 <td>Bliss</td>
 <td><code>exec.bin</code></td>
@@ -161,7 +154,7 @@ You can check the hash of your file by opening Terminal.app, typing <code>md5 /p
 
 <tr>
 <td>SNES Satellaview</td>
-<td>SNES9x*2</td>
+<td>SNES9x*</td>
 <td><code>BS-X.bin</code> (Optional)</td>
 <td><code>fed4d8242cfbed61343d53d48432aced</code></td>
 </tr>
@@ -176,9 +169,7 @@ You can check the hash of your file by opening Terminal.app, typing <code>md5 /p
 
 </table>
 
-\*1 **Note: The default GBA core, VisualBoy Advance, does not require a BIOS**
-
-\*2 **Note: As an exception, only BSX-BIOS must be copied directly to your BIOS folder.**
+\* **Note: As an exception, only BSX-BIOS must be copied directly to your BIOS folder.**
 
 -----
 
