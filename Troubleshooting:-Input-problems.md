@@ -6,7 +6,7 @@ There are circumstances in which open applications, installed software or certai
 
 ### Applications
 
-The following applications are commonly found to interfere with input and should be closed while using OpenEmu. This is an incomplete list so if you are experiencing issues beyond these, try closing all other open applications. If issues persist, try restarting your computer and then only launch OpenEmu.
+The following applications are commonly found to interfere with input and should be closed while using OpenEmu. This is an incomplete list so if you are experiencing issues beyond these, try closing all other open applications. If issues persist, try restarting your computer and then only launch OpenEmu. This is because OpenEmu handles input differently than most applications, due to our special nature of responding to both keyboard and HID events while a game is running. Keyboard events, especially, are handled at a lower level - not through Cocoa but through IOKit - so often times other applications running can cause interference.
 
 * Google Chrome (HTML5 Gamepad API)
 * DOSBox
