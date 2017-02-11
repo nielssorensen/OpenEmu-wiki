@@ -1,1 +1,0 @@
-I want to transfer over my save of Link To The Past from Snes9x on OpenEmu to Snes9xGx on the Wii. How would I transfer over my saves?
