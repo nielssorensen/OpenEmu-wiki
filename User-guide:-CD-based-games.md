@@ -13,6 +13,7 @@ Help
 * [I have an .ECM or .APE file](https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-CD-based-games#q-i-have-an-ecm-or-ape-file)
 * [I have a .CHD file from Archive.org](https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-CD-based-games#q-i-have-a-chd-file-from-archiveorg)
 * [I have a .MDF and a .MDS file](https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-CD-based-games#q-i-have-a-mdf-and-a-mds-file)
+* [I have a .SBI file](https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-CD-based-games#q-i-have-a-sbi-file)
 
 ### Getting Started
 Compressed archives (such as .rar, .zip, .7z, etc) are **NOT** supported for CD-based games — you must [uncompress](https://itunes.apple.com/us/app/the-unarchiver/id425424353?mt=12) them first.
@@ -229,3 +230,17 @@ These are an alternative format to iso/bin images created by some software like 
 
     `$ mdf2iso --cue name_of_file.mdf`
 3. This will generate compatible .bin/.cue files in the same directory, with the same name as the original image.
+
+### Q. I have a .SBI file
+
+Hundreds of PAL region PlayStation games used [LibCrypt](http://wiki.redump.org/index.php?title=PlayStation_1:_LibCrypt_protection), a copy protection mechanism that stored non-standard data in subchannels on the disc. If missing from a backup, this crippled games by disabling input (Ape Escape), impossible difficulty (Lucky Luke: Western Fever) or freezing at boot (Resident Evil 3: Nemesis) or during a level (Wip3out).
+
+Dumped copies that use **cue sheets** require additional `.sbi` subchannel data files in order for these games to work.
+
+Download `.sbi` files for affected games from [redump.org](http://redump.org/discs/libcrypt/2/) by first choosing your game and then finding "SBI subchannels" at the top of the page.
+
+Drag and drop the `.sbi` to import it alongside your game. **IMPORTANT** — The `.sbi` file **must** be named exactly as the base filename of your cue sheet including case e.g.
+* `Ape Escape (Europe).cue` and `Ape Escape (Europe).sbi`
+* `Wip3out (Europe) (En,Fr,De,Es,It).CUE` and `Wip3out (Europe) (En,Fr,De,Es,It).SBI`
+
+**Note: [multi-disc games](https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-CD-based-games#q-i-have-a-multi-disc-game) such as Final Fantasy VIII, Final Fantasy IX, Galerians and Parasite Eve II must have all `.sbi` files for each disc imported.**
