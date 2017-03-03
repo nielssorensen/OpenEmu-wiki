@@ -157,6 +157,15 @@ Example:
 3. **IMPORTANT** — Save the file as **plain text** (if using TextEdit, select "Make Plain Text" from the Edit menu) with a .m3u extension, for example ``Chrono Cross (USA).m3u``
 4. Import only the `.m3u` file into your library as normal and the cue sheets will be automatically imported. It will appear in your PlayStation library and you can load it.
 
+```
+Folder containing all Chrono Cross files/
+└╴Chrono Cross (USA) (Disc 1).bin
+└╴Chrono Cross (USA) (Disc 1).cue
+└╴Chrono Cross (USA) (Disc 2).bin
+└╴Chrono Cross (USA) (Disc 2).cue
+└╴Chrono Cross (USA).m3u    <-- import this file
+```
+
 Now, when you reach a point in-game where you must swap discs, select the required disc from the HUD control bar "Select Disc" menu like so:
 
 ![disc 2](https://cloud.githubusercontent.com/assets/1303132/7672801/e2dc3dd2-fcc5-11e4-9cf2-0c25a8069887.png)
