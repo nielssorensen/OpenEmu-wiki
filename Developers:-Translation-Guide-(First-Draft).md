@@ -1,10 +1,10 @@
 If you have any questions or suggestions regarding the translation process. Join #OpenEmu on irc.freenode.net (http://webchat.freenode.net/?channels=openemu) and let us know.
 
-###Preparation
+### Preparation
 * Make sure no one is working on the language you want to translate ([Here](#translation-progress))
 * get OpenEmu source code (https://github.com/OpenEmu/OpenEmu/wiki/Compiling-From-Source-Guide)
 
-###Setup
+### Setup
 
 * Open OpenEmu.xcworkspace with Xcode, then select the OpenEmu project on the left. Under 'Localizations' hit the plus button and add your language. Keep the defaults in the dialog that comes up and click Finish.
 
@@ -14,7 +14,7 @@ If you have any questions or suggestions regarding the translation process. Join
 
 ...
 
-###Debug
+### Debug
 You can use the `plutil` command to check the syntax of your `.strings` files:
 ```
 plutil OpenEmu/ca.lproj/*.strings
@@ -28,11 +28,11 @@ OpenEmu/ca.lproj/Localizable.strings: OK
 ...
 ```
 
-###Merging Changes
+### Merging Changes
 
 When you're done with the translation you can either create a pull request (preferred way) or zip your .lproj directory and send it in by mail so we can add your changes to the main OpenEmu repository.
 
-###Translation Progress
+### Translation Progress
 
 Language   | ID | Status                | Credits
 -----------|----|-----------------------|------------- 
