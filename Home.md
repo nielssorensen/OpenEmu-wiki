@@ -1,16 +1,16 @@
 ![OpenEmu Logo](http://i.imgur.com/I0vCcEj.png)
 
-###Get OpenEmu
+### Get OpenEmu
 OpenEmu is available online at the [OpenEmu website](http://openemu.org).
 
 An experimental release incorporating several additional cores not present in the stable version (including Sega Saturn and arcade systems) is also available. Both releases can be downloaded from the [GitHub Releases page](https://github.com/OpenEmu/OpenEmu/releases).
 
 See the [[User guide]] (WIP) for usage documentation.
 
-###Compiling from Source
+### Compiling from Source
 It is also possible to compile OpenEmu from its source files. Don't worry, it's an easy process! To compile OpenEmu, please ensure that you are using OS X 10.11. You can follow [this guide](https://github.com/OpenEmu/OpenEmu/wiki/Compiling-From-Source-Guide) if you do not know how to compile OpenEmu.
 
-###Supported Systems
+### Supported Systems
 System | Cores
 :---: | ---
 **Atari 2600** | [Stella](http://sourceforge.net/projects/stella/)
@@ -42,11 +42,12 @@ System | Cores
 **Virtual Boy** | [Mednafen](http://mednafen.sourceforge.net/)
 **Vectrex** | [VecXGL](http://jum.pdroms.de/emulators/emul.html)
 **WonderSwan** | [Mednafen](http://mednafen.sourceforge.net/)
+
 \* Default core
 
 Please see [this page](https://github.com/OpenEmu/OpenEmu/wiki/Console---Core-Plugin-Status-&-Wishlist) for an extensive list of systems and emulators that are planned for a future date. Some of the emulators in that list are currently usable!
 
-###Automap Supported Controllers
+### Automap Supported Controllers
 * PlayStation 3 DualShock 3
 * PlayStation 4 DualShock 4
 * Nintendo Wiimote
@@ -62,7 +63,7 @@ Please see [this page](https://github.com/OpenEmu/OpenEmu/wiki/Console---Core-Pl
 * Retrode (SNES)
 * N64 Adaptoid
 
-###Controllers Requiring Extra Effort
+### Controllers Requiring Extra Effort
 * Xbox One *(driver required)*
 * 8Bitdo devices (get the [latest firmware](http://forum.8bitdo.com/thread-942-1-1.html) and use Mode 1/Joystick Mode by holding the START button to power on)
 
@@ -75,6 +76,6 @@ Please see [this page](https://github.com/OpenEmu/OpenEmu/wiki/Console---Core-Pl
 * If using a Wiimote or Wii U Pro controller, please go to the Controller preferences, select "Add a Wiimote" from the Input box and follow the pairing directions.
 * You can use Joypad Connect to connect your iPhone as a controller.
 
-###Bugs and Support
+### Bugs and Support
 
 Please report bugs and other issues on the [GitHub issue tracker](https://github.com/OpenEmu/OpenEmu/issues) or on IRC ([#openemu @ Freenode](http://webchat.freenode.net/?channels=openemu)).
