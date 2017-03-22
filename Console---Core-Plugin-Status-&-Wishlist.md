@@ -9,10 +9,10 @@
 * ColecoVision ([CrabEmu](http://crabemu.sourceforge.net/))
 * Famicom Disk System ([Nestopia](http://nestopia.sourceforge.net/))
 * Game Boy / Game Boy Color ([Gambatte](https://github.com/sinamas/gambatte))
-* Game Boy Advance ([mGBA](https://mgba.io/), [VBA-M](http://sourceforge.net/projects/vbam/))
+* Game Boy Advance ([mGBA](https://mgba.io/))
 * Game Gear ([CrabEmu](http://crabemu.sourceforge.net/), [TwoMbit](http://sourceforge.net/projects/twombit/))
 * Intellivision ([Bliss](https://github.com/jeremiah-sypult/BlissEmu))
-* NeoGeo Pocket ([Mednafen](http://mednafen.sourceforge.net/), [NeoPop](http://neopop.emuxhaven.net/))
+* NeoGeo Pocket ([Mednafen](http://mednafen.sourceforge.net/))
 * Nintendo (NES) / Famicom ([FCEUX](http://sourceforge.net/projects/fceultra/), [Nestopia](http://nestopia.sourceforge.net/))
 * Nintendo DS ([DeSmuME](http://desmume.org/))
 * Nintendo 64 ([Mupen64Plus](https://github.com/mupen64plus))
@@ -38,7 +38,7 @@
 
 * All systems included in the Standard release
 * Arcade ([MAME](https://github.com/mamedev/mame))
-* Sega Saturn ([Mednafen](http://mednafen.sourceforge.net/), [Yabause](https://github.com/Yabause/yabause))
+* Sega Saturn ([Mednafen](http://mednafen.sourceforge.net/))
 
 # Work-In-Progress ports
 
