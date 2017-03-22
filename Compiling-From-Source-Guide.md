@@ -2,7 +2,7 @@ Using the guide below, we will try and walk you through the steps required to do
 
 If you have used earlier OpenEmu versions, please see [Cleaning Up Previous Versions](https://github.com/OpenEmu/OpenEmu/wiki/Compiling-From-Source-Guide#cleaning-up-previous-versions) at the bottom **before** compiling OpenEmu.
 
-##Command Line Install Guide (Advanced users)
+## Command Line Install Guide (Advanced users)
 Not afraid of the command line? Follow this guide if you already have Xcode or Command Line Tools and want to clone and compile via terminal. Otherwise, please follow the [Visual Install Guide](https://github.com/OpenEmu/OpenEmu/wiki/Compiling-From-Source-Guide#visual-install-guide-easy-mode).
 
 Alternatively, you can easily install the necessary Command Line Tools by following [this guide](http://www.computersnyou.com/2025/). Xcode is still necessary for successful compilation.
@@ -29,14 +29,14 @@ To get the core plugins, change `"OpenEmu"` to `"Build All"`
 
 To get the 'experimental' core plugins, which includes extra work-in-progress cores, change `"OpenEmu"` to `"Build All + Experimental"`
 
-##Visual Install Guide (Easy mode)
-###Step 1
+## Visual Install Guide (Easy mode)
+### Step 1
 
 Download and install the latest version of [Xcode](https://itunes.apple.com/us/app/xcode/id497799835?mt=12) from the Mac App Store.
 
 <img src="http://i.imgur.com/ANBasPk.jpg" alt="Xcode on The Mac App Store" width="1352">
 
-###Step 2
+### Step 2
 
 **Warning: Do not download the ZIP! It will not work!**
 
@@ -44,7 +44,7 @@ With Xcode downloaded and installed on your computer, we now need to clone the s
 Install [GitHub Desktop](https://desktop.github.com/) for Mac, then navigate to the [OpenEmu repo](https://github.com/OpenEmu/OpenEmu) and click Clone > Open in Desktop.
 
 <img src="http://i.imgur.com/ubNbwe0.png" alt="Clone Panel" width="357">
-<br>
+
 ![Clone in Github for Mac](http://i.imgur.com/I6ObkRI.png)
 
 **Note for advanced users:**
@@ -53,19 +53,19 @@ If you cloned OpenEmu from the command line you also need to initialize the subm
 git submodule update --init --recursive
 ````
 
-###Step 3
+### Step 3
 
 Once Github for Mac has finished cloning, browse to the 'OpenEmu' folder it cloned to.
 
 <img src="http://i.imgur.com/ih36Zv4.png" alt="Browse to the OpenEmu Folder" width="882">
 
-###Step 4
+### Step 4
 
 Open the 'OpenEmu' folder and browse through the files until you find the Xcode workspace file called 'OpenEmu.xcworkspace'. Double click this file and it should open in Xcode.
 
 <img src="http://i.imgur.com/EykWlqL.png" alt="OpenEmu Folder" width="882">
 
-###Step 5
+### Step 5
 
 With Xcode open, you will see a lot of files and 'cores' that make up the OpenEmu application in the left sidebar. At the top of the application, you will see a lot of buttons. You need to click on the long bar to the right of the 'Stop' button and select the correct 'Scheme'.
 
@@ -75,19 +75,19 @@ Click on the left-most portion of this bar, and be sure to scroll through the po
 
 <img src="http://i.imgur.com/D72UpRS.png" alt="Selecting The Correct Scheme" width="364">
 
-###Step 6
+### Step 6
 
 With the correct scheme selected in Step 5, you are now ready to compile the application. To do so, either press ⇧⌘I or click on 'Product' > 'Build For' > 'Profiling' in the menu bar. This makes sure that you get a release build that makes use of optimizations.
 
 <img src="http://i.imgur.com/NHeFbIG.png" alt="Build for Profiling" width="344">
 
-###Step 7
+### Step 7
 
 OpenEmu and all of its cores will now begin compiling. This process should take around 5 minutes to complete.
 
 <img src="http://i.imgur.com/kBXHLvD.png" alt="OpenEmu Compiling - Status" width="417">
 
-###Step 8
+### Step 8
 
 Once Xcode has compiled OpenEmu, simply search for OpenEmu.app in using [Spotlight](https://support.apple.com/en-us/HT204014).
 
@@ -99,7 +99,7 @@ This should show you the application inside the 'Release' folder.
 
 You can launch the app directly from this folder or move it over to your Applications folder.
 
-###Step 9
+### Step 9
 
 From here, you can begin adding and playing your favorite games and using the application as normal (assuming that the source code you downloaded is in a usable state!)
 
