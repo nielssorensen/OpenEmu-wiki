@@ -50,6 +50,7 @@ Please see [this page](https://github.com/OpenEmu/OpenEmu/wiki/Console---Core-Pl
 ### Automap Supported Controllers
 * PlayStation 3 DualShock 3
 * PlayStation 4 DualShock 4
+* Nintendo Switch Pro Controller
 * Nintendo Wiimote
 * Nintendo Wii U Pro
 * Xbox 360 *(driver required)*
