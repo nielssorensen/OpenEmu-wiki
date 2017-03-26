@@ -242,7 +242,7 @@ These are an alternative format to iso/bin images created by some software like 
 
 ### Q. I have a .SBI file
 
-Hundreds of PAL region PlayStation games used [LibCrypt](http://wiki.redump.org/index.php?title=PlayStation_1:_LibCrypt_protection), a copy protection mechanism that stored non-standard data in subchannels on the disc. If missing from a backup, this crippled games by disabling input (Ape Escape), impossible difficulty (Lucky Luke: Western Fever) or freezing at boot (Resident Evil 3: Nemesis) or during a level (Wip3out).
+Hundreds of PAL region PlayStation games used [LibCrypt](http://wiki.redump.org/index.php?title=PlayStation_1:_LibCrypt_protection), a copy protection mechanism that stored non-standard data in subchannels on the disc. If missing from a backup, this crippled games by disabling input ([Ape Escape](https://tcrf.net/Ape_Escape_(PlayStation)#Anti-Piracy)), impossible difficulty (Lucky Luke: Western Fever), mysterious bugs ([Spyro: Year of the Dragon](https://tcrf.net/Spyro:_Year_of_the_Dragon#Anti-Piracy_Message)) or freezing at boot (Resident Evil 3: Nemesis) or during a level (Wip3out).
 
 Dumped copies that use **cue sheets** require additional `.sbi` subchannel data files in order for these games to work.
 
