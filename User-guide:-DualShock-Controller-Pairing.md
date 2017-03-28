@@ -16,6 +16,7 @@ Your controller should now be selectable in OpenEmu's [Controls preferences](htt
 
 ### DualShock 4
 
+* Press the reset on the back of the controller near the L2 button with a paperclip.
 * Open Bluetooth preferences (System Preferences > Bluetooth).
 * Press the PS Home button and Share button at the same time, until the lightbar quickly flashes.
 * Click "Pair" on the controller's entry in the Bluetooth preferences window.
