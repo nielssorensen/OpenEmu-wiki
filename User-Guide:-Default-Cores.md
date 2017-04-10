@@ -1,6 +1,6 @@
 Some systems in OpenEmu include multiple cores, with one selected as the default. The defaults in place are generally "best" selected for compatibility or maintenance/usability reasons, but if you wish to change the default core for a supported system:
 
-Launch OpenEmu, go to the Library sidebar, right click on [Name of System] > Default Core, and select the core.
+Make sure the core you want to use is installed. Launch OpenEmu, go to Preferences > Cores and install any cores you wish to use. After they're installed, go to the Library sidebar, right click on [Name of System] > Default Core, and select the core.
 
 ### Supported Systems with Multiple Cores
 System | Cores
