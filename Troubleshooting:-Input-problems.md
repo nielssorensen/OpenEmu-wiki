@@ -12,6 +12,7 @@ The following applications are commonly found to interfere with input and should
 
 * Google Chrome (HTML5 Gamepad API)
 * DOSBox
+* Terminal (Secure Keyboard Entry)
 * iTerm2
 * Keybase.io
 * Webroot Antivirus (Secure Keyboard Entry)
