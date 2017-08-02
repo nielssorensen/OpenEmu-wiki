@@ -26,6 +26,8 @@ OpenEmu has the ability to map more than just what the original console supports
 * [Display Mode](https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-Display-Mode)
 * Screenshot
 
+Some of the above are hidden by default and must be manually enabled in the Secret preferences.
+
 -----
 **Note:**
 
