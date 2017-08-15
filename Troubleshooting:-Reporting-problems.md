@@ -1,16 +1,6 @@
-The OpenEmu development team is very small and the early state of the software means that many people are reporting problems. To help development help you better, please follow the steps below when submitting issues to the GitHub tracker.
-
-### Preliminary troubleshooting
-
-If you're having an issue, please perform some preliminary troubleshooting before submitting to the tracker. Some examples (not all will apply to every situation):
-
-* Try restarting OpenEmu.
-* Try restarting the computer.
-* Try a different game.
-* Try a different system (e.g., Super NES instead of NES).
-* Try a different controller.
-* Try a different filter.
-* Try an internal drive (if using a network share or external drive).
+### Introduction
+* Only the [latest version](https://github.com/OpenEmu/OpenEmu/releases/latest) of OpenEmu is supported.
+* OpenEmu running on non-Apple hardware aka "Hackintosh" is strictly unsupported.
 
 ### Existing/known issues
 
