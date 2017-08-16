@@ -1,4 +1,4 @@
-### Input not working?
+### Input (keyboard/gamepad) not working?
 
 **Note: OpenEmu running on non-Apple hardware aka "Hackintosh" is strictly unsupported.**
 
