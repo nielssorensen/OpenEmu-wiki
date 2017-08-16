@@ -79,4 +79,4 @@ Please see [this page](https://github.com/OpenEmu/OpenEmu/wiki/Console---Core-Pl
 
 ### Bugs and Support
 
-Please report bugs and other issues on the [GitHub issue tracker](https://github.com/OpenEmu/OpenEmu/issues) or on IRC ([#openemu @ Freenode](http://webchat.freenode.net/?channels=openemu)).
+Please first read the [contributing guide](https://github.com/OpenEmu/OpenEmu/blob/master/CONTRIBUTING.md) before you report bugs and other issues on the [GitHub issue tracker](https://github.com/OpenEmu/OpenEmu/issues) or on IRC ([#openemu @ Freenode](http://webchat.freenode.net/?channels=openemu)).
