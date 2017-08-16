@@ -15,5 +15,5 @@
 
 ### Troubleshooting
 
-* [[Troubleshooting: Input problems]]
-* [[Troubleshooting: Reporting problems]]
+* [[Troubleshooting: Reporting problems]] &mdash; ⚠️🕹 Read this first before reporting bugs and other issues.
+* [[Troubleshooting: Input problems]] (keyboard/gamepad)
