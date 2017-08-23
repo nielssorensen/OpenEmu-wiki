@@ -22,3 +22,4 @@
 * Closely follow the [CD and M3U guide](https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-CD-based-games) for importing CD-based games &mdash; no additional help beyond the guides will be offered.
 * NDS games (especially Pokemon) may have unsolvable problems related to AP patches or DeSmuME's JIT dynarec. Alternatively, try standalone DeSmuME that has the JIT dynarec off by default which may improve compatibility.
 * Arcade/MAME is unsupported because it is an experimental core port and has inherent usability and maintainability issues. It is recommended to use the official [standalone](http://bamf2048.github.io/sdl_mame_tut/) version and to read this helpful [MAME ROMs tutorial](http://choccyhobnob.com/articles/demystifying-mame-roms/).
+* Cheat code support is not available for all systems, as noted in the [cheat codes](https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-Cheat-codes) guide.
