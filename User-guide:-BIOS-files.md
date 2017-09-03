@@ -1,6 +1,6 @@
 **Important: Do not manually copy a file to your BIOS folder. If files aren't automatically copying, that means you have incorrect files. Please follow the guide below.**
 
-In order to emulate some systems, BIOS files are needed due to increasing complexity of the hardware and software of modern gaming consoles.  If the core you are currently trying to use needs a BIOS file, OpenEmu will alert you with a popup message.  Before installing a BIOS, make sure that its filename and MD5 hash are correct, or it will not work!  Installing a BIOS is as simple as adding a game to OpenEmu, just drag-and-drop a BIOS onto your library!
+In order to emulate some systems, BIOS files are needed due to increasing complexity of the hardware and software of modern gaming consoles.  If the core you are currently trying to use needs a BIOS file, OpenEmu will alert you with a popup message.  Before installing a BIOS file, make sure that its associated core plugin is installed and the filename and MD5 hash are correct, or it will not work!  Installing a BIOS is as simple as adding a game to OpenEmu, just drag-and-drop a BIOS onto your library!
 
 You can check the hash of your file by opening Terminal.app, typing <code>md5 /path/to/file</code> and pressing Enter.  Instead of typing the file path in manually, you can just drag the file onto the Terminal window.
 
