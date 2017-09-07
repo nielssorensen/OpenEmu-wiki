@@ -19,9 +19,9 @@ You can check the hash of your file by opening Terminal.app, typing <code>md5 /p
 | Intellivision | Bliss | `ecs.bin` (Optional) | `2e72a9a2b897d330a35c8b07a6146c52` |
 | Odyssey² / Videopac | O2EM | `o2rom.bin` | `562d5ebf9e030a40d6fabfc2f33139fd` |
 | PC-FX | Mednafen | `pcfx.rom` | `08e36edbea28a017f79f8d4f7ff9b6d7` |
-| PlayStation (v3.0 09/09/96 J) | Mednafen | `scph5500.bin` | `8dd7d5296a650fac7319bce665a6a53c` |
-| PlayStation (v3.0 11/18/96 A) | Mednafen | `scph5501.bin` or `scph7003.bin` | `490f666e1afb15b7362b406ed1cea246` |
-| PlayStation (v3.0 01/06/97 E) | Mednafen | `scph5502.bin` or `scph5552.bin` | `32736f17079d0b2b7024407c39bd3050` |
+| PlayStation (v3.0 09/09/96 J) | Mednafen | `ps-30j.bin` or `scph5500.bin` | `8dd7d5296a650fac7319bce665a6a53c` |
+| PlayStation (v3.0 11/18/96 A) | Mednafen | `ps-30a.bin` or `scph5501.bin` or `scph7003.bin` | `490f666e1afb15b7362b406ed1cea246` |
+| PlayStation (v3.0 01/06/97 E) | Mednafen | `ps-30e.bin` or `scph5502.bin` or `scph5552.bin` | `32736f17079d0b2b7024407c39bd3050` |
 | Mega-CD (Model 1 1.00 Europe) | Genesis Plus GX | `BIOS_CD_E.bin` | `e66fa1dc5820d254611fdcdba0662372` |
 | Mega-CD (Model 1 1.00p Japan) | Genesis Plus GX | `BIOS_CD_J.bin` | `278a9397d192149e84e820ac621a8edd` |
 | Sega CD  (Model 1 1.10 USA) | Genesis Plus GX | `BIOS_CD_U.bin` | `2efd74e3232ff260e371b99f84024f7f` |
