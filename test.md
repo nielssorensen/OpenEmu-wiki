@@ -2,8 +2,8 @@
 
 | System | Core | BIOS/Firmware Info |
 | --- | --- | --- |
-| 3DO | 4DO | `panafz10.bin` `51f2f43ae2f3508a14d9f56597e2d3ce` |
-| Atari 5200 | Atari800 | `5200.rom` `281f20ea4320404ec820fb7ec0693b38` |
+| 3DO | 4DO | `panafz10.bin`<br>`51f2f43ae2f3508a14d9f56597e2d3ce` |
+| Atari 5200 | Atari800 | `5200.rom`<br><br>MD5: `281f20ea4320404ec820fb7ec0693b38`<br>SHA-1: `6ad7a1e8c9fad486fbec9498cb48bf5bc3adc530` |
 | Atari Lynx | Mednafen | `lynxboot.img` or `lynxa.bin` `fcd403db69f54290b51035d82f835e7b` |
 | ColecoVision | CrabEmu | `coleco.rom` or <br>`313 10031-4005 73108a.u2` `2c66f5911e5b42b8ebe113403548eee7` |
 | Famicom Disk System | Nestopia | `disksys.rom` or `rp2c33a-01a.bin` `ca30b50f880eb660a320674ed365ef7a` |
