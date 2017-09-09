@@ -21,6 +21,7 @@
 | Mega-CD (Model 1 1.00 Europe) | Genesis Plus GX | `BIOS_CD_E.bin` or `megacd_model1_bios_1_00_e.bin` `e66fa1dc5820d254611fdcdba0662372` |
 | Mega-CD (Model 1 1.00p Japan) | Genesis Plus GX | `BIOS_CD_J.bin` or `epr-14088e.bin` `278a9397d192149e84e820ac621a8edd` |
 | Sega CD  (Model 1 1.10 USA) | Genesis Plus GX | `BIOS_CD_U.bin` or `mpr-15045b.bin` `2efd74e3232ff260e371b99f84024f7f` |
+| Mega-CD / Sega CD | Genesis Plus GX | Model 1 (v1.00 Europe)<br>`BIOS_CD_E.bin` or `megacd_model1_bios_1_00_e.bin`<br>MD5: e66fa1dc5820d254611fdcdba0662372<br><br>Model 1 (v1.00p Japan)<br>`BIOS_CD_J.bin` or `epr-14088e.bin`<br>MD5: 278a9397d192149e84e820ac621a8edd<br><br>Model 1 (v1.10 USA)<br>`BIOS_CD_U.bin` or `mpr-15045b.bin`<br>MD5: 2efd74e3232ff260e371b99f84024f7f |
 | SNES | Higan | [Multiple](https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-BIOS-files#snes-chip-dumps-for-higan) [Multiple](https://github.com/OpenEmu/OpenEmu/wiki/User-guide:-BIOS-files#snes-chip-dumps-for-higan) |
 | SNES Satellaview | SNES9x* | `BS-X.bin` (Optional) `fed4d8242cfbed61343d53d48432aced` |
 | TurboGrafx-CD / PC Engine-CD | Mednafen | `syscard3.pce` `ff1a674273fe3540ccef576376407d1d` |
