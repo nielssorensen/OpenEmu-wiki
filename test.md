@@ -12,7 +12,7 @@
 | Intellivision | Bliss | `ivoice.bin` or `sp0256-012.bin` (Optional) `d5530f74681ec6e0f282dab42e6b1c5f` |
 | Intellivision | Bliss | `ecs.bin` (Optional) `2e72a9a2b897d330a35c8b07a6146c52` |
 | Odyssey² / Videopac | O2EM | `o2rom.bin` or `o2bios.rom`<br>MD5: 562d5ebf9e030a40d6fabfc2f33139fd |
-| PC-FX (v1.00 - 2 Sep 1994) | Mednafen | `pcfx.rom` or `pcfxbios.bin`<br>MD5: 08e36edbea28a017f79f8d4f7ff9b6d7 |
+| PC-FX | Mednafen | PC-FX BIOS (v1.00 - 2 Sep 1994)<br>`pcfx.rom` or `pcfxbios.bin`<br>MD5: 08e36edbea28a017f79f8d4f7ff9b6d7 |
 | PlayStation | Mednafen | SCPH-5500/v3.0J BIOS<br>`ps-30j.bin` or `scph5500.bin`<br>MD5: `8dd7d5296a650fac7319bce665a6a53c`<br><br>SCPH-5501 (Version 3.0 11/18/96 A) BIOS<br>`ps-30a.bin` or `scph5501.bin` or `scph7003.bin`<br>MD5: `490f666e1afb15b7362b406ed1cea246`<br><br>SCPH-5502/v3.0E BIOS<br>`ps-30e.bin` or `scph5502.bin` or `scph5552.bin`<br>MD5: `32736f17079d0b2b7024407c39bd3050` |
 | PlayStation | Mednafen | SCPH-5500 (v3.0 09/09/96 Japan)<br>`ps-30j.bin` or `scph5500.bin`<br>MD5: 8dd7d5296a650fac7319bce665a6a53c<br><br>**SCPH-5501 (v3.0 11/18/96 America)**<br>`ps-30a.bin` or `scph5501.bin` or `scph7003.bin`<br>MD5: 490f666e1afb15b7362b406ed1cea246<br><br><h4>SCPH-5502 (v3.0 01/06/97 Europe)</h4>`ps-30e.bin` or `scph5502.bin` or `scph5552.bin`<br>MD5: 32736f17079d0b2b7024407c39bd3050<br><br>SCPH-5502/v3.0E BIOS<br><br>`ps-30e.bin` or `scph5502.bin` or `scph5552.bin`<br>MD5: 32736f17079d0b2b7024407c39bd3050 |
 | PlayStation (v3.0 09/09/96 J) | Mednafen | `ps-30j.bin` or `scph5500.bin` `8dd7d5296a650fac7319bce665a6a53c` |
