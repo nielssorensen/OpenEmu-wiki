@@ -7,7 +7,7 @@
 | Atari Lynx | Mednafen | `lynxboot.img` or `lynxa.bin`<br>MD5: fcd403db69f54290b51035d82f835e7b |
 | ColecoVision | CrabEmu | `coleco.rom` or `313 10031-4005 73108a.u2`<br>MD5: 2c66f5911e5b42b8ebe113403548eee7 |
 | Famicom Disk System | Nestopia | `disksys.rom` or `rp2c33a-01a.bin`<br>MD5: ca30b50f880eb660a320674ed365ef7a |
-| Intellivision | Bliss | `exec.bin` `62e761035cb657903761800f4437b8af` |
+| Intellivision | Bliss | `exec.bin`<br>MD5: 62e761035cb657903761800f4437b8af<br><br>`grom.bin` or `ro-3-9503-003.u21`<br>MD5: 0cd5946c6473e42e8e4c2137785e427f<br><br>`ivoice.bin` or `sp0256-012.bin` (Optional)<br>MD5: d5530f74681ec6e0f282dab42e6b1c5f<br><br>`ecs.bin` (Optional)<br>MD5: 2e72a9a2b897d330a35c8b07a6146c52 |
 | Intellivision | Bliss | `grom.bin` or `ro-3-9503-003.u21` `0cd5946c6473e42e8e4c2137785e427f` |
 | Intellivision | Bliss | `ivoice.bin` or `sp0256-012.bin` (Optional) `d5530f74681ec6e0f282dab42e6b1c5f` |
 | Intellivision | Bliss | `ecs.bin` (Optional) `2e72a9a2b897d330a35c8b07a6146c52` |
