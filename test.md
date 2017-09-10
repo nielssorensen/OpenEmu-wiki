@@ -2,9 +2,8 @@
 
 | System | Core | BIOS/Firmware Info |
 | --- | --- | --- |
-| 3DO | 4DO | `panafz10.bin`<br>MD5: 51f2f43ae2f3508a14d9f56597e2d3ce |
-| Atari 5200 | Atari800 | `5200.rom` or `[BIOS] Atari 5200 (USA).a52`<br>MD5: 281f20ea4320404ec820fb7ec0693b38 |
-| Atari Lynx | Mednafen | `lynxboot.img` or `lynxa.bin` or `[BIOS] Atari Lynx (USA, Europe).lnx`<br>MD5: fcd403db69f54290b51035d82f835e7b |
+| Atari 5200 | Atari800 | `5200.rom`<br>MD5: 281f20ea4320404ec820fb7ec0693b38 |
+| Atari Lynx | Mednafen | `lynxboot.img` or `lynxa.bin`<br>MD5: fcd403db69f54290b51035d82f835e7b |
 | ColecoVision | CrabEmu | `coleco.rom` or `313 10031-4005 73108a.u2`<br>MD5: 2c66f5911e5b42b8ebe113403548eee7 |
 | Famicom Disk System | Nestopia | `disksys.rom` or `rp2c33a-01a.bin`<br>MD5: ca30b50f880eb660a320674ed365ef7a |
 | Intellivision | Bliss | `exec.bin`<br>MD5: 62e761035cb657903761800f4437b8af<br><br>`grom.bin` or `ro-3-9503-003.u21`<br>MD5: 0cd5946c6473e42e8e4c2137785e427f<br><br>`ivoice.bin` or `sp0256-012.bin` (Optional)<br>MD5: d5530f74681ec6e0f282dab42e6b1c5f<br><br>`ecs.bin` (Optional)<br>MD5: 2e72a9a2b897d330a35c8b07a6146c52 |
