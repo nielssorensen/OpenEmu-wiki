@@ -130,7 +130,7 @@ If the code is Action Replay v3/v4, you will have to instead use a GameShark equ
 
 This is because we cannot automatically detect if a code is AR v3 since they are the same length as the AR/GameShark v1/v2 (16 chars), and v3 uses different encryption.
 
-There is no good way to detect v3 unless you explicitly tell VisualBoyAdvance (VBA) that the code is v3. There are numerous problems with front ends and codes floating around the web:
+There is no good way to detect v3 unless you explicitly tell mGBA that the code is v3. There are numerous problems with front ends and codes floating around the web:
 * Cheat code websites usually all have AR/GS formatted as XXXXXXXX YYYYYYYY and don't tell you which type of AR/GS, unless its a good cheat code website such as gamehacking.org which will denote AR/GS v1/v2 codes as **AR12** and AR v3 as **AR34**.
 
 * Many cheat code websites have codes mislabeled or plain wrong, without noting which region and revision they are.
@@ -139,7 +139,7 @@ There is no good way to detect v3 unless you explicitly tell VisualBoyAdvance (V
 
 * GBA4iOS forces all 16 char AR/GS as "AR v3" which is wrong and breaks the use of valid AR/GS v1/v2 codes. (it also incorrectly states GameShark SP codes aren't supported when those are actually the same as Codebreaker, 12 chars minus the space).
 
-So, which cheat codes can 'just work' with OpenEmu's VBA core plugin?
+So, which cheat codes can 'just work' with OpenEmu's mGBA core plugin?
 * Raw Address:Value cheat codes (11, 13 or 17 chars including the colon).
 * Codebreaker/GameShark SP codes (these are 12 chars, minus the space).
 * GameShark Advance/Action Replay v1/v2 codes (these are 16 chars, minus the space).
