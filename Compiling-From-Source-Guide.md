@@ -8,7 +8,7 @@ Not afraid of the command line? Follow this guide if you already have Xcode or C
 Alternatively, you can easily install the necessary Command Line Tools by following [this guide](http://www.computersnyou.com/2025/). Xcode is still necessary for successful compilation.
 
 ### SSH Keys
-Please follow [this guide] (https://help.github.com/articles/generating-ssh-keys) to setup secure authentication with GitHub's servers otherwise you may receive an error similar to this one:
+Please follow [this guide](https://help.github.com/articles/generating-ssh-keys) to setup secure authentication with GitHub's servers otherwise you may receive an error similar to this one:
 ```
 Cloning into 'BSNES'...
 Permission denied (publickey).
