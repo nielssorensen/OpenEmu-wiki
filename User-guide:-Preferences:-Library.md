@@ -10,7 +10,7 @@ If pressed, this will restore all of the dialogs with a "Do not ask me again" op
 
 -----
 
-### Organisation methods
+### Organization methods
 
 * Copy files to Game Library folder when adding to library
 * Automatically lookup game information & artwork
