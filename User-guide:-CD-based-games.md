@@ -26,7 +26,7 @@ Simply drag and drop a `.cue` or `.ccd` file into your library and OpenEmu will 
 Please make sure you are importing valid files by carefully reading the sections below.
 
 ### Supported Formats
-PC Engine CD/TurboGrafx-CD, PC-FX, PlayStation (using Mednafen)
+PC Engine CD/TurboGrafx-CD, PC-FX, PlayStation, Sega Saturn (using Mednafen)
 * CUE+BIN, both single and [multiple .BIN tracks](http://redump.org/)
 * CUE+IMG, CUE+ISO
 * CUE + BIN/IMG/ISO + [CDDA](https://en.wikipedia.org/wiki/Compact_Disc_Digital_Audio) tracks with [WAV/OGG/FLAC](http://www.mega-nerd.com/libsndfile/#Features). MP3 is **NOT** supported.
