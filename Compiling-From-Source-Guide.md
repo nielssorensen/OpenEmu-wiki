@@ -45,7 +45,7 @@ Install [GitHub Desktop](https://desktop.github.com/) for Mac, then navigate to 
 
 <img src="http://i.imgur.com/ubNbwe0.png" alt="Clone Panel" width="357">
 
-![Clone in Github for Mac](http://i.imgur.com/I6ObkRI.png)
+![Clone in Github for Mac](https://i.imgur.com/gXVVjd9.png)
 
 **Note for advanced users:**
 If you cloned OpenEmu from the command line you also need to initialize the submodules with: 
