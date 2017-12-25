@@ -3,9 +3,9 @@
 ### Get OpenEmu
 OpenEmu is available online at the [OpenEmu website](http://openemu.org).
 
-An experimental release incorporating several additional cores not present in the stable version (including Sega Saturn and arcade systems) is also available. Both releases can be downloaded from the [GitHub Releases page](https://github.com/OpenEmu/OpenEmu/releases).
+An "experimental" release containing a strictly unsupported core plugin for Arcade systems is also available. Both releases can be downloaded from the [GitHub Releases page](https://github.com/OpenEmu/OpenEmu/releases).
 
-See the [[User guide]] (WIP) for usage documentation.
+See the [[User guide]] for usage documentation.
 
 ### Bugs and Support
 Please first read the [contributing guide](https://github.com/OpenEmu/OpenEmu/blob/master/CONTRIBUTING.md) before you report bugs and other issues on the [GitHub issue tracker](https://github.com/OpenEmu/OpenEmu/issues) or on IRC ([#openemu @ Freenode](http://webchat.freenode.net/?channels=openemu)).
