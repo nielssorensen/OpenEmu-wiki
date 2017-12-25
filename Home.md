@@ -7,8 +7,8 @@ An experimental release incorporating several additional cores not present in th
 
 See the [[User guide]] (WIP) for usage documentation.
 
-### Compiling from Source
-It is also possible to compile OpenEmu from its source files. Don't worry, it's an easy process! To compile OpenEmu, please ensure that you are using the latest stable version of Xcode. You can follow [this guide](https://github.com/OpenEmu/OpenEmu/wiki/Compiling-From-Source-Guide) if you do not know how to compile OpenEmu.
+### Bugs and Support
+Please first read the [contributing guide](https://github.com/OpenEmu/OpenEmu/blob/master/CONTRIBUTING.md) before you report bugs and other issues on the [GitHub issue tracker](https://github.com/OpenEmu/OpenEmu/issues) or on IRC ([#openemu @ Freenode](http://webchat.freenode.net/?channels=openemu)).
 
 ### Supported Systems
 System | Cores
@@ -77,6 +77,5 @@ Please see [this page](https://github.com/OpenEmu/OpenEmu/wiki/Console---Core-Pl
 * If using a Wiimote or Wii U Pro controller, please go to the Controller preferences, select "Add a Wiimote" from the Input box and follow the pairing directions.
 * You can use Joypad Connect to connect your iPhone as a controller.
 
-### Bugs and Support
-
-Please first read the [contributing guide](https://github.com/OpenEmu/OpenEmu/blob/master/CONTRIBUTING.md) before you report bugs and other issues on the [GitHub issue tracker](https://github.com/OpenEmu/OpenEmu/issues) or on IRC ([#openemu @ Freenode](http://webchat.freenode.net/?channels=openemu)).
+### Compiling from Source
+It is also possible to compile OpenEmu from its source files. Don't worry, it's an easy process! To compile OpenEmu, please ensure that you are using the latest stable version of Xcode. You can follow [this guide](https://github.com/OpenEmu/OpenEmu/wiki/Compiling-From-Source-Guide) if you do not know how to compile OpenEmu.
