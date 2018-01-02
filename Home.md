@@ -46,8 +46,6 @@ System | Cores
 
 \* Default core
 
-Please see [this page](https://github.com/OpenEmu/OpenEmu/wiki/Console---Core-Plugin-Status-&-Wishlist) for an extensive list of systems and emulators that are planned for a future date. Some of the emulators in that list are currently usable!
-
 ### Automap Supported Controllers
 * [[PlayStation 3 DualShock 3|User-guide:-DualShock-Controller-Pairing]]
 * [[PlayStation 4 DualShock 4|User-guide:-DualShock-Controller-Pairing]]
