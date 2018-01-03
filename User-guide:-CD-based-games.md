@@ -153,7 +153,8 @@ Example:
     Chrono Cross (USA) (Disc 1).cue
     Chrono Cross (USA) (Disc 2).cue
     ```
-![screen shot 2015-05-17 at 6 41 52 pm](https://cloud.githubusercontent.com/assets/1303132/7672776/71744a82-fcc4-11e4-983a-4918553460d2.png)\
+![screen shot 2015-05-17 at 6 41 52 pm](https://cloud.githubusercontent.com/assets/1303132/7672776/71744a82-fcc4-11e4-983a-4918553460d2.png)
+
 3. **IMPORTANT** — Save the file as **plain text** (if using TextEdit, select "Make Plain Text" from the Format menu) with a .m3u extension, for example ``Chrono Cross (USA).m3u``
 
 4. Import only the `.m3u` file into your library as normal and the cue sheets will be automatically imported. It will appear in your PlayStation library and you can load it.
