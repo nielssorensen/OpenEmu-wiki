@@ -12,6 +12,7 @@
 * [[User guide: Transfer Save Files]]
 * [[User guide: DualShock Controller Pairing]]
 * [[User guide: Wiimote and Wii U Pro pairing]]
+* [[User Guide: Importing Save Games from Consoles]]
 
 ### Troubleshooting
 
