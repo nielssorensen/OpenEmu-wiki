@@ -1,4 +1,4 @@
-Using the guide below, we will try and walk you through the steps required to download and compile the OpenEmu application from source. You will need a Mac running the latest stable version of Xcode. Instructions for downloading Xcode are provided below.
+Using the guide below, we will try and walk you through the steps required to download and compile the OpenEmu application from source. You will need a Mac running the latest stable version of [Xcode](https://itunes.apple.com/us/app/xcode/id497799835?mt=12).
 
 If you have used earlier OpenEmu versions, please see [Cleaning Up Previous Versions](https://github.com/OpenEmu/OpenEmu/wiki/Compiling-From-Source-Guide#cleaning-up-previous-versions) at the bottom **before** compiling OpenEmu.
 
@@ -27,14 +27,14 @@ The compiled OpenEmu.app binary is located in the default DerivedData path, `~/L
 
 To get the core plugins, change `"OpenEmu"` to `"Build All"`
 
-To get the 'experimental' core plugins, which includes extra work-in-progress cores, change `"OpenEmu"` to `"Build All + Experimental"`
+To get the 'experimental' core plugins, change `"OpenEmu"` to `"Build All + Experimental"`
 
 ## Visual Install Guide (Easy mode)
 ### Step 1
 
 Download and install the latest version of [Xcode](https://itunes.apple.com/us/app/xcode/id497799835?mt=12) from the Mac App Store.
 
-<img src="http://i.imgur.com/ANBasPk.jpg" alt="Xcode on The Mac App Store" width="1352">
+<img src="https://i.imgur.com/N5oyW28.png" alt="Xcode on The Mac App Store" width="1352">
 
 ### Step 2
 
