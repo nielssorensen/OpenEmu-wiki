@@ -28,3 +28,15 @@
 6. Go to OpenEmu > Preferences > Library, click "Reset warnings"
 
 7. Open your game and click "No" if prompted to "Continue where you left off"
+
+### PSP: Transfer save file from the PSP memory stick to OpenEmu
+
+1. Connect the PSP to your Mac via USB and browse to `PSP/SAVEDATA` in Finder.
+
+2. Each save file is present in a folder with a unique name. In order to find your specific games, you may want to browse the individual folders and look at the icons (.png and .ico files). These files may also include replay data. Copy the folders you want.
+
+3. Navigate to the folder `~/Library/Application Support/OpenEmu/PPSSPP/PSP/SAVEDATA/` (~ meaning your Home folder where ~ is your username. See the [guide here](http://osxdaily.com/2016/12/12/show-user-library-folder-macos-sierra/) if you don't know this). Paste the folders here.
+
+4. Launch OpenEmu, go to OpenEmu > Preferences > Library, click "Reset warnings"
+
+5. Open your game and click "No" if prompted to "Continue where you left off"
