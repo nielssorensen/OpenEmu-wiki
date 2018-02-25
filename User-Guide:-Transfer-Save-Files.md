@@ -6,7 +6,7 @@
 
 3. Copy the \<ROM name>.**sav2** save file to the folder `~/Library/Application Support/OpenEmu/mGBA/Battery Saves`
 
-4. Rename the copied \<ROM name>.**sav2** in the `.../mGBA/Battery Saves` folder to \<ROM name>.**sav**
+4. Right click on the copied \<ROM name>.**sav2** in the `.../mGBA/Battery Saves` folder and select Get Info. From the "Name & Extension" section, rename the file extension from `.sav2` to `.sav`, resulting in \<ROM name>.**sav**
 
 5. ~Launch OpenEmu, go to the Library sidebar, right click on "Game Boy Advance" > Default Core, and select mGBA~
 
@@ -21,7 +21,7 @@
 
 3. Copy the \<ROM name>.sav save file to the folder `~/Library/Application Support/OpenEmu/Higan/Super Famicom/<ROM filename>`
 
-4. Rename the copied \<ROM name>.sav in the `.../Higan/Super Famicom/<ROM filename>` folder to save.ram
+4. Right click on the copied \<ROM name>.sav in the `.../Higan/Super Famicom/<ROM filename>` folder and select Get Info. From the "Name & Extension" section, rename the file to **save.ram**
 
 5. Launch OpenEmu, go to the Library sidebar, right click on "Super Nintendo" > Default Core, and select Higan
 
