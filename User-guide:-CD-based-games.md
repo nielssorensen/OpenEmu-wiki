@@ -141,7 +141,7 @@ FILE "filename.iso" BINARY
 ![Text Edit](http://i.imgur.com/VP2L4N5.png)
 
 ### Q. I have a multi-disc game
-You need to create a `.m3u` file containing the filenames of all the cue sheets for the game. The file **must be saved in a folder together with all the cue sheets and their associated files** in order for them to be automatically imported. Also, the cue sheets for the game must not already be pre-imported in your library. **Note: Sega CD is not supported.**
+You need to create a `.m3u` file containing the filenames of all the cue sheets for the game. The file **must be saved in a folder together with all the cue sheets and their associated files** in order for them to be automatically imported. Also, the cue sheets for the game must not already be pre-imported in your library. **Note: Mega CD/Sega CD is not supported.**
 
 Example:
 
