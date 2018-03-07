@@ -32,7 +32,7 @@ Below is a list of options in the Secrets tab (descriptions coming soon):
 * Show autosave in menu
 * Use quick save slots
 * Take screenshots in native size
-* Disable aspect ratio correction
+* Disable aspect ratio correction in screenshots
 
 -----
 
