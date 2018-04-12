@@ -50,8 +50,8 @@ System | Cores
 * [[PlayStation 3 DualShock 3|User-guide:-DualShock-Controller-Pairing]]
 * [[PlayStation 4 DualShock 4|User-guide:-DualShock-Controller-Pairing]]
 * Nintendo Switch Pro Controller
-* Nintendo Wiimote
-* Nintendo Wii U Pro
+* [[Nintendo Wiimote|User-guide:-Wiimote-and-Wii-U-Pro-pairing]]
+* [[Nintendo Wii U Pro|User-guide:-Wiimote-and-Wii-U-Pro-pairing]]
 * Xbox 360 *(driver required)*
 * SteelSeries Nimbus
 * SteelSeries Stratus XL
