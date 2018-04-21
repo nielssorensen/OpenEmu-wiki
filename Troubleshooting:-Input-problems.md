@@ -14,7 +14,6 @@ The following applications are commonly found to interfere with input and should
 * DOSBox
 * Terminal (Secure Keyboard Entry)
 * iTerm2
-* Karabiner-Elements
 * Keybase.io
 * Webroot Antivirus (Secure Keyboard Entry)
 
