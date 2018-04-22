@@ -63,6 +63,7 @@ Feel free to port these.
 * Amiga & CD32 (http://fengestad.no/wp/fs-uae)
 * Amstrad CPC (http://sourceforge.net/projects/caprice32/)
 * Atari ST (http://hg.tuxfamily.org/mercurialroot/hatari/hatari)
+* Daphne, Hypseus (https://github.com/DavidGriffith/daphne, https://github.com/Shmoopty/daphne-pi, https://github.com/btolab/hypseus)
 * Nintendo 3DS (https://github.com/citra-emu/citra)
 * PC-98 (http://www.yui.ne.jp/np2/)
 * PlayStation with video upscaling (https://pcsxr.codeplex.com or http://www.epsxe.com) 
