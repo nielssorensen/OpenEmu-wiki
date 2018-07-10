@@ -4,7 +4,7 @@
 
 There are circumstances in which open applications, installed software or certain hardware usage can cause interference<sup>[*](#interference)</sup> with gamepad and keyboard input in OpenEmu. Please see each section below for details of possible problems and solutions.
 
-<a name="interference">*</a> This is because OpenEmu handles input differently than most applications, due to our special nature of responding to both keyboard and HID events while a game is running. Keyboard events, especially, are handled at a lower level - not through Cocoa but through IOKit - so often times other applications running can cause interference.
+<a name="interference">*</a> This is because OpenEmu handles input differently than most applications, due to our special nature of responding to both keyboard and HID events while a game is running. Keyboard events, especially, are handled at a lower level - not through Cocoa but through IOKit - so often times other applications running can cause interference, possibly if they have opened an IOHIDDevice with exclusive access (`kIOHIDOptionsTypeSeizeDevice`).
 
 ### Applications
 
