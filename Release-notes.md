@@ -1,3 +1,7 @@
+#### 2.0.7 — Sep 19, 2018
+
+[Release notes](http://openemu.org/rnotes/2.0.7.html)
+
 #### 2.0.6.1 — Dec 19, 2017
 
 [Release notes](http://openemu.org/rnotes/2.0.6.html)
