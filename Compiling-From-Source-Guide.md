@@ -1,11 +1,11 @@
-Using the guide below, we will try and walk you through the steps required to download and compile the OpenEmu application from source. You will need a Mac running the latest stable version of [Xcode](https://itunes.apple.com/us/app/xcode/id497799835?mt=12).
+Using the guide below, we will try and walk you through the steps required to download and compile the OpenEmu application from source. You will need a Mac running the latest version of [Xcode 10](https://itunes.apple.com/us/app/xcode/id497799835?mt=12).
 
 If you have used earlier OpenEmu versions, please see [Cleaning Up Previous Versions](https://github.com/OpenEmu/OpenEmu/wiki/Compiling-From-Source-Guide#cleaning-up-previous-versions) at the bottom **before** compiling OpenEmu.
 
 ## Command Line Install Guide (Advanced users)
 Not afraid of the command line? Follow this guide if you already have Xcode or Command Line Tools and want to clone and compile via terminal. Otherwise, please follow the [Visual Install Guide](https://github.com/OpenEmu/OpenEmu/wiki/Compiling-From-Source-Guide#visual-install-guide-easy-mode).
 
-Alternatively, you can easily install the necessary Command Line Tools by following [this guide](http://www.computersnyou.com/2025/). Xcode is still necessary for successful compilation.
+Alternatively, you can easily install the necessary Command Line Tools by following [this guide](http://www.computersnyou.com/2025/). Xcode 10 is still necessary for successful compilation.
 
 ### SSH Keys
 Please follow [this guide](https://help.github.com/articles/generating-ssh-keys) to setup secure authentication with GitHub's servers otherwise you may receive an error similar to this one:
@@ -32,7 +32,7 @@ To get the 'experimental' core plugins, change `"OpenEmu"` to `"Build All + Expe
 ## Visual Install Guide (Easy mode)
 ### Step 1
 
-Download and install the latest version of [Xcode](https://itunes.apple.com/us/app/xcode/id497799835?mt=12) from the Mac App Store.
+Download and install the latest version of [Xcode 10](https://itunes.apple.com/us/app/xcode/id497799835?mt=12) from the Mac App Store.
 
 <img src="https://i.imgur.com/N5oyW28.png" alt="Xcode on The Mac App Store" width="1352">
 
