@@ -17,6 +17,13 @@ fatal: Could not read from remote repository.
 Please make sure you have the correct access rights and the repository exists.
 Clone of 'git@github.com:OpenEmu/BSNES-Core.git' into submodule path 'BSNES' failed
 ```
+
+Alternatively you can force git to use HTTPS when talking to GitHub by typing the following command into your command line.
+```
+git config --global url."https://github.com".insteadOf git://github.com
+```
+For more information on what this does see the [Git documentation](https://git-scm.com/docs/git-config#git-config-urlltbasegtinsteadOf).
+
 ### Cloning & Compiling
 ```
 git clone --recursive https://github.com/OpenEmu/OpenEmu.git
