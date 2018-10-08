@@ -1,3 +1,1 @@
-
-***
-`### Great Footer`
+ 
