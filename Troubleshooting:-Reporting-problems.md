@@ -8,7 +8,7 @@
 
 ### Reporting Issues and Required Information
 
-* Search the [issues](https://github.com/OpenEmu/OpenEmu/issues) before opening a new one.
+* Search the [issues](https://github.com/OpenEmu/OpenEmu/issues?q=is%3Aissue) before opening a new one.
 * Do not open a duplicate issue if one or similar already exists. You can reply in closed issues, unless locked.
 * Do not comment with useless "+1", "👍", "me too", "bump" or "any update?" in issues &mdash; only add useful information.
 * Do not follow tutorials found on YouTube as they are often wrong.
