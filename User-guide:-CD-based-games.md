@@ -153,6 +153,7 @@ Example:
     Chrono Cross (USA) (Disc 1).cue
     Chrono Cross (USA) (Disc 2).cue
     ```
+**Note: For CloneCD rips, only add the `.ccd` filenames to the `.m3u` file.**
 ![screen shot 2015-05-17 at 6 41 52 pm](https://cloud.githubusercontent.com/assets/1303132/7672776/71744a82-fcc4-11e4-983a-4918553460d2.png)
 
 3. **IMPORTANT** — Save the file as **plain text** (if using TextEdit, select "Make Plain Text" from the Format menu) with a .m3u extension, for example ``Chrono Cross (USA).m3u``
