@@ -1,1 +1,0 @@
-Please make it possible to play old retro Game & Watch game inb OpenEmu
