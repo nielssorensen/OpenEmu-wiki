@@ -24,7 +24,7 @@ Console | Cheat type | Example code
 --- | --- | ---
 Game Boy | Game Genie | FA1-B9C-4C1
 Game Boy (Color) | GameShark | 0101CEC1
-Game Boy Advance | GameShark Advance/Action Replay (v1/v2) | CD93194F 089CE0B4
+Game Boy Advance | GameShark Advance/<br>Action Replay (v1/v2) | CD93194F 089CE0B4
 Game Boy Advance | Action Replay MAX (v3/v4) | 4E26D7A1 6D72DA8B
 Game Boy Advance | Codebreaker/GameShark SP/Xploder | A62B1D67EB2D
 Game Gear | Action Replay | 00D159:98
