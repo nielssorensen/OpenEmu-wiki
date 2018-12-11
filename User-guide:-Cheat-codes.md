@@ -18,102 +18,28 @@ In the dialogue that opens, you can enter a name for the cheat (to identify it i
 
 ![Add Cheat dialogue](http://i.imgur.com/6nQUt58.png)
 
-The following table shows a non-exhaustive list of common code types:
+The following table shows a list of supported code types:
 
-<table>
-
-<tr>
-<th>Console</th>
-<th>Cheat type</th>
-<th>Example code</th>
-</tr>
-
-<tr>
-<td>Famicom / NES</td>
-<td>Action Replay</td>
-<td>02A2:01</td>
-</tr>
-
-<tr>
-<td>Famicom / NES</td>
-<td>Game Genie</td>
-<td>APEETPEY</td>
-</tr>
-
-<tr>
-<td>Game Boy</td>
-<td>Game Genie</td>
-<td>FA1-B9C-4C1</td>
-</tr>
-
-<tr>
-<td>Game Boy (Color)</td>
-<td>GameShark</td>
-<td>0101CEC1</td>
-</tr>
-
-<tr>
-<td>Game Boy Advance</td>
-<td>GameShark v3</td>
-<td>CD93194F 089CE0B4</td>
-</tr>
-
-<tr>
-<td>Game Boy Advance</td>
-<td>GameShark v1/v2</td>
-<td>A62B1D67 EB2D</td>
-</tr>
-
-<tr>
-<td>Game Gear</td>
-<td>Action Replay</td>
-<td>00D3-C280</td>
-</tr>
-
-<tr>
-<td>Mega Drive / Genesis</td>
-<td>Action Replay</td>
-<td>FFFE21:0032</td>
-</tr>
-
-<tr>
-<td>Mega Drive / Genesis</td>
-<td>Game Genie</td>
-<td>NN8A-AADN</td>
-</tr>
-
-<tr>
-<td>N64</td>
-<td>GameShark</td>
-<td>8033B177 0015</td>
-</tr>
-
-<tr>
-<td>NDS</td>
-<td>Action Replay</td>
-<td>22085A50 00000001</td>
-</tr>
-
-
-<tr>
-<td>Sega Master System</td>
-<td>Action Replay</td>
-<td>00C0-2502</td>
-</tr>
-
-<tr>
-<td>Super Famicom / SNES</td>
-<td>Action Replay</td>
-<td>7E1490:FF</td>
-</tr>
-
-<tr>
-<td>Super Famicom / SNES</td>
-<td>Game Genie</td>
-<td>14B4-6F07</td>
-</tr>
-
-</table>
+Console | Cheat type | Example code
+--- | --- | ---
+Game Boy | Game Genie | FA1-B9C-4C1
+Game Boy (Color) | GameShark | 0101CEC1
+Game Boy Advance | GameShark Advance/Action Replay (v1/v2) | CD93194F 089CE0B4
+Game Boy Advance | Action Replay MAX (v3/v4) | 4E26D7A1 6D72DA8B
+Game Boy Advance | Codebreaker/GameShark SP/Xploder | A62B1D67EB2D
+Game Gear | Action Replay | 00D159:98
+Game Gear | Game Genie | 3A7-E4C-2A2
+Nintendo (NES) / Famicom | Game Genie | APEETPEY
+Nintendo (NES) / Famicom | Raw | C900:ED
+Nintendo (NES) / Famicom | Raw (with compare) | 810E?F0:10
+Nintendo 64 | GameShark | 8033B177 0015
+Nintendo DS | Action Replay | 22085A50 00000001
+Sega Genesis / Mega Drive<br>Sega CD / Mega CD | Action Replay | FFFE21:0032
+Sega Genesis / Mega Drive<br>Sega CD / Mega CD | Game Genie | NN8A-AADN
+Sega Master System | Action Replay | 00C094:01
+Sega Master System | Game Genie | 00D-70F-E68
+Super Nintendo (SNES) | Action Replay | 7E1490:FF
+Super Nintendo (SNES) | Game Genie | 14B4-6F07
 
 For multi-line codes, use a plus (`+`) to separate each line. For example: `AVSOYOSZ+ELEAPOZE+AIEAZPAP`
 
