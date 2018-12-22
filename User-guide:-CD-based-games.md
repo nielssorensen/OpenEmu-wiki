@@ -115,30 +115,7 @@ It means you have a bad dump or the cue sheet is missing correct CDDA track info
 ### Q. I only have a single .BIN or .ISO file
 **It is strongly recommended to simply obtain another dump that is packaged properly.**
 
-It is necessary your game dump has an associated cue sheet because they are used to describe data and audio for the disc. However, if you are certain your game is single-track without CD Audio (CDDA), you may create your own cue sheet for your dump image file. Please note that this may not be a guaranteed solution!
-
-1. First open a new file in TextEdit and go to the Edit > Substitutions menu to **uncheck Smart Quotes**.
-2. Next, copy and paste in the cue sheet example text below and edit the "filename.iso" portion to match the name of your dump image file.
-3. Then, go to the Format menu and select **Make Plain Text**.
-4. Finally, save your new file in the same folder where your dump image file is located and name it to have the same filename: e.g. `filename.iso` and `filename.cue`.
-
-You should have what looks like below and can then follow the normal import procedure.
-
-**For PlayStation dumps**
-```
-FILE "filename.iso" BINARY
-  TRACK 01 MODE2/2352
-    INDEX 01 00:00:00
-
-```
-**For other systems**
-```
-FILE "filename.iso" BINARY
-  TRACK 01 MODE1/2352
-    INDEX 01 00:00:00
-
-```
-![Text Edit](http://i.imgur.com/VP2L4N5.png)
+This is considered a bad/incomplete dump. It is necessary your game dump has an associated cue sheet because they are used to describe data and audio for the disc. Attempting to create your own without knowing the layout of the disc and how it was dumped, especially for a game that uses CD Audio (CDDA), will only result in problems.
 
 ### Q. I have a multi-disc game
 You need to create a `.m3u` file containing the filenames of all the cue sheets for the game. The file **must be saved in a folder together with all the cue sheets and their associated files** in order for them to be automatically imported. Also, the cue sheets for the game must not already be pre-imported in your library. **Note: Mega CD/Sega CD is not supported.**
