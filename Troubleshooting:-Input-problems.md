@@ -15,6 +15,7 @@ The following applications are commonly found to interfere with input and should
 * Terminal (Secure Keyboard Entry)
 * iTerm2
 * Keybase.io
+* Steam (Note: Reconnect your device after closing)
 * Webroot Antivirus (Secure Keyboard Entry)
 
 ### Keyboard and Gamepad modifier apps
