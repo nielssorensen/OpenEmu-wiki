@@ -45,6 +45,9 @@ French     | fr | Done / Review         | @cyril634
 Italian    | it | Done                  | @shysaur
 Dutch      | nl | Done / Review         | [Dylan Meysmans (@mettekou)](https://github.com/mettekou)
 Catalan    | ca | Done                  | [Pere Orga (@pereorga)](https://github.com/pereorga)
+Japanese | ja | Done?       | [Kota Ura (@kotaura)](https://github.com/kotaura)
+Chinese (Simplified)   | zh-Hans | Done      | [King Chung (@unbored)](https://github.com/unbored)
+Chinese (Traditional)   | zh-Hant | Done       | [Tzeng Yuxio (@tzengyuxio)](https://github.com/tzengyuxio)
 | | |
 | | |
 Afrikaans   | af |     |
@@ -61,7 +64,6 @@ Breton      | br |     |
 Bulgarian   | bg |     |
 Burmese     | my |     |
 Byelorussian | be |    |
-Chinese   | zh |       |
 Croatian | hr |        |
 Czech | cs |           |
 Danish | da |          |
@@ -84,7 +86,6 @@ Icelandic | is |       |
 Indonesian | id |      |
 Inuktitut | iu |       |
 Irish | ga |           |
-Japanese | ja |        |
 Javanese | jv |        |
 Kannada | kn |         |
 Kashmiri | ks |        |
